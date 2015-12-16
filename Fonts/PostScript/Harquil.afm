@@ -1,0 +1,95 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 2 0 0 2 0 4
+FullName Harquil
+FontName Harquil
+FamilyName Harquil
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -6 -241 1374 812
+Ascender 783
+Descender -223
+XHeight 587
+CapHeight 812
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 240
+StdVW 135
+EncodingScheme FontSpecific
+StartCharMetrics 74
+C 32 ; WX 492 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 282 ; N exclam ; B 12 -94 268 781 ;
+C 39 ; WX 231 ; N quotesingle ; B 11 478 219 789 ;
+C 44 ; WX 237 ; N comma ; B 11 -166 228 145 ;
+C 45 ; WX 381 ; N hyphen ; B 17 210 371 381 ;
+C 46 ; WX 258 ; N period ; B 14 -79 238 69 ;
+C 48 ; WX 705 ; N zero ; B 11 -25 681 790 ;
+C 49 ; WX 351 ; N one ; B 23 -185 336 790 ;
+C 50 ; WX 681 ; N two ; B 14 -31 666 795 ;
+C 51 ; WX 642 ; N three ; B -2 -60 627 792 ;
+C 52 ; WX 657 ; N four ; B 6 -159 639 792 ;
+C 53 ; WX 669 ; N five ; B 24 -50 651 783 ;
+C 54 ; WX 684 ; N six ; B 9 -129 663 786 ;
+C 55 ; WX 687 ; N seven ; B 26 -140 663 785 ;
+C 56 ; WX 660 ; N eight ; B 14 -17 639 788 ;
+C 57 ; WX 660 ; N nine ; B 11 -144 639 789 ;
+C 58 ; WX 243 ; N colon ; B 5 4 234 430 ;
+C 59 ; WX 270 ; N semicolon ; B 11 -158 249 375 ;
+C 63 ; WX 606 ; N question ; B 6 -84 575 723 ;
+C 65 ; WX 1000 ; N A ; B 17 -213 990 789 ;
+C 66 ; WX 810 ; N B ; B 8 -190 770 789 ;
+C 67 ; WX 762 ; N C ; B 8 -181 723 795 ;
+C 68 ; WX 876 ; N D ; B 5 -179 843 797 ;
+C 69 ; WX 747 ; N E ; B 15 -170 715 792 ;
+C 70 ; WX 621 ; N F ; B 8 -189 591 792 ;
+C 71 ; WX 888 ; N G ; B 17 -37 837 783 ;
+C 72 ; WX 834 ; N H ; B 3 -148 801 812 ;
+C 73 ; WX 339 ; N I ; B 11 -2 315 786 ;
+C 74 ; WX 640 ; N J ; B 11 -189 597 798 ;
+C 75 ; WX 780 ; N K ; B 11 -151 760 796 ;
+C 76 ; WX 624 ; N L ; B 17 -145 590 795 ;
+C 77 ; WX 1275 ; N M ; B 32 -160 1260 817 ;
+C 78 ; WX 825 ; N N ; B 20 -205 780 799 ;
+C 79 ; WX 1044 ; N O ; B 29 -177 1017 784 ;
+C 80 ; WX 771 ; N P ; B 17 -192 726 786 ;
+C 81 ; WX 903 ; N Q ; B 11 -198 864 789 ;
+C 82 ; WX 816 ; N R ; B 7 -181 802 792 ;
+C 83 ; WX 726 ; N S ; B -6 -156 689 792 ;
+C 84 ; WX 825 ; N T ; B 11 -190 789 786 ;
+C 85 ; WX 759 ; N U ; B 14 -121 729 792 ;
+C 86 ; WX 1000 ; N V ; B 15 -183 986 788 ;
+C 87 ; WX 1410 ; N W ; B 15 -186 1374 773 ;
+C 88 ; WX 903 ; N X ; B 29 -183 867 789 ;
+C 89 ; WX 852 ; N Y ; B 8 -191 817 783 ;
+C 90 ; WX 840 ; N Z ; B 11 -143 795 786 ;
+C 97 ; WX 588 ; N a ; B 6 -3 558 550 ;
+C 98 ; WX 615 ; N b ; B 20 2 581 746 ;
+C 99 ; WX 525 ; N c ; B 17 23 483 582 ;
+C 100 ; WX 543 ; N d ; B 14 29 509 783 ;
+C 101 ; WX 486 ; N e ; B 17 2 469 536 ;
+C 102 ; WX 474 ; N f ; B 17 -117 446 739 ;
+C 103 ; WX 513 ; N g ; B 2 -205 501 508 ;
+C 104 ; WX 552 ; N h ; B 12 -99 525 765 ;
+C 105 ; WX 204 ; N i ; B 3 6 183 768 ;
+C 106 ; WX 306 ; N j ; B 23 -205 291 771 ;
+C 107 ; WX 522 ; N k ; B 3 -42 521 752 ;
+C 108 ; WX 237 ; N l ; B 11 -3 209 774 ;
+C 109 ; WX 807 ; N m ; B 11 -85 771 561 ;
+C 110 ; WX 549 ; N n ; B 11 -107 528 559 ;
+C 111 ; WX 591 ; N o ; B 11 -3 566 567 ;
+C 112 ; WX 573 ; N p ; B 8 -218 552 551 ;
+C 113 ; WX 570 ; N q ; B 11 -223 533 551 ;
+C 114 ; WX 399 ; N r ; B 8 -3 365 575 ;
+C 115 ; WX 369 ; N s ; B 14 -207 333 562 ;
+C 116 ; WX 348 ; N t ; B 8 -43 321 653 ;
+C 117 ; WX 603 ; N u ; B 14 -4 569 593 ;
+C 118 ; WX 600 ; N v ; B 5 -5 570 587 ;
+C 119 ; WX 801 ; N w ; B 8 -1 781 567 ;
+C 120 ; WX 624 ; N x ; B 8 -62 608 541 ;
+C 121 ; WX 600 ; N y ; B 17 -242 578 511 ;
+C 122 ; WX 507 ; N z ; B 8 -4 495 534 ;
+C 160 ; WX 492 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 492 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

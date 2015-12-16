@@ -1,0 +1,80 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 4 2 0 0 2 0 4
+FullName HERALD
+FontName HERALD
+FamilyName HERALD
+Weight normal
+Notice Copyright 1993, David F. Nalle                                                   Heraldry v 1.0 -- Scriptorium Font Library
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -217 1470 910
+Ascender 825
+Descender -12
+XHeight 824
+CapHeight 833
+UnderlinePosition -116
+UnderlineThickness 17
+StdHW 23
+StdVW 37
+EncodingScheme FontSpecific
+StartCharMetrics 58
+C 32 ; WX 435 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 870 ; N A ; B 87 -3 785 826 ;
+C 66 ; WX 870 ; N B ; B 85 -5 782 833 ;
+C 67 ; WX 870 ; N C ; B 77 0 786 822 ;
+C 68 ; WX 870 ; N D ; B 70 -5 790 827 ;
+C 69 ; WX 870 ; N E ; B 71 2 800 828 ;
+C 70 ; WX 870 ; N F ; B 66 -8 810 829 ;
+C 71 ; WX 870 ; N G ; B 57 3 805 839 ;
+C 72 ; WX 870 ; N H ; B 69 -18 803 827 ;
+C 73 ; WX 870 ; N I ; B 63 -8 797 826 ;
+C 74 ; WX 870 ; N J ; B 76 -15 802 826 ;
+C 75 ; WX 870 ; N K ; B 68 -19 792 827 ;
+C 76 ; WX 870 ; N L ; B 73 -3 806 828 ;
+C 77 ; WX 870 ; N M ; B 68 -3 799 824 ;
+C 78 ; WX 870 ; N N ; B 53 -11 820 833 ;
+C 79 ; WX 870 ; N O ; B 74 2 796 837 ;
+C 80 ; WX 870 ; N P ; B 70 -2 810 823 ;
+C 81 ; WX 870 ; N Q ; B 77 -2 810 823 ;
+C 82 ; WX 870 ; N R ; B 72 -11 802 826 ;
+C 83 ; WX 870 ; N S ; B 54 -14 809 823 ;
+C 84 ; WX 870 ; N T ; B 70 -6 801 823 ;
+C 85 ; WX 870 ; N U ; B 71 -6 802 830 ;
+C 86 ; WX 870 ; N V ; B 68 -6 804 827 ;
+C 87 ; WX 870 ; N W ; B 76 -9 800 823 ;
+C 88 ; WX 870 ; N X ; B 61 -5 797 819 ;
+C 89 ; WX 870 ; N Y ; B 78 -14 799 829 ;
+C 90 ; WX 870 ; N Z ; B 75 -12 805 827 ;
+C 97 ; WX 870 ; N a ; B 72 -17 805 819 ;
+C 98 ; WX 870 ; N b ; B 70 -3 810 823 ;
+C 99 ; WX 870 ; N c ; B 72 -3 796 828 ;
+C 100 ; WX 870 ; N d ; B 74 -4 799 825 ;
+C 101 ; WX 870 ; N e ; B 74 4 798 829 ;
+C 102 ; WX 870 ; N f ; B 70 -19 813 822 ;
+C 103 ; WX 870 ; N g ; B 68 -18 821 821 ;
+C 104 ; WX 870 ; N h ; B 61 -16 811 830 ;
+C 105 ; WX 870 ; N i ; B 77 -8 798 826 ;
+C 106 ; WX 870 ; N j ; B 79 -20 812 825 ;
+C 107 ; WX 870 ; N k ; B 81 -7 795 823 ;
+C 108 ; WX 870 ; N l ; B 58 3 806 823 ;
+C 109 ; WX 870 ; N m ; B 83 2 822 832 ;
+C 110 ; WX 870 ; N n ; B 58 -12 816 822 ;
+C 111 ; WX 870 ; N o ; B 68 4 812 829 ;
+C 112 ; WX 870 ; N p ; B 77 -12 809 816 ;
+C 113 ; WX 870 ; N q ; B 58 -3 790 831 ;
+C 114 ; WX 870 ; N r ; B 73 -12 800 826 ;
+C 115 ; WX 870 ; N s ; B 64 0 803 825 ;
+C 116 ; WX 870 ; N t ; B 77 -3 812 823 ;
+C 117 ; WX 870 ; N u ; B 77 -5 807 824 ;
+C 118 ; WX 870 ; N v ; B 77 -8 806 823 ;
+C 119 ; WX 870 ; N w ; B 58 -20 817 824 ;
+C 120 ; WX 870 ; N x ; B 56 -9 812 822 ;
+C 121 ; WX 870 ; N y ; B 59 -3 807 821 ;
+C 122 ; WX 870 ; N z ; B 70 -3 809 823 ;
+C 126 ; WX 870 ; N asciitilde ; B 5 -217 1470 910 ;
+C 160 ; WX 435 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 435 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 435 ; N _57 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

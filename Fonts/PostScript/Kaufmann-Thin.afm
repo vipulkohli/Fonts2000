@@ -1,0 +1,24 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 5 9 0 0 0 2 0 4
+FullName Kaufmann-Thin
+FontName Kaufmann-Thin
+FamilyName Kaufmann
+Weight normal
+Notice n
+IsFixedPitch true
+ItalicAngle 0.00
+FontBBox 0 0 0 0
+Ascender 640
+Descender -200
+XHeight 500
+CapHeight 700
+UnderlinePosition -100
+UnderlineThickness 50
+EncodingScheme FontSpecific
+StartCharMetrics 4
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

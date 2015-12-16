@@ -1,0 +1,142 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 4 0 0 2 0 3
+FullName ParisMetro
+FontName ParisMetro
+FamilyName ParisMetro
+Weight normal
+Notice ParisMetro © 1991 by David Rakowski.  Tous droites reservés.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -76 -166 1118 820
+Ascender 820
+Descender -200
+XHeight 500
+CapHeight 801
+UnderlinePosition -133
+UnderlineThickness 20
+StdVW 203
+EncodingScheme FontSpecific
+StartCharMetrics 59
+C 32 ; WX 350 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 308 ; N exclam ; B 36 -5 285 778 ;
+C 34 ; WX 484 ; N quotedbl ; B 26 483 458 775 ;
+C 38 ; WX 708 ; N ampersand ; B -76 -5 698 802 ;
+C 39 ; WX 256 ; N quotesingle ; B 26 483 238 775 ;
+C 40 ; WX 256 ; N parenleft ; B -1 -28 237 810 ;
+C 41 ; WX 256 ; N parenright ; B 10 -65 256 820 ;
+C 44 ; WX 276 ; N comma ; B 21 -144 269 222 ;
+C 45 ; WX 332 ; N hyphen ; B 27 318 306 466 ;
+C 46 ; WX 276 ; N period ; B 24 -13 261 227 ;
+C 48 ; WX 682 ; N zero ; B 11 0 719 800 ;
+C 49 ; WX 387 ; N one ; B 12 0 370 803 ;
+C 50 ; WX 590 ; N two ; B 10 -8 568 818 ;
+C 51 ; WX 603 ; N three ; B 21 -8 590 817 ;
+C 52 ; WX 660 ; N four ; B 30 0 630 800 ;
+C 53 ; WX 612 ; N five ; B 28 -8 597 807 ;
+C 54 ; WX 631 ; N six ; B -2 0 628 806 ;
+C 55 ; WX 577 ; N seven ; B 24 -8 607 818 ;
+C 56 ; WX 624 ; N eight ; B -25 -2 602 826 ;
+C 57 ; WX 617 ; N nine ; B 14 0 671 815 ;
+C 58 ; WX 284 ; N colon ; B 25 -4 254 621 ;
+C 59 ; WX 280 ; N semicolon ; B 20 -135 252 606 ;
+C 63 ; WX 564 ; N question ; B 14 -5 553 834 ;
+C 65 ; WX 670 ; N A ; B 10 0 640 800 ;
+C 66 ; WX 701 ; N B ; B 19 0 680 800 ;
+C 67 ; WX 694 ; N C ; B 7 -20 672 828 ;
+C 68 ; WX 715 ; N D ; B 20 0 715 870 ;
+C 69 ; WX 636 ; N E ; B 19 0 607 803 ;
+C 70 ; WX 589 ; N F ; B 16 -3 580 800 ;
+C 71 ; WX 682 ; N G ; B -6 -7 662 812 ;
+C 72 ; WX 666 ; N H ; B 30 -7 640 800 ;
+C 73 ; WX 300 ; N I ; B 39 0 260 800 ;
+C 74 ; WX 636 ; N J ; B 23 -15 607 800 ;
+C 75 ; WX 684 ; N K ; B 31 0 664 800 ;
+C 76 ; WX 628 ; N L ; B 24 0 580 803 ;
+C 77 ; WX 827 ; N M ; B 1 0 812 800 ;
+C 78 ; WX 651 ; N N ; B 13 -14 644 800 ;
+C 79 ; WX 734 ; N O ; B 15 0 718 829 ;
+C 80 ; WX 712 ; N P ; B 32 -11 688 805 ;
+C 81 ; WX 736 ; N Q ; B -15 -172 720 806 ;
+C 82 ; WX 704 ; N R ; B 36 -156 745 873 ;
+C 83 ; WX 642 ; N S ; B 13 -40 622 826 ;
+C 84 ; WX 712 ; N T ; B 30 -6 708 804 ;
+C 85 ; WX 665 ; N U ; B 37 -10 690 800 ;
+C 86 ; WX 694 ; N V ; B 32 0 707 804 ;
+C 87 ; WX 1140 ; N W ; B 52 0 1118 800 ;
+C 88 ; WX 723 ; N X ; B 12 -13 716 817 ;
+C 89 ; WX 692 ; N Y ; B 19 -4 687 800 ;
+C 90 ; WX 663 ; N Z ; B 0 0 657 800 ;
+C 160 ; WX 350 ; N space ; B 0 0 0 0 ;
+C 208 ; WX 528 ; N Eth ; B 17 322 507 469 ;
+C 209 ; WX 628 ; N Ntilde ; B 17 324 607 469 ;
+C 210 ; WX 480 ; N Ograve ; B 24 467 465 775 ;
+C 211 ; WX 510 ; N Oacute ; B 26 483 488 775 ;
+C 212 ; WX 260 ; N Ocircumflex ; B 24 467 237 775 ;
+C 213 ; WX 256 ; N Otilde ; B 26 483 238 775 ;
+C 225 ; WX 265 ; N aacute ; B 30 255 244 479 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 350 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 46
+KPX A O -20
+KPX A T -33
+KPX A V -40
+KPX A W -60
+KPX A Y -33
+
+KPX B O -13
+
+KPX F comma -182
+KPX F period -243
+KPX F A -93
+KPX F J -221
+KPX F O -53
+
+KPX L O -67
+KPX L Q -60
+KPX L T -209
+KPX L U -46
+KPX L V -114
+KPX L W -101
+KPX L Y -181
+
+KPX O comma -80
+KPX O period -80
+KPX O A -26
+KPX O T -33
+KPX O V -60
+KPX O W -73
+KPX O X -74
+
+KPX P comma -222
+KPX P period -229
+KPX P A -73
+KPX P J -160
+
+KPX R A -67
+KPX R O -33
+
+KPX T comma -182
+KPX T period -188
+KPX T A -60
+KPX T J -182
+KPX T O -53
+
+KPX V comma -80
+KPX V period -94
+KPX V A -47
+
+KPX W comma -121
+KPX W period -128
+KPX W A -53
+
+KPX X O -47
+
+KPX Y comma -134
+KPX Y period -148
+KPX Y A -67
+
+EndKernPairs
+EndKernData
+EndFontMetrics

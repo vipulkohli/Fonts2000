@@ -1,0 +1,48 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 9 0 0 2 0 4
+FullName HorstCaps
+FontName HorstCaps
+FamilyName HorstCaps
+Weight normal
+Notice Horst Caps © 1990 by David Rakowski.  Alle Rechte Vorhalten. Distributed free of charge.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -2 -128 1085 840
+Ascender 1000
+Descender -200
+XHeight 500
+CapHeight 838
+UnderlinePosition -100
+UnderlineThickness 50
+StdVW 97
+EncodingScheme FontSpecific
+StartCharMetrics 27
+C 32 ; WX 444 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 727 ; N A ; B 22 -9 704 836 ;
+C 66 ; WX 683 ; N B ; B 6 -22 675 849 ;
+C 67 ; WX 686 ; N C ; B -2 0 671 861 ;
+C 68 ; WX 753 ; N D ; B 16 -9 742 865 ;
+C 69 ; WX 783 ; N E ; B 36 0 753 854 ;
+C 70 ; WX 745 ; N F ; B 34 0 711 847 ;
+C 71 ; WX 648 ; N G ; B 20 -6 628 844 ;
+C 72 ; WX 715 ; N H ; B 47 -98 691 902 ;
+C 74 ; WX 675 ; N J ; B 39 -131 644 823 ;
+C 75 ; WX 895 ; N K ; B 38 -131 949 843 ;
+C 76 ; WX 728 ; N L ; B 32 -8 695 857 ;
+C 77 ; WX 1137 ; N M ; B 44 -21 1085 868 ;
+C 78 ; WX 801 ; N N ; B 37 -35 771 861 ;
+C 79 ; WX 684 ; N O ; B 31 -43 653 860 ;
+C 80 ; WX 794 ; N P ; B 23 -5 803 854 ;
+C 81 ; WX 815 ; N Q ; B 24 -50 786 861 ;
+C 82 ; WX 828 ; N R ; B 35 0 791 871 ;
+C 83 ; WX 618 ; N S ; B 28 -24 599 842 ;
+C 84 ; WX 752 ; N T ; B 34 -28 734 833 ;
+C 85 ; WX 613 ; N U ; B 6 -30 590 833 ;
+C 86 ; WX 721 ; N V ; B 33 -2 722 842 ;
+C 87 ; WX 977 ; N W ; B 44 -4 978 841 ;
+C 90 ; WX 786 ; N Z ; B 31 0 753 849 ;
+C 160 ; WX 444 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 444 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

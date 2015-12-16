@@ -1,0 +1,195 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 9 0 0 2 0 4
+FullName PIFEO
+FontName PIFEO
+FamilyName PIFEO
+Weight normal
+Notice Pixie v 1.0 by David Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -240 -287 967 729
+Ascender 642
+Descender -287
+XHeight 441
+CapHeight 668
+UnderlinePosition -111
+UnderlineThickness 17
+StdHW 55
+StdVW 144
+EncodingScheme FontSpecific
+StartCharMetrics 96
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 36 ; WX 363 ; N dollar ; B 17 -107 346 560 ;
+C 38 ; WX 610 ; N ampersand ; B 23 0 578 533 ;
+C 39 ; WX 253 ; N quotesingle ; B 37 454 223 654 ;
+C 40 ; WX 210 ; N parenleft ; B 28 -70 247 729 ;
+C 41 ; WX 217 ; N parenright ; B -14 -71 191 729 ;
+C 44 ; WX 253 ; N comma ; B 37 -72 223 127 ;
+C 45 ; WX 233 ; N hyphen ; B 37 306 210 386 ;
+C 46 ; WX 205 ; N period ; B 16 -1 195 129 ;
+C 48 ; WX 691 ; N zero ; B 31 0 659 666 ;
+C 49 ; WX 388 ; N one ; B 17 -1 371 667 ;
+C 50 ; WX 458 ; N two ; B 21 0 437 666 ;
+C 51 ; WX 508 ; N three ; B 23 0 486 667 ;
+C 52 ; WX 604 ; N four ; B 27 3 576 667 ;
+C 53 ; WX 493 ; N five ; B 23 0 471 666 ;
+C 54 ; WX 578 ; N six ; B 26 0 550 667 ;
+C 55 ; WX 467 ; N seven ; B 23 0 446 666 ;
+C 56 ; WX 583 ; N eight ; B 26 0 555 666 ;
+C 57 ; WX 578 ; N nine ; B 26 0 551 666 ;
+C 58 ; WX 283 ; N colon ; B 35 42 245 491 ;
+C 59 ; WX 307 ; N semicolon ; B 34 -45 279 495 ;
+C 63 ; WX 566 ; N question ; B 26 0 540 667 ;
+C 65 ; WX 755 ; N A ; B 35 2 729 667 ;
+C 66 ; WX 718 ; N B ; B 32 0 685 664 ;
+C 67 ; WX 576 ; N C ; B 26 0 550 666 ;
+C 68 ; WX 711 ; N D ; B 31 3 678 666 ;
+C 69 ; WX 669 ; N E ; B 30 0 638 665 ;
+C 70 ; WX 607 ; N F ; B 27 2 579 663 ;
+C 71 ; WX 656 ; N G ; B 29 0 626 667 ;
+C 72 ; WX 717 ; N H ; B 32 2 684 667 ;
+C 73 ; WX 375 ; N I ; B 17 0 357 668 ;
+C 74 ; WX 528 ; N J ; B 24 0 504 667 ;
+C 75 ; WX 723 ; N K ; B 32 0 691 667 ;
+C 76 ; WX 522 ; N L ; B 23 0 498 667 ;
+C 77 ; WX 860 ; N M ; B 39 0 821 667 ;
+C 78 ; WX 706 ; N N ; B 32 0 673 666 ;
+C 79 ; WX 686 ; N O ; B 32 0 654 667 ;
+C 80 ; WX 625 ; N P ; B 28 -1 597 661 ;
+C 81 ; WX 657 ; N Q ; B 19 -201 638 662 ;
+C 82 ; WX 773 ; N R ; B 35 0 737 660 ;
+C 83 ; WX 508 ; N S ; B 23 1 484 666 ;
+C 84 ; WX 558 ; N T ; B 25 0 532 667 ;
+C 85 ; WX 674 ; N U ; B 31 0 644 666 ;
+C 86 ; WX 797 ; N V ; B 36 0 760 667 ;
+C 87 ; WX 1014 ; N W ; B 46 0 967 667 ;
+C 88 ; WX 806 ; N X ; B 37 -2 773 667 ;
+C 89 ; WX 807 ; N Y ; B 37 0 770 666 ;
+C 90 ; WX 648 ; N Z ; B 29 2 618 665 ;
+C 97 ; WX 568 ; N a ; B 25 -1 555 420 ;
+C 98 ; WX 627 ; N b ; B 32 -5 605 628 ;
+C 99 ; WX 500 ; N c ; B 20 -1 472 432 ;
+C 100 ; WX 613 ; N d ; B 24 -5 579 642 ;
+C 101 ; WX 500 ; N e ; B 25 -1 475 425 ;
+C 102 ; WX 553 ; N f ; B 32 -4 527 636 ;
+C 103 ; WX 650 ; N g ; B -69 -230 621 423 ;
+C 104 ; WX 750 ; N h ; B 30 -6 684 634 ;
+C 105 ; WX 403 ; N i ; B 23 2 371 636 ;
+C 106 ; WX 443 ; N j ; B -240 -188 392 636 ;
+C 107 ; WX 710 ; N k ; B 44 -10 682 629 ;
+C 108 ; WX 388 ; N l ; B 25 -4 364 636 ;
+C 109 ; WX 843 ; N m ; B 9 -7 818 421 ;
+C 110 ; WX 567 ; N n ; B 22 -6 545 426 ;
+C 111 ; WX 500 ; N o ; B 14 1 479 427 ;
+C 112 ; WX 563 ; N p ; B 19 -262 546 425 ;
+C 113 ; WX 560 ; N q ; B 11 -287 552 426 ;
+C 114 ; WX 483 ; N r ; B 27 7 459 434 ;
+C 115 ; WX 453 ; N s ; B 28 -2 430 424 ;
+C 116 ; WX 443 ; N t ; B 26 -7 414 634 ;
+C 117 ; WX 620 ; N u ; B 27 1 593 427 ;
+C 118 ; WX 600 ; N v ; B 30 8 584 435 ;
+C 119 ; WX 823 ; N w ; B 17 7 832 441 ;
+C 120 ; WX 610 ; N x ; B 26 6 590 440 ;
+C 121 ; WX 643 ; N y ; B -110 -230 623 437 ;
+C 122 ; WX 507 ; N z ; B 11 -9 484 423 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 399 ; N cent ; B 18 -97 381 570 ;
+C 177 ; WX 549 ; N plusminus ; B 10 0 539 645 ;
+C 181 ; WX 576 ; N mu ; B 32 -223 567 500 ;
+C 247 ; WX 549 ; N divide ; B 10 71 536 456 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 612 ; N Delta ; B 6 0 608 688 ;
+C -1 ; WX 768 ; N _94 ; B 34 0 736 688 ;
+C -1 ; WX 500 ; N _95 ; B 0 0 0 0 ;
+C -1 ; WX 549 ; N approxequal ; B 14 135 527 394 ;
+C -1 ; WX 549 ; N greaterequal ; B 29 0 526 639 ;
+C -1 ; WX 713 ; N infinity ; B 26 125 688 404 ;
+C -1 ; WX 274 ; N integral ; B 2 -107 291 916 ;
+C -1 ; WX 549 ; N lessequal ; B 29 0 526 639 ;
+C -1 ; WX 494 ; N lozenge ; B 18 0 466 745 ;
+C -1 ; WX 549 ; N notequal ; B 15 -25 540 549 ;
+C -1 ; WX 494 ; N partialdiff ; B 26 -21 462 746 ;
+C -1 ; WX 549 ; N pi ; B 10 -19 530 487 ;
+C -1 ; WX 823 ; N product ; B 25 -101 803 751 ;
+C -1 ; WX 549 ; N radical ; B 10 -38 515 917 ;
+C -1 ; WX 713 ; N summation ; B 14 -108 695 752 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 61
+KPX A C -83
+KPX A G -99
+KPX A O -99
+KPX A Q -83
+KPX A T -77
+KPX A U -99
+KPX A V -271
+KPX A W -266
+KPX A c -21
+KPX A d -49
+KPX A e -78
+KPX A g -21
+KPX A j -83
+KPX A o -66
+KPX A q -61
+KPX A u -44
+KPX A v -160
+KPX A w -138
+KPX A y -116
+
+KPX F e -38
+
+KPX K O -88
+
+KPX L T -105
+
+KPX O W -80
+KPX O X -72
+
+KPX R O -80
+
+KPX T a -83
+KPX T r -49
+
+KPX V A -294
+KPX V O -166
+KPX V a -249
+KPX V c -238
+KPX V d -205
+KPX V e -210
+KPX V f -49
+KPX V o -227
+KPX V r -205
+KPX V u -210
+KPX V y -171
+
+KPX W A -287
+KPX W O -127
+
+KPX a f -61
+KPX a i -38
+KPX a j -38
+KPX a l -99
+KPX a m -33
+KPX a n -72
+KPX a p -72
+KPX a r -77
+KPX a t -99
+KPX a u -61
+KPX a v -143
+KPX a w -110
+KPX a y -88
+
+KPX f a -133
+KPX f e -99
+KPX f o -122
+KPX f r -122
+KPX f u -116
+
+KPX o v -72
+KPX o w -48
+KPX o x -72
+
+EndKernPairs
+EndKernData
+EndFontMetrics

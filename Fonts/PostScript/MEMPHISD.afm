@@ -1,0 +1,79 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName MEMPHISD
+FontName MEMPHISD
+FamilyName MEMPHISD
+Weight normal
+Notice  
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -151 1222 820
+Ascender 845
+Descender -155
+XHeight 500
+CapHeight 800
+UnderlinePosition -80
+UnderlineThickness 51
+StdHW 84
+StdVW 250
+EncodingScheme FontSpecific
+StartCharMetrics 31
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 812 ; N A ; B 5 0 806 788 ;
+C 66 ; WX 589 ; N B ; B 26 0 578 800 ;
+C 67 ; WX 662 ; N C ; B 3 5 649 800 ;
+C 68 ; WX 703 ; N D ; B 12 0 687 800 ;
+C 69 ; WX 657 ; N E ; B 12 0 643 800 ;
+C 70 ; WX 653 ; N F ; B 30 0 630 800 ;
+C 71 ; WX 668 ; N G ; B 13 1 639 796 ;
+C 72 ; WX 648 ; N H ; B 25 -1 620 800 ;
+C 73 ; WX 302 ; N I ; B 3 0 305 800 ;
+C 74 ; WX 569 ; N J ; B 11 0 526 793 ;
+C 75 ; WX 599 ; N K ; B 42 0 580 800 ;
+C 76 ; WX 653 ; N L ; B 30 0 607 800 ;
+C 77 ; WX 786 ; N M ; B 12 0 766 800 ;
+C 78 ; WX 648 ; N N ; B 25 -1 630 800 ;
+C 79 ; WX 831 ; N O ; B 20 0 818 799 ;
+C 80 ; WX 554 ; N P ; B 5 0 542 797 ;
+C 81 ; WX 831 ; N Q ; B 25 -151 822 801 ;
+C 82 ; WX 603 ; N R ; B 40 0 572 803 ;
+C 83 ; WX 645 ; N S ; B 16 0 620 800 ;
+C 84 ; WX 560 ; N T ; B 11 0 546 800 ;
+C 85 ; WX 639 ; N U ; B 19 0 620 800 ;
+C 86 ; WX 812 ; N V ; B 14 0 814 798 ;
+C 87 ; WX 1215 ; N W ; B 20 0 1222 815 ;
+C 88 ; WX 809 ; N X ; B 7 0 808 820 ;
+C 89 ; WX 645 ; N Y ; B 42 0 622 800 ;
+C 90 ; WX 733 ; N Z ; B 8 0 754 800 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _30 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 13
+KPX A Q -151
+KPX A T -100
+KPX A V -200
+KPX A W -151
+KPX A Y -151
+
+KPX O W -80
+
+KPX P A -51
+
+KPX Q A -51
+
+KPX R A -51
+
+KPX T A -100
+
+KPX V A -200
+
+KPX W A -151
+
+KPX Y A -151
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,103 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName Wedgie
+FontName Wedgie
+FamilyName Wedgie
+Weight normal
+Notice Wedgie font Copyright 1991 by David Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -149 1596 836
+Ascender 834
+Descender -1
+XHeight 835
+CapHeight 835
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 75
+EncodingScheme FontSpecific
+StartCharMetrics 82
+C 32 ; WX 623 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 588 ; N exclam ; B 77 22 797 806 ;
+C 36 ; WX 718 ; N dollar ; B 13 29 873 843 ;
+C 38 ; WX 896 ; N ampersand ; B 104 8 1078 773 ;
+C 39 ; WX 442 ; N quotesingle ; B 83 174 478 774 ;
+C 44 ; WX 455 ; N comma ; B 253 -153 597 233 ;
+C 45 ; WX 450 ; N hyphen ; B 54 255 521 541 ;
+C 46 ; WX 408 ; N period ; B 254 15 597 245 ;
+C 48 ; WX 985 ; N zero ; B 57 0 1199 834 ;
+C 49 ; WX 621 ; N one ; B 39 -12 832 833 ;
+C 50 ; WX 932 ; N two ; B 55 0 1176 836 ;
+C 51 ; WX 943 ; N three ; B 53 -2 1165 833 ;
+C 52 ; WX 837 ; N four ; B 129 0 1009 833 ;
+C 53 ; WX 966 ; N five ; B 56 0 1173 837 ;
+C 54 ; WX 964 ; N six ; B 50 0 1137 833 ;
+C 55 ; WX 784 ; N seven ; B 37 0 781 838 ;
+C 56 ; WX 909 ; N eight ; B 48 -2 1149 863 ;
+C 57 ; WX 948 ; N nine ; B 54 -13 1148 853 ;
+C 58 ; WX 563 ; N colon ; B 138 12 764 685 ;
+C 59 ; WX 558 ; N semicolon ; B 111 -141 737 688 ;
+C 63 ; WX 743 ; N question ; B 68 34 851 809 ;
+C 65 ; WX 803 ; N A ; B 55 -5 1163 844 ;
+C 66 ; WX 968 ; N B ; B 69 -8 1223 834 ;
+C 67 ; WX 848 ; N C ; B 48 -6 1171 836 ;
+C 68 ; WX 953 ; N D ; B 49 0 1175 837 ;
+C 69 ; WX 996 ; N E ; B 80 0 1268 837 ;
+C 70 ; WX 942 ; N F ; B 48 -9 1059 833 ;
+C 71 ; WX 963 ; N G ; B 57 0 1216 836 ;
+C 72 ; WX 947 ; N H ; B 51 0 1210 836 ;
+C 73 ; WX 611 ; N I ; B 33 -6 849 833 ;
+C 74 ; WX 856 ; N J ; B 157 -6 1072 834 ;
+C 75 ; WX 968 ; N K ; B 56 0 1271 834 ;
+C 76 ; WX 955 ; N L ; B 57 -7 1224 834 ;
+C 77 ; WX 1185 ; N M ; B 60 -10 1433 833 ;
+C 78 ; WX 1034 ; N N ; B 61 -3 1282 837 ;
+C 79 ; WX 1003 ; N O ; B 57 0 1199 834 ;
+C 80 ; WX 961 ; N P ; B 50 -4 1083 851 ;
+C 81 ; WX 1023 ; N Q ; B 53 0 1252 840 ;
+C 82 ; WX 998 ; N R ; B 58 -8 1314 836 ;
+C 83 ; WX 965 ; N S ; B 56 -5 1180 836 ;
+C 84 ; WX 889 ; N T ; B 47 0 976 835 ;
+C 85 ; WX 996 ; N U ; B 56 0 1186 845 ;
+C 86 ; WX 895 ; N V ; B 42 0 1035 833 ;
+C 87 ; WX 1410 ; N W ; B 76 -4 1596 836 ;
+C 88 ; WX 936 ; N X ; B 60 -3 1259 899 ;
+C 89 ; WX 863 ; N Y ; B 49 0 1038 838 ;
+C 90 ; WX 1025 ; N Z ; B 60 0 1265 845 ;
+C 97 ; WX 803 ; N a ; B 55 -5 1163 844 ;
+C 98 ; WX 968 ; N b ; B 69 -8 1223 834 ;
+C 99 ; WX 848 ; N c ; B 48 -6 1171 836 ;
+C 100 ; WX 953 ; N d ; B 49 0 1175 837 ;
+C 101 ; WX 996 ; N e ; B 80 0 1268 837 ;
+C 102 ; WX 942 ; N f ; B 48 -9 1059 833 ;
+C 103 ; WX 963 ; N g ; B 57 0 1216 836 ;
+C 104 ; WX 947 ; N h ; B 51 0 1210 836 ;
+C 105 ; WX 611 ; N i ; B 33 -6 849 833 ;
+C 106 ; WX 856 ; N j ; B 157 -6 1072 834 ;
+C 107 ; WX 968 ; N k ; B 56 0 1271 834 ;
+C 108 ; WX 955 ; N l ; B 57 -7 1224 834 ;
+C 109 ; WX 1185 ; N m ; B 60 -10 1433 833 ;
+C 110 ; WX 1034 ; N n ; B 61 -3 1282 837 ;
+C 111 ; WX 1003 ; N o ; B 57 0 1199 834 ;
+C 112 ; WX 961 ; N p ; B 50 -4 1083 851 ;
+C 113 ; WX 1023 ; N q ; B 53 0 1252 840 ;
+C 114 ; WX 998 ; N r ; B 58 -8 1314 836 ;
+C 115 ; WX 965 ; N s ; B 56 -5 1180 836 ;
+C 116 ; WX 889 ; N t ; B 47 0 976 835 ;
+C 117 ; WX 996 ; N u ; B 56 0 1186 845 ;
+C 118 ; WX 895 ; N v ; B 42 0 1035 833 ;
+C 119 ; WX 1410 ; N w ; B 76 -4 1596 836 ;
+C 120 ; WX 936 ; N x ; B 60 -3 1259 899 ;
+C 121 ; WX 863 ; N y ; B 49 0 1038 838 ;
+C 122 ; WX 1025 ; N z ; B 60 0 1265 845 ;
+C 160 ; WX 623 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 698 ; N cent ; B 62 0 892 834 ;
+C 210 ; WX 910 ; N Ograve ; B 68 183 889 758 ;
+C 211 ; WX 828 ; N Oacute ; B 93 173 848 774 ;
+C 212 ; WX 463 ; N Ocircumflex ; B 68 183 469 758 ;
+C 213 ; WX 442 ; N Otilde ; B 93 174 486 774 ;
+C 217 ; WX 974 ; N Ugrave ; B 37 -63 950 748 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 623 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

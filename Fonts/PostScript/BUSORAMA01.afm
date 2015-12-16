@@ -1,0 +1,118 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName BUSORAMA
+FontName BUSORAMA
+FamilyName BUSORAMA
+Weight normal
+Notice Freeware! from A. Carr    Remember to vote! If you don't vote, you can't bitch!
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -154 836 820
+Ascender 831
+Descender -169
+XHeight 750
+CapHeight 779
+UnderlinePosition -24
+UnderlineThickness 12
+StdHW 97
+StdVW 98
+EncodingScheme FontSpecific
+StartCharMetrics 96
+C 32 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 186 ; N exclam ; B 41 0 178 750 ;
+C 34 ; WX 150 ; N quotedbl ; B 0 553 145 750 ;
+C 35 ; WX 506 ; N numbersign ; B 0 0 482 482 ;
+C 36 ; WX 445 ; N dollar ; B 41 -55 426 820 ;
+C 37 ; WX 691 ; N percent ; B 0 -29 660 779 ;
+C 38 ; WX 639 ; N ampersand ; B 55 -29 609 779 ;
+C 39 ; WX 156 ; N quotesingle ; B 0 500 150 750 ;
+C 40 ; WX 393 ; N parenleft ; B 0 -84 375 820 ;
+C 41 ; WX 393 ; N parenright ; B 0 -84 375 820 ;
+C 42 ; WX 447 ; N asterisk ; B 0 324 428 750 ;
+C 43 ; WX 512 ; N plus ; B 59 158 488 588 ;
+C 44 ; WX 156 ; N comma ; B 0 -96 150 154 ;
+C 45 ; WX 541 ; N hyphen ; B 59 330 516 426 ;
+C 46 ; WX 156 ; N period ; B 0 0 150 150 ;
+C 47 ; WX 340 ; N slash ; B 0 -29 324 750 ;
+C 48 ; WX 863 ; N zero ; B 20 -29 824 779 ;
+C 49 ; WX 309 ; N one ; B 20 0 268 750 ;
+C 50 ; WX 610 ; N two ; B 20 0 574 779 ;
+C 51 ; WX 600 ; N three ; B 20 -29 545 779 ;
+C 52 ; WX 545 ; N four ; B 20 0 492 750 ;
+C 53 ; WX 613 ; N five ; B 20 -29 559 750 ;
+C 54 ; WX 610 ; N six ; B 20 -29 575 750 ;
+C 55 ; WX 500 ; N seven ; B 20 0 450 750 ;
+C 56 ; WX 530 ; N eight ; B 20 -29 490 779 ;
+C 57 ; WX 610 ; N nine ; B 20 0 574 779 ;
+C 58 ; WX 176 ; N colon ; B 20 2 170 539 ;
+C 59 ; WX 176 ; N semicolon ; B 20 -96 170 541 ;
+C 60 ; WX 545 ; N less ; B 20 145 522 646 ;
+C 61 ; WX 516 ; N equal ; B 20 240 493 531 ;
+C 62 ; WX 545 ; N greater ; B 20 145 522 646 ;
+C 63 ; WX 456 ; N question ; B 20 0 436 779 ;
+C 64 ; WX 791 ; N at ; B 20 -8 754 709 ;
+C 65 ; WX 530 ; N A ; B 20 0 493 750 ;
+C 66 ; WX 430 ; N B ; B 20 0 395 750 ;
+C 67 ; WX 720 ; N C ; B 20 -29 686 779 ;
+C 68 ; WX 530 ; N D ; B 20 0 506 750 ;
+C 69 ; WX 460 ; N E ; B 20 -29 422 779 ;
+C 70 ; WX 415 ; N F ; B 20 0 395 750 ;
+C 71 ; WX 720 ; N G ; B 20 -29 686 779 ;
+C 72 ; WX 680 ; N H ; B 20 0 645 750 ;
+C 73 ; WX 150 ; N I ; B 20 0 118 750 ;
+C 74 ; WX 370 ; N J ; B 20 0 325 750 ;
+C 75 ; WX 520 ; N K ; B 20 -29 479 750 ;
+C 76 ; WX 370 ; N L ; B 20 0 340 750 ;
+C 77 ; WX 665 ; N M ; B 20 0 633 750 ;
+C 78 ; WX 555 ; N N ; B 20 0 520 750 ;
+C 79 ; WX 865 ; N O ; B 20 -29 824 779 ;
+C 80 ; WX 425 ; N P ; B 20 0 395 750 ;
+C 81 ; WX 865 ; N Q ; B 20 -154 824 779 ;
+C 82 ; WX 460 ; N R ; B 20 -29 438 750 ;
+C 83 ; WX 450 ; N S ; B 20 -29 424 779 ;
+C 84 ; WX 555 ; N T ; B 20 0 520 779 ;
+C 85 ; WX 495 ; N U ; B 20 -29 465 750 ;
+C 86 ; WX 545 ; N V ; B 20 0 507 750 ;
+C 87 ; WX 860 ; N W ; B 20 0 836 750 ;
+C 88 ; WX 690 ; N X ; B 20 0 659 750 ;
+C 89 ; WX 630 ; N Y ; B 20 0 591 750 ;
+C 90 ; WX 580 ; N Z ; B 20 -29 549 779 ;
+C 91 ; WX 221 ; N bracketleft ; B 20 0 213 750 ;
+C 92 ; WX 362 ; N backslash ; B 20 0 346 750 ;
+C 93 ; WX 221 ; N bracketright ; B 20 0 213 750 ;
+C 94 ; WX 440 ; N asciicircum ; B 20 369 420 750 ;
+C 95 ; WX 540 ; N underscore ; B 20 -139 516 -74 ;
+C 96 ; WX 225 ; N grave ; B 20 625 215 750 ;
+C 97 ; WX 530 ; N a ; B 20 0 493 750 ;
+C 98 ; WX 430 ; N b ; B 0 0 0 0 ;
+C 99 ; WX 720 ; N c ; B 0 0 0 0 ;
+C 100 ; WX 530 ; N d ; B 0 0 0 0 ;
+C 101 ; WX 720 ; N e ; B 20 -29 686 779 ;
+C 102 ; WX 415 ; N f ; B 0 0 0 0 ;
+C 103 ; WX 720 ; N g ; B 0 0 0 0 ;
+C 104 ; WX 680 ; N h ; B 0 0 0 0 ;
+C 105 ; WX 150 ; N i ; B 0 0 0 0 ;
+C 106 ; WX 370 ; N j ; B 0 0 0 0 ;
+C 107 ; WX 520 ; N k ; B 0 0 0 0 ;
+C 108 ; WX 370 ; N l ; B 0 0 0 0 ;
+C 109 ; WX 665 ; N m ; B 0 0 0 0 ;
+C 110 ; WX 555 ; N n ; B 0 0 0 0 ;
+C 111 ; WX 865 ; N o ; B 0 0 0 0 ;
+C 112 ; WX 425 ; N p ; B 0 0 0 0 ;
+C 113 ; WX 865 ; N q ; B 0 0 0 0 ;
+C 114 ; WX 460 ; N r ; B 0 0 0 0 ;
+C 115 ; WX 450 ; N s ; B 20 0 402 777 ;
+C 116 ; WX 555 ; N t ; B 0 0 0 0 ;
+C 117 ; WX 495 ; N u ; B 0 0 0 0 ;
+C 118 ; WX 545 ; N v ; B 20 0 508 750 ;
+C 119 ; WX 860 ; N w ; B 0 0 0 0 ;
+C 120 ; WX 690 ; N x ; B 0 0 0 0 ;
+C 121 ; WX 630 ; N y ; B 0 0 0 0 ;
+C 122 ; WX 580 ; N z ; B 0 0 0 0 ;
+C 126 ; WX 379 ; N asciitilde ; B 0 359 361 469 ;
+C 160 ; WX 122 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N _95 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

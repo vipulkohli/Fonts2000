@@ -1,0 +1,143 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 7 0 0 2 0 4
+FullName ECKMANN
+FontName ECKMANN
+FamilyName ECKMANN
+Weight normal
+Notice R'lyeh BBS 301-907-7090 
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -20 -190 947 766
+Ascender 761
+Descender -178
+XHeight 545
+CapHeight 763
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 141
+StdVW 117
+EncodingScheme FontSpecific
+StartCharMetrics 89
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 186 ; N exclam ; B 3 -2 163 739 ;
+C 39 ; WX 186 ; N quotesingle ; B 16 490 163 752 ;
+C 40 ; WX 443 ; N parenleft ; B 84 -189 413 723 ;
+C 41 ; WX 443 ; N parenright ; B 32 -190 360 722 ;
+C 44 ; WX 245 ; N comma ; B 22 -114 214 229 ;
+C 45 ; WX 430 ; N hyphen ; B 49 326 395 463 ;
+C 46 ; WX 245 ; N period ; B 22 -3 214 227 ;
+C 47 ; WX 500 ; N slash ; B 3 -6 497 722 ;
+C 48 ; WX 495 ; N zero ; B 23 0 472 761 ;
+C 49 ; WX 323 ; N one ; B 14 -1 308 761 ;
+C 50 ; WX 507 ; N two ; B 23 0 484 762 ;
+C 51 ; WX 502 ; N three ; B 22 0 481 761 ;
+C 52 ; WX 512 ; N four ; B 23 0 488 761 ;
+C 53 ; WX 476 ; N five ; B 22 0 454 761 ;
+C 54 ; WX 480 ; N six ; B 21 0 459 761 ;
+C 55 ; WX 503 ; N seven ; B 23 0 480 761 ;
+C 56 ; WX 517 ; N eight ; B 24 0 495 761 ;
+C 57 ; WX 480 ; N nine ; B 22 0 459 761 ;
+C 58 ; WX 245 ; N colon ; B 22 -3 214 585 ;
+C 59 ; WX 245 ; N semicolon ; B 22 -114 214 585 ;
+C 63 ; WX 489 ; N question ; B 25 -6 464 751 ;
+C 65 ; WX 668 ; N A ; B 30 -1 638 761 ;
+C 66 ; WX 653 ; N B ; B 29 0 623 761 ;
+C 67 ; WX 618 ; N C ; B 28 0 590 761 ;
+C 68 ; WX 615 ; N D ; B 27 -1 588 761 ;
+C 69 ; WX 584 ; N E ; B 27 0 557 761 ;
+C 70 ; WX 504 ; N F ; B 23 0 483 761 ;
+C 71 ; WX 722 ; N G ; B 33 0 688 763 ;
+C 72 ; WX 770 ; N H ; B 35 0 735 763 ;
+C 73 ; WX 320 ; N I ; B 15 0 305 761 ;
+C 74 ; WX 587 ; N J ; B 27 -1 560 761 ;
+C 75 ; WX 672 ; N K ; B 30 0 641 761 ;
+C 76 ; WX 539 ; N L ; B 25 0 515 761 ;
+C 77 ; WX 992 ; N M ; B 45 0 947 762 ;
+C 78 ; WX 623 ; N N ; B 28 0 594 761 ;
+C 79 ; WX 617 ; N O ; B 28 0 589 761 ;
+C 80 ; WX 573 ; N P ; B 25 0 547 764 ;
+C 81 ; WX 621 ; N Q ; B 28 0 592 761 ;
+C 82 ; WX 588 ; N R ; B 27 1 561 761 ;
+C 83 ; WX 518 ; N S ; B 22 -1 495 761 ;
+C 84 ; WX 695 ; N T ; B 32 0 664 762 ;
+C 85 ; WX 642 ; N U ; B 29 0 613 761 ;
+C 86 ; WX 648 ; N V ; B 35 0 613 763 ;
+C 87 ; WX 896 ; N W ; B 37 0 870 761 ;
+C 88 ; WX 699 ; N X ; B 32 0 666 762 ;
+C 89 ; WX 614 ; N Y ; B 28 -6 586 761 ;
+C 90 ; WX 643 ; N Z ; B 29 -1 614 761 ;
+C 97 ; WX 500 ; N a ; B 22 0 477 544 ;
+C 98 ; WX 464 ; N b ; B 21 -4 443 761 ;
+C 99 ; WX 392 ; N c ; B 18 0 375 543 ;
+C 100 ; WX 488 ; N d ; B 22 0 466 761 ;
+C 101 ; WX 423 ; N e ; B 19 0 404 543 ;
+C 102 ; WX 239 ; N f ; B 11 0 228 761 ;
+C 103 ; WX 483 ; N g ; B 14 -153 453 544 ;
+C 104 ; WX 550 ; N h ; B 25 0 524 761 ;
+C 105 ; WX 258 ; N i ; B 11 0 236 706 ;
+C 106 ; WX 238 ; N j ; B -20 -109 220 675 ;
+C 107 ; WX 547 ; N k ; B 25 0 522 761 ;
+C 108 ; WX 248 ; N l ; B 10 0 236 761 ;
+C 109 ; WX 712 ; N m ; B 33 0 679 543 ;
+C 110 ; WX 502 ; N n ; B 23 0 479 544 ;
+C 111 ; WX 415 ; N o ; B 19 0 397 543 ;
+C 112 ; WX 489 ; N p ; B 26 -174 466 547 ;
+C 113 ; WX 457 ; N q ; B 12 -178 435 550 ;
+C 114 ; WX 376 ; N r ; B 16 -3 359 543 ;
+C 115 ; WX 368 ; N s ; B 16 0 352 543 ;
+C 116 ; WX 277 ; N t ; B 13 0 262 730 ;
+C 117 ; WX 530 ; N u ; B 23 0 507 544 ;
+C 118 ; WX 512 ; N v ; B 23 0 489 543 ;
+C 119 ; WX 704 ; N w ; B 32 0 673 543 ;
+C 120 ; WX 505 ; N x ; B 23 0 484 543 ;
+C 121 ; WX 528 ; N y ; B 22 -148 502 545 ;
+C 122 ; WX 482 ; N z ; B 22 0 460 544 ;
+C 150 ; WX 535 ; N endash ; B 66 323 482 466 ;
+C 151 ; WX 633 ; N emdash ; B 67 326 586 463 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 200 ; WX 315 ; N Egrave ; B 14 0 300 761 ;
+C 202 ; WX 608 ; N Ecircumflex ; B 27 0 580 762 ;
+C 206 ; WX 628 ; N Icircumflex ; B 28 0 599 761 ;
+C 211 ; WX 741 ; N Oacute ; B 34 0 709 761 ;
+C 212 ; WX 629 ; N Ocircumflex ; B 29 0 602 766 ;
+C 217 ; WX 711 ; N Ugrave ; B 32 0 679 761 ;
+C 223 ; WX 242 ; N germandbls ; B 10 -2 232 761 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _87 ; B 0 0 0 0 ;
+C -1 ; WX 535 ; N c269 ; B 66 323 482 466 ;
+C -1 ; WX 670 ; N lozenge ; B 30 0 639 761 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 17
+KPX space space -114
+KPX space Q 255
+
+KPX comma space -296
+
+KPX C space -89
+
+KPX H space -92
+
+KPX a n 110
+
+KPX f space 46
+
+KPX i space -23
+KPX i p 116
+
+KPX j space 18
+
+KPX l space 23
+
+KPX m space -8
+
+KPX p space 277
+
+KPX y space 23
+
+KPX Egrave space -94
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,65 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName Logger
+FontName Logger
+FamilyName Logger
+Weight normal
+Notice Logger font © 1991 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -21 -176 1087 806
+Ascender 804
+Descender -200
+XHeight 500
+CapHeight 801
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 36
+StdVW 25
+EncodingScheme FontSpecific
+StartCharMetrics 43
+C 32 ; WX 365 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 280 ; N exclam ; B 2 18 269 751 ;
+C 38 ; WX 756 ; N ampersand ; B 60 4 726 814 ;
+C 44 ; WX 248 ; N comma ; B -8 -156 254 255 ;
+C 45 ; WX 548 ; N hyphen ; B 14 210 522 416 ;
+C 46 ; WX 268 ; N period ; B -3 -2 242 252 ;
+C 58 ; WX 268 ; N colon ; B -3 -2 263 625 ;
+C 59 ; WX 284 ; N semicolon ; B -8 -156 254 618 ;
+C 63 ; WX 688 ; N question ; B 17 -7 651 810 ;
+C 65 ; WX 750 ; N A ; B 5 -2 718 803 ;
+C 66 ; WX 709 ; N B ; B 19 -4 690 811 ;
+C 67 ; WX 578 ; N C ; B 12 -3 574 812 ;
+C 68 ; WX 732 ; N D ; B 8 -21 701 809 ;
+C 69 ; WX 622 ; N E ; B 10 -11 608 805 ;
+C 70 ; WX 639 ; N F ; B 14 0 613 802 ;
+C 71 ; WX 598 ; N G ; B 14 -8 588 800 ;
+C 72 ; WX 717 ; N H ; B 33 -7 699 810 ;
+C 73 ; WX 344 ; N I ; B 38 -2 355 800 ;
+C 74 ; WX 632 ; N J ; B 22 -18 606 809 ;
+C 75 ; WX 775 ; N K ; B 0 0 774 805 ;
+C 76 ; WX 518 ; N L ; B -6 -10 517 806 ;
+C 77 ; WX 1138 ; N M ; B 46 -9 1087 802 ;
+C 78 ; WX 740 ; N N ; B 17 -7 713 800 ;
+C 79 ; WX 790 ; N O ; B 28 -7 757 800 ;
+C 80 ; WX 686 ; N P ; B 31 -5 667 805 ;
+C 81 ; WX 724 ; N Q ; B 34 -180 725 792 ;
+C 82 ; WX 718 ; N R ; B 26 -14 685 803 ;
+C 83 ; WX 642 ; N S ; B 19 -29 619 814 ;
+C 84 ; WX 722 ; N T ; B 27 -3 694 800 ;
+C 85 ; WX 763 ; N U ; B 34 -14 760 806 ;
+C 86 ; WX 808 ; N V ; B 37 -9 771 800 ;
+C 87 ; WX 1118 ; N W ; B 51 -4 1080 806 ;
+C 88 ; WX 725 ; N X ; B 33 -7 691 805 ;
+C 89 ; WX 787 ; N Y ; B 36 0 763 814 ;
+C 90 ; WX 760 ; N Z ; B 32 -45 726 832 ;
+C 160 ; WX 365 ; N space ; B 0 0 0 0 ;
+C 210 ; WX 586 ; N Ograve ; B 43 462 577 798 ;
+C 211 ; WX 600 ; N Oacute ; B 9 412 577 800 ;
+C 212 ; WX 284 ; N Ocircumflex ; B 43 462 303 797 ;
+C 213 ; WX 280 ; N Otilde ; B 9 413 284 800 ;
+C 217 ; WX 154 ; N Ugrave ; B -21 -1 151 801 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 365 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,23 @@
+FontName (SapirItalic)
+FullName (Sapir Italic)
+AppleName (SapirItalic)
+FamilyName (Sapir)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 0
+CapHeight 667
+UnderlinePosition -140
+UnderlineThickness 47
+StemWidth 50
+Serif false
+AppleName (Sapir)
+MSMenuName (Sapir Italic)
+VPMenuName (Sapir Italic)
+WORDMenuName (Sapir Italic)
+AppleFONDID 8254
+VPStyle (I)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

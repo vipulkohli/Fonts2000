@@ -1,0 +1,23 @@
+FontName (CyrillicBold-Italic)
+FullName (Cyrillic Bold-Italic)
+AppleName (CyrillicBold-Italic)
+FamilyName (Cyrillic)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 0
+CapHeight 782
+UnderlinePosition -33
+UnderlineThickness 12
+StemWidth 50
+Serif true
+AppleName (Cyrillic)
+MSMenuName (Cyrillic Bold-Italic)
+VPMenuName (Cyrillic Bold-Italic)
+WORDMenuName (Cyrillic Bold-Italic)
+AppleFONDID 7901
+VPStyle (T)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

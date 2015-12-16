@@ -1,0 +1,80 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 3 0 0 2 0 4
+FullName SnyderSpeed
+FontName SnyderSpeed
+FamilyName SnyderSpeed
+Weight normal
+Notice SnyderSpeed Copr. Pat Snyder, Shareware $15., 1797 Ross Inlet, Coos Bay, OR 97420
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -170 -114 1420 884
+Ascender 881
+Descender -200
+XHeight 500
+CapHeight 876
+UnderlinePosition -100
+UnderlineThickness 50
+EncodingScheme FontSpecific
+StartCharMetrics 60
+C 32 ; WX 474 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 582 ; N exclam ; B 36 -90 592 869 ;
+C 36 ; WX 240 ; N dollar ; B 32 259 335 828 ;
+C 37 ; WX 912 ; N percent ; B 21 -120 893 902 ;
+C 38 ; WX 924 ; N ampersand ; B -16 -91 900 936 ;
+C 39 ; WX 258 ; N quotesingle ; B 77 556 403 881 ;
+C 40 ; WX 666 ; N parenleft ; B -12 -72 682 851 ;
+C 41 ; WX 546 ; N parenright ; B 1 -110 526 828 ;
+C 43 ; WX 654 ; N plus ; B 29 78 620 662 ;
+C 44 ; WX 216 ; N comma ; B -55 -105 128 142 ;
+C 45 ; WX 480 ; N hyphen ; B 43 319 499 499 ;
+C 46 ; WX 174 ; N period ; B -91 -105 103 136 ;
+C 47 ; WX 612 ; N slash ; B -49 -114 808 833 ;
+C 48 ; WX 708 ; N zero ; B -60 -149 815 932 ;
+C 49 ; WX 504 ; N one ; B 12 -90 622 868 ;
+C 50 ; WX 810 ; N two ; B -4 -124 918 962 ;
+C 51 ; WX 780 ; N three ; B 32 -211 828 947 ;
+C 52 ; WX 828 ; N four ; B 13 -93 870 869 ;
+C 53 ; WX 912 ; N five ; B 14 -180 1008 866 ;
+C 54 ; WX 738 ; N six ; B -170 -204 828 911 ;
+C 55 ; WX 768 ; N seven ; B 11 -96 862 907 ;
+C 56 ; WX 726 ; N eight ; B -3 -118 906 888 ;
+C 57 ; WX 774 ; N nine ; B 13 -132 1011 984 ;
+C 58 ; WX 396 ; N colon ; B -76 -76 376 593 ;
+C 59 ; WX 366 ; N semicolon ; B -103 -99 424 593 ;
+C 60 ; WX 870 ; N less ; B 40 71 1032 938 ;
+C 61 ; WX 510 ; N equal ; B 10 204 461 552 ;
+C 62 ; WX 882 ; N greater ; B 10 71 965 895 ;
+C 63 ; WX 666 ; N question ; B 73 -84 770 979 ;
+C 65 ; WX 804 ; N A ; B 2 -96 826 868 ;
+C 66 ; WX 870 ; N B ; B 14 -99 942 862 ;
+C 67 ; WX 720 ; N C ; B 16 -97 788 870 ;
+C 68 ; WX 822 ; N D ; B 24 -95 894 879 ;
+C 69 ; WX 720 ; N E ; B 29 -90 867 877 ;
+C 70 ; WX 774 ; N F ; B 17 -88 891 866 ;
+C 71 ; WX 720 ; N G ; B 10 -94 813 862 ;
+C 72 ; WX 924 ; N H ; B 22 -102 1044 861 ;
+C 73 ; WX 528 ; N I ; B 23 -98 645 877 ;
+C 74 ; WX 792 ; N J ; B -50 -128 852 860 ;
+C 75 ; WX 888 ; N K ; B 16 -90 1081 860 ;
+C 76 ; WX 630 ; N L ; B 19 -110 577 860 ;
+C 77 ; WX 1260 ; N M ; B -4 -84 1328 864 ;
+C 78 ; WX 1008 ; N N ; B 12 -82 1137 897 ;
+C 79 ; WX 780 ; N O ; B -77 -84 1108 1015 ;
+C 80 ; WX 882 ; N P ; B 14 -96 1087 895 ;
+C 81 ; WX 858 ; N Q ; B -49 -121 992 1039 ;
+C 82 ; WX 816 ; N R ; B 22 -103 934 904 ;
+C 83 ; WX 750 ; N S ; B 8 -119 950 983 ;
+C 84 ; WX 690 ; N T ; B 86 -108 898 881 ;
+C 85 ; WX 822 ; N U ; B -4 -83 996 896 ;
+C 86 ; WX 826 ; N V ; B 9 -96 1022 889 ;
+C 87 ; WX 1272 ; N W ; B 29 -96 1420 869 ;
+C 88 ; WX 1011 ; N X ; B 15 -134 1132 874 ;
+C 89 ; WX 742 ; N Y ; B 66 -99 952 870 ;
+C 90 ; WX 852 ; N Z ; B -40 -129 954 883 ;
+C 160 ; WX 474 ; N space ; B 0 0 0 0 ;
+C 210 ; WX 534 ; N Ograve ; B 99 604 704 861 ;
+C 211 ; WX 570 ; N Oacute ; B 210 512 677 842 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 474 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

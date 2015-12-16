@@ -1,0 +1,53 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 4 3 0 0 2 0 4
+FullName Ann-Stone
+FontName Ann-Stone
+FamilyName Ann
+Weight normal
+Notice Ann-Stone   1991 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -5 893 772
+Ascender 846
+Descender -200
+XHeight 500
+CapHeight 771
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 49
+StdVW 53
+EncodingScheme FontSpecific
+StartCharMetrics 31
+C 32 ; WX 622 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 849 ; N A ; B 38 -22 811 795 ;
+C 66 ; WX 844 ; N B ; B 33 -6 805 770 ;
+C 67 ; WX 842 ; N C ; B 32 -18 804 778 ;
+C 68 ; WX 857 ; N D ; B 33 0 823 771 ;
+C 69 ; WX 845 ; N E ; B 37 2 808 772 ;
+C 70 ; WX 839 ; N F ; B 38 -20 815 773 ;
+C 71 ; WX 848 ; N G ; B 30 -4 812 765 ;
+C 72 ; WX 861 ; N H ; B 35 -2 826 775 ;
+C 73 ; WX 858 ; N I ; B 39 0 825 769 ;
+C 74 ; WX 858 ; N J ; B 39 0 825 769 ;
+C 75 ; WX 859 ; N K ; B 39 -8 820 777 ;
+C 76 ; WX 863 ; N L ; B 37 -2 820 765 ;
+C 77 ; WX 866 ; N M ; B 39 -4 826 779 ;
+C 78 ; WX 839 ; N N ; B 37 -6 802 772 ;
+C 79 ; WX 848 ; N O ; B 38 3 812 773 ;
+C 80 ; WX 912 ; N P ; B 35 -2 873 785 ;
+C 81 ; WX 907 ; N Q ; B 43 -7 893 774 ;
+C 82 ; WX 917 ; N R ; B 47 5 879 769 ;
+C 83 ; WX 921 ; N S ; B 42 0 880 771 ;
+C 84 ; WX 848 ; N T ; B 32 -2 829 782 ;
+C 85 ; WX 845 ; N U ; B 38 -1 808 769 ;
+C 86 ; WX 855 ; N V ; B 42 -22 828 768 ;
+C 87 ; WX 859 ; N W ; B 36 0 821 771 ;
+C 88 ; WX 879 ; N X ; B 41 -8 836 773 ;
+C 89 ; WX 859 ; N Y ; B 39 -5 821 784 ;
+C 90 ; WX 849 ; N Z ; B 37 0 808 768 ;
+C 116 ; WX 845 ; N t ; B 34 2 805 774 ;
+C 160 ; WX 622 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 622 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,101 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 4 0 0 2 0 4
+FullName RSCaveman
+FontName RSCaveman
+FamilyName RSCaveman
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -121 870 773
+Ascender 736
+Descender -55
+XHeight 747
+CapHeight 735
+UnderlinePosition -100
+UnderlineThickness 50
+StdVW 92
+EncodingScheme FontSpecific
+StartCharMetrics 81
+C 32 ; WX 282 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 192 ; N exclam ; B 10 -3 127 735 ;
+C 34 ; WX 295 ; N quotedbl ; B 29 575 223 773 ;
+C 36 ; WX 520 ; N dollar ; B 13 0 458 725 ;
+C 38 ; WX 615 ; N ampersand ; B 15 0 565 735 ;
+C 39 ; WX 155 ; N quotesingle ; B 29 575 95 773 ;
+C 44 ; WX 185 ; N comma ; B 31 -121 128 77 ;
+C 46 ; WX 185 ; N period ; B 38 -3 133 78 ;
+C 48 ; WX 618 ; N zero ; B 10 0 565 735 ;
+C 49 ; WX 204 ; N one ; B 10 0 150 735 ;
+C 50 ; WX 620 ; N two ; B 10 0 565 740 ;
+C 51 ; WX 600 ; N three ; B 10 0 565 735 ;
+C 52 ; WX 610 ; N four ; B 10 0 565 735 ;
+C 53 ; WX 630 ; N five ; B 10 0 570 740 ;
+C 54 ; WX 615 ; N six ; B 10 0 565 735 ;
+C 55 ; WX 605 ; N seven ; B 25 -5 560 735 ;
+C 56 ; WX 620 ; N eight ; B 15 0 565 735 ;
+C 57 ; WX 615 ; N nine ; B 12 0 564 733 ;
+C 58 ; WX 185 ; N colon ; B 38 -3 139 402 ;
+C 59 ; WX 185 ; N semicolon ; B 31 -121 139 402 ;
+C 63 ; WX 570 ; N question ; B 14 -3 496 744 ;
+C 65 ; WX 640 ; N A ; B 9 -4 570 738 ;
+C 66 ; WX 624 ; N B ; B 10 0 565 735 ;
+C 67 ; WX 610 ; N C ; B 10 0 565 735 ;
+C 68 ; WX 612 ; N D ; B 10 0 565 735 ;
+C 69 ; WX 520 ; N E ; B 10 0 475 735 ;
+C 70 ; WX 520 ; N F ; B 10 5 475 735 ;
+C 71 ; WX 600 ; N G ; B 10 0 565 735 ;
+C 72 ; WX 618 ; N H ; B 10 0 565 735 ;
+C 73 ; WX 204 ; N I ; B 10 0 150 735 ;
+C 74 ; WX 444 ; N J ; B 10 0 390 735 ;
+C 75 ; WX 450 ; N K ; B 10 0 405 735 ;
+C 76 ; WX 480 ; N L ; B 10 0 430 735 ;
+C 77 ; WX 705 ; N M ; B 10 0 660 735 ;
+C 78 ; WX 640 ; N N ; B 10 0 595 735 ;
+C 79 ; WX 618 ; N O ; B 10 0 565 735 ;
+C 80 ; WX 618 ; N P ; B 10 0 565 735 ;
+C 81 ; WX 624 ; N Q ; B 10 -55 565 735 ;
+C 82 ; WX 605 ; N R ; B 10 -10 565 735 ;
+C 83 ; WX 612 ; N S ; B 10 0 565 735 ;
+C 84 ; WX 605 ; N T ; B 10 0 565 735 ;
+C 85 ; WX 615 ; N U ; B 10 -5 565 735 ;
+C 86 ; WX 606 ; N V ; B 10 0 565 735 ;
+C 87 ; WX 915 ; N W ; B 10 -10 870 735 ;
+C 88 ; WX 610 ; N X ; B 10 0 565 735 ;
+C 89 ; WX 610 ; N Y ; B 10 0 565 735 ;
+C 90 ; WX 610 ; N Z ; B 10 0 565 735 ;
+C 97 ; WX 636 ; N a ; B 21 -4 552 744 ;
+C 98 ; WX 624 ; N b ; B 10 0 565 735 ;
+C 99 ; WX 610 ; N c ; B 10 6 565 741 ;
+C 100 ; WX 612 ; N d ; B 10 0 565 729 ;
+C 101 ; WX 520 ; N e ; B 16 0 463 735 ;
+C 102 ; WX 520 ; N f ; B 10 -1 475 735 ;
+C 103 ; WX 600 ; N g ; B 10 0 565 735 ;
+C 104 ; WX 618 ; N h ; B 18 0 520 747 ;
+C 105 ; WX 204 ; N i ; B 28 3 159 738 ;
+C 106 ; WX 444 ; N j ; B 10 0 396 746 ;
+C 107 ; WX 450 ; N k ; B 10 -10 387 735 ;
+C 108 ; WX 480 ; N l ; B 22 1 432 736 ;
+C 109 ; WX 705 ; N m ; B 10 0 649 752 ;
+C 110 ; WX 640 ; N n ; B 10 1 577 741 ;
+C 111 ; WX 618 ; N o ; B 10 0 553 729 ;
+C 112 ; WX 618 ; N p ; B 10 -6 559 735 ;
+C 113 ; WX 624 ; N q ; B 10 -55 565 735 ;
+C 114 ; WX 605 ; N r ; B 10 -22 559 735 ;
+C 115 ; WX 612 ; N s ; B 16 -6 565 735 ;
+C 116 ; WX 605 ; N t ; B 10 4 559 736 ;
+C 117 ; WX 615 ; N u ; B 16 1 571 736 ;
+C 118 ; WX 615 ; N v ; B 16 -2 565 739 ;
+C 119 ; WX 915 ; N w ; B 16 2 870 747 ;
+C 120 ; WX 610 ; N x ; B 4 -1 577 746 ;
+C 121 ; WX 610 ; N y ; B 4 -5 571 711 ;
+C 122 ; WX 610 ; N z ; B 4 0 565 737 ;
+C 145 ; WX 185 ; N quoteleft ; B 32 569 129 767 ;
+C 146 ; WX 185 ; N quoteright ; B 31 575 128 773 ;
+C 147 ; WX 295 ; N quotedblleft ; B 20 575 255 773 ;
+C 148 ; WX 522 ; N quotedblright ; B 31 575 266 773 ;
+C 160 ; WX 250 ; N nbspace ; B 0 0 0 0 ;
+C 162 ; WX 435 ; N cent ; B 9 0 397 735 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 282 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

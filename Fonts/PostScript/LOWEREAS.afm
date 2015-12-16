@@ -1,0 +1,134 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 2 0 0 2 0 4
+FullName LOWEREAS
+FontName LOWEREAS
+FamilyName LOWEREAS
+Weight normal
+Notice Converted by ALLTYPE
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -229 981 802
+Ascender 800
+Descender -200
+XHeight 492
+CapHeight 802
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 63
+StdVW 72
+EncodingScheme FontSpecific
+StartCharMetrics 82
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 255 ; N exclam ; B 29 0 219 799 ;
+C 34 ; WX 435 ; N quotedbl ; B 31 507 405 794 ;
+C 36 ; WX 595 ; N dollar ; B 36 -141 567 765 ;
+C 38 ; WX 733 ; N ampersand ; B 33 0 699 799 ;
+C 39 ; WX 235 ; N quotesingle ; B 31 507 213 794 ;
+C 40 ; WX 285 ; N parenleft ; B 12 -125 278 795 ;
+C 41 ; WX 305 ; N parenright ; B 9 -118 277 802 ;
+C 44 ; WX 255 ; N comma ; B 43 -121 224 204 ;
+C 45 ; WX 365 ; N hyphen ; B 44 188 332 357 ;
+C 46 ; WX 225 ; N period ; B 32 -12 202 197 ;
+C 48 ; WX 620 ; N zero ; B 28 0 592 800 ;
+C 49 ; WX 387 ; N one ; B 18 0 369 800 ;
+C 50 ; WX 609 ; N two ; B 28 -1 581 799 ;
+C 51 ; WX 603 ; N three ; B 28 0 575 799 ;
+C 52 ; WX 643 ; N four ; B 29 0 614 799 ;
+C 53 ; WX 598 ; N five ; B 27 0 571 800 ;
+C 54 ; WX 627 ; N six ; B 29 0 598 800 ;
+C 55 ; WX 578 ; N seven ; B 26 0 551 799 ;
+C 56 ; WX 595 ; N eight ; B 27 0 568 799 ;
+C 57 ; WX 603 ; N nine ; B 28 0 576 799 ;
+C 58 ; WX 225 ; N colon ; B 24 47 202 514 ;
+C 59 ; WX 255 ; N semicolon ; B 43 -101 224 493 ;
+C 63 ; WX 468 ; N question ; B 21 0 447 800 ;
+C 65 ; WX 678 ; N A ; B 30 0 647 800 ;
+C 66 ; WX 630 ; N B ; B 29 0 601 800 ;
+C 67 ; WX 585 ; N C ; B 25 0 558 800 ;
+C 68 ; WX 646 ; N D ; B 29 0 617 799 ;
+C 69 ; WX 628 ; N E ; B 29 0 599 800 ;
+C 70 ; WX 536 ; N F ; B 25 0 531 802 ;
+C 71 ; WX 675 ; N G ; B 30 0 644 799 ;
+C 72 ; WX 701 ; N H ; B 32 0 670 799 ;
+C 73 ; WX 265 ; N I ; B 34 0 225 799 ;
+C 74 ; WX 506 ; N J ; B 23 0 483 799 ;
+C 75 ; WX 639 ; N K ; B 29 0 610 800 ;
+C 76 ; WX 619 ; N L ; B 28 -1 591 799 ;
+C 77 ; WX 858 ; N M ; B 39 -1 819 800 ;
+C 78 ; WX 588 ; N N ; B 27 0 561 799 ;
+C 79 ; WX 699 ; N O ; B 32 0 667 800 ;
+C 80 ; WX 722 ; N P ; B 33 0 689 799 ;
+C 81 ; WX 700 ; N Q ; B 31 -167 670 800 ;
+C 82 ; WX 750 ; N R ; B 34 0 716 800 ;
+C 83 ; WX 640 ; N S ; B 29 0 610 799 ;
+C 84 ; WX 523 ; N T ; B 24 0 498 799 ;
+C 85 ; WX 620 ; N U ; B 27 0 592 799 ;
+C 86 ; WX 671 ; N V ; B 30 0 640 800 ;
+C 87 ; WX 1028 ; N W ; B 47 -2 981 799 ;
+C 88 ; WX 670 ; N X ; B 30 0 640 800 ;
+C 89 ; WX 671 ; N Y ; B 30 0 640 800 ;
+C 90 ; WX 660 ; N Z ; B 30 -1 630 800 ;
+C 97 ; WX 536 ; N a ; B 25 0 511 484 ;
+C 98 ; WX 527 ; N b ; B 23 0 502 799 ;
+C 99 ; WX 424 ; N c ; B 20 -1 405 485 ;
+C 100 ; WX 588 ; N d ; B 27 0 562 800 ;
+C 101 ; WX 536 ; N e ; B 24 0 512 484 ;
+C 102 ; WX 335 ; N f ; B 20 -86 314 788 ;
+C 103 ; WX 540 ; N g ; B 25 -195 523 485 ;
+C 104 ; WX 504 ; N h ; B 22 0 481 800 ;
+C 105 ; WX 213 ; N i ; B 23 0 196 747 ;
+C 106 ; WX 250 ; N j ; B 17 -198 218 772 ;
+C 107 ; WX 515 ; N k ; B 23 0 491 800 ;
+C 108 ; WX 300 ; N l ; B 13 0 270 799 ;
+C 109 ; WX 791 ; N m ; B 33 0 755 484 ;
+C 110 ; WX 494 ; N n ; B 22 0 472 484 ;
+C 111 ; WX 520 ; N o ; B 24 0 496 485 ;
+C 112 ; WX 550 ; N p ; B 16 -198 524 491 ;
+C 113 ; WX 565 ; N q ; B 26 -200 533 488 ;
+C 114 ; WX 350 ; N r ; B 15 0 334 484 ;
+C 115 ; WX 420 ; N s ; B 19 0 401 484 ;
+C 116 ; WX 405 ; N t ; B 18 0 368 696 ;
+C 117 ; WX 497 ; N u ; B 23 0 474 483 ;
+C 118 ; WX 490 ; N v ; B 22 -1 468 484 ;
+C 119 ; WX 744 ; N w ; B 34 0 710 485 ;
+C 120 ; WX 490 ; N x ; B 22 0 468 485 ;
+C 121 ; WX 545 ; N y ; B 27 -229 518 492 ;
+C 122 ; WX 516 ; N z ; B 24 0 493 485 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 380 ; N cent ; B 27 116 355 756 ;
+C 163 ; WX 630 ; N sterling ; B 29 0 602 799 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _81 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 16
+KPX A T -91
+KPX A V -59
+KPX A W -102
+
+KPX F A -96
+KPX F J -133
+
+KPX L T -130
+
+KPX O V -43
+KPX O W -43
+
+KPX P A -32
+
+KPX T A -75
+
+KPX V A -59
+KPX V O -16
+
+KPX W A -59
+KPX W O -43
+
+KPX b l -48
+
+KPX k l -48
+
+EndKernPairs
+EndKernData
+EndFontMetrics

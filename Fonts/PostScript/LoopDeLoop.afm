@@ -1,0 +1,87 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 3 0 0 2 0 4
+FullName LoopDeLoop
+FontName LoopDeLoop
+FamilyName LoopDeLoop
+Weight normal
+Notice Converted to PC format for distribution by Reasonable Solutions, Inc.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -39 -147 750 925
+Ascender 801
+Descender -2
+XHeight 800
+CapHeight 809
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 119
+StdVW 25
+EncodingScheme FontSpecific
+StartCharMetrics 65
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 294 ; N exclam ; B 6 -56 249 806 ;
+C 34 ; WX 504 ; N quotedbl ; B 30 545 440 934 ;
+C 38 ; WX 579 ; N ampersand ; B -39 -6 559 806 ;
+C 39 ; WX 245 ; N quotesingle ; B 30 565 230 954 ;
+C 44 ; WX 245 ; N comma ; B 30 -147 230 242 ;
+C 46 ; WX 301 ; N period ; B 22 -5 254 226 ;
+C 58 ; WX 245 ; N colon ; B 7 -5 239 586 ;
+C 59 ; WX 245 ; N semicolon ; B 7 -147 239 586 ;
+C 63 ; WX 567 ; N question ; B 20 -46 632 806 ;
+C 65 ; WX 732 ; N A ; B 24 -6 667 807 ;
+C 66 ; WX 621 ; N B ; B 20 -6 616 805 ;
+C 67 ; WX 651 ; N C ; B 21 -34 591 823 ;
+C 68 ; WX 663 ; N D ; B 19 -32 589 822 ;
+C 69 ; WX 627 ; N E ; B 19 -6 524 806 ;
+C 70 ; WX 600 ; N F ; B 19 -10 524 806 ;
+C 71 ; WX 696 ; N G ; B 8 -22 628 822 ;
+C 72 ; WX 660 ; N H ; B 21 -7 571 807 ;
+C 73 ; WX 309 ; N I ; B 35 -10 271 806 ;
+C 74 ; WX 585 ; N J ; B 5 -7 544 810 ;
+C 75 ; WX 717 ; N K ; B 24 -29 638 806 ;
+C 76 ; WX 606 ; N L ; B 18 -6 506 809 ;
+C 77 ; WX 822 ; N M ; B 18 -32 750 808 ;
+C 78 ; WX 639 ; N N ; B 20 -13 544 810 ;
+C 79 ; WX 750 ; N O ; B -37 -23 700 816 ;
+C 80 ; WX 615 ; N P ; B 20 -7 573 830 ;
+C 81 ; WX 756 ; N Q ; B 18 -9 691 817 ;
+C 82 ; WX 636 ; N R ; B 9 -6 625 806 ;
+C 83 ; WX 645 ; N S ; B -24 -78 605 806 ;
+C 84 ; WX 756 ; N T ; B 26 -10 698 806 ;
+C 85 ; WX 675 ; N U ; B 22 -6 596 807 ;
+C 86 ; WX 686 ; N V ; B 23 -18 663 825 ;
+C 87 ; WX 764 ; N W ; B 28 -8 749 831 ;
+C 88 ; WX 750 ; N X ; B 22 -17 649 816 ;
+C 89 ; WX 786 ; N Y ; B 26 -6 711 817 ;
+C 90 ; WX 690 ; N Z ; B 21 -6 595 806 ;
+C 97 ; WX 691 ; N a ; B 32 0 659 800 ;
+C 98 ; WX 578 ; N b ; B 25 -1 610 800 ;
+C 99 ; WX 610 ; N c ; B 29 -25 583 814 ;
+C 100 ; WX 610 ; N d ; B 29 -26 582 813 ;
+C 101 ; WX 543 ; N e ; B 24 0 519 800 ;
+C 102 ; WX 543 ; N f ; B 26 1 518 800 ;
+C 103 ; WX 648 ; N g ; B 16 -4 620 813 ;
+C 104 ; WX 592 ; N h ; B 27 0 564 800 ;
+C 105 ; WX 244 ; N i ; B 12 1 251 799 ;
+C 106 ; WX 552 ; N j ; B 13 -7 536 799 ;
+C 107 ; WX 659 ; N k ; B 30 0 618 800 ;
+C 108 ; WX 523 ; N l ; B 25 0 498 800 ;
+C 109 ; WX 779 ; N m ; B 26 0 742 800 ;
+C 110 ; WX 567 ; N n ; B 26 0 520 800 ;
+C 111 ; WX 698 ; N o ; B -28 -17 695 810 ;
+C 112 ; WX 580 ; N p ; B 27 1 565 819 ;
+C 113 ; WX 704 ; N q ; B 23 -3 682 816 ;
+C 114 ; WX 573 ; N r ; B 20 0 624 800 ;
+C 115 ; WX 600 ; N s ; B -13 -70 586 800 ;
+C 116 ; WX 724 ; N t ; B 33 1 690 800 ;
+C 117 ; WX 618 ; N u ; B 16 1 601 799 ;
+C 118 ; WX 686 ; N v ; B 32 0 655 800 ;
+C 119 ; WX 777 ; N w ; B 36 0 741 800 ;
+C 120 ; WX 671 ; N x ; B 31 -6 641 805 ;
+C 121 ; WX 728 ; N y ; B 34 0 704 806 ;
+C 122 ; WX 614 ; N z ; B 28 0 586 800 ;
+C 160 ; WX 250 ; N nbspace ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

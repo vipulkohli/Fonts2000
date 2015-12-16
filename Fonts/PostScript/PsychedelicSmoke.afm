@@ -1,0 +1,107 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 6 0 0 2 0 4
+FullName PsychedelicSmoke
+FontName PsychedelicSmoke
+FamilyName PsychedelicSmoke
+Weight normal
+Notice Adapted 1990 by Walter Kafton-Minkel
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -133 -189 858 782
+Ascender 759
+Descender -189
+XHeight 559
+CapHeight 771
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 28
+StdVW 184
+EncodingScheme FontSpecific
+StartCharMetrics 85
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 398 ; N exclam ; B -34 -88 317 777 ;
+C 36 ; WX 520 ; N dollar ; B -16 -60 554 784 ;
+C 37 ; WX 492 ; N percent ; B -20 -56 506 759 ;
+C 38 ; WX 488 ; N ampersand ; B -86 -43 547 763 ;
+C 40 ; WX 252 ; N parenleft ; B -23 -62 324 761 ;
+C 41 ; WX 296 ; N parenright ; B -11 -119 312 815 ;
+C 43 ; WX 520 ; N plus ; B -45 -19 511 573 ;
+C 44 ; WX 220 ; N comma ; B 68 -115 231 255 ;
+C 45 ; WX 460 ; N hyphen ; B 29 177 428 449 ;
+C 46 ; WX 220 ; N period ; B 75 -12 231 217 ;
+C 48 ; WX 506 ; N zero ; B -14 -47 520 762 ;
+C 49 ; WX 416 ; N one ; B -24 -46 439 756 ;
+C 50 ; WX 464 ; N two ; B -32 -42 473 755 ;
+C 51 ; WX 484 ; N three ; B -32 -45 497 757 ;
+C 52 ; WX 480 ; N four ; B -80 -42 476 757 ;
+C 53 ; WX 544 ; N five ; B -11 -45 555 758 ;
+C 54 ; WX 484 ; N six ; B -3 -44 493 761 ;
+C 55 ; WX 472 ; N seven ; B -22 -54 482 767 ;
+C 56 ; WX 540 ; N eight ; B -9 -46 549 770 ;
+C 57 ; WX 480 ; N nine ; B -15 -47 492 758 ;
+C 58 ; WX 220 ; N colon ; B -25 -8 227 549 ;
+C 59 ; WX 220 ; N semicolon ; B -25 -119 207 549 ;
+C 63 ; WX 372 ; N question ; B -7 -59 397 763 ;
+C 65 ; WX 568 ; N A ; B 12 -43 633 760 ;
+C 66 ; WX 588 ; N B ; B -133 -34 614 759 ;
+C 67 ; WX 439 ; N C ; B -20 -36 479 754 ;
+C 68 ; WX 582 ; N D ; B -98 -53 637 760 ;
+C 69 ; WX 584 ; N E ; B -111 -37 597 771 ;
+C 70 ; WX 481 ; N F ; B -107 -45 449 769 ;
+C 71 ; WX 503 ; N G ; B -4 -45 579 761 ;
+C 72 ; WX 596 ; N H ; B -98 -44 663 754 ;
+C 73 ; WX 341 ; N I ; B -107 -40 403 751 ;
+C 74 ; WX 352 ; N J ; B -3 -42 407 761 ;
+C 75 ; WX 596 ; N K ; B -119 -39 653 758 ;
+C 76 ; WX 457 ; N L ; B -104 -42 519 756 ;
+C 77 ; WX 811 ; N M ; B -125 -48 858 765 ;
+C 78 ; WX 591 ; N N ; B -89 -44 625 750 ;
+C 79 ; WX 480 ; N O ; B -13 -40 489 761 ;
+C 80 ; WX 490 ; N P ; B -94 -40 464 759 ;
+C 81 ; WX 564 ; N Q ; B -27 -50 616 765 ;
+C 82 ; WX 683 ; N R ; B -116 -39 743 757 ;
+C 83 ; WX 543 ; N S ; B -4 -72 587 762 ;
+C 84 ; WX 494 ; N T ; B -104 -50 567 757 ;
+C 85 ; WX 537 ; N U ; B -96 -50 574 759 ;
+C 86 ; WX 476 ; N V ; B -64 -45 476 759 ;
+C 87 ; WX 724 ; N W ; B -65 -42 728 757 ;
+C 88 ; WX 564 ; N X ; B -89 -47 575 762 ;
+C 89 ; WX 492 ; N Y ; B -66 -46 499 766 ;
+C 90 ; WX 516 ; N Z ; B -45 -52 556 759 ;
+C 97 ; WX 479 ; N a ; B -18 -14 510 546 ;
+C 98 ; WX 512 ; N b ; B -68 -14 533 752 ;
+C 99 ; WX 386 ; N c ; B -17 -9 410 544 ;
+C 100 ; WX 400 ; N d ; B -13 -17 467 750 ;
+C 101 ; WX 372 ; N e ; B 2 -15 406 544 ;
+C 102 ; WX 360 ; N f ; B -9 -20 408 762 ;
+C 103 ; WX 496 ; N g ; B -1 -144 520 547 ;
+C 104 ; WX 604 ; N h ; B -66 -11 611 758 ;
+C 105 ; WX 307 ; N i ; B -78 -9 327 707 ;
+C 106 ; WX 308 ; N j ; B -35 -151 347 711 ;
+C 107 ; WX 602 ; N k ; B -84 -13 639 759 ;
+C 108 ; WX 347 ; N l ; B -79 -8 409 757 ;
+C 109 ; WX 680 ; N m ; B -74 -11 719 564 ;
+C 110 ; WX 464 ; N n ; B -103 -14 500 542 ;
+C 111 ; WX 408 ; N o ; B 3 -15 386 548 ;
+C 112 ; WX 408 ; N p ; B -122 -189 426 554 ;
+C 113 ; WX 426 ; N q ; B -7 -164 577 547 ;
+C 114 ; WX 346 ; N r ; B -108 -19 333 553 ;
+C 115 ; WX 380 ; N s ; B -5 -16 401 551 ;
+C 116 ; WX 313 ; N t ; B -78 -10 369 721 ;
+C 117 ; WX 450 ; N u ; B -47 -18 488 547 ;
+C 118 ; WX 330 ; N v ; B -88 -9 444 554 ;
+C 119 ; WX 488 ; N w ; B -69 -9 492 554 ;
+C 120 ; WX 380 ; N x ; B -52 -11 417 559 ;
+C 121 ; WX 382 ; N y ; B -37 -140 416 551 ;
+C 122 ; WX 312 ; N z ; B -38 -18 345 556 ;
+C 145 ; WX 264 ; N quoteleft ; B 45 401 208 771 ;
+C 146 ; WX 264 ; N quoteright ; B 44 395 207 765 ;
+C 147 ; WX 450 ; N quotedblleft ; B 27 395 418 765 ;
+C 148 ; WX 450 ; N quotedblright ; B 20 407 411 777 ;
+C 150 ; WX 724 ; N endash ; B 33 220 695 460 ;
+C 151 ; WX 800 ; N emdash ; B 33 228 799 468 ;
+C 160 ; WX 250 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

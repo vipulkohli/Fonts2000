@@ -1,0 +1,72 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 0 6 0 0 2 0 4
+FullName BUSINDNG
+FontName BUSINDNG
+FamilyName BUSINDNG
+Weight normal
+Notice No copyright at all! This is my first font. Hope you like it. More to come. Alan Carr
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 0 2000 2000
+Ascender 2000
+Descender -2
+XHeight 2000
+CapHeight 700
+UnderlinePosition -24
+UnderlineThickness 12
+StdHW 43
+StdVW 128
+EncodingScheme FontSpecific
+StartCharMetrics 50
+C 32 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 39 ; WX 0 ; N quotesingle ; B 0 0 2000 1691 ;
+C 44 ; WX 0 ; N comma ; B 0 0 2000 1039 ;
+C 45 ; WX 0 ; N hyphen ; B 0 0 2000 1772 ;
+C 46 ; WX 0 ; N period ; B 17 11 1986 1982 ;
+C 47 ; WX 0 ; N slash ; B 15 12 1946 1985 ;
+C 48 ; WX 0 ; N zero ; B 0 0 1937 2000 ;
+C 49 ; WX 0 ; N one ; B 0 0 2000 1087 ;
+C 50 ; WX 0 ; N two ; B 0 0 1959 2000 ;
+C 51 ; WX 0 ; N three ; B 0 0 1972 2000 ;
+C 52 ; WX 0 ; N four ; B 0 0 1180 1676 ;
+C 53 ; WX 0 ; N five ; B 0 0 1056 1808 ;
+C 54 ; WX 0 ; N six ; B 0 0 2000 1846 ;
+C 55 ; WX 0 ; N seven ; B 0 0 1720 1712 ;
+C 56 ; WX 0 ; N eight ; B 0 0 2000 1908 ;
+C 57 ; WX 0 ; N nine ; B 0 0 1747 2000 ;
+C 59 ; WX 0 ; N semicolon ; B 0 0 2000 1428 ;
+C 61 ; WX 0 ; N equal ; B 0 0 2000 1626 ;
+C 91 ; WX 0 ; N bracketleft ; B 0 0 2000 1856 ;
+C 93 ; WX 0 ; N bracketright ; B 0 0 1010 2000 ;
+C 97 ; WX 0 ; N a ; B 0 0 624 1644 ;
+C 98 ; WX 0 ; N b ; B 0 0 1040 2000 ;
+C 99 ; WX 0 ; N c ; B 0 0 1984 1992 ;
+C 100 ; WX 0 ; N d ; B 0 0 1339 2000 ;
+C 101 ; WX 0 ; N e ; B 0 0 1289 2000 ;
+C 102 ; WX 0 ; N f ; B 0 0 1092 1604 ;
+C 103 ; WX 0 ; N g ; B 0 0 1596 1760 ;
+C 104 ; WX 0 ; N h ; B 0 0 1796 1800 ;
+C 105 ; WX 0 ; N i ; B 36 0 1554 2000 ;
+C 106 ; WX 0 ; N j ; B 0 0 1152 1548 ;
+C 107 ; WX 0 ; N k ; B 0 0 1340 1420 ;
+C 108 ; WX 0 ; N l ; B 0 0 2000 1993 ;
+C 109 ; WX 0 ; N m ; B 0 0 295 2000 ;
+C 110 ; WX 0 ; N n ; B 0 0 1943 2000 ;
+C 111 ; WX 0 ; N o ; B 0 0 2000 1743 ;
+C 112 ; WX 0 ; N p ; B 0 0 2000 1533 ;
+C 113 ; WX 0 ; N q ; B 0 0 1596 2000 ;
+C 114 ; WX 0 ; N r ; B 3 0 1997 1270 ;
+C 115 ; WX 0 ; N s ; B 0 0 444 1532 ;
+C 116 ; WX 0 ; N t ; B 0 0 2000 1273 ;
+C 117 ; WX 0 ; N u ; B 0 0 1384 1512 ;
+C 118 ; WX 0 ; N v ; B 0 0 981 2000 ;
+C 119 ; WX 0 ; N w ; B 0 0 2000 1817 ;
+C 120 ; WX 0 ; N x ; B 0 0 1992 2000 ;
+C 121 ; WX 0 ; N y ; B 0 0 1977 1976 ;
+C 122 ; WX 0 ; N z ; B 0 0 2000 1289 ;
+C 160 ; WX 122 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N _49 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,150 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 2 0 0 2 0 4
+FullName ZALESKIC
+FontName ZALESKIC
+FamilyName ZALESKIC
+Weight normal
+Notice Converted by ALLTYPE
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -138 1421 1002
+Ascender 1000
+Descender -114
+XHeight 1000
+CapHeight 1000
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 233
+EncodingScheme FontSpecific
+StartCharMetrics 81
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 523 ; N exclam ; B 24 0 498 999 ;
+C 34 ; WX 714 ; N quotedbl ; B 55 600 677 990 ;
+C 36 ; WX 803 ; N dollar ; B 37 -1 767 1000 ;
+C 38 ; WX 1099 ; N ampersand ; B 50 0 1049 1000 ;
+C 39 ; WX 378 ; N quotesingle ; B 55 600 347 990 ;
+C 40 ; WX 581 ; N parenleft ; B 27 0 555 1000 ;
+C 41 ; WX 595 ; N parenright ; B 27 0 568 1000 ;
+C 44 ; WX 378 ; N comma ; B 44 -138 336 251 ;
+C 46 ; WX 366 ; N period ; B 45 -10 333 248 ;
+C 48 ; WX 1044 ; N zero ; B 46 53 979 947 ;
+C 49 ; WX 546 ; N one ; B 25 0 521 999 ;
+C 50 ; WX 860 ; N two ; B 39 0 821 1000 ;
+C 51 ; WX 771 ; N three ; B 35 0 736 999 ;
+C 52 ; WX 978 ; N four ; B 45 0 958 999 ;
+C 53 ; WX 704 ; N five ; B 32 0 672 1000 ;
+C 54 ; WX 805 ; N six ; B 37 0 769 999 ;
+C 55 ; WX 835 ; N seven ; B 38 0 797 999 ;
+C 56 ; WX 851 ; N eight ; B 39 0 812 999 ;
+C 57 ; WX 831 ; N nine ; B 38 0 793 1000 ;
+C 63 ; WX 842 ; N question ; B 39 0 804 999 ;
+C 65 ; WX 1152 ; N A ; B 52 -1 1100 999 ;
+C 66 ; WX 894 ; N B ; B 26 13 861 983 ;
+C 67 ; WX 987 ; N C ; B 48 0 1006 1000 ;
+C 68 ; WX 1074 ; N D ; B 50 18 1043 979 ;
+C 69 ; WX 749 ; N E ; B 34 0 715 999 ;
+C 70 ; WX 780 ; N F ; B 35 0 745 999 ;
+C 71 ; WX 1001 ; N G ; B 46 0 955 999 ;
+C 72 ; WX 1182 ; N H ; B 59 30 1110 971 ;
+C 73 ; WX 552 ; N I ; B 33 14 523 984 ;
+C 74 ; WX 651 ; N J ; B 30 0 622 1000 ;
+C 75 ; WX 1038 ; N K ; B 47 0 990 1000 ;
+C 76 ; WX 786 ; N L ; B 36 0 751 1000 ;
+C 77 ; WX 1428 ; N M ; B 35 0 1396 999 ;
+C 78 ; WX 1171 ; N N ; B 53 0 1118 999 ;
+C 79 ; WX 1088 ; N O ; B 49 0 1039 1000 ;
+C 80 ; WX 1037 ; N P ; B 47 0 990 999 ;
+C 81 ; WX 1059 ; N Q ; B 48 0 1011 1000 ;
+C 82 ; WX 1065 ; N R ; B 48 0 1017 1000 ;
+C 83 ; WX 783 ; N S ; B 36 0 747 1000 ;
+C 84 ; WX 830 ; N T ; B 37 0 792 999 ;
+C 85 ; WX 1134 ; N U ; B 56 36 1087 988 ;
+C 86 ; WX 1284 ; N V ; B 58 0 1226 1000 ;
+C 87 ; WX 1443 ; N W ; B 37 0 1421 1000 ;
+C 88 ; WX 1210 ; N X ; B 55 0 1155 1000 ;
+C 89 ; WX 1099 ; N Y ; B 26 0 1068 1000 ;
+C 90 ; WX 805 ; N Z ; B 37 0 768 999 ;
+C 97 ; WX 1152 ; N a ; B 52 -1 1100 999 ;
+C 98 ; WX 894 ; N b ; B 26 13 861 983 ;
+C 99 ; WX 987 ; N c ; B 48 0 1006 1000 ;
+C 100 ; WX 1074 ; N d ; B 50 18 1043 979 ;
+C 101 ; WX 749 ; N e ; B 34 0 715 999 ;
+C 102 ; WX 780 ; N f ; B 35 0 745 999 ;
+C 103 ; WX 1001 ; N g ; B 46 0 955 999 ;
+C 104 ; WX 1182 ; N h ; B 59 30 1110 971 ;
+C 105 ; WX 552 ; N i ; B 33 14 523 984 ;
+C 106 ; WX 651 ; N j ; B 30 0 622 1000 ;
+C 107 ; WX 1038 ; N k ; B 47 0 990 1000 ;
+C 108 ; WX 786 ; N l ; B 36 0 751 1000 ;
+C 109 ; WX 1428 ; N m ; B 35 0 1396 999 ;
+C 110 ; WX 1171 ; N n ; B 53 0 1118 999 ;
+C 111 ; WX 1088 ; N o ; B 49 0 1039 1000 ;
+C 112 ; WX 1037 ; N p ; B 47 0 990 999 ;
+C 113 ; WX 1059 ; N q ; B 48 0 1011 1000 ;
+C 114 ; WX 1065 ; N r ; B 48 0 1017 1000 ;
+C 115 ; WX 783 ; N s ; B 36 0 747 1000 ;
+C 116 ; WX 830 ; N t ; B 37 0 792 999 ;
+C 117 ; WX 1134 ; N u ; B 56 36 1087 988 ;
+C 118 ; WX 1284 ; N v ; B 58 0 1226 1000 ;
+C 119 ; WX 1443 ; N w ; B 37 0 1421 1000 ;
+C 120 ; WX 1210 ; N x ; B 55 0 1155 1000 ;
+C 121 ; WX 1099 ; N y ; B 26 0 1068 1000 ;
+C 122 ; WX 805 ; N z ; B 37 0 768 999 ;
+C 145 ; WX 360 ; N quoteleft ; B 35 607 330 999 ;
+C 146 ; WX 378 ; N quoteright ; B 55 600 347 990 ;
+C 147 ; WX 690 ; N quotedblleft ; B 35 607 666 999 ;
+C 148 ; WX 714 ; N quotedblright ; B 55 600 677 990 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _80 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 41
+KPX space space -122
+KPX space parenleft -122
+KPX space question -1532
+KPX space C -1878
+KPX space K -4878
+KPX space R 6122
+KPX space S -1533
+KPX space n 1028
+KPX space z -878
+KPX space quotedblright 878
+KPX space quotedbl -5878
+
+KPX comma space 300
+
+KPX nine nine -7878
+
+KPX C a 2122
+
+KPX N o 6122
+
+KPX R e -7878
+
+KPX Z a 2122
+
+KPX a l -1536
+KPX a p 7122
+KPX a v -878
+
+KPX b y -878
+
+KPX i period -878
+KPX i p 116
+
+KPX l l -2878
+KPX l t 101
+
+KPX o r -878
+KPX o w 7122
+
+KPX s k -7878
+
+KPX t S 6122
+KPX t e -5878
+
+EndKernPairs
+EndKernData
+EndFontMetrics

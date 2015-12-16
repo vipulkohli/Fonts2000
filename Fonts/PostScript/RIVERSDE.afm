@@ -1,0 +1,91 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName RIVERSDE
+FontName RIVERSDE
+FamilyName RIVERSDE
+Weight normal
+Notice Converted by ALLTYPE
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -337 766 651
+Ascender 643
+Descender -327
+XHeight 320
+CapHeight 643
+UnderlinePosition -80
+UnderlineThickness 51
+StdVW 32
+EncodingScheme FontSpecific
+StartCharMetrics 70
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 194 ; N exclam ; B 9 0 185 641 ;
+C 48 ; WX 579 ; N zero ; B 26 0 553 643 ;
+C 49 ; WX 300 ; N one ; B 14 0 287 643 ;
+C 50 ; WX 534 ; N two ; B 24 0 511 643 ;
+C 51 ; WX 569 ; N three ; B 26 0 543 643 ;
+C 52 ; WX 532 ; N four ; B 24 0 508 643 ;
+C 53 ; WX 647 ; N five ; B 30 0 618 642 ;
+C 54 ; WX 576 ; N six ; B 26 -1 551 643 ;
+C 55 ; WX 443 ; N seven ; B 20 0 422 643 ;
+C 56 ; WX 651 ; N eight ; B 30 0 621 642 ;
+C 57 ; WX 470 ; N nine ; B 22 0 449 642 ;
+C 63 ; WX 307 ; N question ; B 14 -1 293 642 ;
+C 65 ; WX 761 ; N A ; B 35 0 727 643 ;
+C 66 ; WX 665 ; N B ; B 30 -1 635 641 ;
+C 67 ; WX 513 ; N C ; B 23 0 490 641 ;
+C 68 ; WX 670 ; N D ; B 31 0 640 642 ;
+C 69 ; WX 598 ; N E ; B 28 0 572 642 ;
+C 70 ; WX 724 ; N F ; B 33 0 692 643 ;
+C 71 ; WX 415 ; N G ; B 19 -161 396 642 ;
+C 72 ; WX 669 ; N H ; B 31 0 639 643 ;
+C 73 ; WX 500 ; N I ; B 23 0 476 643 ;
+C 74 ; WX 467 ; N J ; B 21 -1 446 642 ;
+C 75 ; WX 496 ; N K ; B 21 0 473 642 ;
+C 76 ; WX 503 ; N L ; B 22 0 480 642 ;
+C 77 ; WX 590 ; N M ; B 27 0 564 643 ;
+C 78 ; WX 473 ; N N ; B 22 0 451 642 ;
+C 79 ; WX 826 ; N O ; B 36 0 766 642 ;
+C 80 ; WX 566 ; N P ; B 25 0 541 643 ;
+C 81 ; WX 733 ; N Q ; B 33 0 648 651 ;
+C 82 ; WX 605 ; N R ; B 28 0 577 643 ;
+C 83 ; WX 746 ; N S ; B 34 0 712 643 ;
+C 84 ; WX 733 ; N T ; B 33 0 700 643 ;
+C 85 ; WX 504 ; N U ; B 23 0 482 643 ;
+C 86 ; WX 749 ; N V ; B 34 0 716 643 ;
+C 87 ; WX 634 ; N W ; B 29 0 605 641 ;
+C 88 ; WX 540 ; N X ; B 25 0 515 643 ;
+C 89 ; WX 398 ; N Y ; B 18 -161 380 643 ;
+C 90 ; WX 755 ; N Z ; B 35 0 721 642 ;
+C 94 ; WX 286 ; N asciicircum ; B 13 -120 273 481 ;
+C 97 ; WX 399 ; N a ; B 18 0 382 321 ;
+C 98 ; WX 388 ; N b ; B 18 0 371 514 ;
+C 99 ; WX 400 ; N c ; B 18 0 382 320 ;
+C 100 ; WX 494 ; N d ; B 22 0 471 643 ;
+C 101 ; WX 212 ; N e ; B 10 -1 202 320 ;
+C 102 ; WX 335 ; N f ; B 15 -120 319 642 ;
+C 103 ; WX 305 ; N g ; B 9 -313 287 328 ;
+C 104 ; WX 402 ; N h ; B 18 0 384 514 ;
+C 105 ; WX 225 ; N i ; B 9 0 215 482 ;
+C 106 ; WX 314 ; N j ; B 24 -328 310 314 ;
+C 107 ; WX 335 ; N k ; B 15 0 320 643 ;
+C 108 ; WX 219 ; N l ; B 10 0 209 642 ;
+C 109 ; WX 543 ; N m ; B 24 0 518 320 ;
+C 110 ; WX 335 ; N n ; B 16 0 320 321 ;
+C 111 ; WX 396 ; N o ; B 18 0 379 320 ;
+C 112 ; WX 427 ; N p ; B 20 -321 407 321 ;
+C 113 ; WX 372 ; N q ; B 17 -327 355 315 ;
+C 114 ; WX 265 ; N r ; B 12 0 253 320 ;
+C 115 ; WX 287 ; N s ; B 13 -1 273 320 ;
+C 116 ; WX 362 ; N t ; B 15 0 346 643 ;
+C 117 ; WX 524 ; N u ; B 23 0 501 320 ;
+C 118 ; WX 367 ; N v ; B 17 0 351 320 ;
+C 119 ; WX 576 ; N w ; B 26 0 551 320 ;
+C 120 ; WX 377 ; N x ; B 17 -80 360 320 ;
+C 121 ; WX 451 ; N y ; B 34 -337 444 304 ;
+C 122 ; WX 308 ; N z ; B 14 0 295 321 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _69 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,128 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName SALTERS
+FontName SALTERS
+FamilyName SALTERS
+Weight normal
+Notice Salter © 1991 by D. Rakowski and Columbia University. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -1 -223 864 843
+Ascender 804
+Descender -196
+XHeight 500
+CapHeight 714
+UnderlinePosition -95
+UnderlineThickness 14
+StdHW 55
+StdVW 86
+EncodingScheme FontSpecific
+StartCharMetrics 66
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 321 ; N exclam ; B 18 -4 326 693 ;
+C 38 ; WX 579 ; N ampersand ; B -1 -1 578 711 ;
+C 39 ; WX 325 ; N quotesingle ; B 29 465 324 843 ;
+C 44 ; WX 455 ; N comma ; B 41 -105 452 424 ;
+C 46 ; WX 291 ; N period ; B 5 -2 292 286 ;
+C 48 ; WX 561 ; N zero ; B 29 0 560 714 ;
+C 49 ; WX 393 ; N one ; B 19 0 397 714 ;
+C 50 ; WX 539 ; N two ; B 26 0 542 714 ;
+C 51 ; WX 554 ; N three ; B 26 0 554 714 ;
+C 52 ; WX 625 ; N four ; B 30 0 627 714 ;
+C 53 ; WX 575 ; N five ; B 27 1 576 714 ;
+C 54 ; WX 554 ; N six ; B 26 0 556 715 ;
+C 55 ; WX 554 ; N seven ; B 26 0 556 714 ;
+C 56 ; WX 557 ; N eight ; B 27 0 556 714 ;
+C 57 ; WX 532 ; N nine ; B 26 0 537 715 ;
+C 59 ; WX 325 ; N semicolon ; B 29 -75 324 582 ;
+C 63 ; WX 471 ; N question ; B 19 -4 462 707 ;
+C 65 ; WX 569 ; N A ; B 11 0 585 714 ;
+C 66 ; WX 611 ; N B ; B 29 -5 606 712 ;
+C 67 ; WX 568 ; N C ; B 27 0 573 714 ;
+C 68 ; WX 614 ; N D ; B 29 0 610 712 ;
+C 69 ; WX 536 ; N E ; B 26 0 536 714 ;
+C 70 ; WX 521 ; N F ; B 25 0 520 714 ;
+C 71 ; WX 650 ; N G ; B 31 1 649 714 ;
+C 72 ; WX 644 ; N H ; B 29 0 615 714 ;
+C 73 ; WX 331 ; N I ; B 31 1 329 714 ;
+C 74 ; WX 575 ; N J ; B 28 0 591 714 ;
+C 75 ; WX 661 ; N K ; B 31 0 666 714 ;
+C 76 ; WX 511 ; N L ; B 16 0 501 714 ;
+C 77 ; WX 786 ; N M ; B 38 0 786 714 ;
+C 78 ; WX 607 ; N N ; B 29 0 618 714 ;
+C 79 ; WX 589 ; N O ; B 29 0 597 714 ;
+C 80 ; WX 557 ; N P ; B 26 0 563 714 ;
+C 81 ; WX 611 ; N Q ; B 29 0 612 714 ;
+C 82 ; WX 596 ; N R ; B 29 0 597 715 ;
+C 83 ; WX 561 ; N S ; B 27 0 566 714 ;
+C 84 ; WX 559 ; N T ; B 3 0 580 714 ;
+C 85 ; WX 532 ; N U ; B 26 0 546 714 ;
+C 86 ; WX 579 ; N V ; B 28 0 590 714 ;
+C 87 ; WX 857 ; N W ; B 41 0 864 714 ;
+C 88 ; WX 629 ; N X ; B 30 0 634 714 ;
+C 89 ; WX 636 ; N Y ; B 31 0 649 714 ;
+C 90 ; WX 568 ; N Z ; B 27 0 566 714 ;
+C 159 ; WX 355 ; N Ydieresis ; B 16 0 340 800 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 177 ; WX 549 ; N plusminus ; B 10 0 539 645 ;
+C 181 ; WX 576 ; N mu ; B 32 -223 567 500 ;
+C 247 ; WX 549 ; N divide ; B 10 71 536 456 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 612 ; N Delta ; B 6 0 608 688 ;
+C -1 ; WX 768 ; N _64 ; B 34 0 736 688 ;
+C -1 ; WX 500 ; N _65 ; B 0 0 0 0 ;
+C -1 ; WX 549 ; N approxequal ; B 14 135 527 394 ;
+C -1 ; WX 549 ; N greaterequal ; B 29 0 526 639 ;
+C -1 ; WX 713 ; N infinity ; B 26 125 688 404 ;
+C -1 ; WX 274 ; N integral ; B 2 -107 291 916 ;
+C -1 ; WX 549 ; N lessequal ; B 29 0 526 639 ;
+C -1 ; WX 494 ; N lozenge ; B 18 0 466 745 ;
+C -1 ; WX 549 ; N notequal ; B 15 -25 540 549 ;
+C -1 ; WX 494 ; N partialdiff ; B 26 -21 462 746 ;
+C -1 ; WX 549 ; N pi ; B 10 -19 530 487 ;
+C -1 ; WX 823 ; N product ; B 25 -101 803 751 ;
+C -1 ; WX 549 ; N radical ; B 10 -38 515 917 ;
+C -1 ; WX 713 ; N summation ; B 14 -108 695 752 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 28
+KPX A A -24
+KPX A W -36
+KPX A Y -12
+
+KPX F comma -240
+KPX F period -216
+KPX F A -156
+KPX F O -120
+KPX F Q -120
+KPX F S -96
+KPX F T -36
+KPX F U -72
+
+KPX L A -36
+KPX L T -60
+
+KPX O comma -72
+KPX O period -60
+KPX O A -72
+
+KPX T comma -108
+KPX T period -144
+KPX T A -120
+
+KPX V comma -120
+KPX V period -132
+KPX V A -96
+
+KPX W comma -120
+KPX W period -120
+KPX W A -48
+
+KPX Y comma -132
+KPX Y period -156
+KPX Y A -120
+
+EndKernPairs
+EndKernData
+EndFontMetrics

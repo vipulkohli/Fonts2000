@@ -1,0 +1,192 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName CSDBLOC
+FontName CSDBLOC
+FamilyName CSDBLOC
+Weight normal
+Notice Converted by ALLTYPE
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -181 710 655
+Ascender 655
+Descender -181
+XHeight 470
+CapHeight 655
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 123
+StdVW 114
+EncodingScheme FontSpecific
+StartCharMetrics 111
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 164 ; N exclam ; B 16 2 148 653 ;
+C 34 ; WX 256 ; N quotedbl ; B 20 470 240 655 ;
+C 35 ; WX 470 ; N numbersign ; B 4 57 448 609 ;
+C 36 ; WX 319 ; N dollar ; B 18 2 301 653 ;
+C 37 ; WX 726 ; N percent ; B 20 2 710 655 ;
+C 38 ; WX 532 ; N ampersand ; B 11 2 520 653 ;
+C 39 ; WX 125 ; N quotesingle ; B 21 470 105 653 ;
+C 40 ; WX 246 ; N parenleft ; B 18 2 224 653 ;
+C 41 ; WX 237 ; N parenright ; B 18 2 224 653 ;
+C 42 ; WX 379 ; N asterisk ; B 18 157 358 497 ;
+C 43 ; WX 267 ; N plus ; B 16 212 246 441 ;
+C 44 ; WX 174 ; N comma ; B 14 -98 149 125 ;
+C 45 ; WX 267 ; N hyphen ; B 16 285 246 370 ;
+C 46 ; WX 164 ; N period ; B 16 2 146 125 ;
+C 47 ; WX 480 ; N slash ; B 9 2 464 655 ;
+C 48 ; WX 379 ; N zero ; B 16 2 359 653 ;
+C 49 ; WX 246 ; N one ; B 20 2 221 653 ;
+C 50 ; WX 379 ; N two ; B 16 2 359 653 ;
+C 51 ; WX 379 ; N three ; B 16 2 359 653 ;
+C 52 ; WX 431 ; N four ; B 7 2 407 653 ;
+C 53 ; WX 379 ; N five ; B 16 2 359 653 ;
+C 54 ; WX 379 ; N six ; B 16 2 359 653 ;
+C 55 ; WX 379 ; N seven ; B 16 2 359 653 ;
+C 56 ; WX 379 ; N eight ; B 18 2 359 653 ;
+C 57 ; WX 379 ; N nine ; B 16 2 359 653 ;
+C 58 ; WX 164 ; N colon ; B 16 4 146 388 ;
+C 59 ; WX 164 ; N semicolon ; B 14 -96 148 388 ;
+C 60 ; WX 146 ; N less ; B 16 208 128 441 ;
+C 61 ; WX 267 ; N equal ; B 16 214 246 441 ;
+C 62 ; WX 146 ; N greater ; B 16 208 128 441 ;
+C 63 ; WX 379 ; N question ; B 18 2 359 653 ;
+C 64 ; WX 359 ; N at ; B 21 18 340 641 ;
+C 65 ; WX 420 ; N A ; B 18 2 399 653 ;
+C 66 ; WX 390 ; N B ; B 21 2 375 653 ;
+C 67 ; WX 379 ; N C ; B 16 2 359 653 ;
+C 68 ; WX 399 ; N D ; B 18 2 379 653 ;
+C 69 ; WX 319 ; N E ; B 20 2 301 653 ;
+C 70 ; WX 319 ; N F ; B 20 2 301 653 ;
+C 71 ; WX 379 ; N G ; B 16 2 359 653 ;
+C 72 ; WX 431 ; N H ; B 14 2 404 653 ;
+C 73 ; WX 185 ; N I ; B 25 2 160 653 ;
+C 74 ; WX 338 ; N J ; B 20 2 320 655 ;
+C 75 ; WX 431 ; N K ; B 18 2 418 655 ;
+C 76 ; WX 319 ; N L ; B 16 2 301 655 ;
+C 77 ; WX 512 ; N M ; B 20 2 495 653 ;
+C 78 ; WX 399 ; N N ; B 18 2 379 653 ;
+C 79 ; WX 379 ; N O ; B 16 2 359 653 ;
+C 80 ; WX 399 ; N P ; B 18 2 379 653 ;
+C 81 ; WX 379 ; N Q ; B 16 2 359 653 ;
+C 82 ; WX 379 ; N R ; B 18 2 359 653 ;
+C 83 ; WX 379 ; N S ; B 16 2 359 653 ;
+C 84 ; WX 359 ; N T ; B 23 2 338 653 ;
+C 85 ; WX 388 ; N U ; B 16 2 359 653 ;
+C 86 ; WX 379 ; N V ; B 16 2 359 653 ;
+C 87 ; WX 553 ; N W ; B 20 2 532 653 ;
+C 88 ; WX 441 ; N X ; B 16 2 420 653 ;
+C 89 ; WX 441 ; N Y ; B 12 2 425 653 ;
+C 90 ; WX 399 ; N Z ; B 12 2 383 653 ;
+C 91 ; WX 237 ; N bracketleft ; B 16 2 224 653 ;
+C 92 ; WX 480 ; N backslash ; B 9 2 464 653 ;
+C 93 ; WX 246 ; N bracketright ; B 16 2 224 653 ;
+C 94 ; WX 267 ; N asciicircum ; B 14 548 247 655 ;
+C 95 ; WX 646 ; N underscore ; B 20 -43 630 2 ;
+C 96 ; WX 114 ; N grave ; B 16 346 89 420 ;
+C 97 ; WX 349 ; N a ; B 14 2 326 470 ;
+C 98 ; WX 359 ; N b ; B 18 2 340 655 ;
+C 99 ; WX 359 ; N c ; B 21 2 338 470 ;
+C 100 ; WX 359 ; N d ; B 18 2 340 655 ;
+C 101 ; WX 349 ; N e ; B 12 2 327 470 ;
+C 102 ; WX 256 ; N f ; B 20 2 240 655 ;
+C 103 ; WX 359 ; N g ; B 18 -181 340 470 ;
+C 104 ; WX 359 ; N h ; B 18 2 340 655 ;
+C 105 ; WX 155 ; N i ; B 16 2 130 655 ;
+C 106 ; WX 206 ; N j ; B 14 -181 189 655 ;
+C 107 ; WX 390 ; N k ; B 18 2 379 655 ;
+C 108 ; WX 146 ; N l ; B 20 2 126 655 ;
+C 109 ; WX 553 ; N m ; B 18 2 536 470 ;
+C 110 ; WX 359 ; N n ; B 21 2 338 470 ;
+C 111 ; WX 359 ; N o ; B 21 2 338 470 ;
+C 112 ; WX 359 ; N p ; B 18 -181 340 470 ;
+C 113 ; WX 359 ; N q ; B 18 -181 340 470 ;
+C 114 ; WX 228 ; N r ; B 21 2 203 470 ;
+C 115 ; WX 359 ; N s ; B 21 2 338 470 ;
+C 116 ; WX 256 ; N t ; B 21 2 240 573 ;
+C 117 ; WX 359 ; N u ; B 21 2 338 470 ;
+C 118 ; WX 338 ; N v ; B 4 2 333 470 ;
+C 119 ; WX 472 ; N w ; B 9 2 466 470 ;
+C 120 ; WX 359 ; N x ; B 5 2 352 470 ;
+C 121 ; WX 379 ; N y ; B 2 -181 372 470 ;
+C 122 ; WX 399 ; N z ; B 14 2 381 470 ;
+C 123 ; WX 299 ; N braceleft ; B 14 2 286 655 ;
+C 124 ; WX 103 ; N bar ; B 23 2 82 655 ;
+C 125 ; WX 310 ; N braceright ; B 14 2 286 655 ;
+C 126 ; WX 299 ; N asciitilde ; B 12 267 288 354 ;
+C 136 ; WX 267 ; N circumflex ; B 14 548 247 655 ;
+C 139 ; WX 146 ; N guilsinglleft ; B 16 208 128 441 ;
+C 145 ; WX 146 ; N quoteleft ; B 16 470 128 655 ;
+C 146 ; WX 146 ; N quoteright ; B 16 470 128 655 ;
+C 147 ; WX 256 ; N quotedblleft ; B 20 470 240 655 ;
+C 148 ; WX 256 ; N quotedblright ; B 20 470 240 655 ;
+C 152 ; WX 299 ; N tilde ; B 12 267 288 354 ;
+C 155 ; WX 146 ; N guilsinglright ; B 16 208 128 441 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 319 ; N cent ; B 23 16 295 523 ;
+C 163 ; WX 388 ; N sterling ; B 14 2 361 655 ;
+C 167 ; WX 338 ; N section ; B 21 2 319 655 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _110 ; B 0 0 0 0 ;
+C -1 ; WX 480 ; N fraction ; B 9 2 464 655 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 54
+KPX space space 6122
+KPX space numbersign -4122
+KPX space plus -5631
+KPX space equal -5630
+KPX space question 1
+KPX space D 7122
+KPX space I 5122
+KPX space R -5122
+KPX space g 2122
+KPX space r -7878
+KPX space braceleft 7122
+KPX space quoteright 6122
+KPX space tilde -5631
+
+KPX comma space 300
+
+KPX nine one -878
+
+KPX B l 6122
+KPX B o 2122
+
+KPX C S -7878
+
+KPX D hyphen 6122
+
+KPX S o -7878
+
+KPX i g 122
+KPX i p 116
+KPX i v -2878
+
+KPX k tilde -1878
+
+KPX o c -878
+
+KPX r e 3122
+
+KPX t S 6122
+KPX t e -878
+
+KPX w a -7878
+
+KPX tilde space -5630
+KPX tilde comma 5122
+KPX tilde four -4096
+KPX tilde question 878
+KPX tilde P 1122
+KPX tilde R 5878
+KPX tilde S -4878
+KPX tilde q 3122
+KPX tilde s -4878
+KPX tilde braceleft 2122
+KPX tilde fraction 2
+KPX tilde tilde -4122
+
+EndKernPairs
+EndKernData
+EndFontMetrics

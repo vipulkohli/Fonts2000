@@ -1,0 +1,194 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 3 0 0 2 0 4
+FullName BEFFLE
+FontName BEFFLE
+FamilyName BEFFLE
+Weight normal
+Notice Beffle font   1991 by D. Rakowski. All Rights Reserved. 
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -110 1484 739
+Ascender 728
+Descender -107
+XHeight 728
+CapHeight 739
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 21
+StdVW 84
+EncodingScheme FontSpecific
+StartCharMetrics 73
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 38 ; WX 899 ; N ampersand ; B 26 -5 873 720 ;
+C 39 ; WX 150 ; N quotesingle ; B 5 545 134 720 ;
+C 40 ; WX 200 ; N parenleft ; B 14 -4 188 737 ;
+C 41 ; WX 202 ; N parenright ; B 3 -10 180 735 ;
+C 44 ; WX 171 ; N comma ; B 11 -106 155 133 ;
+C 45 ; WX 342 ; N hyphen ; B 20 288 305 419 ;
+C 46 ; WX 173 ; N period ; B 19 2 158 139 ;
+C 58 ; WX 171 ; N colon ; B 19 -2 156 372 ;
+C 59 ; WX 192 ; N semicolon ; B 9 -110 159 393 ;
+C 65 ; WX 889 ; N A ; B 18 0 843 727 ;
+C 66 ; WX 794 ; N B ; B 36 0 757 728 ;
+C 67 ; WX 709 ; N C ; B 27 0 677 727 ;
+C 68 ; WX 920 ; N D ; B 42 0 878 727 ;
+C 69 ; WX 804 ; N E ; B 37 0 779 738 ;
+C 70 ; WX 745 ; N F ; B 19 0 725 739 ;
+C 71 ; WX 834 ; N G ; B 39 0 827 729 ;
+C 72 ; WX 962 ; N H ; B 46 0 917 725 ;
+C 73 ; WX 455 ; N I ; B 33 -1 424 727 ;
+C 74 ; WX 611 ; N J ; B 27 -2 591 727 ;
+C 75 ; WX 900 ; N K ; B 19 -2 875 727 ;
+C 76 ; WX 844 ; N L ; B 38 -1 805 727 ;
+C 77 ; WX 1043 ; N M ; B 21 -2 1016 735 ;
+C 78 ; WX 935 ; N N ; B 37 0 887 727 ;
+C 79 ; WX 897 ; N O ; B 41 0 871 727 ;
+C 80 ; WX 768 ; N P ; B 35 0 732 728 ;
+C 81 ; WX 873 ; N Q ; B 25 -107 851 727 ;
+C 82 ; WX 876 ; N R ; B 41 0 860 727 ;
+C 83 ; WX 599 ; N S ; B 26 0 572 727 ;
+C 84 ; WX 803 ; N T ; B 36 0 765 727 ;
+C 85 ; WX 918 ; N U ; B 43 0 893 727 ;
+C 86 ; WX 964 ; N V ; B 44 0 920 727 ;
+C 87 ; WX 1522 ; N W ; B 26 0 1484 728 ;
+C 88 ; WX 956 ; N X ; B 45 0 935 728 ;
+C 89 ; WX 955 ; N Y ; B 44 0 911 727 ;
+C 90 ; WX 724 ; N Z ; B 33 0 691 727 ;
+C 97 ; WX 866 ; N a ; B 18 0 843 727 ;
+C 98 ; WX 789 ; N b ; B 36 0 757 728 ;
+C 99 ; WX 698 ; N c ; B 27 0 677 727 ;
+C 100 ; WX 893 ; N d ; B 42 0 878 727 ;
+C 101 ; WX 798 ; N e ; B 37 0 779 738 ;
+C 102 ; WX 739 ; N f ; B 19 0 725 739 ;
+C 103 ; WX 845 ; N g ; B 39 0 827 729 ;
+C 104 ; WX 927 ; N h ; B 46 0 917 725 ;
+C 105 ; WX 451 ; N i ; B 33 -1 424 727 ;
+C 106 ; WX 598 ; N j ; B 27 -2 591 727 ;
+C 107 ; WX 893 ; N k ; B 19 -2 875 727 ;
+C 108 ; WX 821 ; N l ; B 38 -1 805 727 ;
+C 109 ; WX 1026 ; N m ; B 21 -2 1016 735 ;
+C 110 ; WX 909 ; N n ; B 37 0 887 727 ;
+C 111 ; WX 886 ; N o ; B 41 0 871 727 ;
+C 112 ; WX 751 ; N p ; B 35 0 732 728 ;
+C 113 ; WX 875 ; N q ; B 25 -107 851 727 ;
+C 114 ; WX 886 ; N r ; B 41 0 860 727 ;
+C 115 ; WX 592 ; N s ; B 26 0 572 727 ;
+C 116 ; WX 786 ; N t ; B 36 0 765 727 ;
+C 117 ; WX 909 ; N u ; B 43 0 893 727 ;
+C 118 ; WX 927 ; N v ; B 44 0 920 727 ;
+C 119 ; WX 1491 ; N w ; B 26 0 1484 728 ;
+C 120 ; WX 944 ; N x ; B 45 0 935 728 ;
+C 121 ; WX 932 ; N y ; B 44 0 911 727 ;
+C 122 ; WX 704 ; N z ; B 33 0 691 727 ;
+C 145 ; WX 170 ; N quoteleft ; B 5 475 152 713 ;
+C 146 ; WX 150 ; N quoteright ; B 5 545 134 720 ;
+C 147 ; WX 333 ; N quotedblleft ; B 5 475 321 713 ;
+C 148 ; WX 293 ; N quotedblright ; B 5 545 271 720 ;
+C 150 ; WX 414 ; N endash ; B 20 288 387 419 ;
+C 151 ; WX 556 ; N emdash ; B 20 288 535 419 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _71 ; B 0 0 0 0 ;
+C -1 ; WX 414 ; N c269 ; B 20 288 387 419 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 67
+KPX A C -73
+KPX A G -76
+KPX A O -115
+KPX A Q -73
+KPX A T -184
+KPX A U -159
+KPX A V -281
+KPX A W 276
+KPX A Y -242
+
+KPX B A -55
+KPX B V -65
+KPX B W -71
+KPX B Y -88
+
+KPX C A -34
+
+KPX D A -81
+KPX D Y -140
+
+KPX F A -154
+KPX F O -18
+
+KPX G A -85
+KPX G Y -57
+
+KPX H O -53
+
+KPX I O -35
+
+KPX J A -68
+
+KPX K O -117
+
+KPX L O -73
+KPX L T -134
+KPX L Y -205
+
+KPX M O -47
+
+KPX O comma -59
+KPX O period -47
+KPX O A -132
+KPX O F -47
+KPX O H -89
+KPX O I -41
+KPX O K -53
+KPX O M -53
+KPX O V -143
+KPX O Y -76
+
+KPX P A -179
+KPX P I -25
+KPX P Y -63
+
+KPX Q A -59
+KPX Q Y -76
+
+KPX R O -70
+KPX R Y -107
+
+KPX S Y -38
+
+KPX T A -162
+KPX T C -57
+
+KPX U A -100
+
+KPX V comma -206
+KPX V period -218
+KPX V A 262
+KPX V O -129
+
+KPX W A -282
+
+KPX Y A -177
+KPX Y C -102
+KPX Y O -127
+KPX Y Q -107
+
+KPX a o -88
+KPX a t -158
+KPX a v -293
+KPX a w 250
+
+KPX f a -129
+
+KPX o a -65
+
+KPX t a -146
+
+KPX v a 291
+
+KPX w a 279
+
+EndKernPairs
+EndKernData
+EndFontMetrics

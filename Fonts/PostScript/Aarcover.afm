@@ -1,0 +1,93 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 4 0 0 2 0 3
+FullName Aarcover
+FontName Aarcover
+FamilyName Aarcover
+Weight normal
+Notice Aarcover font © 1991 by David Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -18 -58 1313 850
+Ascender 850
+Descender -200
+XHeight 417
+CapHeight 833
+UnderlinePosition -111
+UnderlineThickness 17
+EncodingScheme FontSpecific
+StartCharMetrics 56
+C 32 ; WX 330 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 367 ; N exclam ; B 21 73 360 792 ;
+C 34 ; WX 371 ; N quotedbl ; B 33 600 351 796 ;
+C 36 ; WX 404 ; N dollar ; B -18 160 392 692 ;
+C 39 ; WX 204 ; N quotesingle ; B 33 600 197 796 ;
+C 44 ; WX 192 ; N comma ; B 15 -58 174 133 ;
+C 45 ; WX 538 ; N hyphen ; B 47 386 472 484 ;
+C 46 ; WX 150 ; N period ; B 1 11 134 116 ;
+C 47 ; WX 429 ; N slash ; B 33 161 391 823 ;
+C 48 ; WX 628 ; N zero ; B 28 0 599 833 ;
+C 49 ; WX 490 ; N one ; B 23 0 468 833 ;
+C 50 ; WX 805 ; N two ; B 7 0 808 833 ;
+C 51 ; WX 701 ; N three ; B 33 0 702 833 ;
+C 52 ; WX 708 ; N four ; B 33 0 676 833 ;
+C 53 ; WX 757 ; N five ; B 37 0 763 833 ;
+C 54 ; WX 751 ; N six ; B -5 0 739 833 ;
+C 55 ; WX 643 ; N seven ; B 31 0 654 833 ;
+C 56 ; WX 782 ; N eight ; B 34 0 778 833 ;
+C 57 ; WX 677 ; N nine ; B 33 0 687 833 ;
+C 58 ; WX 267 ; N colon ; B 1 98 261 437 ;
+C 59 ; WX 300 ; N semicolon ; B 15 0 293 438 ;
+C 63 ; WX 529 ; N question ; B 30 126 516 758 ;
+C 65 ; WX 620 ; N A ; B 28 0 596 837 ;
+C 66 ; WX 632 ; N B ; B 28 0 603 833 ;
+C 67 ; WX 598 ; N C ; B 28 0 578 833 ;
+C 68 ; WX 607 ; N D ; B 28 0 580 833 ;
+C 69 ; WX 726 ; N E ; B 33 0 693 833 ;
+C 70 ; WX 810 ; N F ; B 37 0 775 833 ;
+C 71 ; WX 623 ; N G ; B 28 0 594 833 ;
+C 72 ; WX 741 ; N H ; B 33 0 708 833 ;
+C 73 ; WX 288 ; N I ; B 13 0 274 833 ;
+C 74 ; WX 665 ; N J ; B 30 0 635 833 ;
+C 75 ; WX 637 ; N K ; B 28 0 608 833 ;
+C 76 ; WX 582 ; N L ; B 27 0 555 833 ;
+C 77 ; WX 800 ; N M ; B 37 0 766 833 ;
+C 78 ; WX 725 ; N N ; B 33 0 692 833 ;
+C 79 ; WX 620 ; N O ; B 10 0 623 833 ;
+C 80 ; WX 615 ; N P ; B 28 0 588 833 ;
+C 81 ; WX 628 ; N Q ; B 19 -48 613 811 ;
+C 82 ; WX 661 ; N R ; B 31 0 651 833 ;
+C 83 ; WX 860 ; N S ; B 39 0 821 833 ;
+C 84 ; WX 725 ; N T ; B 33 0 693 833 ;
+C 85 ; WX 636 ; N U ; B 28 0 607 817 ;
+C 86 ; WX 653 ; N V ; B 31 0 651 850 ;
+C 87 ; WX 810 ; N W ; B 38 0 793 833 ;
+C 88 ; WX 725 ; N X ; B 33 0 693 833 ;
+C 89 ; WX 589 ; N Y ; B 27 0 563 833 ;
+C 90 ; WX 782 ; N Z ; B 36 0 747 833 ;
+C 160 ; WX 330 ; N space ; B 0 0 0 0 ;
+C 210 ; WX 371 ; N Ograve ; B 22 600 335 796 ;
+C 211 ; WX 371 ; N Oacute ; B 38 600 351 796 ;
+C 212 ; WX 204 ; N Ocircumflex ; B 22 600 185 796 ;
+C 213 ; WX 204 ; N Otilde ; B 33 600 197 796 ;
+C 217 ; WX 1317 ; N Ugrave ; B 17 63 1313 825 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 330 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 8
+KPX C A -57
+
+KPX R A -86
+
+KPX V A -171
+KPX V B -86
+KPX V C -93
+KPX V E -136
+
+KPX W A -171
+
+KPX X A -157
+
+EndKernPairs
+EndKernData
+EndFontMetrics

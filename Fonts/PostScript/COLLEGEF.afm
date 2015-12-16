@@ -1,0 +1,183 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 4 0 0 2 0 4
+FullName COLLEGEF
+FontName COLLEGEF
+FamilyName COLLEGEF
+Weight normal
+Notice CollegeFLF Black 4.03 Copyright Casady & Greene, Inc. 1988-91 All rights reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -151 1314 833
+Ascender 667
+Descender -167
+XHeight 667
+CapHeight 833
+UnderlinePosition -42
+UnderlineThickness 42
+StdHW 150
+StdVW 229
+EncodingScheme FontSpecific
+StartCharMetrics 85
+C 32 ; WX 417 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 289 ; N exclam ; B 0 0 229 833 ;
+C 34 ; WX 358 ; N quotedbl ; B 0 596 313 833 ;
+C 35 ; WX 810 ; N numbersign ; B 0 200 750 833 ;
+C 36 ; WX 693 ; N dollar ; B 0 0 633 833 ;
+C 38 ; WX 693 ; N ampersand ; B 0 0 633 833 ;
+C 39 ; WX 179 ; N quotesingle ; B 0 596 133 833 ;
+C 44 ; WX 289 ; N comma ; B 0 -151 229 188 ;
+C 45 ; WX 392 ; N hyphen ; B 0 323 329 511 ;
+C 46 ; WX 275 ; N period ; B 0 0 213 213 ;
+C 47 ; WX 662 ; N slash ; B 0 0 646 833 ;
+C 48 ; WX 698 ; N zero ; B 0 0 633 833 ;
+C 49 ; WX 463 ; N one ; B 0 0 417 833 ;
+C 50 ; WX 660 ; N two ; B 0 0 600 833 ;
+C 51 ; WX 693 ; N three ; B 0 0 633 833 ;
+C 52 ; WX 675 ; N four ; B 8 8 621 825 ;
+C 53 ; WX 693 ; N five ; B 0 0 633 833 ;
+C 54 ; WX 693 ; N six ; B 0 0 633 833 ;
+C 55 ; WX 663 ; N seven ; B 0 0 618 833 ;
+C 56 ; WX 708 ; N eight ; B 17 0 648 833 ;
+C 57 ; WX 712 ; N nine ; B 0 0 652 833 ;
+C 58 ; WX 289 ; N colon ; B 0 0 229 667 ;
+C 59 ; WX 289 ; N semicolon ; B 0 -151 229 667 ;
+C 63 ; WX 635 ; N question ; B 0 0 575 833 ;
+C 65 ; WX 877 ; N A ; B 0 0 831 833 ;
+C 66 ; WX 708 ; N B ; B 0 0 649 833 ;
+C 67 ; WX 698 ; N C ; B 0 0 633 833 ;
+C 68 ; WX 714 ; N D ; B 0 0 649 833 ;
+C 69 ; WX 673 ; N E ; B 0 0 613 833 ;
+C 70 ; WX 658 ; N F ; B 0 0 613 833 ;
+C 71 ; WX 700 ; N G ; B 0 0 633 833 ;
+C 72 ; WX 781 ; N H ; B 0 0 721 833 ;
+C 73 ; WX 389 ; N I ; B 0 0 329 833 ;
+C 74 ; WX 681 ; N J ; B 0 0 621 833 ;
+C 75 ; WX 815 ; N K ; B 0 0 772 833 ;
+C 76 ; WX 663 ; N L ; B 0 0 617 833 ;
+C 77 ; WX 982 ; N M ; B 0 0 922 833 ;
+C 78 ; WX 839 ; N N ; B 0 0 779 833 ;
+C 79 ; WX 698 ; N O ; B 0 0 633 833 ;
+C 80 ; WX 714 ; N P ; B 0 0 649 833 ;
+C 81 ; WX 717 ; N Q ; B 0 0 721 833 ;
+C 82 ; WX 758 ; N R ; B 0 0 699 833 ;
+C 83 ; WX 693 ; N S ; B 0 0 633 833 ;
+C 84 ; WX 750 ; N T ; B 0 0 704 833 ;
+C 85 ; WX 793 ; N U ; B 0 0 733 833 ;
+C 86 ; WX 857 ; N V ; B 0 0 811 833 ;
+C 87 ; WX 1360 ; N W ; B 0 0 1314 833 ;
+C 88 ; WX 959 ; N X ; B 0 0 913 833 ;
+C 89 ; WX 959 ; N Y ; B 0 0 913 833 ;
+C 90 ; WX 683 ; N Z ; B 0 0 623 833 ;
+C 97 ; WX 710 ; N a ; B 0 0 665 667 ;
+C 98 ; WX 578 ; N b ; B 0 0 519 667 ;
+C 99 ; WX 565 ; N c ; B 0 0 507 667 ;
+C 100 ; WX 579 ; N d ; B 0 0 519 667 ;
+C 101 ; WX 550 ; N e ; B 0 0 490 667 ;
+C 102 ; WX 536 ; N f ; B 0 0 490 667 ;
+C 103 ; WX 567 ; N g ; B 0 0 507 667 ;
+C 104 ; WX 637 ; N h ; B 0 0 577 667 ;
+C 105 ; WX 323 ; N i ; B 0 0 263 667 ;
+C 106 ; WX 557 ; N j ; B 0 0 497 667 ;
+C 107 ; WX 677 ; N k ; B 0 0 618 667 ;
+C 108 ; WX 539 ; N l ; B 0 0 493 667 ;
+C 109 ; WX 797 ; N m ; B 0 0 738 667 ;
+C 110 ; WX 683 ; N n ; B 0 0 623 667 ;
+C 111 ; WX 567 ; N o ; B 0 0 507 667 ;
+C 112 ; WX 592 ; N p ; B 0 0 519 667 ;
+C 113 ; WX 578 ; N q ; B 0 0 577 667 ;
+C 114 ; WX 618 ; N r ; B 0 0 559 667 ;
+C 115 ; WX 567 ; N s ; B 0 0 507 667 ;
+C 116 ; WX 608 ; N t ; B 0 1 563 667 ;
+C 117 ; WX 633 ; N u ; B 0 0 587 667 ;
+C 118 ; WX 694 ; N v ; B 0 0 648 667 ;
+C 119 ; WX 1097 ; N w ; B 0 0 1052 667 ;
+C 120 ; WX 785 ; N x ; B 0 0 739 663 ;
+C 121 ; WX 775 ; N y ; B 0 1 730 667 ;
+C 122 ; WX 558 ; N z ; B 0 0 498 667 ;
+C 145 ; WX 292 ; N quoteleft ; B 0 495 204 833 ;
+C 146 ; WX 292 ; N quoteright ; B 0 495 204 833 ;
+C 147 ; WX 517 ; N quotedblleft ; B 0 495 462 833 ;
+C 148 ; WX 517 ; N quotedblright ; B 0 495 462 833 ;
+C 149 ; WX 559 ; N bullet ; B 0 167 500 667 ;
+C 160 ; WX 417 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 417 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 417 ; N _84 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 50
+KPX numbersign one -33
+
+KPX one four -58
+KPX one seven -63
+
+KPX two four -17
+KPX two seven -33
+KPX two eight -21
+KPX two nine -25
+
+KPX four one -21
+KPX four two -21
+KPX four seven -42
+
+KPX seven four -42
+
+KPX A T -127
+KPX A U -40
+KPX A V -127
+KPX A W -127
+KPX A Y -127
+KPX A t -100
+KPX A v -100
+KPX A w -100
+KPX A y -100
+
+KPX F A -127
+KPX F a -127
+
+KPX L T -127
+KPX L V -127
+KPX L W -127
+KPX L Y -183
+KPX L y -150
+
+KPX P A -127
+KPX P J -100
+
+KPX T A -127
+KPX T a -100
+
+KPX U A -40
+
+KPX V A -127
+KPX V a -100
+
+KPX W A -127
+
+KPX Y A -127
+
+KPX a t -100
+KPX a v -100
+KPX a w -100
+KPX a y -100
+
+KPX f a -100
+
+KPX l t -100
+KPX l v -100
+KPX l w -100
+KPX l y -154
+
+KPX p a -100
+
+KPX t a -100
+
+KPX v a -100
+
+KPX w a -100
+
+KPX y a -100
+
+EndKernPairs
+EndKernData
+EndFontMetrics

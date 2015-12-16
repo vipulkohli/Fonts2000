@@ -1,0 +1,106 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 5 3 0 0 0 2 0 4
+FullName Cairo
+FontName Cairo
+FamilyName Cairo
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -23 -214 1033 969
+Ascender 902
+Descender -193
+XHeight 652
+CapHeight 902
+UnderlinePosition -98
+UnderlineThickness 54
+StdHW 203
+StdVW 201
+EncodingScheme FontSpecific
+StartCharMetrics 85
+C 32 ; WX 160 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 289 ; N exclam ; B 9 0 275 907 ;
+C 34 ; WX 479 ; N quotedbl ; B -4 574 453 902 ;
+C 35 ; WX 479 ; N numbersign ; B -6 574 453 902 ;
+C 36 ; WX 664 ; N dollar ; B -17 -61 617 959 ;
+C 37 ; WX 795 ; N percent ; B 2 -4 758 905 ;
+C 38 ; WX 775 ; N ampersand ; B -12 -16 730 907 ;
+C 40 ; WX 287 ; N parenleft ; B 0 -82 273 969 ;
+C 41 ; WX 287 ; N parenright ; B 0 -82 273 969 ;
+C 42 ; WX 313 ; N asterisk ; B 2 613 299 896 ;
+C 43 ; WX 340 ; N plus ; B 0 295 301 605 ;
+C 44 ; WX 254 ; N comma ; B 2 -130 206 197 ;
+C 45 ; WX 340 ; N hyphen ; B 0 383 299 518 ;
+C 46 ; WX 250 ; N period ; B 0 -4 201 197 ;
+C 47 ; WX 283 ; N slash ; B -6 0 266 898 ;
+C 48 ; WX 568 ; N zero ; B 2 -21 543 915 ;
+C 49 ; WX 354 ; N one ; B 0 -2 338 900 ;
+C 50 ; WX 566 ; N two ; B -16 -13 526 903 ;
+C 51 ; WX 566 ; N three ; B -16 -16 525 906 ;
+C 52 ; WX 529 ; N four ; B 0 0 494 900 ;
+C 53 ; WX 539 ; N five ; B -13 -14 502 902 ;
+C 54 ; WX 549 ; N six ; B 0 -21 524 915 ;
+C 55 ; WX 500 ; N seven ; B 0 -36 478 900 ;
+C 56 ; WX 570 ; N eight ; B -13 -21 558 904 ;
+C 57 ; WX 549 ; N nine ; B -5 -19 520 915 ;
+C 58 ; WX 254 ; N colon ; B 0 -6 205 648 ;
+C 59 ; WX 254 ; N semicolon ; B 0 -130 206 650 ;
+C 63 ; WX 498 ; N question ; B -8 6 467 929 ;
+C 65 ; WX 723 ; N A ; B 2 0 674 900 ;
+C 66 ; WX 678 ; N B ; B 0 0 646 903 ;
+C 67 ; WX 588 ; N C ; B 0 -15 561 921 ;
+C 68 ; WX 664 ; N D ; B 0 -8 633 900 ;
+C 69 ; WX 631 ; N E ; B 0 0 602 900 ;
+C 70 ; WX 631 ; N F ; B 0 0 602 900 ;
+C 71 ; WX 666 ; N G ; B 0 -17 635 921 ;
+C 72 ; WX 807 ; N H ; B 0 0 770 900 ;
+C 73 ; WX 410 ; N I ; B 0 2 367 902 ;
+C 74 ; WX 619 ; N J ; B -14 -3 576 900 ;
+C 75 ; WX 748 ; N K ; B -4 2 709 902 ;
+C 76 ; WX 629 ; N L ; B 0 0 600 900 ;
+C 77 ; WX 973 ; N M ; B -2 0 926 900 ;
+C 78 ; WX 752 ; N N ; B -2 0 715 900 ;
+C 79 ; WX 664 ; N O ; B 0 -21 633 915 ;
+C 80 ; WX 670 ; N P ; B 0 0 639 903 ;
+C 81 ; WX 699 ; N Q ; B 0 -110 666 915 ;
+C 82 ; WX 744 ; N R ; B 0 -16 709 903 ;
+C 83 ; WX 590 ; N S ; B -18 -23 545 917 ;
+C 84 ; WX 629 ; N T ; B 0 0 600 900 ;
+C 85 ; WX 660 ; N U ; B 0 -5 629 900 ;
+C 86 ; WX 660 ; N V ; B -2 -2 627 900 ;
+C 87 ; WX 1043 ; N W ; B -2 0 992 900 ;
+C 88 ; WX 682 ; N X ; B 0 2 650 900 ;
+C 89 ; WX 660 ; N Y ; B -2 0 627 900 ;
+C 90 ; WX 611 ; N Z ; B -2 -2 582 900 ;
+C 97 ; WX 564 ; N a ; B 1 -12 539 664 ;
+C 98 ; WX 588 ; N b ; B 0 -21 562 898 ;
+C 99 ; WX 514 ; N c ; B -13 -17 477 661 ;
+C 100 ; WX 590 ; N d ; B -23 -21 539 898 ;
+C 101 ; WX 523 ; N e ; B -2 -10 498 656 ;
+C 102 ; WX 387 ; N f ; B 0 -2 370 904 ;
+C 103 ; WX 586 ; N g ; B -13 -216 567 669 ;
+C 104 ; WX 578 ; N h ; B 0 -2 551 900 ;
+C 105 ; WX 320 ; N i ; B 0 0 285 896 ;
+C 106 ; WX 338 ; N j ; B -12 -261 313 902 ;
+C 107 ; WX 578 ; N k ; B -2 0 537 898 ;
+C 108 ; WX 320 ; N l ; B -4 0 283 902 ;
+C 109 ; WX 883 ; N m ; B -2 0 840 678 ;
+C 110 ; WX 578 ; N n ; B 0 -2 551 678 ;
+C 111 ; WX 535 ; N o ; B -2 -10 508 656 ;
+C 112 ; WX 586 ; N p ; B 0 -193 567 670 ;
+C 113 ; WX 586 ; N q ; B -20 -193 535 670 ;
+C 114 ; WX 482 ; N r ; B 0 0 459 663 ;
+C 115 ; WX 463 ; N s ; B -16 -19 425 664 ;
+C 116 ; WX 365 ; N t ; B 0 -4 330 824 ;
+C 117 ; WX 578 ; N u ; B 2 -33 551 650 ;
+C 118 ; WX 549 ; N v ; B 0 -2 512 648 ;
+C 119 ; WX 807 ; N w ; B 0 0 770 648 ;
+C 120 ; WX 527 ; N x ; B 2 0 504 652 ;
+C 121 ; WX 578 ; N y ; B -20 -201 518 650 ;
+C 122 ; WX 439 ; N z ; B -4 2 416 648 ;
+C 146 ; WX 254 ; N quoteright ; B -2 571 202 898 ;
+C 160 ; WX 160 ; N space ; B 0 0 0 0 ;
+C 255 ; WX 1084 ; N ydieresis ; B 6 -7 1033 826 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 160 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,41 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 0 3 0 0 2 0 4
+FullName COCACOLA
+FontName COCACOLA
+FamilyName COCACOLA
+Weight normal
+Notice Converted by ALLTYPE
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -63 2970 801
+Ascender 917
+Descender -83
+XHeight 371
+CapHeight 700
+UnderlinePosition -80
+UnderlineThickness 50
+EncodingScheme FontSpecific
+StartCharMetrics 11
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 67 ; WX 2890 ; N C ; B 4 -63 2970 793 ;
+C 97 ; WX 1788 ; N a ; B 6 -9 1704 720 ;
+C 99 ; WX 2100 ; N c ; B 15 -5 2044 799 ;
+C 115 ; WX 1930 ; N s ; B 15 -9 1747 801 ;
+C 117 ; WX 2362 ; N u ; B 10 -10 2308 801 ;
+C 119 ; WX 1590 ; N w ; B 8 -6 1541 371 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _10 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 4
+KPX space space 500
+
+KPX a C 3122
+
+KPX c u -5878
+
+EndKernPairs
+EndKernData
+EndFontMetrics

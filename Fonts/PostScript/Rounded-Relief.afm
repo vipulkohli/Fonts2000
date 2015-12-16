@@ -1,0 +1,130 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 3
+FullName Rounded-Relief
+FontName Rounded-Relief
+FamilyName RoundedRelief
+Weight normal
+Notice Rounded Relief (c) 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -147 696 771
+Ascender 762
+Descender -18
+XHeight 768
+CapHeight 762
+UnderlinePosition -127
+UnderlineThickness 19
+StdHW 78
+StdVW 79
+EncodingScheme FontSpecific
+StartCharMetrics 83
+C 32 ; WX 204 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 220 ; N exclam ; B 38 -2 200 759 ;
+C 34 ; WX 409 ; N quotedbl ; B 49 442 333 771 ;
+C 36 ; WX 476 ; N dollar ; B 10 -29 466 699 ;
+C 38 ; WX 550 ; N ampersand ; B 17 -12 528 759 ;
+C 39 ; WX 231 ; N quotesingle ; B 33 422 229 763 ;
+C 44 ; WX 249 ; N comma ; B 46 -118 232 170 ;
+C 45 ; WX 323 ; N hyphen ; B 21 174 307 322 ;
+C 46 ; WX 209 ; N period ; B 23 -1 190 161 ;
+C 48 ; WX 487 ; N zero ; B 50 -16 468 762 ;
+C 49 ; WX 213 ; N one ; B 27 -4 195 765 ;
+C 50 ; WX 464 ; N two ; B 21 -1 483 762 ;
+C 51 ; WX 450 ; N three ; B 18 -2 445 762 ;
+C 52 ; WX 475 ; N four ; B 22 1 454 762 ;
+C 53 ; WX 436 ; N five ; B 20 -11 430 762 ;
+C 54 ; WX 473 ; N six ; B 48 -6 465 762 ;
+C 55 ; WX 438 ; N seven ; B 19 -3 418 762 ;
+C 56 ; WX 455 ; N eight ; B 38 -10 445 762 ;
+C 57 ; WX 440 ; N nine ; B 38 -23 429 762 ;
+C 58 ; WX 220 ; N colon ; B 27 -4 189 537 ;
+C 59 ; WX 220 ; N semicolon ; B 24 -149 219 452 ;
+C 63 ; WX 437 ; N question ; B 25 -5 450 740 ;
+C 65 ; WX 448 ; N A ; B 20 -10 428 762 ;
+C 66 ; WX 449 ; N B ; B 20 -30 440 762 ;
+C 67 ; WX 456 ; N C ; B 48 -10 451 765 ;
+C 68 ; WX 456 ; N D ; B 21 -31 445 762 ;
+C 69 ; WX 377 ; N E ; B 17 0 360 762 ;
+C 70 ; WX 382 ; N F ; B 17 0 364 762 ;
+C 71 ; WX 449 ; N G ; B 38 -13 454 762 ;
+C 72 ; WX 456 ; N H ; B 25 -2 433 762 ;
+C 73 ; WX 204 ; N I ; B 22 0 189 762 ;
+C 74 ; WX 367 ; N J ; B 14 -19 350 766 ;
+C 75 ; WX 457 ; N K ; B 21 0 432 762 ;
+C 76 ; WX 384 ; N L ; B 17 -6 367 762 ;
+C 77 ; WX 713 ; N M ; B 30 -7 696 762 ;
+C 78 ; WX 463 ; N N ; B 21 -4 442 762 ;
+C 79 ; WX 448 ; N O ; B 37 -10 448 762 ;
+C 80 ; WX 452 ; N P ; B 21 1 450 762 ;
+C 81 ; WX 459 ; N Q ; B 33 -19 471 760 ;
+C 82 ; WX 460 ; N R ; B 21 -7 447 762 ;
+C 83 ; WX 434 ; N S ; B 27 -11 426 762 ;
+C 84 ; WX 474 ; N T ; B 24 -5 452 762 ;
+C 85 ; WX 454 ; N U ; B 43 -9 435 762 ;
+C 86 ; WX 439 ; N V ; B 105 0 419 762 ;
+C 87 ; WX 690 ; N W ; B 36 -13 670 762 ;
+C 88 ; WX 436 ; N X ; B 20 -1 419 768 ;
+C 89 ; WX 408 ; N Y ; B 94 -4 410 762 ;
+C 90 ; WX 394 ; N Z ; B 18 0 376 762 ;
+C 97 ; WX 448 ; N a ; B 20 -10 428 762 ;
+C 98 ; WX 449 ; N b ; B 20 -30 440 762 ;
+C 99 ; WX 456 ; N c ; B 48 -10 451 765 ;
+C 100 ; WX 456 ; N d ; B 21 -31 445 762 ;
+C 101 ; WX 377 ; N e ; B 17 0 360 762 ;
+C 102 ; WX 382 ; N f ; B 17 0 364 762 ;
+C 103 ; WX 449 ; N g ; B 38 -13 454 762 ;
+C 104 ; WX 456 ; N h ; B 25 -2 433 762 ;
+C 105 ; WX 204 ; N i ; B 22 0 189 762 ;
+C 106 ; WX 367 ; N j ; B 14 -19 350 766 ;
+C 107 ; WX 457 ; N k ; B 21 0 432 762 ;
+C 108 ; WX 384 ; N l ; B 17 -6 367 762 ;
+C 109 ; WX 713 ; N m ; B 30 -7 696 762 ;
+C 110 ; WX 463 ; N n ; B 21 -4 442 762 ;
+C 111 ; WX 448 ; N o ; B 37 -10 448 762 ;
+C 112 ; WX 452 ; N p ; B 21 1 450 762 ;
+C 113 ; WX 459 ; N q ; B 33 -19 471 760 ;
+C 114 ; WX 460 ; N r ; B 21 -7 447 762 ;
+C 115 ; WX 434 ; N s ; B 27 -11 426 762 ;
+C 116 ; WX 474 ; N t ; B 24 -5 452 762 ;
+C 117 ; WX 454 ; N u ; B 43 -9 435 762 ;
+C 118 ; WX 439 ; N v ; B 105 0 419 762 ;
+C 119 ; WX 690 ; N w ; B 36 -13 670 762 ;
+C 120 ; WX 436 ; N x ; B 20 -1 419 768 ;
+C 121 ; WX 408 ; N y ; B 94 -4 410 762 ;
+C 122 ; WX 394 ; N z ; B 18 0 376 762 ;
+C 145 ; WX 220 ; N quoteleft ; B 75 442 193 771 ;
+C 146 ; WX 231 ; N quoteright ; B 33 422 229 763 ;
+C 147 ; WX 409 ; N quotedblleft ; B 75 442 360 771 ;
+C 148 ; WX 409 ; N quotedblright ; B 49 442 333 771 ;
+C 150 ; WX 448 ; N endash ; B 21 174 416 322 ;
+C 151 ; WX 605 ; N emdash ; B 21 174 578 322 ;
+C 160 ; WX 204 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 204 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 13
+KPX A T -24
+KPX A V -60
+KPX A Y -69
+
+KPX O V -41
+
+KPX T A -24
+
+KPX V A -34
+KPX V O -18
+
+KPX Y A -44
+
+KPX a t -30
+KPX a v -36
+
+KPX t a -24
+KPX t o -18
+
+KPX v a -18
+
+EndKernPairs
+EndKernData
+EndFontMetrics

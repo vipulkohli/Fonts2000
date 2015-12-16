@@ -1,0 +1,155 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName DURANGO
+FontName DURANGO
+FamilyName DURANGO
+Weight normal
+Notice Converted by ALLTYPE
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -47 1069 920
+Ascender 907
+Descender -16
+XHeight 907
+CapHeight 907
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 218
+StdVW 49
+EncodingScheme FontSpecific
+StartCharMetrics 87
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 243 ; N exclam ; B 45 0 199 920 ;
+C 34 ; WX 163 ; N quotedbl ; B 35 774 134 905 ;
+C 36 ; WX 314 ; N dollar ; B 18 0 305 910 ;
+C 37 ; WX 565 ; N percent ; B 61 0 512 609 ;
+C 38 ; WX 664 ; N ampersand ; B 19 0 634 716 ;
+C 39 ; WX 68 ; N quotesingle ; B 20 775 53 905 ;
+C 40 ; WX 205 ; N parenleft ; B 20 7 166 765 ;
+C 41 ; WX 210 ; N parenright ; B 30 2 176 760 ;
+C 42 ; WX 234 ; N asterisk ; B 26 734 199 906 ;
+C 44 ; WX 120 ; N comma ; B 7 -47 96 87 ;
+C 45 ; WX 186 ; N hyphen ; B 28 344 166 393 ;
+C 46 ; WX 135 ; N period ; B 22 0 113 89 ;
+C 48 ; WX 392 ; N zero ; B 44 0 353 906 ;
+C 49 ; WX 281 ; N one ; B 39 0 242 909 ;
+C 50 ; WX 395 ; N two ; B 39 0 356 909 ;
+C 51 ; WX 395 ; N three ; B 31 0 365 909 ;
+C 52 ; WX 446 ; N four ; B 22 0 414 910 ;
+C 53 ; WX 361 ; N five ; B 36 0 337 911 ;
+C 54 ; WX 362 ; N six ; B 35 0 327 912 ;
+C 55 ; WX 455 ; N seven ; B 33 0 416 910 ;
+C 56 ; WX 380 ; N eight ; B 47 0 339 908 ;
+C 57 ; WX 381 ; N nine ; B 45 0 330 906 ;
+C 58 ; WX 158 ; N colon ; B 31 219 122 611 ;
+C 59 ; WX 153 ; N semicolon ; B 31 -34 124 612 ;
+C 63 ; WX 390 ; N question ; B 41 6 350 910 ;
+C 65 ; WX 446 ; N A ; B 36 0 419 908 ;
+C 66 ; WX 417 ; N B ; B 40 0 382 906 ;
+C 67 ; WX 375 ; N C ; B 29 0 339 906 ;
+C 68 ; WX 419 ; N D ; B 35 0 376 907 ;
+C 69 ; WX 393 ; N E ; B 23 0 365 906 ;
+C 70 ; WX 395 ; N F ; B 31 0 356 906 ;
+C 71 ; WX 363 ; N G ; B 25 0 335 908 ;
+C 72 ; WX 527 ; N H ; B 27 0 495 906 ;
+C 73 ; WX 216 ; N I ; B 25 0 186 907 ;
+C 74 ; WX 425 ; N J ; B 27 0 393 908 ;
+C 75 ; WX 502 ; N K ; B 24 0 478 906 ;
+C 76 ; WX 422 ; N L ; B 27 0 393 906 ;
+C 77 ; WX 614 ; N M ; B 24 0 585 906 ;
+C 78 ; WX 521 ; N N ; B 23 0 494 906 ;
+C 79 ; WX 362 ; N O ; B 23 0 332 906 ;
+C 80 ; WX 406 ; N P ; B 31 0 373 908 ;
+C 81 ; WX 409 ; N Q ; B 33 -16 383 906 ;
+C 82 ; WX 511 ; N R ; B 26 -2 481 908 ;
+C 83 ; WX 361 ; N S ; B 28 0 337 908 ;
+C 84 ; WX 436 ; N T ; B 30 0 405 907 ;
+C 85 ; WX 505 ; N U ; B 26 0 474 910 ;
+C 86 ; WX 531 ; N V ; B 28 0 503 906 ;
+C 87 ; WX 768 ; N W ; B 39 0 739 906 ;
+C 88 ; WX 535 ; N X ; B 25 0 505 906 ;
+C 89 ; WX 528 ; N Y ; B 25 0 505 907 ;
+C 90 ; WX 365 ; N Z ; B 28 0 337 906 ;
+C 97 ; WX 446 ; N a ; B 36 0 419 908 ;
+C 98 ; WX 417 ; N b ; B 40 0 382 906 ;
+C 99 ; WX 375 ; N c ; B 29 0 339 906 ;
+C 100 ; WX 419 ; N d ; B 35 0 376 907 ;
+C 101 ; WX 393 ; N e ; B 23 0 365 906 ;
+C 102 ; WX 395 ; N f ; B 31 0 356 906 ;
+C 103 ; WX 363 ; N g ; B 25 0 335 908 ;
+C 104 ; WX 527 ; N h ; B 27 0 495 906 ;
+C 105 ; WX 216 ; N i ; B 25 0 186 907 ;
+C 106 ; WX 425 ; N j ; B 27 0 393 908 ;
+C 107 ; WX 502 ; N k ; B 24 0 478 906 ;
+C 108 ; WX 422 ; N l ; B 27 0 393 906 ;
+C 109 ; WX 614 ; N m ; B 24 0 585 906 ;
+C 110 ; WX 521 ; N n ; B 23 0 494 906 ;
+C 111 ; WX 362 ; N o ; B 23 0 332 906 ;
+C 112 ; WX 406 ; N p ; B 31 0 373 908 ;
+C 113 ; WX 409 ; N q ; B 33 -16 383 906 ;
+C 114 ; WX 511 ; N r ; B 26 -2 481 908 ;
+C 115 ; WX 361 ; N s ; B 28 0 337 908 ;
+C 116 ; WX 436 ; N t ; B 30 0 405 907 ;
+C 117 ; WX 505 ; N u ; B 26 0 474 910 ;
+C 118 ; WX 531 ; N v ; B 28 0 503 906 ;
+C 119 ; WX 768 ; N w ; B 39 0 739 906 ;
+C 120 ; WX 535 ; N x ; B 25 0 505 906 ;
+C 121 ; WX 528 ; N y ; B 25 0 505 907 ;
+C 122 ; WX 365 ; N z ; B 28 0 337 906 ;
+C 132 ; WX 1095 ; N quotedblbase ; B 39 0 1069 908 ;
+C 145 ; WX 120 ; N quoteleft ; B 18 772 107 907 ;
+C 146 ; WX 120 ; N quoteright ; B 21 770 110 905 ;
+C 147 ; WX 233 ; N quotedblleft ; B 25 772 213 907 ;
+C 148 ; WX 233 ; N quotedblright ; B 21 770 208 905 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _86 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 36
+KPX space space 5633
+KPX space five -3122
+KPX space A -878
+KPX space D -3122
+KPX space f 2306
+KPX space i 3878
+KPX space j -4122
+KPX space k 3841
+KPX space w -7122
+KPX space x 1122
+
+KPX comma space 300
+
+KPX period space -4878
+
+KPX one period -7878
+
+KPX D u -6878
+
+KPX G i 122
+
+KPX N o 6122
+
+KPX a l 5632
+KPX a n 3122
+
+KPX b y -1878
+
+KPX c space -7878
+
+KPX e t -5878
+
+KPX i p 116
+
+KPX m a -2878
+
+KPX n g 3122
+
+KPX t S 6122
+
+KPX u b 1122
+
+EndKernPairs
+EndKernData
+EndFontMetrics

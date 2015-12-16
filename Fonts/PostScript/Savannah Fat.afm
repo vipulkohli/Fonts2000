@@ -1,0 +1,97 @@
+StartFontMetrics 2.0
+Comment Panose 4 2 114 0 0 0 0 0 0 0
+FullName Savannah Fat
+FontName SavannahFat
+FamilyName Savannah Fat
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -4 -120 835 784
+Ascender 753
+Descender -120
+XHeight 752
+CapHeight 756
+UnderlinePosition -23
+UnderlineThickness 5
+StdHW 140
+StdVW 144
+EncodingScheme FontSpecific
+StartCharMetrics 76
+C 32 ; WX 360 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 470 ; N exclam ; B 0 0 440 756 ;
+C 34 ; WX 500 ; N quotedbl ; B 1 455 479 752 ;
+C 44 ; WX 410 ; N comma ; B 0 -59 380 233 ;
+C 45 ; WX 650 ; N hyphen ; B 0 220 636 464 ;
+C 46 ; WX 390 ; N period ; B 0 0 376 244 ;
+C 48 ; WX 650 ; N zero ; B -3 -16 624 757 ;
+C 49 ; WX 500 ; N one ; B 0 0 472 748 ;
+C 50 ; WX 640 ; N two ; B 0 0 623 764 ;
+C 51 ; WX 651 ; N three ; B 0 -16 624 767 ;
+C 52 ; WX 690 ; N four ; B 0 0 676 748 ;
+C 53 ; WX 601 ; N five ; B 0 -11 595 752 ;
+C 54 ; WX 630 ; N six ; B -4 -19 620 761 ;
+C 55 ; WX 570 ; N seven ; B 0 0 556 752 ;
+C 56 ; WX 671 ; N eight ; B 32 -16 659 764 ;
+C 57 ; WX 640 ; N nine ; B 2 -20 634 768 ;
+C 58 ; WX 410 ; N colon ; B 0 0 381 552 ;
+C 59 ; WX 410 ; N semicolon ; B 0 -60 382 552 ;
+C 63 ; WX 650 ; N question ; B 0 0 629 756 ;
+C 65 ; WX 732 ; N A ; B 0 0 724 748 ;
+C 66 ; WX 662 ; N B ; B 0 3 648 747 ;
+C 67 ; WX 612 ; N C ; B 0 3 600 745 ;
+C 68 ; WX 670 ; N D ; B 0 0 645 756 ;
+C 69 ; WX 602 ; N E ; B 0 0 588 752 ;
+C 70 ; WX 600 ; N F ; B 0 0 568 752 ;
+C 71 ; WX 636 ; N G ; B -4 -3 612 741 ;
+C 72 ; WX 680 ; N H ; B 0 0 644 756 ;
+C 73 ; WX 480 ; N I ; B 0 0 444 752 ;
+C 74 ; WX 650 ; N J ; B -2 -3 626 772 ;
+C 75 ; WX 727 ; N K ; B 0 0 717 752 ;
+C 76 ; WX 604 ; N L ; B 0 0 585 752 ;
+C 77 ; WX 751 ; N M ; B 0 0 735 752 ;
+C 78 ; WX 670 ; N N ; B 0 0 632 752 ;
+C 79 ; WX 650 ; N O ; B -3 -3 628 759 ;
+C 80 ; WX 640 ; N P ; B 0 0 631 755 ;
+C 81 ; WX 692 ; N Q ; B 0 -120 684 759 ;
+C 82 ; WX 660 ; N R ; B 0 0 651 754 ;
+C 83 ; WX 636 ; N S ; B 0 -5 622 777 ;
+C 84 ; WX 630 ; N T ; B 0 0 620 752 ;
+C 85 ; WX 630 ; N U ; B -3 -11 620 752 ;
+C 86 ; WX 675 ; N V ; B 0 0 672 752 ;
+C 87 ; WX 847 ; N W ; B 0 0 835 752 ;
+C 88 ; WX 657 ; N X ; B 0 0 668 752 ;
+C 89 ; WX 665 ; N Y ; B 0 0 656 752 ;
+C 90 ; WX 641 ; N Z ; B 0 0 632 752 ;
+C 97 ; WX 732 ; N a ; B 0 0 724 748 ;
+C 98 ; WX 662 ; N b ; B 0 3 648 747 ;
+C 99 ; WX 612 ; N c ; B 0 3 600 745 ;
+C 100 ; WX 670 ; N d ; B 0 0 645 756 ;
+C 101 ; WX 602 ; N e ; B 0 0 588 752 ;
+C 102 ; WX 600 ; N f ; B 0 0 568 752 ;
+C 103 ; WX 680 ; N g ; B 26 -3 642 741 ;
+C 104 ; WX 680 ; N h ; B 0 0 644 756 ;
+C 105 ; WX 480 ; N i ; B 0 0 444 752 ;
+C 106 ; WX 650 ; N j ; B -2 -3 626 772 ;
+C 107 ; WX 727 ; N k ; B 0 0 717 752 ;
+C 108 ; WX 604 ; N l ; B 0 0 585 752 ;
+C 109 ; WX 751 ; N m ; B 0 0 735 752 ;
+C 110 ; WX 670 ; N n ; B 0 0 632 752 ;
+C 111 ; WX 650 ; N o ; B -3 -3 628 759 ;
+C 112 ; WX 640 ; N p ; B 0 0 631 755 ;
+C 113 ; WX 692 ; N q ; B 0 -120 684 759 ;
+C 114 ; WX 660 ; N r ; B 0 0 651 754 ;
+C 115 ; WX 636 ; N s ; B 0 -5 622 784 ;
+C 116 ; WX 630 ; N t ; B 0 0 620 752 ;
+C 117 ; WX 630 ; N u ; B -3 -11 620 752 ;
+C 118 ; WX 675 ; N v ; B 0 0 672 752 ;
+C 119 ; WX 847 ; N w ; B 0 0 835 752 ;
+C 120 ; WX 657 ; N x ; B 0 0 668 752 ;
+C 121 ; WX 665 ; N y ; B 0 0 656 752 ;
+C 122 ; WX 641 ; N z ; B 0 0 632 752 ;
+C 147 ; WX 0 ; N quotedblleft ; B 1 459 501 752 ;
+C 148 ; WX 490 ; N quotedblright ; B 1 455 479 752 ;
+C 160 ; WX 360 ; N nbspace ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

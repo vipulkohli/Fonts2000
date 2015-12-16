@@ -1,0 +1,133 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 2 0 0 2 0 3
+FullName Starburst
+FontName Starburst
+FamilyName Starburst
+Weight normal
+Notice Starburst font © 1990 by David Rakowski. Alle Rechte Verhalten.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -27 -131 1201 839
+Ascender 838
+Descender -200
+XHeight 417
+CapHeight 834
+UnderlinePosition -111
+UnderlineThickness 17
+StdHW 190
+StdVW 23
+EncodingScheme FontSpecific
+StartCharMetrics 53
+C 32 ; WX 488 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 344 ; N exclam ; B 8 -3 336 833 ;
+C 34 ; WX 665 ; N quotedbl ; B 35 461 628 753 ;
+C 36 ; WX 483 ; N dollar ; B 7 156 473 828 ;
+C 38 ; WX 763 ; N ampersand ; B 25 -10 724 775 ;
+C 39 ; WX 367 ; N quotesingle ; B 35 461 345 749 ;
+C 44 ; WX 397 ; N comma ; B 3 -133 357 183 ;
+C 45 ; WX 490 ; N hyphen ; B 45 365 455 540 ;
+C 46 ; WX 355 ; N period ; B 46 -4 313 277 ;
+C 48 ; WX 870 ; N zero ; B 17 -35 832 838 ;
+C 49 ; WX 450 ; N one ; B 18 -14 432 838 ;
+C 50 ; WX 749 ; N two ; B 34 -6 756 838 ;
+C 51 ; WX 878 ; N three ; B 26 -11 844 857 ;
+C 52 ; WX 848 ; N four ; B 30 -3 809 838 ;
+C 53 ; WX 845 ; N five ; B 20 -19 809 857 ;
+C 54 ; WX 851 ; N six ; B 46 4 831 853 ;
+C 55 ; WX 790 ; N seven ; B 36 0 754 841 ;
+C 56 ; WX 800 ; N eight ; B 32 -16 766 838 ;
+C 57 ; WX 846 ; N nine ; B 28 -15 804 825 ;
+C 58 ; WX 355 ; N colon ; B 46 -4 313 715 ;
+C 59 ; WX 379 ; N semicolon ; B -27 -133 327 721 ;
+C 63 ; WX 669 ; N question ; B 28 -4 638 856 ;
+C 65 ; WX 1016 ; N A ; B 43 -4 969 833 ;
+C 66 ; WX 910 ; N B ; B 15 -8 873 852 ;
+C 67 ; WX 783 ; N C ; B 0 -16 761 838 ;
+C 68 ; WX 923 ; N D ; B 36 -3 883 843 ;
+C 69 ; WX 703 ; N E ; B 24 -4 676 857 ;
+C 70 ; WX 680 ; N F ; B 3 -3 656 846 ;
+C 71 ; WX 863 ; N G ; B 32 0 826 833 ;
+C 72 ; WX 905 ; N H ; B 37 -3 871 839 ;
+C 73 ; WX 366 ; N I ; B 5 -25 383 838 ;
+C 74 ; WX 776 ; N J ; B 14 -19 740 837 ;
+C 75 ; WX 868 ; N K ; B 33 -14 828 836 ;
+C 76 ; WX 752 ; N L ; B 29 0 723 833 ;
+C 77 ; WX 1257 ; N M ; B 58 -5 1201 839 ;
+C 78 ; WX 867 ; N N ; B 39 -2 843 834 ;
+C 79 ; WX 934 ; N O ; B 38 -9 893 836 ;
+C 80 ; WX 878 ; N P ; B 29 -10 844 839 ;
+C 81 ; WX 858 ; N Q ; B 38 -22 818 837 ;
+C 82 ; WX 894 ; N R ; B 36 -4 855 833 ;
+C 83 ; WX 869 ; N S ; B 33 0 836 831 ;
+C 84 ; WX 813 ; N T ; B 12 -3 779 841 ;
+C 85 ; WX 874 ; N U ; B 21 -25 858 842 ;
+C 86 ; WX 848 ; N V ; B 38 -7 809 839 ;
+C 87 ; WX 1109 ; N W ; B -18 -21 1059 833 ;
+C 88 ; WX 825 ; N X ; B 38 -18 788 853 ;
+C 89 ; WX 818 ; N Y ; B 31 -8 781 835 ;
+C 90 ; WX 850 ; N Z ; B 38 -6 811 839 ;
+C 160 ; WX 488 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 550 ; N cent ; B 26 -4 532 683 ;
+C 167 ; WX 907 ; N section ; B 41 -4 866 833 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 488 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 40
+KPX A T -118
+KPX A V -146
+KPX A W -100
+KPX A Y -191
+
+KPX C Y -17
+
+KPX D Y -67
+
+KPX G Y -44
+
+KPX L T -147
+KPX L Y -185
+
+KPX O T -22
+KPX O W -22
+KPX O X -95
+KPX O Y -95
+
+KPX P comma -229
+KPX P period -179
+KPX P A -145
+
+KPX Q Y -56
+
+KPX R Y -28
+
+KPX T period -139
+KPX T A -128
+KPX T O -39
+
+KPX V comma -168
+KPX V period -112
+KPX V A -156
+KPX V C -50
+
+KPX W comma -78
+KPX W period -33
+KPX W A -151
+KPX W C -56
+KPX W O -89
+
+KPX X C -44
+KPX X O -73
+
+KPX Y comma -168
+KPX Y period -157
+KPX Y A -184
+KPX Y C -84
+KPX Y G -73
+KPX Y J -101
+KPX Y O -112
+KPX Y Q -73
+
+EndKernPairs
+EndKernData
+EndFontMetrics

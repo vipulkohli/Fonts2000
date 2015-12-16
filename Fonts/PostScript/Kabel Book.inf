@@ -1,0 +1,23 @@
+FontName (KabelBook)
+FullName (Kabel Book)
+AppleName (KabelBook)
+FamilyName (Kabel)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 0
+CapHeight 828
+UnderlinePosition -30
+UnderlineThickness 12
+StemWidth 50
+Serif false
+AppleName (Kabel)
+MSMenuName (Kabel Book)
+VPMenuName (Kabel Book)
+WORDMenuName (Kabel Book)
+AppleFONDID 2637
+VPStyle (N)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

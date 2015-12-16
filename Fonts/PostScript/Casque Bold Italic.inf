@@ -1,0 +1,23 @@
+FontName (CasqueBoldItalic)
+FullName (Casque Bold Italic)
+AppleName (CasqueBoldItalic)
+FamilyName (Casque)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle -12
+CapHeight 683
+UnderlinePosition -125
+UnderlineThickness 50
+StemWidth 50
+Serif false
+AppleName (Casque)
+MSMenuName (Casque Bold Italic)
+VPMenuName (Casque Bold Italic)
+WORDMenuName (Casque Bold Italic)
+AppleFONDID 2436
+VPStyle (T)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

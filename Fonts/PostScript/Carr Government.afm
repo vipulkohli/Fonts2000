@@ -1,0 +1,73 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 5 4 2 0 0 2 0 2
+FullName Carr Government
+FontName CarrGovernment
+FamilyName Carr Government
+Weight normal
+Notice FREEWARE! from Alan Carr. Remember to VOTE! If you don't vote, you can't bitch!
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -3 1000 1000
+Ascender 1000
+Descender -200
+XHeight 500
+CapHeight 1000
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 43
+StdVW 23
+EncodingScheme FontSpecific
+StartCharMetrics 51
+C 32 ; WX 1043 ; N space ; B 0 0 994 416 ;
+C 33 ; WX 787 ; N exclam ; B 0 0 750 996 ;
+C 34 ; WX 936 ; N quotedbl ; B 0 0 893 1000 ;
+C 35 ; WX 1049 ; N numbersign ; B 0 0 1000 695 ;
+C 36 ; WX 760 ; N dollar ; B 0 0 725 1000 ;
+C 37 ; WX 436 ; N percent ; B 3 0 401 1000 ;
+C 38 ; WX 482 ; N ampersand ; B 0 0 461 1000 ;
+C 40 ; WX 262 ; N parenleft ; B 0 0 250 1000 ;
+C 41 ; WX 607 ; N parenright ; B 2 0 578 1000 ;
+C 42 ; WX 1049 ; N asterisk ; B 21 39 941 571 ;
+C 43 ; WX 1049 ; N plus ; B 0 0 1000 779 ;
+C 58 ; WX 521 ; N colon ; B 0 0 498 1000 ;
+C 60 ; WX 1049 ; N less ; B 0 0 1000 990 ;
+C 62 ; WX 904 ; N greater ; B 0 0 861 1000 ;
+C 63 ; WX 1049 ; N question ; B 0 0 1000 879 ;
+C 64 ; WX 1049 ; N at ; B 0 6 1000 819 ;
+C 65 ; WX 1049 ; N A ; B 0 0 1000 969 ;
+C 66 ; WX 1049 ; N B ; B 14 0 1000 620 ;
+C 67 ; WX 514 ; N C ; B 13 6 490 998 ;
+C 68 ; WX 1049 ; N D ; B 0 10 1000 531 ;
+C 69 ; WX 1049 ; N E ; B 0 0 1000 920 ;
+C 70 ; WX 928 ; N F ; B 0 0 885 1000 ;
+C 71 ; WX 633 ; N G ; B 0 0 604 1000 ;
+C 72 ; WX 1049 ; N H ; B 0 0 1000 635 ;
+C 73 ; WX 1035 ; N I ; B 4 -3 986 510 ;
+C 74 ; WX 857 ; N J ; B 8 2 814 998 ;
+C 75 ; WX 1049 ; N K ; B 0 0 1000 738 ;
+C 76 ; WX 738 ; N L ; B 19 6 620 977 ;
+C 77 ; WX 883 ; N M ; B 0 0 842 1000 ;
+C 78 ; WX 811 ; N N ; B 20 2 744 986 ;
+C 79 ; WX 1049 ; N O ; B 20 20 991 634 ;
+C 80 ; WX 1049 ; N P ; B 0 0 1000 510 ;
+C 81 ; WX 1049 ; N Q ; B 0 0 1000 701 ;
+C 82 ; WX 775 ; N R ; B 9 13 711 993 ;
+C 83 ; WX 832 ; N S ; B 25 28 762 994 ;
+C 84 ; WX 1049 ; N T ; B 38 0 986 896 ;
+C 85 ; WX 1049 ; N U ; B 31 38 994 957 ;
+C 86 ; WX 1061 ; N V ; B 0 0 960 742 ;
+C 87 ; WX 1016 ; N W ; B 14 60 969 506 ;
+C 88 ; WX 814 ; N X ; B 0 0 774 975 ;
+C 89 ; WX 1049 ; N Y ; B 0 0 1000 707 ;
+C 90 ; WX 988 ; N Z ; B 2 46 918 988 ;
+C 94 ; WX 459 ; N asciicircum ; B 0 14 438 1000 ;
+C 95 ; WX 1033 ; N underscore ; B 0 0 984 1000 ;
+C 123 ; WX 719 ; N braceleft ; B 0 0 686 1000 ;
+C 124 ; WX 1012 ; N bar ; B 0 0 965 1000 ;
+C 125 ; WX 1049 ; N braceright ; B 0 0 1000 869 ;
+C 126 ; WX 1033 ; N asciitilde ; B 0 0 984 1000 ;
+C 160 ; WX 1043 ; N space ; B 0 0 994 416 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 1043 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

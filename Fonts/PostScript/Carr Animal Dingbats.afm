@@ -1,0 +1,115 @@
+StartFontMetrics 2.0
+Comment Panose 2 11 114 0 0 0 0 0 0 0
+FullName Carr Animal Dingbats
+FontName CarrAnimalDingbats
+FamilyName Carr Animal Dingbats
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -7 -8 1208 1185
+Ascender 1167
+Descender -5
+XHeight 921
+CapHeight 171
+UnderlinePosition 0
+UnderlineThickness 0
+StdHW 41
+StdVW 34
+EncodingScheme FontSpecific
+StartCharMetrics 94
+C 32 ; WX 0 ; N space ; B 0 0 0 0 ;
+C 34 ; WX 0 ; N quotedbl ; B 0 0 0 0 ;
+C 39 ; WX 1174 ; N quotesingle ; B 12 7 1110 1149 ;
+C 44 ; WX 1236 ; N comma ; B 28 2 1139 638 ;
+C 45 ; WX 1241 ; N hyphen ; B 28 21 1161 660 ;
+C 46 ; WX 1241 ; N period ; B 19 -8 1179 609 ;
+C 47 ; WX 1234 ; N slash ; B 4 34 1145 669 ;
+C 48 ; WX 1227 ; N zero ; B 13 28 1164 381 ;
+C 49 ; WX 1245 ; N one ; B 29 40 1184 669 ;
+C 50 ; WX 1125 ; N two ; B 4 5 1057 1176 ;
+C 51 ; WX 880 ; N three ; B -5 0 833 1150 ;
+C 52 ; WX 743 ; N four ; B 9 5 706 1167 ;
+C 53 ; WX 1243 ; N five ; B 2 12 1185 1065 ;
+C 54 ; WX 944 ; N six ; B 5 12 828 1178 ;
+C 55 ; WX 956 ; N seven ; B 0 25 912 1185 ;
+C 56 ; WX 1236 ; N eight ; B 0 2 1178 556 ;
+C 57 ; WX 1250 ; N nine ; B 5 0 1188 481 ;
+C 59 ; WX 1252 ; N semicolon ; B -2 42 1192 465 ;
+C 60 ; WX 0 ; N less ; B 0 0 0 0 ;
+C 61 ; WX 1241 ; N equal ; B 2 10 1180 318 ;
+C 62 ; WX 0 ; N greater ; B 0 0 0 0 ;
+C 63 ; WX 0 ; N question ; B 0 0 0 0 ;
+C 68 ; WX 0 ; N D ; B 0 0 0 0 ;
+C 71 ; WX 0 ; N G ; B 0 0 0 0 ;
+C 72 ; WX 0 ; N H ; B 0 0 0 0 ;
+C 76 ; WX 0 ; N L ; B 0 0 0 0 ;
+C 77 ; WX 0 ; N M ; B 0 0 0 0 ;
+C 78 ; WX 0 ; N N ; B 0 0 0 0 ;
+C 83 ; WX 0 ; N S ; B 0 0 0 0 ;
+C 91 ; WX 1238 ; N bracketleft ; B 67 6 1167 810 ;
+C 92 ; WX 1225 ; N backslash ; B -4 169 1162 882 ;
+C 93 ; WX 1046 ; N bracketright ; B 8 7 998 711 ;
+C 96 ; WX 1238 ; N grave ; B -7 6 1174 1088 ;
+C 97 ; WX 1238 ; N a ; B 140 15 1093 841 ;
+C 98 ; WX 1204 ; N b ; B 5 8 1125 1059 ;
+C 99 ; WX 1236 ; N c ; B 2 56 1174 1118 ;
+C 100 ; WX 1167 ; N d ; B 72 30 1109 1167 ;
+C 101 ; WX 1208 ; N e ; B 74 25 1132 1169 ;
+C 102 ; WX 1090 ; N f ; B 82 42 1032 1003 ;
+C 103 ; WX 1234 ; N g ; B 0 -5 1176 1150 ;
+C 104 ; WX 692 ; N h ; B 88 19 671 1185 ;
+C 105 ; WX 1241 ; N i ; B 17 16 1181 888 ;
+C 106 ; WX 644 ; N j ; B 30 146 606 1183 ;
+C 107 ; WX 1231 ; N k ; B 7 12 1097 310 ;
+C 108 ; WX 1241 ; N l ; B 5 7 1183 1042 ;
+C 109 ; WX 1257 ; N m ; B 55 22 1171 898 ;
+C 110 ; WX 1231 ; N n ; B 5 35 1174 970 ;
+C 111 ; WX 1231 ; N o ; B 18 21 1169 680 ;
+C 112 ; WX 1236 ; N p ; B 7 44 1181 854 ;
+C 113 ; WX 1241 ; N q ; B 14 9 1183 824 ;
+C 114 ; WX 1248 ; N r ; B 11 24 1183 447 ;
+C 115 ; WX 1236 ; N s ; B 3 23 1169 657 ;
+C 116 ; WX 1238 ; N t ; B 13 5 1178 936 ;
+C 117 ; WX 1250 ; N u ; B 133 38 1157 818 ;
+C 118 ; WX 1229 ; N v ; B 16 15 1130 921 ;
+C 119 ; WX 1225 ; N w ; B -4 169 1162 882 ;
+C 120 ; WX 1234 ; N x ; B -2 30 1174 801 ;
+C 121 ; WX 1241 ; N y ; B 14 13 1174 370 ;
+C 122 ; WX 641 ; N z ; B 18 2 611 1162 ;
+C 160 ; WX 0 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+C -1 ; WX 384 ; N _dummy1 ; B 6 6 363 1185 ;
+C -1 ; WX 1243 ; N _dummy10 ; B 3 10 1159 628 ;
+C -1 ; WX 1236 ; N _dummy11 ; B 2 11 1178 838 ;
+C -1 ; WX 984 ; N _dummy12 ; B 12 16 936 1166 ;
+C -1 ; WX 1093 ; N _dummy13 ; B 7 21 1042 1183 ;
+C -1 ; WX 810 ; N _dummy14 ; B 5 21 759 1181 ;
+C -1 ; WX 1231 ; N _dummy15 ; B 29 24 1105 1166 ;
+C -1 ; WX 1252 ; N _dummy16 ; B 9 7 1144 583 ;
+C -1 ; WX 1269 ; N _dummy17 ; B 18 5 1208 565 ;
+C -1 ; WX 1245 ; N _dummy18 ; B 7 37 1181 933 ;
+C -1 ; WX 1236 ; N _dummy19 ; B 4 5 1174 1170 ;
+C -1 ; WX 218 ; N _dummy2 ; B 12 4 206 1175 ;
+C -1 ; WX 1229 ; N _dummy20 ; B 14 13 1095 1052 ;
+C -1 ; WX 1236 ; N _dummy21 ; B 20 61 1086 987 ;
+C -1 ; WX 1248 ; N _dummy22 ; B 20 2 1166 1007 ;
+C -1 ; WX 1169 ; N _dummy23 ; B 85 13 1077 969 ;
+C -1 ; WX 995 ; N _dummy24 ; B 0 0 949 1156 ;
+C -1 ; WX 1248 ; N _dummy25 ; B 75 6 1172 933 ;
+C -1 ; WX 1243 ; N _dummy26 ; B 7 3 1183 669 ;
+C -1 ; WX 1100 ; N _dummy27 ; B 10 31 1027 839 ;
+C -1 ; WX 1238 ; N _dummy28 ; B 30 20 1169 1050 ;
+C -1 ; WX 1238 ; N _dummy29 ; B 7 12 1180 856 ;
+C -1 ; WX 389 ; N _dummy3 ; B 17 14 357 1181 ;
+C -1 ; WX 1035 ; N _dummy30 ; B 24 55 982 1136 ;
+C -1 ; WX 1248 ; N _dummy31 ; B 26 80 1181 923 ;
+C -1 ; WX 1231 ; N _dummy32 ; B 5 -7 1174 1009 ;
+C -1 ; WX 190 ; N _dummy4 ; B 14 10 181 1181 ;
+C -1 ; WX 1255 ; N _dummy5 ; B 30 -2 1184 889 ;
+C -1 ; WX 1243 ; N _dummy6 ; B 33 23 1179 301 ;
+C -1 ; WX 1234 ; N _dummy7 ; B 0 9 1167 928 ;
+C -1 ; WX 949 ; N _dummy8 ; B 27 2 887 1085 ;
+C -1 ; WX 1241 ; N _dummy9 ; B 24 17 1176 208 ;
+EndCharMetrics
+EndFontMetrics

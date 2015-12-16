@@ -1,0 +1,23 @@
+FontName (Times-Italic-Lefty)
+FullName (Times-Lefty-Italic)
+AppleName (Times-Italic-Lefty)
+FamilyName (Times Lefty)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle -10
+CapHeight 660
+UnderlinePosition -96
+UnderlineThickness 48
+StemWidth 50
+Serif false
+AppleName (Times Lefty)
+MSMenuName (Times-Lefty-Italic)
+VPMenuName (Times-Lefty-Italic)
+WORDMenuName (Times-Lefty-Italic)
+AppleFONDID 7647
+VPStyle (I)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

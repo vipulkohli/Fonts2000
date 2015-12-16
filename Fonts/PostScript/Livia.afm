@@ -1,0 +1,143 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 8 0 0 2 0 2
+FullName Livia
+FontName Livia
+FamilyName Livia
+Weight normal
+Notice Developed by S. G. Moye 1991. Public Domain.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -149 808 672
+Ascender 710
+Descender -200
+XHeight 188
+CapHeight 500
+UnderlinePosition -193
+UnderlineThickness 20
+StdHW 196
+StdVW 34
+EncodingScheme FontSpecific
+StartCharMetrics 80
+C 32 ; WX 150 ; N space ; B 0 0 0 0 ;
+C 38 ; WX 344 ; N ampersand ; B 21 -10 318 508 ;
+C 40 ; WX 117 ; N parenleft ; B 0 -149 93 565 ;
+C 41 ; WX 117 ; N parenright ; B 8 -149 101 565 ;
+C 44 ; WX 102 ; N comma ; B 23 -59 85 53 ;
+C 45 ; WX 258 ; N hyphen ; B 5 186 254 278 ;
+C 46 ; WX 102 ; N period ; B 23 -2 77 53 ;
+C 48 ; WX 338 ; N zero ; B 9 -15 322 486 ;
+C 49 ; WX 136 ; N one ; B 14 0 114 476 ;
+C 50 ; WX 320 ; N two ; B 22 0 297 482 ;
+C 51 ; WX 274 ; N three ; B 18 -20 250 482 ;
+C 52 ; WX 280 ; N four ; B 14 0 276 491 ;
+C 53 ; WX 272 ; N five ; B 14 -20 248 489 ;
+C 54 ; WX 288 ; N six ; B 20 -10 270 480 ;
+C 55 ; WX 276 ; N seven ; B 26 -12 252 476 ;
+C 56 ; WX 280 ; N eight ; B 14 0 262 488 ;
+C 57 ; WX 288 ; N nine ; B 21 -8 268 482 ;
+C 58 ; WX 102 ; N colon ; B 23 -2 77 301 ;
+C 59 ; WX 102 ; N semicolon ; B 23 -59 85 301 ;
+C 65 ; WX 469 ; N A ; B 22 0 447 511 ;
+C 66 ; WX 376 ; N B ; B 22 0 351 500 ;
+C 67 ; WX 472 ; N C ; B 29 -10 448 510 ;
+C 68 ; WX 486 ; N D ; B 25 0 463 517 ;
+C 69 ; WX 391 ; N E ; B 28 0 374 500 ;
+C 70 ; WX 362 ; N F ; B 14 0 342 500 ;
+C 71 ; WX 502 ; N G ; B 28 -10 482 510 ;
+C 72 ; WX 550 ; N H ; B 22 0 508 500 ;
+C 73 ; WX 158 ; N I ; B 28 0 128 500 ;
+C 74 ; WX 144 ; N J ; B 14 -139 125 500 ;
+C 75 ; WX 459 ; N K ; B 14 0 438 500 ;
+C 76 ; WX 376 ; N L ; B 14 0 360 500 ;
+C 77 ; WX 660 ; N M ; B 26 -10 637 500 ;
+C 78 ; WX 470 ; N N ; B 14 0 458 500 ;
+C 79 ; WX 533 ; N O ; B 22 -10 512 510 ;
+C 80 ; WX 349 ; N P ; B 25 0 329 500 ;
+C 81 ; WX 544 ; N Q ; B 22 -137 512 510 ;
+C 82 ; WX 382 ; N R ; B 14 -1 365 500 ;
+C 83 ; WX 322 ; N S ; B 8 -10 294 510 ;
+C 84 ; WX 460 ; N T ; B 20 0 444 500 ;
+C 85 ; WX 520 ; N U ; B 32 -10 490 500 ;
+C 86 ; WX 470 ; N V ; B 21 -11 446 500 ;
+C 87 ; WX 679 ; N W ; B 23 -11 650 503 ;
+C 88 ; WX 470 ; N X ; B 14 0 439 500 ;
+C 89 ; WX 452 ; N Y ; B 21 0 428 500 ;
+C 90 ; WX 460 ; N Z ; B 12 0 440 500 ;
+C 96 ; WX 295 ; N grave ; B 117 594 165 672 ;
+C 97 ; WX 176 ; N a ; B 8 0 168 192 ;
+C 99 ; WX 177 ; N c ; B 11 -4 168 192 ;
+C 101 ; WX 159 ; N e ; B 13 0 148 188 ;
+C 110 ; WX 725 ; N n ; B 14 0 703 512 ;
+C 111 ; WX 200 ; N o ; B 8 -4 193 192 ;
+C 115 ; WX 121 ; N s ; B 3 -4 111 192 ;
+C 116 ; WX 173 ; N t ; B 8 0 167 188 ;
+C 128 ; WX 469 ; N Euro ; B 22 0 447 511 ;
+C 133 ; WX 539 ; N ellipsis ; B 28 -10 518 510 ;
+C 134 ; WX 1000 ; N dagger ; B 31 -10 489 500 ;
+C 160 ; WX 150 ; N space ; B 0 0 0 0 ;
+C 165 ; WX 260 ; N yen ; B 72 209 189 325 ;
+C 166 ; WX 320 ; N brokenbar ; B 17 0 299 500 ;
+C 167 ; WX 495 ; N section ; B 8 -10 466 510 ;
+C 171 ; WX 290 ; N guillemotleft ; B 123 594 171 672 ;
+C 172 ; WX 353 ; N logicalnot ; B 123 594 252 672 ;
+C 174 ; WX 700 ; N registered ; B 10 0 680 500 ;
+C 181 ; WX 870 ; N mu ; B 26 -10 808 512 ;
+C 187 ; WX 176 ; N guillemotright ; B 8 314 168 506 ;
+C 188 ; WX 200 ; N onequarter ; B 8 308 193 504 ;
+C 202 ; WX 250 ; N Ecircumflex ; B 0 0 0 0 ;
+C 206 ; WX 673 ; N Icircumflex ; B 19 0 642 500 ;
+C 208 ; WX 395 ; N Eth ; B 5 186 369 278 ;
+C 209 ; WX 510 ; N Ntilde ; B 5 186 479 278 ;
+C 210 ; WX 134 ; N Ograve ; B 4 411 113 485 ;
+C 211 ; WX 134 ; N Oacute ; B 13 411 122 485 ;
+C 212 ; WX 68 ; N Ocircumflex ; B 4 411 47 485 ;
+C 213 ; WX 68 ; N Otilde ; B 15 411 58 485 ;
+C 219 ; WX 520 ; N Ucircumflex ; B 8 -17 500 514 ;
+C 234 ; WX 530 ; N ecircumflex ; B 8 -10 512 510 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 150 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N _75 ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N _79 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 24
+KPX A T -60
+KPX A U -33
+KPX A V -68
+KPX A W -76
+KPX A Y -106
+
+KPX B Y -55
+
+KPX D Y -72
+
+KPX F A -56
+KPX F M -32
+
+KPX L V -44
+KPX L W -56
+KPX L Y -70
+
+KPX O Y -55
+
+KPX P A -89
+
+KPX Q Y -52
+
+KPX R Y -48
+
+KPX T A -48
+
+KPX V A -91
+
+KPX W A -94
+
+KPX Y A -115
+KPX Y C -45
+KPX Y G -40
+KPX Y O -54
+KPX Y Q -33
+
+EndKernPairs
+EndKernData
+EndFontMetrics

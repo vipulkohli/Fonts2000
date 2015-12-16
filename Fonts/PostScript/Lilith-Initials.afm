@@ -1,0 +1,55 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 4 2 0 0 2 0 3
+FullName Lilith-Initials
+FontName Lilith-Initials
+FamilyName Lilith
+Weight normal
+Notice Lilith-Initals   1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -8 -17 1213 813
+Ascender 833
+Descender -200
+XHeight 417
+CapHeight 808
+UnderlinePosition -106
+UnderlineThickness 16
+StdVW 46
+EncodingScheme FontSpecific
+StartCharMetrics 34
+C 32 ; WX 397 ; N space ; B 0 0 0 0 ;
+C 40 ; WX 210 ; N parenleft ; B -8 -19 207 794 ;
+C 41 ; WX 302 ; N parenright ; B 4 -5 288 795 ;
+C 65 ; WX 943 ; N A ; B 6 -18 906 786 ;
+C 66 ; WX 518 ; N B ; B 21 -7 497 794 ;
+C 67 ; WX 783 ; N C ; B 30 -23 747 816 ;
+C 68 ; WX 694 ; N D ; B 29 -20 688 801 ;
+C 69 ; WX 487 ; N E ; B 23 -17 483 808 ;
+C 70 ; WX 529 ; N F ; B 13 -17 514 805 ;
+C 71 ; WX 787 ; N G ; B 21 -21 752 821 ;
+C 72 ; WX 794 ; N H ; B 34 0 763 798 ;
+C 73 ; WX 447 ; N I ; B 16 0 435 802 ;
+C 74 ; WX 534 ; N J ; B 15 -17 512 794 ;
+C 75 ; WX 625 ; N K ; B 21 -14 619 803 ;
+C 76 ; WX 618 ; N L ; B 23 -12 606 815 ;
+C 77 ; WX 875 ; N M ; B 40 -12 862 799 ;
+C 78 ; WX 860 ; N N ; B 36 0 826 802 ;
+C 79 ; WX 863 ; N O ; B 17 -29 841 821 ;
+C 80 ; WX 627 ; N P ; B 22 0 598 798 ;
+C 81 ; WX 887 ; N Q ; B 21 -33 854 834 ;
+C 82 ; WX 618 ; N R ; B 28 0 596 802 ;
+C 83 ; WX 529 ; N S ; B 14 -11 508 813 ;
+C 84 ; WX 666 ; N T ; B 34 -6 650 813 ;
+C 85 ; WX 787 ; N U ; B 36 -21 751 794 ;
+C 86 ; WX 898 ; N V ; B 45 -6 860 790 ;
+C 87 ; WX 1240 ; N W ; B 53 -2 1213 818 ;
+C 88 ; WX 640 ; N X ; B 22 -2 618 798 ;
+C 89 ; WX 706 ; N Y ; B 25 0 677 798 ;
+C 90 ; WX 598 ; N Z ; B 25 -12 589 798 ;
+C 91 ; WX 210 ; N bracketleft ; B 9 -19 224 794 ;
+C 93 ; WX 302 ; N bracketright ; B 15 -5 303 794 ;
+C 160 ; WX 397 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 397 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

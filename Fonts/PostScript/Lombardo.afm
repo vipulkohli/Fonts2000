@@ -1,0 +1,215 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 5 6 0 0 0 2 0 3
+FullName Lombardo
+FontName Lombardo
+FamilyName Lombardolow
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -80 -252 686 752
+Ascender 674
+Descender -236
+XHeight 406
+CapHeight 674
+UnderlinePosition -98
+UnderlineThickness 54
+StdVW 100
+EncodingScheme FontSpecific
+StartCharMetrics 73
+C 32 ; WX 396 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 242 ; N exclam ; B 16 0 145 752 ;
+C 40 ; WX 346 ; N parenleft ; B 16 -131 285 553 ;
+C 41 ; WX 346 ; N parenright ; B 47 -137 318 553 ;
+C 44 ; WX 322 ; N comma ; B 78 -176 222 131 ;
+C 45 ; WX 486 ; N hyphen ; B 25 223 369 311 ;
+C 46 ; WX 412 ; N period ; B 88 -39 217 92 ;
+C 58 ; WX 1039 ; N colon ; B 88 -39 217 338 ;
+C 59 ; WX 322 ; N semicolon ; B 78 -176 238 367 ;
+C 63 ; WX 346 ; N question ; B 6 -63 266 672 ;
+C 65 ; WX 469 ; N A ; B 2 4 461 412 ;
+C 66 ; WX 391 ; N B ; B -31 -2 387 658 ;
+C 67 ; WX 354 ; N C ; B -36 -6 350 402 ;
+C 68 ; WX 404 ; N D ; B -80 -6 405 607 ;
+C 69 ; WX 379 ; N E ; B 4 -28 375 559 ;
+C 70 ; WX 340 ; N F ; B -2 -160 404 670 ;
+C 71 ; WX 520 ; N G ; B -30 -208 516 459 ;
+C 72 ; WX 436 ; N H ; B -37 -4 430 656 ;
+C 73 ; WX 277 ; N I ; B 4 -12 271 393 ;
+C 74 ; WX 178 ; N J ; B -12 -252 183 396 ;
+C 75 ; WX 436 ; N K ; B -14 -6 430 674 ;
+C 76 ; WX 189 ; N L ; B -18 -6 188 674 ;
+C 77 ; WX 691 ; N M ; B 0 -21 686 396 ;
+C 78 ; WX 480 ; N N ; B -2 12 479 424 ;
+C 79 ; WX 441 ; N O ; B -67 -68 498 439 ;
+C 80 ; WX 473 ; N P ; B 0 -213 525 428 ;
+C 81 ; WX 391 ; N Q ; B -29 -236 385 380 ;
+C 82 ; WX 320 ; N R ; B -2 -37 316 363 ;
+C 83 ; WX 367 ; N S ; B 2 -2 362 460 ;
+C 84 ; WX 264 ; N T ; B 4 -5 262 514 ;
+C 85 ; WX 480 ; N U ; B 2 0 479 395 ;
+C 86 ; WX 410 ; N V ; B 0 12 427 406 ;
+C 87 ; WX 598 ; N W ; B 2 6 592 387 ;
+C 88 ; WX 410 ; N X ; B 0 -33 406 395 ;
+C 89 ; WX 410 ; N Y ; B 0 -252 406 377 ;
+C 90 ; WX 404 ; N Z ; B -1 -82 402 393 ;
+C 97 ; WX 469 ; N a ; B 2 4 461 412 ;
+C 98 ; WX 391 ; N b ; B -31 -2 387 658 ;
+C 99 ; WX 354 ; N c ; B -36 -6 350 402 ;
+C 100 ; WX 404 ; N d ; B -80 -6 405 607 ;
+C 101 ; WX 379 ; N e ; B 4 -28 375 559 ;
+C 102 ; WX 340 ; N f ; B -2 -160 404 670 ;
+C 103 ; WX 520 ; N g ; B -30 -208 516 459 ;
+C 104 ; WX 436 ; N h ; B -37 -4 430 656 ;
+C 105 ; WX 277 ; N i ; B 4 -12 271 393 ;
+C 106 ; WX 178 ; N j ; B -12 -252 183 396 ;
+C 107 ; WX 436 ; N k ; B -14 -6 430 674 ;
+C 108 ; WX 189 ; N l ; B -18 -6 188 674 ;
+C 109 ; WX 691 ; N m ; B 0 -21 686 396 ;
+C 110 ; WX 480 ; N n ; B -2 12 479 424 ;
+C 111 ; WX 441 ; N o ; B -67 -68 498 439 ;
+C 112 ; WX 473 ; N p ; B 0 -213 525 428 ;
+C 113 ; WX 391 ; N q ; B -29 -236 385 380 ;
+C 114 ; WX 320 ; N r ; B -2 -37 316 363 ;
+C 115 ; WX 367 ; N s ; B 2 -2 362 460 ;
+C 116 ; WX 264 ; N t ; B 4 -5 262 514 ;
+C 117 ; WX 480 ; N u ; B 2 0 479 395 ;
+C 118 ; WX 410 ; N v ; B 0 12 427 406 ;
+C 119 ; WX 598 ; N w ; B 2 6 592 387 ;
+C 120 ; WX 410 ; N x ; B 0 -33 406 395 ;
+C 121 ; WX 410 ; N y ; B 0 -252 406 377 ;
+C 122 ; WX 404 ; N z ; B -1 -82 402 393 ;
+C 133 ; WX 578 ; N ellipsis ; B 2 -39 570 92 ;
+C 145 ; WX 139 ; N quoteleft ; B -1 369 135 656 ;
+C 146 ; WX 268 ; N quoteright ; B 78 428 222 734 ;
+C 147 ; WX 348 ; N quotedblleft ; B -7 369 344 656 ;
+C 148 ; WX 295 ; N quotedblright ; B -12 428 333 734 ;
+C 150 ; WX 334 ; N endash ; B -2 156 328 199 ;
+C 151 ; WX 525 ; N emdash ; B 2 156 520 199 ;
+C 160 ; WX 396 ; N space ; B 0 0 0 0 ;
+C 205 ; WX 303 ; N Iacute ; B 2 -160 367 670 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 396 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 91
+KPX A ellipsis -96
+
+KPX E I -63
+KPX E i -63
+
+KPX F Z -70
+KPX F quoteleft -133
+KPX F z -70
+
+KPX H ellipsis -76
+
+KPX I ellipsis -82
+
+KPX K I -70
+KPX K i -70
+KPX K ellipsis -127
+
+KPX L I -63
+KPX L i -63
+
+KPX M I -70
+KPX M i -70
+KPX M ellipsis -107
+
+KPX N ellipsis -88
+
+KPX R Z -70
+KPX R quoteleft -76
+KPX R z -70
+
+KPX U ellipsis -96
+
+KPX Z ellipsis -88
+
+KPX a ellipsis -96
+
+KPX e I -63
+KPX e i -63
+
+KPX f Z -70
+KPX f quoteleft -133
+KPX f z -70
+
+KPX h ellipsis -76
+
+KPX i ellipsis -82
+
+KPX k I -70
+KPX k i -70
+KPX k ellipsis -127
+
+KPX l I -63
+KPX l i -63
+
+KPX m I -70
+KPX m i -70
+KPX m ellipsis -107
+
+KPX n ellipsis -88
+
+KPX r Z -70
+KPX r quoteleft -76
+KPX r z -70
+
+KPX u ellipsis -96
+
+KPX z ellipsis -88
+
+KPX ellipsis G -63
+KPX ellipsis X -76
+KPX ellipsis Z -107
+KPX ellipsis quoteleft -178
+KPX ellipsis g -63
+KPX ellipsis x -76
+KPX ellipsis z -107
+
+KPX quoteleft I -70
+KPX quoteleft i -70
+KPX quoteleft ellipsis -152
+
+KPX Iacute A -152
+KPX Iacute C -152
+KPX Iacute F -88
+KPX Iacute G -160
+KPX Iacute I -121
+KPX Iacute J -107
+KPX Iacute M -96
+KPX Iacute N -63
+KPX Iacute O -152
+KPX Iacute Q -160
+KPX Iacute R -152
+KPX Iacute S -107
+KPX Iacute U -102
+KPX Iacute V -82
+KPX Iacute W -115
+KPX Iacute X -127
+KPX Iacute Y -152
+KPX Iacute Z -160
+KPX Iacute quoteleft -160
+KPX Iacute a -152
+KPX Iacute c -152
+KPX Iacute f -88
+KPX Iacute g -160
+KPX Iacute i -121
+KPX Iacute j -107
+KPX Iacute m -96
+KPX Iacute n -63
+KPX Iacute o -152
+KPX Iacute q -160
+KPX Iacute r -152
+KPX Iacute s -107
+KPX Iacute u -102
+KPX Iacute v -82
+KPX Iacute w -115
+KPX Iacute x -127
+KPX Iacute y -152
+KPX Iacute z -160
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,121 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 2 0 0 2 0 3
+FullName Headhunter
+FontName Headhunter
+FamilyName Headhunter
+Weight normal
+Notice Headhunter font   1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -43 -127 1303 1005
+Ascender 1001
+Descender -80
+XHeight 1001
+CapHeight 1001
+UnderlinePosition -166
+UnderlineThickness 25
+StdVW 80
+EncodingScheme FontSpecific
+StartCharMetrics 71
+C 32 ; WX 625 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 244 ; N exclam ; B -19 -10 220 938 ;
+C 34 ; WX 454 ; N quotedbl ; B 10 576 440 931 ;
+C 38 ; WX 701 ; N ampersand ; B -9 0 678 971 ;
+C 39 ; WX 244 ; N quotesingle ; B 10 576 234 931 ;
+C 44 ; WX 225 ; N comma ; B -1 -128 203 206 ;
+C 45 ; WX 371 ; N hyphen ; B 41 331 352 498 ;
+C 46 ; WX 278 ; N period ; B 21 -24 255 169 ;
+C 58 ; WX 278 ; N colon ; B 21 -24 255 618 ;
+C 59 ; WX 274 ; N semicolon ; B -1 -128 248 608 ;
+C 63 ; WX 623 ; N question ; B 15 -2 611 989 ;
+C 65 ; WX 815 ; N A ; B 33 -16 786 1029 ;
+C 66 ; WX 725 ; N B ; B 29 -6 694 1035 ;
+C 67 ; WX 653 ; N C ; B -13 0 633 1017 ;
+C 68 ; WX 741 ; N D ; B 1 -13 708 1006 ;
+C 69 ; WX 614 ; N E ; B 25 -50 590 1034 ;
+C 70 ; WX 560 ; N F ; B 14 -9 543 1050 ;
+C 71 ; WX 734 ; N G ; B 21 0 708 1012 ;
+C 72 ; WX 726 ; N H ; B 20 -35 740 1005 ;
+C 73 ; WX 265 ; N I ; B 5 -24 260 1019 ;
+C 74 ; WX 638 ; N J ; B 29 -3 624 1041 ;
+C 75 ; WX 774 ; N K ; B 28 -14 743 1004 ;
+C 76 ; WX 613 ; N L ; B 23 -23 589 1016 ;
+C 77 ; WX 889 ; N M ; B 39 -6 861 1022 ;
+C 78 ; WX 759 ; N N ; B 29 -1 742 1008 ;
+C 79 ; WX 760 ; N O ; B 25 -23 726 1000 ;
+C 80 ; WX 685 ; N P ; B -9 -9 655 1026 ;
+C 81 ; WX 784 ; N Q ; B 32 -84 751 1001 ;
+C 82 ; WX 736 ; N R ; B 33 -41 713 1008 ;
+C 83 ; WX 653 ; N S ; B 25 -16 625 1007 ;
+C 84 ; WX 748 ; N T ; B 21 -15 719 1026 ;
+C 85 ; WX 678 ; N U ; B -43 -7 678 1014 ;
+C 86 ; WX 814 ; N V ; B 33 -18 806 1032 ;
+C 87 ; WX 1360 ; N W ; B 60 -33 1303 1004 ;
+C 88 ; WX 849 ; N X ; B 30 4 885 1008 ;
+C 89 ; WX 753 ; N Y ; B 16 -4 719 1005 ;
+C 90 ; WX 735 ; N Z ; B 28 -4 706 1017 ;
+C 96 ; WX 1105 ; N grave ; B 46 -4 1063 1001 ;
+C 97 ; WX 815 ; N a ; B 33 -16 786 1029 ;
+C 98 ; WX 725 ; N b ; B 29 -6 694 1035 ;
+C 99 ; WX 653 ; N c ; B -13 0 633 1017 ;
+C 100 ; WX 741 ; N d ; B 1 -13 708 1006 ;
+C 101 ; WX 614 ; N e ; B 25 -50 590 1034 ;
+C 102 ; WX 560 ; N f ; B 14 -9 543 1050 ;
+C 103 ; WX 734 ; N g ; B 21 0 708 1012 ;
+C 104 ; WX 726 ; N h ; B 20 -35 740 1005 ;
+C 105 ; WX 265 ; N i ; B 5 -24 260 1019 ;
+C 106 ; WX 638 ; N j ; B 29 -3 624 1041 ;
+C 107 ; WX 774 ; N k ; B 28 -14 743 1004 ;
+C 108 ; WX 613 ; N l ; B 23 -23 589 1016 ;
+C 109 ; WX 889 ; N m ; B 39 -6 861 1022 ;
+C 110 ; WX 759 ; N n ; B 29 -1 742 1008 ;
+C 111 ; WX 760 ; N o ; B 25 -23 726 1000 ;
+C 112 ; WX 685 ; N p ; B -9 -9 655 1026 ;
+C 113 ; WX 784 ; N q ; B 32 -84 751 1001 ;
+C 114 ; WX 736 ; N r ; B 33 -41 713 1008 ;
+C 115 ; WX 653 ; N s ; B 25 -16 625 1007 ;
+C 116 ; WX 748 ; N t ; B 21 -15 719 1026 ;
+C 117 ; WX 678 ; N u ; B -43 -7 678 1014 ;
+C 118 ; WX 814 ; N v ; B 33 -18 806 1032 ;
+C 119 ; WX 1360 ; N w ; B 60 -33 1303 1004 ;
+C 120 ; WX 849 ; N x ; B 30 4 885 1008 ;
+C 121 ; WX 753 ; N y ; B 16 -4 719 1005 ;
+C 122 ; WX 735 ; N z ; B 28 -4 706 1017 ;
+C 160 ; WX 625 ; N space ; B 0 0 0 0 ;
+C 210 ; WX 450 ; N Ograve ; B -9 573 430 940 ;
+C 211 ; WX 454 ; N Oacute ; B 10 576 440 931 ;
+C 212 ; WX 240 ; N Ocircumflex ; B -9 573 224 940 ;
+C 213 ; WX 244 ; N Otilde ; B 10 576 234 931 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 625 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 17
+KPX A C -40
+KPX A O -53
+KPX A V -146
+KPX A W -170
+KPX A Y -100
+
+KPX B A -35
+
+KPX C A -11
+
+KPX F A -59
+
+KPX O A -59
+KPX O W -53
+KPX O Y -64
+
+KPX V A -153
+
+KPX W A -170
+KPX W C -81
+KPX W O -53
+
+KPX Y A -100
+KPX Y O -94
+
+EndKernPairs
+EndKernData
+EndFontMetrics

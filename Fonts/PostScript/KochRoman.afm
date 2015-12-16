@@ -1,0 +1,171 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 8 0 0 2 0 2
+FullName KochRoman
+FontName KochRoman
+FamilyName Koch
+Weight normal
+Notice Developed by S. G. Moye 1991. Public Domain.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -54 -161 916 767
+Ascender 600
+Descender -155
+XHeight 224
+CapHeight 586
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 43
+StdVW 43
+EncodingScheme FontSpecific
+StartCharMetrics 100
+C 32 ; WX 324 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 209 ; N exclam ; B 67 -12 149 565 ;
+C 35 ; WX 409 ; N numbersign ; B 10 42 392 369 ;
+C 38 ; WX 622 ; N ampersand ; B 16 -15 594 486 ;
+C 40 ; WX 227 ; N parenleft ; B 14 -53 208 599 ;
+C 41 ; WX 234 ; N parenright ; B 7 -63 211 610 ;
+C 43 ; WX 449 ; N plus ; B 22 -12 436 416 ;
+C 44 ; WX 141 ; N comma ; B -2 -90 111 93 ;
+C 45 ; WX 250 ; N hyphen ; B 22 110 233 265 ;
+C 46 ; WX 169 ; N period ; B 50 -4 122 68 ;
+C 48 ; WX 398 ; N zero ; B 19 -10 368 331 ;
+C 49 ; WX 275 ; N one ; B 0 -7 261 450 ;
+C 50 ; WX 383 ; N two ; B 23 -24 361 435 ;
+C 51 ; WX 301 ; N three ; B 21 -10 272 444 ;
+C 52 ; WX 348 ; N four ; B 14 -22 329 430 ;
+C 53 ; WX 287 ; N five ; B 14 -14 272 441 ;
+C 54 ; WX 355 ; N six ; B 14 -15 326 485 ;
+C 55 ; WX 330 ; N seven ; B 15 -50 310 446 ;
+C 56 ; WX 307 ; N eight ; B 17 -24 281 444 ;
+C 57 ; WX 333 ; N nine ; B 17 -36 308 422 ;
+C 58 ; WX 185 ; N colon ; B 60 -2 136 246 ;
+C 59 ; WX 155 ; N semicolon ; B -2 -40 122 247 ;
+C 61 ; WX 353 ; N equal ; B 19 107 332 283 ;
+C 63 ; WX 251 ; N question ; B 27 -4 238 578 ;
+C 65 ; WX 692 ; N A ; B 15 -2 670 575 ;
+C 66 ; WX 332 ; N B ; B 12 -4 302 575 ;
+C 67 ; WX 565 ; N C ; B 19 -2 532 586 ;
+C 68 ; WX 518 ; N D ; B 2 -7 494 577 ;
+C 69 ; WX 378 ; N E ; B 2 -48 393 583 ;
+C 70 ; WX 348 ; N F ; B 1 -1 323 581 ;
+C 71 ; WX 607 ; N G ; B 12 -5 607 581 ;
+C 72 ; WX 600 ; N H ; B 24 0 583 581 ;
+C 73 ; WX 167 ; N I ; B 19 -2 146 582 ;
+C 74 ; WX 336 ; N J ; B 17 -4 327 578 ;
+C 75 ; WX 505 ; N K ; B 10 -9 493 586 ;
+C 76 ; WX 480 ; N L ; B 4 -65 436 585 ;
+C 77 ; WX 734 ; N M ; B 13 -10 734 580 ;
+C 78 ; WX 600 ; N N ; B 9 -8 623 576 ;
+C 79 ; WX 600 ; N O ; B 7 2 593 585 ;
+C 80 ; WX 332 ; N P ; B 9 -6 319 580 ;
+C 81 ; WX 600 ; N Q ; B 12 -7 605 577 ;
+C 82 ; WX 403 ; N R ; B 7 -8 380 581 ;
+C 83 ; WX 283 ; N S ; B 3 -8 254 588 ;
+C 84 ; WX 430 ; N T ; B 6 0 415 595 ;
+C 85 ; WX 600 ; N U ; B 4 -8 541 585 ;
+C 86 ; WX 600 ; N V ; B 10 -5 595 571 ;
+C 87 ; WX 928 ; N W ; B 16 -8 916 579 ;
+C 88 ; WX 600 ; N X ; B 8 -2 554 579 ;
+C 89 ; WX 515 ; N Y ; B 1 -126 496 581 ;
+C 90 ; WX 505 ; N Z ; B 29 -60 483 606 ;
+C 97 ; WX 296 ; N a ; B 7 -9 278 237 ;
+C 98 ; WX 291 ; N b ; B -11 -10 270 596 ;
+C 99 ; WX 226 ; N c ; B 11 -15 217 236 ;
+C 100 ; WX 332 ; N d ; B 16 -13 326 596 ;
+C 101 ; WX 249 ; N e ; B 13 -14 233 227 ;
+C 102 ; WX 186 ; N f ; B 6 0 181 600 ;
+C 103 ; WX 294 ; N g ; B 16 -161 274 229 ;
+C 104 ; WX 340 ; N h ; B 24 0 325 600 ;
+C 105 ; WX 157 ; N i ; B 16 -12 151 321 ;
+C 106 ; WX 149 ; N j ; B -33 -156 131 316 ;
+C 107 ; WX 343 ; N k ; B 21 0 324 599 ;
+C 108 ; WX 170 ; N l ; B 10 -4 160 600 ;
+C 109 ; WX 442 ; N m ; B 26 -3 440 240 ;
+C 110 ; WX 346 ; N n ; B 31 -3 318 248 ;
+C 111 ; WX 275 ; N o ; B 10 -11 264 239 ;
+C 112 ; WX 304 ; N p ; B 21 -152 289 237 ;
+C 113 ; WX 293 ; N q ; B 14 -155 285 240 ;
+C 114 ; WX 207 ; N r ; B 8 0 188 240 ;
+C 115 ; WX 166 ; N s ; B 17 -15 154 233 ;
+C 116 ; WX 189 ; N t ; B 22 -5 183 325 ;
+C 117 ; WX 277 ; N u ; B 2 -8 261 237 ;
+C 118 ; WX 299 ; N v ; B 12 -8 285 224 ;
+C 119 ; WX 460 ; N w ; B 11 -6 442 217 ;
+C 120 ; WX 294 ; N x ; B 2 -11 272 221 ;
+C 121 ; WX 296 ; N y ; B 12 -149 276 221 ;
+C 122 ; WX 241 ; N z ; B -1 -81 223 258 ;
+C 128 ; WX 692 ; N Euro ; B 15 -2 670 768 ;
+C 133 ; WX 625 ; N ellipsis ; B 12 -8 598 768 ;
+C 134 ; WX 600 ; N dagger ; B 4 -8 541 768 ;
+C 138 ; WX 296 ; N Scaron ; B 7 -9 278 476 ;
+C 145 ; WX 249 ; N quoteleft ; B 13 -14 240 475 ;
+C 149 ; WX 157 ; N bullet ; B -13 -12 207 475 ;
+C 154 ; WX 275 ; N scaron ; B 10 -11 264 475 ;
+C 159 ; WX 277 ; N Ydieresis ; B 2 -8 261 475 ;
+C 160 ; WX 324 ; N space ; B 0 0 0 0 ;
+C 166 ; WX 444 ; N brokenbar ; B -54 -154 266 399 ;
+C 172 ; WX 258 ; N logicalnot ; B 10 436 230 593 ;
+C 208 ; WX 492 ; N Eth ; B 24 200 458 283 ;
+C 209 ; WX 642 ; N Ntilde ; B 24 200 596 283 ;
+C 210 ; WX 342 ; N Ograve ; B 35 393 301 587 ;
+C 211 ; WX 282 ; N Oacute ; B 11 393 261 587 ;
+C 212 ; WX 186 ; N Ocircumflex ; B 42 395 151 584 ;
+C 213 ; WX 144 ; N Otilde ; B 11 401 117 584 ;
+C 232 ; WX 1000 ; N egrave ; B 10 436 230 593 ;
+C 236 ; WX 1000 ; N igrave ; B 10 436 230 593 ;
+C 245 ; WX 157 ; N otilde ; B 16 -12 151 241 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 324 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N _94 ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N _99 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 39
+KPX F a -113
+KPX F e -111
+KPX F i -85
+KPX F o -117
+KPX F u -104
+
+KPX P a -111
+KPX P e -107
+KPX P i -89
+KPX P o -92
+KPX P r -78
+KPX P s -88
+KPX P u -99
+KPX P w -103
+KPX P y -118
+
+KPX T a -105
+KPX T c -103
+KPX T e -105
+KPX T i -120
+KPX T o -119
+KPX T u -114
+KPX T y -99
+
+KPX V a -152
+KPX V e -147
+KPX V i -122
+KPX V o -140
+KPX V u -124
+KPX V y -118
+
+KPX W a -134
+KPX W e -135
+KPX W i -111
+KPX W o -129
+KPX W r -115
+KPX W u -111
+KPX W y -122
+
+KPX Y a -151
+KPX Y e -134
+KPX Y i -111
+KPX Y o -146
+KPX Y u -129
+
+EndKernPairs
+EndKernData
+EndFontMetrics

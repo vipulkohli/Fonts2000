@@ -1,0 +1,133 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 3
+FullName Wolf
+FontName Wolf
+FamilyName Wolf
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -23 -205 1012 777
+Ascender 640
+Descender -167
+XHeight 445
+CapHeight 777
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 188
+StdVW 101
+EncodingScheme FontSpecific
+StartCharMetrics 77
+C 32 ; WX 300 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 317 ; N exclam ; B 61 8 211 635 ;
+C 36 ; WX 474 ; N dollar ; B 60 55 385 621 ;
+C 38 ; WX 568 ; N ampersand ; B 32 -19 474 466 ;
+C 39 ; WX 317 ; N quotesingle ; B 134 546 242 718 ;
+C 44 ; WX 317 ; N comma ; B 68 -66 176 106 ;
+C 45 ; WX 456 ; N hyphen ; B 108 234 324 342 ;
+C 46 ; WX 317 ; N period ; B 86 8 203 104 ;
+C 47 ; WX 414 ; N slash ; B -23 -22 431 768 ;
+C 48 ; WX 528 ; N zero ; B 25 6 450 445 ;
+C 49 ; WX 356 ; N one ; B 14 -11 264 510 ;
+C 50 ; WX 408 ; N two ; B 6 -4 319 508 ;
+C 51 ; WX 360 ; N three ; B -1 1 274 540 ;
+C 52 ; WX 444 ; N four ; B 12 -13 362 511 ;
+C 53 ; WX 396 ; N five ; B 14 -12 313 497 ;
+C 54 ; WX 428 ; N six ; B 17 2 350 538 ;
+C 55 ; WX 440 ; N seven ; B 8 -68 383 505 ;
+C 56 ; WX 400 ; N eight ; B 14 -14 319 536 ;
+C 57 ; WX 420 ; N nine ; B 19 -42 358 512 ;
+C 58 ; WX 317 ; N colon ; B 74 92 197 368 ;
+C 59 ; WX 317 ; N semicolon ; B 74 12 194 368 ;
+C 63 ; WX 353 ; N question ; B 25 4 278 632 ;
+C 65 ; WX 796 ; N A ; B -4 -69 759 736 ;
+C 66 ; WX 756 ; N B ; B -4 -49 727 748 ;
+C 67 ; WX 524 ; N C ; B 8 -1 480 740 ;
+C 68 ; WX 704 ; N D ; B -4 -19 681 740 ;
+C 69 ; WX 480 ; N E ; B 9 19 469 736 ;
+C 70 ; WX 640 ; N F ; B 4 -11 623 769 ;
+C 71 ; WX 560 ; N G ; B 18 -159 518 736 ;
+C 72 ; WX 820 ; N H ; B -20 -121 792 777 ;
+C 73 ; WX 424 ; N I ; B -2 -18 386 755 ;
+C 74 ; WX 416 ; N J ; B 2 -146 384 748 ;
+C 75 ; WX 740 ; N K ; B 2 -108 697 775 ;
+C 76 ; WX 648 ; N L ; B 1 -65 610 762 ;
+C 77 ; WX 1048 ; N M ; B 3 -20 1012 739 ;
+C 78 ; WX 796 ; N N ; B 20 -37 749 766 ;
+C 79 ; WX 620 ; N O ; B 11 36 574 736 ;
+C 80 ; WX 756 ; N P ; B 1 38 728 726 ;
+C 81 ; WX 572 ; N Q ; B -9 -4 535 740 ;
+C 82 ; WX 804 ; N R ; B -8 -5 763 757 ;
+C 83 ; WX 572 ; N S ; B 11 -42 546 757 ;
+C 84 ; WX 644 ; N T ; B 4 -16 616 741 ;
+C 85 ; WX 672 ; N U ; B 7 -25 622 748 ;
+C 86 ; WX 504 ; N V ; B 16 62 491 711 ;
+C 87 ; WX 816 ; N W ; B 25 24 792 741 ;
+C 88 ; WX 716 ; N X ; B 11 -69 683 752 ;
+C 89 ; WX 600 ; N Y ; B 19 -155 553 724 ;
+C 90 ; WX 592 ; N Z ; B 13 18 551 737 ;
+C 97 ; WX 368 ; N a ; B -5 -10 324 402 ;
+C 98 ; WX 304 ; N b ; B 8 3 265 640 ;
+C 99 ; WX 264 ; N c ; B 10 9 226 399 ;
+C 100 ; WX 352 ; N d ; B 8 11 331 584 ;
+C 101 ; WX 284 ; N e ; B 6 -16 234 410 ;
+C 102 ; WX 252 ; N f ; B 0 -136 217 612 ;
+C 103 ; WX 340 ; N g ; B 4 -205 304 372 ;
+C 104 ; WX 320 ; N h ; B -9 12 283 604 ;
+C 105 ; WX 184 ; N i ; B 13 -4 146 497 ;
+C 106 ; WX 180 ; N j ; B 1 -202 139 487 ;
+C 107 ; WX 372 ; N k ; B 14 0 325 608 ;
+C 108 ; WX 184 ; N l ; B 11 4 149 601 ;
+C 109 ; WX 516 ; N m ; B 10 4 467 392 ;
+C 110 ; WX 336 ; N n ; B 11 18 301 403 ;
+C 111 ; WX 284 ; N o ; B -1 8 256 422 ;
+C 112 ; WX 352 ; N p ; B 12 -161 310 401 ;
+C 113 ; WX 348 ; N q ; B 10 -167 312 404 ;
+C 114 ; WX 252 ; N r ; B 6 -18 220 419 ;
+C 115 ; WX 276 ; N s ; B 13 -3 244 409 ;
+C 116 ; WX 196 ; N t ; B 14 5 161 539 ;
+C 117 ; WX 324 ; N u ; B 4 17 290 402 ;
+C 118 ; WX 324 ; N v ; B 11 -1 284 414 ;
+C 119 ; WX 464 ; N w ; B 15 3 428 416 ;
+C 120 ; WX 344 ; N x ; B 11 -31 306 453 ;
+C 121 ; WX 316 ; N y ; B 14 -128 276 405 ;
+C 122 ; WX 336 ; N z ; B 16 5 297 386 ;
+C 160 ; WX 300 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 300 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 22
+KPX A M -55
+
+KPX E L -63
+
+KPX F L -102
+
+KPX I L -31
+KPX I M -55
+
+KPX L A -31
+KPX L M -39
+KPX L U -23
+
+KPX O M -126
+
+KPX U L -39
+
+KPX W A -71
+KPX W E -23
+KPX W I -47
+KPX W O -23
+KPX W a -78
+KPX W e -63
+KPX W i -47
+KPX W o -78
+KPX W r -55
+KPX W u -23
+
+KPX Y L -62
+KPX Y M -63
+
+EndKernPairs
+EndKernData
+EndFontMetrics

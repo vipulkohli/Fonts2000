@@ -1,0 +1,52 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 2 0 0 2 0 4
+FullName Ian-Bent
+FontName Ian-Bent
+FamilyName Ian
+Weight normal
+Notice Ian-Bent copyright (c) 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -8 1174 1007
+Ascender 1000
+Descender -200
+XHeight 500
+CapHeight 1001
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 76
+StdVW 21
+EncodingScheme FontSpecific
+StartCharMetrics 30
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 989 ; N A ; B 33 -11 951 1004 ;
+C 66 ; WX 973 ; N B ; B 37 -53 944 1002 ;
+C 67 ; WX 996 ; N C ; B 14 -24 958 1000 ;
+C 68 ; WX 1047 ; N D ; B 26 -12 1018 1015 ;
+C 69 ; WX 1111 ; N E ; B 30 -34 1074 1022 ;
+C 70 ; WX 940 ; N F ; B 34 -16 901 1018 ;
+C 71 ; WX 1108 ; N G ; B 10 -17 1071 1019 ;
+C 72 ; WX 1061 ; N H ; B 17 -6 1037 1006 ;
+C 73 ; WX 939 ; N I ; B 37 -22 900 1044 ;
+C 74 ; WX 939 ; N J ; B 36 -12 910 1002 ;
+C 75 ; WX 947 ; N K ; B 40 -9 922 1011 ;
+C 76 ; WX 874 ; N L ; B 25 -7 840 1007 ;
+C 77 ; WX 1225 ; N M ; B 34 -19 1174 1026 ;
+C 78 ; WX 975 ; N N ; B 39 -8 934 1014 ;
+C 79 ; WX 1035 ; N O ; B 36 -25 988 1026 ;
+C 80 ; WX 942 ; N P ; B 43 -18 904 1004 ;
+C 81 ; WX 1038 ; N Q ; B 26 -11 996 1009 ;
+C 82 ; WX 913 ; N R ; B 19 -2 886 1011 ;
+C 83 ; WX 957 ; N S ; B 20 -13 935 1016 ;
+C 84 ; WX 1091 ; N T ; B 23 -36 1049 1019 ;
+C 85 ; WX 1003 ; N U ; B 38 -19 976 1013 ;
+C 86 ; WX 976 ; N V ; B 27 -12 952 1015 ;
+C 87 ; WX 1176 ; N W ; B 45 -23 1136 1009 ;
+C 88 ; WX 1100 ; N X ; B 34 -13 1061 1013 ;
+C 89 ; WX 926 ; N Y ; B 40 -37 909 1019 ;
+C 90 ; WX 1038 ; N Z ; B 31 -27 1020 1006 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

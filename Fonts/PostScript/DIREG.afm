@@ -1,0 +1,117 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 8 5 0 0 2 0 4
+FullName DIREG
+FontName DIREG
+FamilyName DIREG
+Weight normal
+Notice Diner-Regular (c) 1992 by David Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -62 355 829
+Ascender 800
+Descender -150
+XHeight 800
+CapHeight 800
+UnderlinePosition -133
+UnderlineThickness 20
+StdVW 20
+EncodingScheme FontSpecific
+StartCharMetrics 64
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 60 ; N exclam ; B 10 0 54 800 ;
+C 34 ; WX 113 ; N quotedbl ; B 2 721 106 829 ;
+C 38 ; WX 220 ; N ampersand ; B 13 0 207 800 ;
+C 39 ; WX 59 ; N quotesingle ; B 2 721 52 829 ;
+C 40 ; WX 114 ; N parenleft ; B 7 0 96 800 ;
+C 41 ; WX 114 ; N parenright ; B 8 0 97 800 ;
+C 44 ; WX 59 ; N comma ; B 2 -62 52 46 ;
+C 45 ; WX 171 ; N hyphen ; B 15 330 160 345 ;
+C 46 ; WX 59 ; N period ; B 6 0 52 46 ;
+C 48 ; WX 202 ; N zero ; B 14 0 183 800 ;
+C 49 ; WX 52 ; N one ; B 13 0 33 800 ;
+C 50 ; WX 191 ; N two ; B 14 0 181 800 ;
+C 51 ; WX 186 ; N three ; B 9 0 176 800 ;
+C 52 ; WX 225 ; N four ; B 10 0 212 800 ;
+C 53 ; WX 191 ; N five ; B 9 0 182 800 ;
+C 54 ; WX 192 ; N six ; B 9 0 184 800 ;
+C 55 ; WX 189 ; N seven ; B 9 0 183 800 ;
+C 56 ; WX 192 ; N eight ; B 12 -1 177 800 ;
+C 57 ; WX 194 ; N nine ; B 10 0 179 800 ;
+C 58 ; WX 83 ; N colon ; B 12 73 58 332 ;
+C 59 ; WX 83 ; N semicolon ; B 20 11 70 332 ;
+C 63 ; WX 203 ; N question ; B 18 0 189 800 ;
+C 65 ; WX 229 ; N A ; B 14 0 218 800 ;
+C 66 ; WX 244 ; N B ; B 12 0 230 800 ;
+C 67 ; WX 186 ; N C ; B 12 0 177 800 ;
+C 68 ; WX 195 ; N D ; B 20 0 187 800 ;
+C 69 ; WX 230 ; N E ; B 11 0 216 800 ;
+C 70 ; WX 225 ; N F ; B 15 0 214 800 ;
+C 71 ; WX 195 ; N G ; B 9 0 175 800 ;
+C 72 ; WX 251 ; N H ; B 16 0 228 800 ;
+C 73 ; WX 52 ; N I ; B 13 0 33 800 ;
+C 74 ; WX 188 ; N J ; B 10 0 179 800 ;
+C 75 ; WX 307 ; N K ; B 14 -1 285 800 ;
+C 76 ; WX 170 ; N L ; B 9 0 159 800 ;
+C 77 ; WX 378 ; N M ; B 17 0 355 800 ;
+C 78 ; WX 209 ; N N ; B 21 0 191 800 ;
+C 79 ; WX 202 ; N O ; B 14 0 183 800 ;
+C 80 ; WX 250 ; N P ; B 10 0 224 800 ;
+C 81 ; WX 207 ; N Q ; B 19 0 212 800 ;
+C 82 ; WX 298 ; N R ; B 14 -1 285 800 ;
+C 83 ; WX 190 ; N S ; B 9 0 181 800 ;
+C 84 ; WX 193 ; N T ; B 17 0 182 800 ;
+C 85 ; WX 195 ; N U ; B 12 0 183 800 ;
+C 86 ; WX 218 ; N V ; B 10 0 208 800 ;
+C 87 ; WX 353 ; N W ; B 14 0 338 800 ;
+C 88 ; WX 237 ; N X ; B 9 0 220 800 ;
+C 89 ; WX 221 ; N Y ; B 10 -2 198 800 ;
+C 90 ; WX 190 ; N Z ; B 9 0 182 800 ;
+C 97 ; WX 247 ; N a ; B 13 0 231 800 ;
+C 107 ; WX 243 ; N k ; B 13 0 227 800 ;
+C 109 ; WX 354 ; N m ; B 13 0 331 800 ;
+C 119 ; WX 358 ; N w ; B 18 0 336 800 ;
+C 121 ; WX 194 ; N y ; B 9 0 178 800 ;
+C 145 ; WX 59 ; N quoteleft ; B 6 721 56 829 ;
+C 146 ; WX 59 ; N quoteright ; B 2 721 52 829 ;
+C 147 ; WX 113 ; N quotedblleft ; B 6 721 110 829 ;
+C 148 ; WX 113 ; N quotedblright ; B 2 721 106 829 ;
+C 150 ; WX 215 ; N endash ; B 15 330 204 345 ;
+C 151 ; WX 267 ; N emdash ; B 15 330 258 345 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _63 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 19
+KPX A B -24
+KPX A E -24
+KPX A F -19
+KPX A P -19
+KPX A T -43
+KPX A V -48
+KPX A W -43
+KPX A Y -48
+
+KPX C B -48
+
+KPX O Y -14
+
+KPX P A -19
+
+KPX R R -29
+
+KPX T comma -38
+KPX T period -34
+KPX T A -43
+
+KPX V A -43
+
+KPX W A -43
+
+KPX Y A -62
+KPX Y O -19
+
+EndKernPairs
+EndKernData
+EndFontMetrics

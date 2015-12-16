@@ -1,0 +1,222 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 5 3 2 0 0 2 0 3
+FullName SchwarzWald
+FontName SchwarzWald
+FamilyName SchwarzWald
+Weight normal
+Notice SchwarzWald Copyright ©1991 Peter Jensen -- SHAREWARE FEE $10
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -283 -311 1171 855
+Ascender 759
+Descender -311
+XHeight 524
+CapHeight 808
+UnderlinePosition -100
+UnderlineThickness 30
+StdHW 150
+StdVW 128
+EncodingScheme FontSpecific
+StartCharMetrics 100
+C 32 ; WX 325 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 295 ; N exclam ; B 14 -12 297 819 ;
+C 34 ; WX 357 ; N quotedbl ; B -4 499 342 811 ;
+C 35 ; WX 900 ; N numbersign ; B -3 -85 892 810 ;
+C 36 ; WX 576 ; N dollar ; B -54 -165 551 855 ;
+C 37 ; WX 760 ; N percent ; B -23 0 765 806 ;
+C 38 ; WX 807 ; N ampersand ; B -43 -81 782 792 ;
+C 39 ; WX 205 ; N quotesingle ; B -4 499 170 811 ;
+C 40 ; WX 270 ; N parenleft ; B -15 -202 399 896 ;
+C 41 ; WX 270 ; N parenright ; B -65 -222 276 900 ;
+C 42 ; WX 435 ; N asterisk ; B 4 370 429 795 ;
+C 43 ; WX 697 ; N plus ; B 35 35 650 630 ;
+C 44 ; WX 215 ; N comma ; B -26 -214 242 138 ;
+C 45 ; WX 620 ; N hyphen ; B -3 320 612 465 ;
+C 46 ; WX 195 ; N period ; B -20 -22 194 172 ;
+C 47 ; WX 488 ; N slash ; B -36 -200 479 795 ;
+C 48 ; WX 607 ; N zero ; B -35 -58 643 851 ;
+C 49 ; WX 375 ; N one ; B -18 -60 352 795 ;
+C 50 ; WX 681 ; N two ; B -15 -10 810 828 ;
+C 51 ; WX 634 ; N three ; B -41 -96 646 848 ;
+C 52 ; WX 629 ; N four ; B -25 -60 630 800 ;
+C 53 ; WX 667 ; N five ; B -41 -43 668 795 ;
+C 54 ; WX 654 ; N six ; B -26 -19 648 800 ;
+C 55 ; WX 625 ; N seven ; B -35 -87 645 800 ;
+C 56 ; WX 644 ; N eight ; B -25 -35 670 806 ;
+C 57 ; WX 654 ; N nine ; B -3 -24 666 800 ;
+C 58 ; WX 215 ; N colon ; B -15 -12 218 439 ;
+C 59 ; WX 215 ; N semicolon ; B -34 -150 234 451 ;
+C 60 ; WX 527 ; N less ; B -8 95 482 650 ;
+C 61 ; WX 627 ; N equal ; B 11 175 586 550 ;
+C 62 ; WX 504 ; N greater ; B -8 95 482 650 ;
+C 63 ; WX 517 ; N question ; B -72 -72 607 926 ;
+C 64 ; WX 887 ; N at ; B -56 -66 877 853 ;
+C 65 ; WX 768 ; N A ; B -24 -25 791 859 ;
+C 66 ; WX 715 ; N B ; B -8 -50 706 821 ;
+C 67 ; WX 747 ; N C ; B -104 -98 839 825 ;
+C 68 ; WX 730 ; N D ; B 4 -51 803 825 ;
+C 69 ; WX 634 ; N E ; B 34 -22 635 798 ;
+C 70 ; WX 668 ; N F ; B -16 -37 683 798 ;
+C 71 ; WX 734 ; N G ; B -108 -96 835 824 ;
+C 72 ; WX 657 ; N H ; B 25 -70 635 800 ;
+C 73 ; WX 248 ; N I ; B -21 -42 246 821 ;
+C 74 ; WX 742 ; N J ; B -13 -30 732 815 ;
+C 75 ; WX 660 ; N K ; B 0 -50 645 800 ;
+C 76 ; WX 610 ; N L ; B 10 -35 609 800 ;
+C 77 ; WX 895 ; N M ; B 10 -65 885 805 ;
+C 78 ; WX 686 ; N N ; B 2 -65 642 795 ;
+C 79 ; WX 745 ; N O ; B -45 -54 812 846 ;
+C 80 ; WX 723 ; N P ; B 4 -20 770 800 ;
+C 81 ; WX 732 ; N Q ; B -67 -200 740 841 ;
+C 82 ; WX 708 ; N R ; B -8 -30 801 800 ;
+C 83 ; WX 755 ; N S ; B -76 -141 805 846 ;
+C 84 ; WX 696 ; N T ; B -50 -45 715 831 ;
+C 85 ; WX 660 ; N U ; B -9 -49 649 825 ;
+C 86 ; WX 734 ; N V ; B -18 -70 747 800 ;
+C 87 ; WX 1147 ; N W ; B -28 -65 1171 805 ;
+C 88 ; WX 840 ; N X ; B 5 -55 820 805 ;
+C 89 ; WX 687 ; N Y ; B -43 -55 720 805 ;
+C 90 ; WX 785 ; N Z ; B -121 -30 985 887 ;
+C 95 ; WX 904 ; N underscore ; B -25 -277 911 -114 ;
+C 97 ; WX 517 ; N a ; B -27 -35 514 524 ;
+C 98 ; WX 532 ; N b ; B -8 -38 538 750 ;
+C 99 ; WX 491 ; N c ; B -55 -18 505 528 ;
+C 100 ; WX 536 ; N d ; B -17 -19 525 746 ;
+C 101 ; WX 494 ; N e ; B -33 -51 503 549 ;
+C 102 ; WX 515 ; N f ; B -15 -98 504 728 ;
+C 103 ; WX 529 ; N g ; B -28 -246 542 505 ;
+C 104 ; WX 527 ; N h ; B 0 -36 566 745 ;
+C 105 ; WX 218 ; N i ; B 16 -36 179 655 ;
+C 106 ; WX 494 ; N j ; B -283 -260 431 697 ;
+C 107 ; WX 531 ; N k ; B 4 -65 524 750 ;
+C 108 ; WX 254 ; N l ; B 33 -33 211 759 ;
+C 109 ; WX 809 ; N m ; B 4 -36 878 544 ;
+C 110 ; WX 501 ; N n ; B 3 -36 571 534 ;
+C 111 ; WX 544 ; N o ; B -51 -42 563 510 ;
+C 112 ; WX 545 ; N p ; B -1 -311 540 568 ;
+C 113 ; WX 545 ; N q ; B -46 -346 641 578 ;
+C 114 ; WX 505 ; N r ; B 14 -4 513 537 ;
+C 115 ; WX 503 ; N s ; B -25 -92 561 556 ;
+C 116 ; WX 464 ; N t ; B -65 -44 488 731 ;
+C 117 ; WX 510 ; N u ; B -76 -30 485 521 ;
+C 118 ; WX 505 ; N v ; B -20 -51 595 518 ;
+C 119 ; WX 817 ; N w ; B -40 -55 874 527 ;
+C 120 ; WX 633 ; N x ; B -38 -42 683 539 ;
+C 121 ; WX 505 ; N y ; B -85 -265 530 519 ;
+C 122 ; WX 521 ; N z ; B -84 -27 659 591 ;
+C 145 ; WX 256 ; N quoteleft ; B -8 466 260 818 ;
+C 146 ; WX 215 ; N quoteright ; B -30 458 238 810 ;
+C 147 ; WX 504 ; N quotedblleft ; B -8 466 512 818 ;
+C 148 ; WX 483 ; N quotedblright ; B -30 458 486 810 ;
+C 149 ; WX 594 ; N bullet ; B 20 110 570 655 ;
+C 150 ; WX 1000 ; N endash ; B -3 320 612 465 ;
+C 151 ; WX 1029 ; N emdash ; B -1 290 1039 505 ;
+C 153 ; WX 659 ; N trademark ; B -2 414 648 773 ;
+C 160 ; WX 325 ; N space ; B 0 0 0 0 ;
+C 163 ; WX 610 ; N sterling ; B -63 -15 609 800 ;
+C 169 ; WX 855 ; N copyright ; B -61 -89 874 845 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 325 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 627 ; N lozenge ; B 10 -5 625 570 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 77
+KPX A F -30
+KPX A G -30
+KPX A O -37
+KPX A Q -24
+KPX A V -74
+KPX A W -92
+KPX A f -79
+KPX A j -110
+KPX A v -117
+KPX A w -129
+
+KPX C O -61
+KPX C f -125
+KPX C t -99
+
+KPX E F -49
+KPX E O -37
+KPX E R 37
+KPX E f -86
+KPX E j -153
+KPX E t -56
+KPX E v -115
+KPX E w -91
+
+KPX F a -98
+KPX F e -104
+KPX F o -74
+KPX F u -49
+KPX F y -79
+
+KPX G o 11
+
+KPX I O -18
+KPX I e -37
+KPX I g -43
+KPX I q -24
+KPX I w -48
+
+KPX J A -148
+KPX J a -130
+KPX J e -117
+KPX J o -124
+KPX J u -117
+
+KPX K e -55
+KPX K o -37
+KPX K u -30
+
+KPX O A -61
+KPX O V -12
+KPX O X -92
+KPX O s -37
+
+KPX P a -43
+KPX P e -61
+KPX P o -37
+KPX P s -80
+
+KPX Q u -24
+
+KPX R a -24
+KPX R i 43
+KPX R u 49
+
+KPX S v -67
+KPX S w -55
+
+KPX T a -172
+KPX T e -160
+KPX T o -165
+KPX T r -135
+KPX T u -167
+KPX T w -197
+KPX T y -105
+
+KPX U A -55
+KPX U S -49
+
+KPX V a -136
+KPX V e -142
+KPX V i -61
+KPX V o -123
+KPX V u -68
+
+KPX W A -54
+KPX W e -31
+
+KPX X e -74
+KPX X y -67
+
+KPX Y a -166
+KPX Y e -153
+KPX Y i -61
+KPX Y o -160
+KPX Y u -105
+
+EndKernPairs
+EndKernData
+EndFontMetrics

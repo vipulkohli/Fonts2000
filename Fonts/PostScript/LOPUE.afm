@@ -1,0 +1,66 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName LOPUE
+FontName LOPUE
+FamilyName LOPUE
+Weight normal
+Notice Logger font © 1991 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -8 -176 1086 804
+Ascender 728
+Descender -272
+XHeight 500
+CapHeight 801
+UnderlinePosition -26
+UnderlineThickness 4
+StdHW 27
+StdVW 26
+EncodingScheme FontSpecific
+StartCharMetrics 44
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 280 ; N exclam ; B 14 21 269 742 ;
+C 38 ; WX 756 ; N ampersand ; B 63 25 719 804 ;
+C 44 ; WX 248 ; N comma ; B -8 -156 226 255 ;
+C 45 ; WX 548 ; N hyphen ; B 27 216 522 411 ;
+C 46 ; WX 268 ; N period ; B 15 3 232 242 ;
+C 58 ; WX 268 ; N colon ; B 15 3 253 611 ;
+C 59 ; WX 284 ; N semicolon ; B -8 -156 241 604 ;
+C 63 ; WX 688 ; N question ; B 28 0 651 772 ;
+C 65 ; WX 750 ; N A ; B 34 0 715 800 ;
+C 66 ; WX 709 ; N B ; B 32 0 677 800 ;
+C 67 ; WX 578 ; N C ; B 26 0 552 800 ;
+C 68 ; WX 732 ; N D ; B 30 0 698 800 ;
+C 69 ; WX 622 ; N E ; B 28 0 593 800 ;
+C 70 ; WX 639 ; N F ; B 29 0 610 799 ;
+C 71 ; WX 598 ; N G ; B 27 0 571 800 ;
+C 72 ; WX 717 ; N H ; B 33 1 684 801 ;
+C 73 ; WX 344 ; N I ; B 38 1 323 800 ;
+C 74 ; WX 632 ; N J ; B 29 0 603 800 ;
+C 75 ; WX 775 ; N K ; B 35 0 740 800 ;
+C 76 ; WX 518 ; N L ; B 24 0 494 800 ;
+C 77 ; WX 1138 ; N M ; B 52 0 1086 802 ;
+C 78 ; WX 740 ; N N ; B 33 1 707 800 ;
+C 79 ; WX 790 ; N O ; B 36 0 755 800 ;
+C 80 ; WX 686 ; N P ; B 31 0 655 800 ;
+C 81 ; WX 724 ; N Q ; B 34 -176 696 784 ;
+C 82 ; WX 718 ; N R ; B 33 0 685 800 ;
+C 83 ; WX 642 ; N S ; B 29 0 612 800 ;
+C 84 ; WX 722 ; N T ; B 34 0 689 800 ;
+C 85 ; WX 763 ; N U ; B 34 -1 729 800 ;
+C 86 ; WX 808 ; N V ; B 37 0 771 800 ;
+C 87 ; WX 1118 ; N W ; B 51 0 1068 800 ;
+C 88 ; WX 725 ; N X ; B 33 1 691 802 ;
+C 89 ; WX 787 ; N Y ; B 36 0 751 800 ;
+C 90 ; WX 760 ; N Z ; B 35 0 726 800 ;
+C 145 ; WX 284 ; N quoteleft ; B 43 474 276 796 ;
+C 146 ; WX 280 ; N quoteright ; B 9 431 284 800 ;
+C 147 ; WX 586 ; N quotedblleft ; B 43 474 550 796 ;
+C 148 ; WX 600 ; N quotedblright ; B 9 431 577 800 ;
+C 159 ; WX 154 ; N Ydieresis ; B 8 0 146 800 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _43 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

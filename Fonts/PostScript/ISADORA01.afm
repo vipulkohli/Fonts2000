@@ -1,0 +1,157 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 4 0 0 2 0 4
+FullName ISADORA
+FontName ISADORA
+FamilyName ISADORA
+Weight normal
+Notice Converted by ALLTYPE
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -72 -310 747 702
+Ascender 574
+Descender -8
+XHeight 589
+CapHeight 567
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 42
+StdVW 49
+EncodingScheme FontSpecific
+StartCharMetrics 79
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 151 ; N exclam ; B 14 -10 108 593 ;
+C 35 ; WX 785 ; N numbersign ; B 28 -163 747 650 ;
+C 38 ; WX 548 ; N ampersand ; B 12 -1 512 543 ;
+C 39 ; WX 141 ; N quotesingle ; B 10 479 95 585 ;
+C 40 ; WX 198 ; N parenleft ; B 24 -28 163 702 ;
+C 41 ; WX 183 ; N parenright ; B 17 -13 149 682 ;
+C 44 ; WX 153 ; N comma ; B 14 -42 103 88 ;
+C 45 ; WX 219 ; N hyphen ; B 15 214 175 276 ;
+C 46 ; WX 132 ; N period ; B 18 2 94 78 ;
+C 48 ; WX 633 ; N zero ; B 11 0 597 592 ;
+C 49 ; WX 157 ; N one ; B 18 10 107 567 ;
+C 50 ; WX 557 ; N two ; B 13 -3 515 576 ;
+C 51 ; WX 511 ; N three ; B 8 -2 477 583 ;
+C 52 ; WX 570 ; N four ; B 22 -5 531 565 ;
+C 53 ; WX 553 ; N five ; B 18 -5 515 584 ;
+C 54 ; WX 598 ; N six ; B 10 -7 559 589 ;
+C 55 ; WX 529 ; N seven ; B 20 -5 507 571 ;
+C 56 ; WX 588 ; N eight ; B 10 -3 552 579 ;
+C 57 ; WX 581 ; N nine ; B 4 -10 546 578 ;
+C 58 ; WX 146 ; N colon ; B 21 2 103 349 ;
+C 59 ; WX 163 ; N semicolon ; B 16 -35 122 349 ;
+C 63 ; WX 487 ; N question ; B 12 -5 451 567 ;
+C 65 ; WX 470 ; N A ; B 12 -310 442 533 ;
+C 66 ; WX 481 ; N B ; B -27 2 444 527 ;
+C 67 ; WX 546 ; N C ; B 21 1 505 548 ;
+C 68 ; WX 452 ; N D ; B 13 0 420 574 ;
+C 69 ; WX 490 ; N E ; B 19 0 457 525 ;
+C 70 ; WX 501 ; N F ; B 17 0 472 538 ;
+C 71 ; WX 532 ; N G ; B 2 -2 490 536 ;
+C 72 ; WX 477 ; N H ; B 20 -102 436 549 ;
+C 73 ; WX 140 ; N I ; B 37 -1 93 546 ;
+C 74 ; WX 163 ; N J ; B -72 -295 104 531 ;
+C 75 ; WX 452 ; N K ; B 7 3 416 567 ;
+C 76 ; WX 536 ; N L ; B 4 2 499 545 ;
+C 77 ; WX 713 ; N M ; B 13 -44 680 559 ;
+C 78 ; WX 470 ; N N ; B 12 -2 430 551 ;
+C 79 ; WX 630 ; N O ; B 10 4 597 586 ;
+C 80 ; WX 487 ; N P ; B 13 -4 456 543 ;
+C 81 ; WX 619 ; N Q ; B 17 -8 576 550 ;
+C 82 ; WX 627 ; N R ; B -2 -18 674 542 ;
+C 83 ; WX 592 ; N S ; B 11 0 555 563 ;
+C 84 ; WX 560 ; N T ; B 3 3 531 550 ;
+C 85 ; WX 508 ; N U ; B 11 -3 461 522 ;
+C 86 ; WX 518 ; N V ; B 9 -1 496 515 ;
+C 87 ; WX 706 ; N W ; B 8 1 682 553 ;
+C 88 ; WX 497 ; N X ; B 9 7 475 557 ;
+C 89 ; WX 591 ; N Y ; B 4 -5 573 589 ;
+C 90 ; WX 591 ; N Z ; B 12 -3 565 537 ;
+C 97 ; WX 470 ; N a ; B 12 -310 442 533 ;
+C 98 ; WX 481 ; N b ; B -27 2 444 527 ;
+C 99 ; WX 546 ; N c ; B 21 1 505 548 ;
+C 100 ; WX 452 ; N d ; B 13 0 420 574 ;
+C 101 ; WX 490 ; N e ; B 19 0 457 525 ;
+C 102 ; WX 501 ; N f ; B 17 0 472 538 ;
+C 103 ; WX 532 ; N g ; B 2 -2 490 536 ;
+C 104 ; WX 477 ; N h ; B 20 -102 436 549 ;
+C 105 ; WX 140 ; N i ; B 37 -1 93 546 ;
+C 106 ; WX 163 ; N j ; B -72 -295 104 531 ;
+C 107 ; WX 452 ; N k ; B 7 3 416 567 ;
+C 108 ; WX 536 ; N l ; B 4 2 499 545 ;
+C 109 ; WX 713 ; N m ; B 13 -44 680 559 ;
+C 110 ; WX 470 ; N n ; B 12 -2 430 551 ;
+C 111 ; WX 630 ; N o ; B 10 4 597 586 ;
+C 112 ; WX 487 ; N p ; B 13 -4 456 543 ;
+C 113 ; WX 619 ; N q ; B 17 -8 576 550 ;
+C 114 ; WX 627 ; N r ; B -2 -18 674 542 ;
+C 115 ; WX 592 ; N s ; B 11 0 555 563 ;
+C 116 ; WX 560 ; N t ; B 3 3 531 550 ;
+C 117 ; WX 508 ; N u ; B 11 -3 461 522 ;
+C 118 ; WX 518 ; N v ; B 9 -1 496 515 ;
+C 119 ; WX 706 ; N w ; B 8 1 682 553 ;
+C 120 ; WX 497 ; N x ; B 9 7 475 557 ;
+C 121 ; WX 591 ; N y ; B 4 -5 573 589 ;
+C 122 ; WX 591 ; N z ; B 12 -3 565 537 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _78 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 33
+KPX space space 706
+KPX space P -4878
+KPX space t 4352
+
+KPX comma space 300
+
+KPX hyphen space 510
+
+KPX zero space 508
+
+KPX colon space 552
+
+KPX C o 122
+
+KPX I s 7122
+
+KPX L space 581
+
+KPX O space 620
+
+KPX V space 529
+
+KPX a t 6122
+
+KPX b y -4878
+
+KPX d space 7122
+
+KPX e space 7122
+KPX e a 6122
+KPX e r -5878
+
+KPX f o 6122
+
+KPX i b 7122
+KPX i o 6122
+KPX i p 116
+KPX i s 7122
+
+KPX l space 620
+KPX l u 116
+
+KPX n a 6122
+
+KPX o r 97
+
+KPX s space 592
+
+KPX t S 6122
+
+KPX y space 157
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,57 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 4 2 0 0 2 0 4
+FullName LIIYE
+FontName LIIYE
+FamilyName LIIYE
+Weight normal
+Notice Lilith-Initals © 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -17 1184 813
+Ascender 833
+Descender -167
+XHeight 500
+CapHeight 808
+UnderlinePosition -106
+UnderlineThickness 16
+StdHW 20
+StdVW 38
+EncodingScheme FontSpecific
+StartCharMetrics 35
+C 32 ; WX 397 ; N space ; B 0 0 0 0 ;
+C 40 ; WX 210 ; N parenleft ; B 8 0 200 794 ;
+C 41 ; WX 302 ; N parenright ; B 13 0 288 794 ;
+C 65 ; WX 943 ; N A ; B 6 -5 906 786 ;
+C 66 ; WX 518 ; N B ; B 24 -1 494 794 ;
+C 67 ; WX 783 ; N C ; B 36 0 747 794 ;
+C 68 ; WX 694 ; N D ; B 30 -13 673 792 ;
+C 69 ; WX 487 ; N E ; B 23 -17 483 808 ;
+C 70 ; WX 529 ; N F ; B 25 -10 514 800 ;
+C 71 ; WX 787 ; N G ; B 36 0 751 795 ;
+C 72 ; WX 794 ; N H ; B 37 0 758 793 ;
+C 73 ; WX 447 ; N I ; B 19 0 426 794 ;
+C 74 ; WX 534 ; N J ; B 24 0 510 794 ;
+C 75 ; WX 625 ; N K ; B 28 0 594 791 ;
+C 76 ; WX 618 ; N L ; B 29 -12 598 792 ;
+C 77 ; WX 875 ; N M ; B 40 -12 848 794 ;
+C 78 ; WX 860 ; N N ; B 39 0 821 794 ;
+C 79 ; WX 863 ; N O ; B 39 0 824 794 ;
+C 80 ; WX 627 ; N P ; B 29 0 598 795 ;
+C 81 ; WX 887 ; N Q ; B 36 -12 854 792 ;
+C 82 ; WX 618 ; N R ; B 29 0 590 794 ;
+C 83 ; WX 529 ; N S ; B 24 0 506 794 ;
+C 84 ; WX 666 ; N T ; B 34 0 644 813 ;
+C 85 ; WX 787 ; N U ; B 36 0 751 794 ;
+C 86 ; WX 898 ; N V ; B 45 -1 856 790 ;
+C 87 ; WX 1240 ; N W ; B 56 0 1184 794 ;
+C 88 ; WX 640 ; N X ; B 29 0 612 794 ;
+C 89 ; WX 706 ; N Y ; B 32 0 673 796 ;
+C 90 ; WX 598 ; N Z ; B 28 -12 584 798 ;
+C 91 ; WX 210 ; N bracketleft ; B 16 0 208 794 ;
+C 93 ; WX 302 ; N bracketright ; B 15 0 291 794 ;
+C 160 ; WX 397 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 397 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 397 ; N _34 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

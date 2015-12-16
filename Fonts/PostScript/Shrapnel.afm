@@ -1,0 +1,111 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 2 0 0 2 0 3
+FullName Shrapnel
+FontName Shrapnel
+FamilyName Shrapnel
+Weight normal
+Notice Shrapnel font   1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -168 -178 1342 922
+Ascender 801
+Descender -125
+XHeight 800
+CapHeight 801
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 62
+StdVW 194
+EncodingScheme FontSpecific
+StartCharMetrics 83
+C 32 ; WX 469 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 384 ; N exclam ; B -164 -15 542 757 ;
+C 36 ; WX 501 ; N dollar ; B -132 -76 497 777 ;
+C 38 ; WX 648 ; N ampersand ; B -108 -5 789 771 ;
+C 39 ; WX 273 ; N quotesingle ; B 16 471 355 849 ;
+C 40 ; WX 330 ; N parenleft ; B -168 -148 335 892 ;
+C 41 ; WX 414 ; N parenright ; B 1 -178 540 862 ;
+C 44 ; WX 342 ; N comma ; B 19 -122 459 317 ;
+C 45 ; WX 495 ; N hyphen ; B 25 200 483 422 ;
+C 46 ; WX 309 ; N period ; B 33 -12 357 431 ;
+C 48 ; WX 862 ; N zero ; B -92 -5 943 831 ;
+C 49 ; WX 478 ; N one ; B -81 0 552 823 ;
+C 50 ; WX 752 ; N two ; B -60 -1 857 803 ;
+C 51 ; WX 702 ; N three ; B -42 -8 844 927 ;
+C 52 ; WX 722 ; N four ; B -24 0 871 800 ;
+C 53 ; WX 734 ; N five ; B -41 -10 870 807 ;
+C 54 ; WX 799 ; N six ; B -135 -5 928 800 ;
+C 55 ; WX 610 ; N seven ; B -13 0 580 800 ;
+C 56 ; WX 692 ; N eight ; B -138 -120 787 814 ;
+C 57 ; WX 866 ; N nine ; B -39 -26 925 813 ;
+C 58 ; WX 309 ; N colon ; B 33 -12 357 755 ;
+C 59 ; WX 342 ; N semicolon ; B 19 -122 459 755 ;
+C 63 ; WX 570 ; N question ; B -162 -8 553 777 ;
+C 65 ; WX 953 ; N A ; B -24 -13 950 800 ;
+C 66 ; WX 858 ; N B ; B -49 0 885 829 ;
+C 67 ; WX 731 ; N C ; B -91 -2 700 824 ;
+C 68 ; WX 859 ; N D ; B -66 0 874 800 ;
+C 69 ; WX 665 ; N E ; B -68 0 631 805 ;
+C 70 ; WX 777 ; N F ; B -33 0 781 800 ;
+C 71 ; WX 718 ; N G ; B -42 -29 669 800 ;
+C 72 ; WX 999 ; N H ; B -24 -44 1050 802 ;
+C 73 ; WX 415 ; N I ; B 22 -4 454 800 ;
+C 74 ; WX 653 ; N J ; B -25 -13 703 800 ;
+C 75 ; WX 877 ; N K ; B -101 0 843 800 ;
+C 76 ; WX 662 ; N L ; B -57 0 662 803 ;
+C 77 ; WX 1277 ; N M ; B -71 0 1313 810 ;
+C 78 ; WX 952 ; N N ; B -92 0 1009 823 ;
+C 79 ; WX 1202 ; N O ; B -69 -11 1342 817 ;
+C 80 ; WX 745 ; N P ; B -121 0 733 813 ;
+C 81 ; WX 1003 ; N Q ; B -126 -125 1067 808 ;
+C 82 ; WX 840 ; N R ; B -149 -3 901 800 ;
+C 83 ; WX 767 ; N S ; B -77 -105 782 798 ;
+C 84 ; WX 720 ; N T ; B -74 -7 699 800 ;
+C 85 ; WX 792 ; N U ; B -102 -9 747 800 ;
+C 86 ; WX 877 ; N V ; B -67 0 858 800 ;
+C 87 ; WX 1130 ; N W ; B -37 -7 1133 800 ;
+C 88 ; WX 712 ; N X ; B -16 0 702 800 ;
+C 89 ; WX 661 ; N Y ; B -9 -3 662 809 ;
+C 90 ; WX 656 ; N Z ; B -23 0 632 800 ;
+C 96 ; WX 674 ; N grave ; B 31 0 665 800 ;
+C 97 ; WX 884 ; N a ; B -48 0 910 802 ;
+C 98 ; WX 826 ; N b ; B -49 0 885 829 ;
+C 99 ; WX 705 ; N c ; B -91 -2 700 824 ;
+C 100 ; WX 865 ; N d ; B -66 0 874 800 ;
+C 101 ; WX 622 ; N e ; B -42 -5 593 803 ;
+C 102 ; WX 724 ; N f ; B -33 0 781 800 ;
+C 103 ; WX 710 ; N g ; B -42 -29 669 800 ;
+C 104 ; WX 1000 ; N h ; B -24 -44 1050 802 ;
+C 105 ; WX 525 ; N i ; B -16 -3 533 800 ;
+C 106 ; WX 666 ; N j ; B -25 -13 703 800 ;
+C 107 ; WX 771 ; N k ; B -96 0 799 799 ;
+C 108 ; WX 726 ; N l ; B -84 0 746 804 ;
+C 109 ; WX 1213 ; N m ; B -71 0 1313 810 ;
+C 110 ; WX 869 ; N n ; B -79 -35 961 800 ;
+C 111 ; WX 1093 ; N o ; B -137 -2 1222 800 ;
+C 112 ; WX 748 ; N p ; B -121 0 733 813 ;
+C 113 ; WX 962 ; N q ; B -126 -125 1067 808 ;
+C 114 ; WX 685 ; N r ; B -81 -14 749 800 ;
+C 115 ; WX 665 ; N s ; B -13 -47 687 816 ;
+C 116 ; WX 676 ; N t ; B -46 -3 653 888 ;
+C 117 ; WX 816 ; N u ; B -102 -9 747 800 ;
+C 118 ; WX 816 ; N v ; B -67 0 858 800 ;
+C 119 ; WX 1067 ; N w ; B -37 -7 1133 800 ;
+C 120 ; WX 710 ; N x ; B -16 0 702 800 ;
+C 121 ; WX 685 ; N y ; B -9 -3 662 809 ;
+C 122 ; WX 647 ; N z ; B -23 0 632 800 ;
+C 160 ; WX 469 ; N space ; B 0 0 0 0 ;
+C 210 ; WX 483 ; N Ograve ; B -99 471 474 849 ;
+C 211 ; WX 489 ; N Oacute ; B 16 471 592 849 ;
+C 212 ; WX 273 ; N Ocircumflex ; B -99 471 240 849 ;
+C 213 ; WX 273 ; N Otilde ; B 16 471 355 849 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 469 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 1
+KPX R A -113
+
+EndKernPairs
+EndKernData
+EndFontMetrics

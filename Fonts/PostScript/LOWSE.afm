@@ -1,0 +1,180 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 2 0 0 2 0 4
+FullName LOWSE
+FontName LOWSE
+FamilyName LOWSE
+Weight normal
+Notice Lower West Side Type 1 PostScript font © 1990 by David Rakowski. Alle Rechte Vorhalten.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -2 -238 1020 773
+Ascender 735
+Descender -189
+XHeight 532
+CapHeight 769
+UnderlinePosition -102
+UnderlineThickness 15
+StdHW 55
+StdVW 76
+EncodingScheme FontSpecific
+StartCharMetrics 101
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 312 ; N exclam ; B 14 0 297 769 ;
+C 36 ; WX 571 ; N dollar ; B 26 0 544 771 ;
+C 38 ; WX 667 ; N ampersand ; B 31 0 636 769 ;
+C 39 ; WX 188 ; N quotesingle ; B 20 511 162 762 ;
+C 40 ; WX 332 ; N parenleft ; B 15 0 317 769 ;
+C 41 ; WX 346 ; N parenright ; B 15 -1 331 769 ;
+C 44 ; WX 231 ; N comma ; B 13 -138 206 192 ;
+C 45 ; WX 434 ; N hyphen ; B 22 420 416 525 ;
+C 46 ; WX 203 ; N period ; B 10 0 189 183 ;
+C 48 ; WX 654 ; N zero ; B 30 0 624 731 ;
+C 49 ; WX 420 ; N one ; B 19 0 401 731 ;
+C 50 ; WX 559 ; N two ; B 25 0 533 731 ;
+C 51 ; WX 567 ; N three ; B 25 0 540 731 ;
+C 52 ; WX 635 ; N four ; B 29 0 605 731 ;
+C 53 ; WX 592 ; N five ; B 27 0 564 731 ;
+C 54 ; WX 652 ; N six ; B 29 0 622 732 ;
+C 55 ; WX 578 ; N seven ; B 25 0 552 731 ;
+C 56 ; WX 642 ; N eight ; B 29 0 613 730 ;
+C 57 ; WX 644 ; N nine ; B 29 0 615 731 ;
+C 58 ; WX 216 ; N colon ; B 10 0 207 525 ;
+C 59 ; WX 231 ; N semicolon ; B 13 -138 217 527 ;
+C 63 ; WX 586 ; N question ; B 27 0 560 769 ;
+C 65 ; WX 758 ; N A ; B 35 0 724 769 ;
+C 66 ; WX 722 ; N B ; B 33 0 689 769 ;
+C 67 ; WX 798 ; N C ; B 36 0 762 769 ;
+C 68 ; WX 719 ; N D ; B 32 0 686 769 ;
+C 69 ; WX 660 ; N E ; B 30 0 630 769 ;
+C 70 ; WX 652 ; N F ; B 30 0 622 769 ;
+C 71 ; WX 741 ; N G ; B 35 0 707 769 ;
+C 72 ; WX 748 ; N H ; B 34 0 715 769 ;
+C 73 ; WX 308 ; N I ; B 36 0 302 769 ;
+C 74 ; WX 616 ; N J ; B 28 0 588 769 ;
+C 75 ; WX 743 ; N K ; B 34 0 709 769 ;
+C 76 ; WX 583 ; N L ; B 26 0 557 769 ;
+C 77 ; WX 958 ; N M ; B 44 0 915 769 ;
+C 78 ; WX 798 ; N N ; B 36 0 762 769 ;
+C 79 ; WX 779 ; N O ; B 35 0 744 769 ;
+C 80 ; WX 636 ; N P ; B 29 0 607 769 ;
+C 81 ; WX 772 ; N Q ; B 35 0 738 768 ;
+C 82 ; WX 710 ; N R ; B 32 0 678 769 ;
+C 83 ; WX 639 ; N S ; B 29 0 610 769 ;
+C 84 ; WX 669 ; N T ; B 31 0 639 769 ;
+C 85 ; WX 753 ; N U ; B 35 0 719 769 ;
+C 86 ; WX 663 ; N V ; B 30 0 633 769 ;
+C 87 ; WX 1002 ; N W ; B 48 0 1020 769 ;
+C 88 ; WX 728 ; N X ; B 33 0 695 769 ;
+C 89 ; WX 663 ; N Y ; B 29 0 633 769 ;
+C 90 ; WX 740 ; N Z ; B 34 0 706 769 ;
+C 97 ; WX 522 ; N a ; B 24 0 498 525 ;
+C 98 ; WX 579 ; N b ; B 26 -1 553 730 ;
+C 99 ; WX 530 ; N c ; B 24 1 506 526 ;
+C 100 ; WX 635 ; N d ; B 29 0 606 731 ;
+C 101 ; WX 534 ; N e ; B 24 0 509 526 ;
+C 102 ; WX 415 ; N f ; B 18 0 396 731 ;
+C 103 ; WX 640 ; N g ; B 21 -238 620 515 ;
+C 104 ; WX 601 ; N h ; B 27 0 574 731 ;
+C 105 ; WX 295 ; N i ; B 31 0 271 731 ;
+C 106 ; WX 300 ; N j ; B -2 -118 288 722 ;
+C 107 ; WX 580 ; N k ; B 26 0 553 731 ;
+C 108 ; WX 268 ; N l ; B 12 5 235 735 ;
+C 109 ; WX 913 ; N m ; B 42 0 872 526 ;
+C 110 ; WX 548 ; N n ; B 25 0 522 526 ;
+C 111 ; WX 548 ; N o ; B 25 0 524 527 ;
+C 112 ; WX 612 ; N p ; B 28 -189 584 542 ;
+C 113 ; WX 637 ; N q ; B 35 -159 604 550 ;
+C 114 ; WX 370 ; N r ; B 17 0 353 526 ;
+C 115 ; WX 505 ; N s ; B 24 0 483 526 ;
+C 116 ; WX 392 ; N t ; B 17 0 362 658 ;
+C 117 ; WX 575 ; N u ; B 26 0 549 526 ;
+C 118 ; WX 502 ; N v ; B 23 0 479 526 ;
+C 119 ; WX 778 ; N w ; B 35 0 742 526 ;
+C 120 ; WX 535 ; N x ; B 25 0 510 526 ;
+C 121 ; WX 578 ; N y ; B 19 -235 564 532 ;
+C 122 ; WX 486 ; N z ; B 22 0 464 526 ;
+C 145 ; WX 188 ; N quoteleft ; B 28 498 170 750 ;
+C 146 ; WX 188 ; N quoteright ; B 20 511 162 762 ;
+C 147 ; WX 369 ; N quotedblleft ; B 24 498 351 750 ;
+C 148 ; WX 346 ; N quotedblright ; B 20 511 327 762 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 163 ; WX 617 ; N sterling ; B 28 0 589 769 ;
+C 177 ; WX 549 ; N plusminus ; B 10 0 539 645 ;
+C 181 ; WX 576 ; N mu ; B 32 -223 567 500 ;
+C 247 ; WX 549 ; N divide ; B 10 71 536 456 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 612 ; N Delta ; B 6 0 608 688 ;
+C -1 ; WX 500 ; N _100 ; B 0 0 0 0 ;
+C -1 ; WX 768 ; N _99 ; B 34 0 736 688 ;
+C -1 ; WX 549 ; N approxequal ; B 14 135 527 394 ;
+C -1 ; WX 549 ; N greaterequal ; B 29 0 526 639 ;
+C -1 ; WX 713 ; N infinity ; B 26 125 688 404 ;
+C -1 ; WX 274 ; N integral ; B 2 -107 291 916 ;
+C -1 ; WX 549 ; N lessequal ; B 29 0 526 639 ;
+C -1 ; WX 494 ; N lozenge ; B 18 0 466 745 ;
+C -1 ; WX 549 ; N notequal ; B 15 -25 540 549 ;
+C -1 ; WX 494 ; N partialdiff ; B 26 -21 462 746 ;
+C -1 ; WX 549 ; N pi ; B 10 -19 530 487 ;
+C -1 ; WX 823 ; N product ; B 25 -101 803 751 ;
+C -1 ; WX 549 ; N radical ; B 10 -38 515 917 ;
+C -1 ; WX 713 ; N summation ; B 14 -108 695 752 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 45
+KPX A T -122
+KPX A V -154
+
+KPX F A -174
+KPX F G -35
+KPX F J -165
+KPX F a -148
+KPX F e -175
+KPX F o -149
+KPX F r -105
+KPX F u -78
+KPX F y -78
+
+KPX T A -183
+KPX T a -209
+KPX T e -219
+KPX T m -245
+KPX T n -193
+KPX T o -236
+KPX T p -193
+KPX T q -210
+KPX T r -210
+KPX T s -201
+KPX T u -201
+KPX T v -201
+KPX T w -166
+KPX T y -175
+KPX T z -210
+
+KPX V A -161
+KPX V a -87
+KPX V e -70
+KPX V o -87
+KPX V u -70
+KPX V y -78
+
+KPX W a -184
+KPX W d -87
+KPX W e -96
+KPX W o -157
+KPX W q -61
+KPX W r -35
+KPX W s -52
+KPX W u -35
+KPX W y -26
+
+KPX o x -122
+
+KPX w x -105
+
+KPX y o -52
+KPX y x -70
+
+EndKernPairs
+EndKernData
+EndFontMetrics

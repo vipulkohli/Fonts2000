@@ -1,0 +1,176 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 6 0 0 2 0 3
+FullName Judas
+FontName Judas
+FamilyName Judas
+Weight normal
+Notice v1.2 ShareWare $10 PoBox 1828 Easton MD 21601
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -24 -172 605 862
+Ascender 862
+Descender -200
+XHeight 457
+CapHeight 762
+UnderlinePosition -128
+UnderlineThickness 21
+StdVW 95
+EncodingScheme FontSpecific
+StartCharMetrics 86
+C 32 ; WX 270 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 215 ; N exclam ; B -15 -9 183 760 ;
+C 34 ; WX 356 ; N quotedbl ; B 13 555 346 844 ;
+C 36 ; WX 313 ; N dollar ; B -5 -159 285 762 ;
+C 37 ; WX 564 ; N percent ; B 0 -148 541 766 ;
+C 38 ; WX 424 ; N ampersand ; B 9 -153 400 762 ;
+C 39 ; WX 225 ; N quotesingle ; B 15 575 174 862 ;
+C 40 ; WX 270 ; N parenleft ; B 9 -153 250 762 ;
+C 41 ; WX 279 ; N parenright ; B 14 -153 255 762 ;
+C 42 ; WX 320 ; N asterisk ; B 24 445 301 761 ;
+C 43 ; WX 545 ; N plus ; B 1 115 514 628 ;
+C 44 ; WX 191 ; N comma ; B 2 -133 179 153 ;
+C 45 ; WX 202 ; N hyphen ; B 37 325 170 418 ;
+C 46 ; WX 191 ; N period ; B 14 -9 176 153 ;
+C 47 ; WX 374 ; N slash ; B -1 -131 367 766 ;
+C 48 ; WX 353 ; N zero ; B 0 -153 325 762 ;
+C 49 ; WX 298 ; N one ; B 0 -153 243 762 ;
+C 50 ; WX 323 ; N two ; B -2 -153 285 762 ;
+C 51 ; WX 338 ; N three ; B 9 -153 307 762 ;
+C 52 ; WX 354 ; N four ; B -15 -153 338 762 ;
+C 53 ; WX 345 ; N five ; B 4 -153 323 762 ;
+C 54 ; WX 345 ; N six ; B 0 -153 307 762 ;
+C 55 ; WX 384 ; N seven ; B 2 -153 374 762 ;
+C 56 ; WX 338 ; N eight ; B 0 -153 307 762 ;
+C 57 ; WX 345 ; N nine ; B 5 -153 312 762 ;
+C 58 ; WX 191 ; N colon ; B 12 -9 176 478 ;
+C 59 ; WX 192 ; N semicolon ; B 2 -133 179 478 ;
+C 60 ; WX 213 ; N less ; B 10 75 184 422 ;
+C 61 ; WX 569 ; N equal ; B 27 218 541 400 ;
+C 62 ; WX 213 ; N greater ; B 26 75 200 422 ;
+C 63 ; WX 316 ; N question ; B 16 -10 292 762 ;
+C 65 ; WX 332 ; N A ; B 6 -153 308 762 ;
+C 66 ; WX 344 ; N B ; B 5 -153 306 762 ;
+C 67 ; WX 348 ; N C ; B 0 -152 310 763 ;
+C 68 ; WX 344 ; N D ; B 5 -153 306 762 ;
+C 69 ; WX 338 ; N E ; B -5 -153 288 762 ;
+C 70 ; WX 308 ; N F ; B -14 -153 288 762 ;
+C 71 ; WX 349 ; N G ; B 0 -153 325 762 ;
+C 72 ; WX 321 ; N H ; B -3 -153 295 762 ;
+C 73 ; WX 226 ; N I ; B 0 -153 197 762 ;
+C 74 ; WX 321 ; N J ; B -22 -152 298 761 ;
+C 75 ; WX 373 ; N K ; B 14 -153 342 762 ;
+C 76 ; WX 324 ; N L ; B 5 -153 307 762 ;
+C 77 ; WX 461 ; N M ; B 0 -153 442 762 ;
+C 78 ; WX 406 ; N N ; B 0 -153 380 762 ;
+C 79 ; WX 364 ; N O ; B 0 -153 325 762 ;
+C 80 ; WX 299 ; N P ; B -6 -153 295 762 ;
+C 81 ; WX 361 ; N Q ; B 0 -172 325 762 ;
+C 82 ; WX 344 ; N R ; B 5 -153 309 762 ;
+C 83 ; WX 331 ; N S ; B -2 -153 285 762 ;
+C 84 ; WX 425 ; N T ; B -4 -153 403 762 ;
+C 85 ; WX 349 ; N U ; B 9 -153 316 762 ;
+C 86 ; WX 343 ; N V ; B -8 -153 311 762 ;
+C 87 ; WX 499 ; N W ; B 0 -153 475 762 ;
+C 88 ; WX 373 ; N X ; B -5 -153 332 762 ;
+C 89 ; WX 353 ; N Y ; B 3 -153 321 762 ;
+C 90 ; WX 319 ; N Z ; B -2 -153 293 762 ;
+C 91 ; WX 288 ; N bracketleft ; B -14 -153 276 762 ;
+C 92 ; WX 374 ; N backslash ; B -2 -131 366 766 ;
+C 93 ; WX 288 ; N bracketright ; B -9 -153 280 762 ;
+C 95 ; WX 468 ; N underscore ; B 0 -70 468 -19 ;
+C 96 ; WX 256 ; N grave ; B 74 661 257 761 ;
+C 123 ; WX 259 ; N braceleft ; B -13 -153 230 762 ;
+C 125 ; WX 258 ; N braceright ; B 26 -153 269 762 ;
+C 160 ; WX 270 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 313 ; N cent ; B 0 -144 285 762 ;
+C 163 ; WX 383 ; N sterling ; B -16 -149 342 763 ;
+C 171 ; WX 256 ; N guillemotleft ; B 52 661 235 761 ;
+C 174 ; WX 440 ; N registered ; B -24 -153 425 763 ;
+C 175 ; WX 375 ; N macron ; B -19 -153 361 762 ;
+C 177 ; WX 569 ; N plusminus ; B 1 -1 514 628 ;
+C 192 ; WX 316 ; N Agrave ; B 15 -152 290 620 ;
+C 193 ; WX 191 ; N Aacute ; B -15 -163 183 606 ;
+C 199 ; WX 366 ; N Ccedilla ; B 10 75 335 422 ;
+C 200 ; WX 366 ; N Egrave ; B 8 75 333 422 ;
+C 201 ; WX 644 ; N Eacute ; B 0 -11 605 153 ;
+C 206 ; WX 455 ; N Icircumflex ; B 0 -153 429 762 ;
+C 210 ; WX 401 ; N Ograve ; B 5 567 389 858 ;
+C 211 ; WX 397 ; N Oacute ; B 20 545 376 836 ;
+C 212 ; WX 229 ; N Ocircumflex ; B 5 562 192 848 ;
+C 213 ; WX 229 ; N Otilde ; B 20 549 197 836 ;
+C 222 ; WX 472 ; N Thorn ; B -14 -153 462 762 ;
+C 223 ; WX 572 ; N germandbls ; B -14 -153 563 762 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 270 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 524 ; N _85 ; B 1 343 514 400 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 52
+KPX A T -26
+KPX A V -26
+KPX A W -26
+KPX A Y -26
+KPX A Oacute -35
+KPX A Otilde -35
+
+KPX E V -8
+KPX E W -8
+KPX E Y -13
+
+KPX F comma -117
+KPX F period -117
+KPX F semicolon -26
+KPX F A -35
+
+KPX L T -91
+KPX L U -8
+KPX L V -37
+KPX L W -74
+KPX L Y -91
+KPX L Oacute -134
+KPX L Otilde -134
+
+KPX P comma -139
+KPX P period -161
+KPX P semicolon -26
+KPX P A -35
+KPX P E -26
+
+KPX R V -13
+KPX R W -13
+KPX R Y -13
+
+KPX T comma -115
+KPX T hyphen -26
+KPX T period -115
+KPX T semicolon -26
+KPX T A -26
+
+KPX V A -8
+
+KPX W comma -39
+KPX W hyphen -8
+KPX W period -52
+KPX W colon -26
+KPX W semicolon -52
+KPX W A -30
+
+KPX Y comma -67
+KPX Y hyphen -39
+KPX Y period -89
+KPX Y colon -39
+KPX Y semicolon -74
+KPX Y A -26
+
+KPX Ograve A -41
+KPX Ograve J -144
+
+KPX Ocircumflex A -41
+KPX Ocircumflex J -144
+KPX Ocircumflex Ocircumflex -81
+
+KPX Otilde Otilde -81
+
+EndKernPairs
+EndKernData
+EndFontMetrics

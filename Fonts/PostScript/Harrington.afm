@@ -1,0 +1,101 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 7 0 0 2 0 4
+FullName Harrington
+FontName Harrington
+FamilyName Harrington
+Weight normal
+Notice Converted to PC format for distribution by Reasonable Solutions, Inc.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -105 -216 772 752
+Ascender 700
+Descender -185
+XHeight 548
+CapHeight 735
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 32
+StdVW 71
+EncodingScheme FontSpecific
+StartCharMetrics 79
+C 32 ; WX 264 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 205 ; N exclam ; B 11 -91 170 705 ;
+C 35 ; WX 815 ; N numbersign ; B 42 -197 772 530 ;
+C 36 ; WX 436 ; N dollar ; B 5 -15 401 557 ;
+C 38 ; WX 668 ; N ampersand ; B 6 -7 632 698 ;
+C 39 ; WX 182 ; N quotesingle ; B 15 489 145 685 ;
+C 44 ; WX 186 ; N comma ; B 11 -61 145 132 ;
+C 45 ; WX 286 ; N hyphen ; B 10 308 243 421 ;
+C 46 ; WX 173 ; N period ; B 11 0 140 129 ;
+C 48 ; WX 477 ; N zero ; B 6 -4 440 627 ;
+C 49 ; WX 214 ; N one ; B 11 -4 169 606 ;
+C 50 ; WX 423 ; N two ; B 5 3 377 620 ;
+C 51 ; WX 459 ; N three ; B 9 0 426 621 ;
+C 52 ; WX 545 ; N four ; B -11 -23 528 645 ;
+C 53 ; WX 477 ; N five ; B 11 4 435 671 ;
+C 54 ; WX 464 ; N six ; B 9 -5 421 618 ;
+C 55 ; WX 427 ; N seven ; B -4 1 395 626 ;
+C 56 ; WX 455 ; N eight ; B 8 3 420 669 ;
+C 57 ; WX 473 ; N nine ; B -1 -100 435 613 ;
+C 58 ; WX 182 ; N colon ; B 11 -7 145 370 ;
+C 59 ; WX 182 ; N semicolon ; B 5 -56 139 373 ;
+C 63 ; WX 455 ; N question ; B 8 -144 416 672 ;
+C 65 ; WX 677 ; N A ; B -4 -161 645 671 ;
+C 66 ; WX 623 ; N B ; B 8 -97 593 680 ;
+C 67 ; WX 627 ; N C ; B 5 -3 616 717 ;
+C 68 ; WX 650 ; N D ; B 1 -5 614 686 ;
+C 69 ; WX 632 ; N E ; B 12 -2 615 699 ;
+C 70 ; WX 568 ; N F ; B 7 -4 548 735 ;
+C 71 ; WX 600 ; N G ; B 1 1 564 734 ;
+C 72 ; WX 676 ; N H ; B 0 -3 647 679 ;
+C 73 ; WX 195 ; N I ; B 11 0 152 685 ;
+C 74 ; WX 209 ; N J ; B -105 -125 155 678 ;
+C 75 ; WX 623 ; N K ; B 5 -93 594 704 ;
+C 76 ; WX 550 ; N L ; B 1 -5 517 677 ;
+C 77 ; WX 709 ; N M ; B 5 0 676 653 ;
+C 78 ; WX 582 ; N N ; B 3 -1 552 662 ;
+C 79 ; WX 591 ; N O ; B 8 2 556 690 ;
+C 80 ; WX 591 ; N P ; B -10 -141 544 680 ;
+C 81 ; WX 605 ; N Q ; B 11 -118 615 689 ;
+C 82 ; WX 623 ; N R ; B 4 -115 668 683 ;
+C 83 ; WX 564 ; N S ; B 5 0 532 695 ;
+C 84 ; WX 555 ; N T ; B 10 -5 550 738 ;
+C 85 ; WX 591 ; N U ; B 6 -5 578 695 ;
+C 86 ; WX 568 ; N V ; B 20 -6 535 752 ;
+C 87 ; WX 750 ; N W ; B 0 -3 722 711 ;
+C 88 ; WX 559 ; N X ; B 5 -3 550 704 ;
+C 89 ; WX 541 ; N Y ; B 7 -151 513 682 ;
+C 90 ; WX 577 ; N Z ; B 0 3 542 703 ;
+C 91 ; WX 218 ; N bracketleft ; B 6 -169 220 710 ;
+C 93 ; WX 245 ; N bracketright ; B 15 -176 215 717 ;
+C 97 ; WX 441 ; N a ; B 3 3 419 490 ;
+C 98 ; WX 473 ; N b ; B 5 -4 427 682 ;
+C 99 ; WX 441 ; N c ; B 8 1 419 489 ;
+C 100 ; WX 482 ; N d ; B 11 0 455 700 ;
+C 101 ; WX 455 ; N e ; B 7 -91 425 475 ;
+C 102 ; WX 289 ; N f ; B -7 -216 265 671 ;
+C 103 ; WX 495 ; N g ; B 5 -195 466 582 ;
+C 104 ; WX 468 ; N h ; B 15 -6 439 681 ;
+C 105 ; WX 159 ; N i ; B 2 -1 125 603 ;
+C 106 ; WX 175 ; N j ; B -22 -181 140 625 ;
+C 107 ; WX 441 ; N k ; B 9 -11 425 675 ;
+C 108 ; WX 186 ; N l ; B 15 -4 151 669 ;
+C 109 ; WX 650 ; N m ; B 6 -11 617 466 ;
+C 110 ; WX 464 ; N n ; B 11 -12 431 470 ;
+C 111 ; WX 509 ; N o ; B 4 1 478 483 ;
+C 112 ; WX 473 ; N p ; B 0 -178 446 485 ;
+C 113 ; WX 477 ; N q ; B 8 -185 445 485 ;
+C 114 ; WX 377 ; N r ; B 4 -6 356 478 ;
+C 115 ; WX 423 ; N s ; B 7 -2 390 481 ;
+C 116 ; WX 227 ; N t ; B 7 0 187 636 ;
+C 117 ; WX 450 ; N u ; B 0 -1 429 474 ;
+C 118 ; WX 436 ; N v ; B 5 2 404 522 ;
+C 119 ; WX 605 ; N w ; B 9 -5 568 548 ;
+C 120 ; WX 423 ; N x ; B 0 -64 392 515 ;
+C 121 ; WX 441 ; N y ; B 8 -187 412 476 ;
+C 122 ; WX 432 ; N z ; B 4 -16 395 487 ;
+C 160 ; WX 250 ; N nbspace ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 264 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

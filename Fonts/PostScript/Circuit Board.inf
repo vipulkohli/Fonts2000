@@ -1,0 +1,23 @@
+FontName (CircuitBoard)
+FullName (Circuit Board)
+AppleName (CircuitBoard)
+FamilyName (Circuit Board)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 0
+CapHeight 985
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 50
+Serif false
+AppleName (Circuit Board)
+MSMenuName (Circuit Board)
+VPMenuName (Circuit Board)
+WORDMenuName (Circuit Board)
+AppleFONDID 4112
+VPStyle (N)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

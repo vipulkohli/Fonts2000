@@ -1,0 +1,190 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 4 0 0 2 0 3
+FullName OregonDry
+FontName OregonDry
+FamilyName OregonDry
+Weight normal
+Notice ©Pat Snyder, 1797 Ross Inlet, Coos Bay OR 97420 Shware $15
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -21 -230 759 742
+Ascender 742
+Descender -230
+XHeight 454
+CapHeight 675
+UnderlinePosition -133
+UnderlineThickness 40
+StdHW 120
+StdVW 138
+EncodingScheme FontSpecific
+StartCharMetrics 87
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 186 ; N exclam ; B 41 -11 169 679 ;
+C 35 ; WX 456 ; N numbersign ; B 24 117 438 534 ;
+C 36 ; WX 378 ; N dollar ; B 11 1 384 683 ;
+C 37 ; WX 456 ; N percent ; B 17 -6 472 683 ;
+C 38 ; WX 461 ; N ampersand ; B 13 -9 514 681 ;
+C 39 ; WX 152 ; N quotesingle ; B 32 537 148 680 ;
+C 40 ; WX 318 ; N parenleft ; B 24 0 300 679 ;
+C 41 ; WX 318 ; N parenright ; B 22 0 298 678 ;
+C 42 ; WX 180 ; N asterisk ; B 21 267 163 409 ;
+C 43 ; WX 373 ; N plus ; B 3 201 354 549 ;
+C 44 ; WX 152 ; N comma ; B 32 -66 148 77 ;
+C 45 ; WX 348 ; N hyphen ; B 18 267 335 393 ;
+C 46 ; WX 152 ; N period ; B 27 0 135 96 ;
+C 47 ; WX 456 ; N slash ; B 17 -6 472 675 ;
+C 48 ; WX 449 ; N zero ; B 24 -9 438 684 ;
+C 49 ; WX 234 ; N one ; B 11 -6 216 675 ;
+C 50 ; WX 444 ; N two ; B 24 0 438 681 ;
+C 51 ; WX 461 ; N three ; B 24 -9 447 681 ;
+C 52 ; WX 474 ; N four ; B -21 0 447 678 ;
+C 53 ; WX 450 ; N five ; B 15 -6 438 675 ;
+C 54 ; WX 459 ; N six ; B 24 -6 449 681 ;
+C 55 ; WX 456 ; N seven ; B 17 -6 476 675 ;
+C 56 ; WX 442 ; N eight ; B 28 -12 450 687 ;
+C 57 ; WX 459 ; N nine ; B 23 1 446 688 ;
+C 58 ; WX 152 ; N colon ; B 27 0 135 408 ;
+C 59 ; WX 152 ; N semicolon ; B 6 -66 135 438 ;
+C 61 ; WX 348 ; N equal ; B 18 183 335 473 ;
+C 63 ; WX 384 ; N question ; B 4 -17 381 681 ;
+C 65 ; WX 516 ; N A ; B -1 -6 532 678 ;
+C 66 ; WX 462 ; N B ; B 24 -6 450 675 ;
+C 67 ; WX 444 ; N C ; B 24 -9 438 681 ;
+C 68 ; WX 467 ; N D ; B 23 -7 440 676 ;
+C 69 ; WX 390 ; N E ; B 23 0 387 675 ;
+C 70 ; WX 391 ; N F ; B 23 -1 388 675 ;
+C 71 ; WX 467 ; N G ; B 24 -19 438 681 ;
+C 72 ; WX 456 ; N H ; B 24 0 438 675 ;
+C 73 ; WX 181 ; N I ; B 24 -6 162 675 ;
+C 74 ; WX 378 ; N J ; B 9 -9 360 675 ;
+C 75 ; WX 474 ; N K ; B 24 -3 472 675 ;
+C 76 ; WX 377 ; N L ; B 24 -4 406 675 ;
+C 77 ; WX 707 ; N M ; B 32 -6 680 675 ;
+C 78 ; WX 470 ; N N ; B 22 -12 446 675 ;
+C 79 ; WX 466 ; N O ; B 24 -9 438 684 ;
+C 80 ; WX 441 ; N P ; B 21 -3 438 676 ;
+C 81 ; WX 462 ; N Q ; B 24 0 438 675 ;
+C 82 ; WX 474 ; N R ; B 24 -21 490 675 ;
+C 83 ; WX 450 ; N S ; B 15 -6 441 681 ;
+C 84 ; WX 455 ; N T ; B 12 -3 444 675 ;
+C 85 ; WX 456 ; N U ; B 24 -6 438 675 ;
+C 86 ; WX 468 ; N V ; B 6 -12 462 681 ;
+C 87 ; WX 762 ; N W ; B 7 -6 759 679 ;
+C 88 ; WX 492 ; N X ; B 9 -13 486 684 ;
+C 89 ; WX 460 ; N Y ; B 3 0 459 689 ;
+C 90 ; WX 466 ; N Z ; B 24 0 456 675 ;
+C 95 ; WX 348 ; N underscore ; B 18 -3 335 123 ;
+C 97 ; WX 417 ; N a ; B 8 -6 383 455 ;
+C 98 ; WX 438 ; N b ; B 40 -5 419 734 ;
+C 99 ; WX 376 ; N c ; B 30 -14 364 448 ;
+C 100 ; WX 436 ; N d ; B 25 -5 402 734 ;
+C 101 ; WX 416 ; N e ; B 28 -10 406 452 ;
+C 102 ; WX 306 ; N f ; B 48 -1 304 723 ;
+C 103 ; WX 421 ; N g ; B 22 -231 411 443 ;
+C 104 ; WX 421 ; N h ; B 41 0 400 736 ;
+C 105 ; WX 186 ; N i ; B 41 -11 169 580 ;
+C 106 ; WX 186 ; N j ; B 33 -136 161 580 ;
+C 107 ; WX 442 ; N k ; B 41 -7 437 742 ;
+C 108 ; WX 210 ; N l ; B 41 0 173 738 ;
+C 109 ; WX 679 ; N m ; B 41 -5 649 450 ;
+C 110 ; WX 422 ; N n ; B 41 0 401 438 ;
+C 111 ; WX 421 ; N o ; B 41 -10 404 448 ;
+C 112 ; WX 440 ; N p ; B 36 -230 419 448 ;
+C 113 ; WX 439 ; N q ; B 28 -230 414 449 ;
+C 114 ; WX 327 ; N r ; B 41 0 319 456 ;
+C 115 ; WX 379 ; N s ; B 11 -9 384 445 ;
+C 116 ; WX 363 ; N t ; B 3 -8 354 549 ;
+C 117 ; WX 400 ; N u ; B 28 -7 386 444 ;
+C 118 ; WX 428 ; N v ; B 11 -17 411 448 ;
+C 119 ; WX 649 ; N w ; B -3 -13 661 446 ;
+C 120 ; WX 360 ; N x ; B 12 -14 347 454 ;
+C 121 ; WX 411 ; N y ; B 13 -182 398 445 ;
+C 122 ; WX 411 ; N z ; B 16 -1 400 435 ;
+C 160 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 210 ; WX 258 ; N Ograve ; B -2 536 240 679 ;
+C 211 ; WX 258 ; N Oacute ; B 14 537 256 680 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 56
+KPX zero one 25
+
+KPX one seven -8
+
+KPX two one 9
+
+KPX seven period -153
+KPX seven one 34
+KPX seven four -85
+
+KPX nine one 8
+
+KPX A quotesingle -77
+
+KPX F comma -94
+KPX F period -42
+
+KPX L quotesingle -68
+KPX L y -16
+
+KPX O comma -17
+
+KPX P comma -136
+KPX P period -128
+
+KPX T comma -94
+KPX T period -135
+KPX T a -93
+KPX T e -77
+KPX T o -93
+KPX T r -77
+KPX T u -60
+KPX T v -93
+KPX T w -42
+KPX T y -60
+
+KPX V comma -68
+KPX V period -60
+KPX V a -34
+KPX V e -33
+KPX V o -42
+KPX V u -17
+
+KPX W comma -25
+KPX W period -42
+KPX W e -8
+KPX W o -8
+
+KPX Y comma -78
+KPX Y period -77
+KPX Y a -68
+KPX Y e -76
+KPX Y i -17
+KPX Y o -93
+KPX Y p -25
+KPX Y u -51
+
+KPX f comma -68
+KPX f period -51
+
+KPX o comma -25
+
+KPX r comma -42
+KPX r period -25
+
+KPX t comma -51
+KPX t period -51
+
+KPX v comma -51
+KPX v period -42
+
+KPX w comma -51
+KPX w period -17
+
+KPX y comma -68
+KPX y period -51
+
+EndKernPairs
+EndKernData
+EndFontMetrics

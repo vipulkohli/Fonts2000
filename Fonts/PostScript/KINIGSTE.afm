@@ -1,0 +1,60 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 3 0 0 2 0 4
+FullName KINIGSTE
+FontName KINIGSTE
+FamilyName KINIGSTE
+Weight normal
+Notice Kinigstein Caps © 1990 by David Rakowski. Alle Rechte Vorhalten. 
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 0 1076 1002
+Ascender 943
+Descender -57
+XHeight 500
+CapHeight 1000
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 20
+StdVW 40
+EncodingScheme FontSpecific
+StartCharMetrics 32
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 49 ; WX 926 ; N one ; B 42 0 884 1000 ;
+C 50 ; WX 1123 ; N two ; B 51 0 1072 1000 ;
+C 51 ; WX 825 ; N three ; B 37 0 787 1001 ;
+C 52 ; WX 437 ; N four ; B 20 -1 417 1000 ;
+C 65 ; WX 955 ; N A ; B 44 0 912 1000 ;
+C 66 ; WX 936 ; N B ; B 40 0 893 1000 ;
+C 67 ; WX 948 ; N C ; B 43 0 905 1000 ;
+C 68 ; WX 948 ; N D ; B 43 0 904 1000 ;
+C 69 ; WX 933 ; N E ; B 42 0 890 1000 ;
+C 70 ; WX 939 ; N F ; B 43 0 896 1000 ;
+C 71 ; WX 945 ; N G ; B 43 0 902 1000 ;
+C 72 ; WX 949 ; N H ; B 43 0 905 1000 ;
+C 73 ; WX 937 ; N I ; B 43 0 894 1000 ;
+C 74 ; WX 940 ; N J ; B 41 0 897 1000 ;
+C 75 ; WX 936 ; N K ; B 43 -1 893 1000 ;
+C 76 ; WX 957 ; N L ; B 43 0 913 1000 ;
+C 77 ; WX 1010 ; N M ; B 46 0 964 1000 ;
+C 78 ; WX 954 ; N N ; B 42 0 910 1000 ;
+C 79 ; WX 945 ; N O ; B 43 0 902 1000 ;
+C 80 ; WX 959 ; N P ; B 44 0 915 1000 ;
+C 82 ; WX 943 ; N R ; B 43 0 900 1000 ;
+C 83 ; WX 948 ; N S ; B 43 0 905 1000 ;
+C 84 ; WX 934 ; N T ; B 42 0 892 1000 ;
+C 85 ; WX 954 ; N U ; B 43 0 911 1000 ;
+C 86 ; WX 932 ; N V ; B 41 0 889 1002 ;
+C 87 ; WX 1126 ; N W ; B 50 0 1076 1000 ;
+C 90 ; WX 930 ; N Z ; B 42 0 892 1000 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _31 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 2
+KPX space space -260
+
+EndKernPairs
+EndKernData
+EndFontMetrics

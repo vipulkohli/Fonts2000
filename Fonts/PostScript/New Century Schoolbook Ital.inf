@@ -1,0 +1,23 @@
+FontName (NewCenturySchoolbookItalic)
+FullName (New Century Schoolbook Italic)
+AppleName (NewCenturySchoolbookItalic)
+FamilyName (New Century Schoolbook)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle -16
+CapHeight 722
+UnderlinePosition -29
+UnderlineThickness 10
+StemWidth 50
+Serif true
+AppleName (New Century Schoolbook)
+MSMenuName (New Century Schoolbook Italic)
+VPMenuName (New Century Schoolbook Italic)
+WORDMenuName (New Century Schoolbook Italic)
+AppleFONDID 6379
+VPStyle (I)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

@@ -1,0 +1,23 @@
+FontName (VideoTerminalScreen)
+FullName (Video Terminal Screen)
+AppleName (VideoTerminalScreen)
+FamilyName (Video Terminal Screen)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 0
+CapHeight 625
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 50
+Serif false
+AppleName (Video Terminal Screen)
+MSMenuName (Video Terminal Screen)
+VPMenuName (Video Terminal Screen)
+WORDMenuName (Video Terminal Screen)
+AppleFONDID 2836
+VPStyle (N)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

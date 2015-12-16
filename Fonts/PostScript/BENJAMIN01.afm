@@ -1,0 +1,93 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 7 0 0 2 0 4
+FullName BENJAMIN
+FontName BENJAMIN
+FamilyName BENJAMIN
+Weight normal
+Notice  
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -321 -638 2704 874
+Ascender 558
+Descender -442
+XHeight 500
+CapHeight 874
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 43
+StdVW 24
+EncodingScheme FontSpecific
+StartCharMetrics 31
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 850 ; N A ; B 38 0 812 800 ;
+C 66 ; WX 792 ; N B ; B 36 -1 757 800 ;
+C 67 ; WX 876 ; N C ; B 39 0 836 800 ;
+C 68 ; WX 816 ; N D ; B 36 0 778 800 ;
+C 69 ; WX 851 ; N E ; B 38 0 812 801 ;
+C 70 ; WX 802 ; N F ; B 36 0 766 801 ;
+C 71 ; WX 885 ; N G ; B 40 -1 845 800 ;
+C 72 ; WX 862 ; N H ; B 39 0 824 800 ;
+C 73 ; WX 112 ; N I ; B 19 0 84 874 ;
+C 74 ; WX 348 ; N J ; B -321 -144 326 863 ;
+C 75 ; WX 856 ; N K ; B 39 0 817 800 ;
+C 76 ; WX 766 ; N L ; B 35 0 731 800 ;
+C 77 ; WX 1071 ; N M ; B 49 0 1022 803 ;
+C 78 ; WX 801 ; N N ; B 36 0 764 801 ;
+C 79 ; WX 890 ; N O ; B 41 0 849 800 ;
+C 80 ; WX 798 ; N P ; B 37 0 763 800 ;
+C 81 ; WX 868 ; N Q ; B 22 -638 2704 801 ;
+C 82 ; WX 784 ; N R ; B 36 0 748 800 ;
+C 83 ; WX 823 ; N S ; B 37 0 787 800 ;
+C 84 ; WX 911 ; N T ; B 41 -1 870 801 ;
+C 85 ; WX 826 ; N U ; B 37 0 788 800 ;
+C 86 ; WX 786 ; N V ; B 36 0 750 800 ;
+C 87 ; WX 1029 ; N W ; B 47 0 982 800 ;
+C 88 ; WX 881 ; N X ; B 40 -1 841 800 ;
+C 89 ; WX 803 ; N Y ; B -199 -246 759 803 ;
+C 90 ; WX 825 ; N Z ; B 38 0 788 800 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _30 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 25
+KPX B T -18
+
+KPX C T -22
+
+KPX E T -40
+
+KPX F O -44
+KPX F U -66
+KPX F A -62
+
+KPX L T -33
+
+KPX O J -74
+KPX O T -97
+KPX O A -22
+
+KPX Q T -78
+
+KPX T C -96
+KPX T E -70
+KPX T G -114
+KPX T J -136
+KPX T O -96
+KPX T Q -95
+KPX T U -137
+KPX T A -154
+
+KPX V J -95
+KPX V A -92
+
+KPX W J -107
+KPX W A -62
+
+KPX Y U -22
+KPX Y A -37
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,115 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 8 0 0 2 0 3
+FullName NixonInChina
+FontName NixonInChina
+FamilyName Nixon
+Weight normal
+Notice NixonInChina copyright (c) 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -309 803 757
+Ascender 693
+Descender -192
+XHeight 496
+CapHeight 714
+UnderlinePosition -95
+UnderlineThickness 14
+EncodingScheme FontSpecific
+StartCharMetrics 69
+C 32 ; WX 242 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 186 ; N exclam ; B 1 -7 164 711 ;
+C 34 ; WX 296 ; N quotedbl ; B 39 396 281 692 ;
+C 39 ; WX 179 ; N quotesingle ; B 39 396 149 692 ;
+C 44 ; WX 179 ; N comma ; B 39 -176 149 121 ;
+C 45 ; WX 324 ; N hyphen ; B 11 374 307 483 ;
+C 46 ; WX 186 ; N period ; B 26 -7 164 114 ;
+C 58 ; WX 186 ; N colon ; B 26 -7 164 449 ;
+C 59 ; WX 186 ; N semicolon ; B 26 -176 164 449 ;
+C 63 ; WX 450 ; N question ; B 26 -4 426 717 ;
+C 65 ; WX 584 ; N A ; B 26 0 558 757 ;
+C 66 ; WX 633 ; N B ; B 29 0 604 714 ;
+C 67 ; WX 456 ; N C ; B 18 0 435 721 ;
+C 68 ; WX 502 ; N D ; B 23 0 479 714 ;
+C 69 ; WX 498 ; N E ; B 23 0 476 714 ;
+C 70 ; WX 419 ; N F ; B 19 0 399 714 ;
+C 71 ; WX 609 ; N G ; B 27 -44 581 699 ;
+C 72 ; WX 550 ; N H ; B 25 0 525 714 ;
+C 73 ; WX 318 ; N I ; B 37 0 294 714 ;
+C 74 ; WX 421 ; N J ; B 13 0 402 714 ;
+C 75 ; WX 641 ; N K ; B 29 0 612 714 ;
+C 76 ; WX 414 ; N L ; B 15 0 396 714 ;
+C 77 ; WX 649 ; N M ; B 29 0 619 714 ;
+C 78 ; WX 555 ; N N ; B 25 0 530 714 ;
+C 79 ; WX 492 ; N O ; B 22 0 470 714 ;
+C 80 ; WX 576 ; N P ; B 26 0 550 717 ;
+C 81 ; WX 522 ; N Q ; B 24 0 499 714 ;
+C 82 ; WX 615 ; N R ; B 28 -2 587 714 ;
+C 83 ; WX 500 ; N S ; B 23 0 477 714 ;
+C 84 ; WX 588 ; N T ; B 29 0 613 714 ;
+C 85 ; WX 597 ; N U ; B 24 0 570 714 ;
+C 86 ; WX 642 ; N V ; B 29 0 613 714 ;
+C 87 ; WX 841 ; N W ; B 39 0 803 714 ;
+C 88 ; WX 584 ; N X ; B 26 0 557 714 ;
+C 89 ; WX 653 ; N Y ; B 30 -1 623 714 ;
+C 90 ; WX 588 ; N Z ; B 26 0 561 714 ;
+C 97 ; WX 407 ; N a ; B 26 0 384 522 ;
+C 98 ; WX 362 ; N b ; B 16 0 345 671 ;
+C 99 ; WX 329 ; N c ; B 15 0 314 486 ;
+C 100 ; WX 356 ; N d ; B 16 0 340 686 ;
+C 101 ; WX 421 ; N e ; B 19 0 402 486 ;
+C 102 ; WX 369 ; N f ; B 24 -154 345 710 ;
+C 103 ; WX 445 ; N g ; B 20 -243 425 507 ;
+C 104 ; WX 416 ; N h ; B 19 0 397 679 ;
+C 105 ; WX 214 ; N i ; B 9 -1 205 692 ;
+C 106 ; WX 313 ; N j ; B 14 -159 302 666 ;
+C 107 ; WX 461 ; N k ; B 16 0 441 693 ;
+C 108 ; WX 201 ; N l ; B 4 0 194 693 ;
+C 109 ; WX 650 ; N m ; B 27 -12 630 497 ;
+C 110 ; WX 392 ; N n ; B 16 0 374 486 ;
+C 111 ; WX 321 ; N o ; B 14 0 306 486 ;
+C 112 ; WX 424 ; N p ; B 20 -139 405 494 ;
+C 113 ; WX 464 ; N q ; B 21 -192 442 487 ;
+C 114 ; WX 376 ; N r ; B 17 0 359 486 ;
+C 115 ; WX 381 ; N s ; B 17 0 364 486 ;
+C 116 ; WX 324 ; N t ; B 14 0 311 633 ;
+C 117 ; WX 356 ; N u ; B 14 0 340 486 ;
+C 118 ; WX 466 ; N v ; B 21 0 445 486 ;
+C 119 ; WX 569 ; N w ; B 26 0 544 486 ;
+C 120 ; WX 405 ; N x ; B 19 0 386 486 ;
+C 121 ; WX 610 ; N y ; B 27 -309 581 496 ;
+C 122 ; WX 440 ; N z ; B 13 0 420 486 ;
+C 145 ; WX 179 ; N quoteleft ; B 26 396 136 692 ;
+C 146 ; WX 179 ; N quoteright ; B 39 396 149 692 ;
+C 147 ; WX 300 ; N quotedblleft ; B 19 396 264 692 ;
+C 148 ; WX 300 ; N quotedblright ; B 39 396 284 692 ;
+C 160 ; WX 242 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 242 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 15
+KPX A I -133
+KPX A T -127
+KPX A V -127
+KPX A W -121
+KPX A Y -115
+
+KPX F A -42
+
+KPX P A -134
+
+KPX T A -121
+KPX T a -73
+KPX T e -85
+KPX T o -103
+KPX T u -73
+
+KPX V A -115
+
+KPX W A -97
+
+KPX Y A -110
+
+EndKernPairs
+EndKernData
+EndFontMetrics

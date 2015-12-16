@@ -1,0 +1,52 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 7 0 0 2 0 4
+FullName Jeff-Nichols
+FontName Jeff-Nichols
+FamilyName Jeff
+Weight normal
+Notice Jeff-Nichols   1991 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -20 -41 1237 811
+Ascender 808
+Descender -200
+XHeight 500
+CapHeight 770
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 106
+StdVW 158
+EncodingScheme FontSpecific
+StartCharMetrics 30
+C 32 ; WX 385 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 1178 ; N A ; B 43 0 1131 783 ;
+C 66 ; WX 975 ; N B ; B 30 -58 949 792 ;
+C 67 ; WX 849 ; N C ; B 25 -45 824 790 ;
+C 68 ; WX 926 ; N D ; B 19 -32 899 788 ;
+C 69 ; WX 949 ; N E ; B 5 -27 906 797 ;
+C 70 ; WX 1044 ; N F ; B 48 -23 1007 794 ;
+C 71 ; WX 971 ; N G ; B 38 -23 941 778 ;
+C 72 ; WX 935 ; N H ; B 42 0 914 795 ;
+C 73 ; WX 852 ; N I ; B 38 -9 816 776 ;
+C 74 ; WX 1034 ; N J ; B 59 -21 999 769 ;
+C 75 ; WX 941 ; N K ; B 28 -2 934 760 ;
+C 76 ; WX 1018 ; N L ; B -7 0 1018 801 ;
+C 77 ; WX 1022 ; N M ; B 2 0 985 782 ;
+C 78 ; WX 975 ; N N ; B 32 0 955 851 ;
+C 79 ; WX 937 ; N O ; B 28 -21 910 819 ;
+C 80 ; WX 1018 ; N P ; B 8 -16 987 826 ;
+C 81 ; WX 1020 ; N Q ; B 19 -34 999 784 ;
+C 82 ; WX 962 ; N R ; B 31 -22 932 873 ;
+C 83 ; WX 918 ; N S ; B 15 -33 889 802 ;
+C 84 ; WX 1015 ; N T ; B 44 -26 988 769 ;
+C 85 ; WX 939 ; N U ; B 22 -18 925 813 ;
+C 86 ; WX 972 ; N V ; B 5 -11 938 817 ;
+C 87 ; WX 1245 ; N W ; B 54 -37 1237 779 ;
+C 88 ; WX 934 ; N X ; B 25 -31 910 772 ;
+C 89 ; WX 835 ; N Y ; B 26 -21 822 799 ;
+C 90 ; WX 917 ; N Z ; B -20 -42 920 816 ;
+C 160 ; WX 385 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 385 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

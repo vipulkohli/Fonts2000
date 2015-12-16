@@ -1,0 +1,79 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 2 0 0 2 0 4
+FullName TTSTATE
+FontName TTSTATE
+FamilyName TTSTATE
+Weight normal
+Notice No copyright! This is freeware! Courtesy of  "Uncle Al" Carr, Uncle Al's Playhouse 414-427-0230
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 0 2000 2000
+Ascender 2000
+Descender -2
+XHeight 2000
+CapHeight 1538
+UnderlinePosition -24
+UnderlineThickness 12
+StdHW 48
+StdVW 48
+EncodingScheme FontSpecific
+StartCharMetrics 57
+C 32 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 49 ; WX 0 ; N one ; B 0 93 2000 1351 ;
+C 65 ; WX 0 ; N A ; B 107 0 1899 1162 ;
+C 66 ; WX 0 ; N B ; B 0 29 1632 1298 ;
+C 67 ; WX 0 ; N C ; B 0 0 1824 1106 ;
+C 68 ; WX 0 ; N D ; B 23 27 1455 642 ;
+C 69 ; WX 0 ; N E ; B 32 32 1408 1122 ;
+C 70 ; WX 0 ; N F ; B 0 88 1824 1106 ;
+C 71 ; WX 0 ; N G ; B 0 105 1378 2000 ;
+C 72 ; WX 0 ; N H ; B 0 0 1536 418 ;
+C 73 ; WX 0 ; N I ; B 27 0 1680 1070 ;
+C 74 ; WX 0 ; N J ; B 0 69 1102 2000 ;
+C 75 ; WX 0 ; N K ; B 73 0 1607 1538 ;
+C 76 ; WX 0 ; N L ; B 0 0 1536 1202 ;
+C 77 ; WX 0 ; N M ; B 0 0 1344 706 ;
+C 78 ; WX 0 ; N N ; B 0 0 1920 1826 ;
+C 79 ; WX 0 ; N O ; B 131 0 1869 2000 ;
+C 81 ; WX 0 ; N Q ; B 0 93 2000 1351 ;
+C 82 ; WX 0 ; N R ; B 0 0 1805 1948 ;
+C 83 ; WX 0 ; N S ; B 0 0 1249 2000 ;
+C 84 ; WX 0 ; N T ; B 0 0 1584 962 ;
+C 85 ; WX 0 ; N U ; B 0 0 1585 2000 ;
+C 86 ; WX 0 ; N V ; B 0 0 1872 1346 ;
+C 87 ; WX 0 ; N W ; B 0 0 1066 2000 ;
+C 88 ; WX 0 ; N X ; B 0 71 1641 2000 ;
+C 89 ; WX 0 ; N Y ; B 0 0 1882 1154 ;
+C 90 ; WX 0 ; N Z ; B 0 0 1378 2000 ;
+C 97 ; WX 0 ; N a ; B 0 133 1350 2000 ;
+C 98 ; WX 0 ; N b ; B 85 90 1293 2000 ;
+C 99 ; WX 0 ; N c ; B 0 0 903 2000 ;
+C 100 ; WX 0 ; N d ; B 0 48 1296 1106 ;
+C 101 ; WX 0 ; N e ; B 0 0 1632 1298 ;
+C 102 ; WX 0 ; N f ; B 80 0 1604 1586 ;
+C 103 ; WX 0 ; N g ; B 0 0 1256 2000 ;
+C 104 ; WX 0 ; N h ; B 0 0 1824 1106 ;
+C 105 ; WX 0 ; N i ; B 0 40 1872 1490 ;
+C 106 ; WX 0 ; N j ; B 0 0 1200 2000 ;
+C 107 ; WX 0 ; N k ; B 48 0 1776 1778 ;
+C 108 ; WX 0 ; N l ; B 0 0 1235 2000 ;
+C 109 ; WX 0 ; N m ; B 0 0 1932 1097 ;
+C 110 ; WX 0 ; N n ; B 0 32 1440 834 ;
+C 111 ; WX 0 ; N o ; B 53 0 1392 1490 ;
+C 112 ; WX 0 ; N p ; B 0 0 1728 1394 ;
+C 113 ; WX 0 ; N q ; B 0 0 1696 1122 ;
+C 114 ; WX 0 ; N r ; B 0 0 1504 1090 ;
+C 115 ; WX 0 ; N s ; B 0 48 1364 1442 ;
+C 116 ; WX 0 ; N t ; B 0 0 1267 2000 ;
+C 117 ; WX 0 ; N u ; B 36 65 2000 1695 ;
+C 118 ; WX 0 ; N v ; B 0 0 1485 1250 ;
+C 119 ; WX 0 ; N w ; B 94 0 1873 2000 ;
+C 120 ; WX 0 ; N x ; B 0 0 1680 1970 ;
+C 121 ; WX 0 ; N y ; B 107 0 1899 1162 ;
+C 122 ; WX 0 ; N z ; B 0 117 2000 1859 ;
+C 160 ; WX 122 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N _56 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

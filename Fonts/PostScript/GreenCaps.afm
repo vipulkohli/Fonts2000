@@ -1,0 +1,178 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 6 0 0 2 0 3
+FullName GreenCaps
+FontName GreenCaps
+FamilyName Green
+Weight normal
+Notice Green Caps   1990 by David Rakowski.  Alle Rechte Vorhalten.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -28 -205 781 850
+Ascender 715
+Descender -79
+XHeight 850
+CapHeight 715
+UnderlinePosition -95
+UnderlineThickness 14
+StdHW 25
+StdVW 24
+EncodingScheme FontSpecific
+StartCharMetrics 81
+C 32 ; WX 313 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 154 ; N exclam ; B 16 1 146 718 ;
+C 34 ; WX 279 ; N quotedbl ; B 19 504 263 687 ;
+C 39 ; WX 154 ; N quotesingle ; B 19 504 130 687 ;
+C 40 ; WX 287 ; N parenleft ; B -9 0 306 714 ;
+C 41 ; WX 279 ; N parenright ; B -15 0 301 721 ;
+C 44 ; WX 154 ; N comma ; B 19 -70 130 113 ;
+C 46 ; WX 154 ; N period ; B 26 1 130 112 ;
+C 47 ; WX 527 ; N slash ; B 21 -5 523 718 ;
+C 48 ; WX 521 ; N zero ; B 8 -11 521 511 ;
+C 49 ; WX 186 ; N one ; B 5 0 156 514 ;
+C 50 ; WX 493 ; N two ; B 33 -20 489 568 ;
+C 51 ; WX 479 ; N three ; B 11 -221 463 541 ;
+C 52 ; WX 547 ; N four ; B 18 -196 527 531 ;
+C 53 ; WX 512 ; N five ; B 24 -206 489 521 ;
+C 54 ; WX 512 ; N six ; B -1 -16 495 778 ;
+C 55 ; WX 499 ; N seven ; B 23 -202 511 514 ;
+C 56 ; WX 506 ; N eight ; B 16 -23 494 728 ;
+C 57 ; WX 572 ; N nine ; B 34 -160 535 517 ;
+C 58 ; WX 154 ; N colon ; B 26 -4 130 506 ;
+C 59 ; WX 154 ; N semicolon ; B 19 -70 130 506 ;
+C 63 ; WX 393 ; N question ; B 10 1 391 714 ;
+C 65 ; WX 511 ; N A ; B 24 -14 489 756 ;
+C 66 ; WX 548 ; N B ; B 25 -10 526 782 ;
+C 67 ; WX 393 ; N C ; B -28 -76 379 714 ;
+C 68 ; WX 556 ; N D ; B 25 -35 559 734 ;
+C 69 ; WX 468 ; N E ; B -7 -16 446 795 ;
+C 70 ; WX 405 ; N F ; B 19 -11 387 720 ;
+C 71 ; WX 471 ; N G ; B 3 -7 456 746 ;
+C 72 ; WX 467 ; N H ; B 16 -30 459 780 ;
+C 73 ; WX 154 ; N I ; B 16 -5 147 718 ;
+C 74 ; WX 421 ; N J ; B 19 -6 409 714 ;
+C 75 ; WX 496 ; N K ; B 23 -10 474 725 ;
+C 76 ; WX 428 ; N L ; B 19 0 411 731 ;
+C 77 ; WX 639 ; N M ; B 32 -148 609 730 ;
+C 78 ; WX 496 ; N N ; B 31 -149 459 815 ;
+C 79 ; WX 515 ; N O ; B -9 -8 524 736 ;
+C 80 ; WX 486 ; N P ; B 12 -32 533 738 ;
+C 81 ; WX 482 ; N Q ; B -21 -82 484 716 ;
+C 82 ; WX 550 ; N R ; B 21 0 527 777 ;
+C 83 ; WX 486 ; N S ; B 22 -12 464 731 ;
+C 84 ; WX 507 ; N T ; B 23 0 487 717 ;
+C 85 ; WX 471 ; N U ; B 7 -4 452 714 ;
+C 86 ; WX 482 ; N V ; B 23 -7 476 850 ;
+C 87 ; WX 782 ; N W ; B 37 0 781 843 ;
+C 88 ; WX 501 ; N X ; B 23 -24 478 743 ;
+C 89 ; WX 484 ; N Y ; B 22 0 462 758 ;
+C 90 ; WX 467 ; N Z ; B 21 0 450 714 ;
+C 97 ; WX 511 ; N a ; B 24 -14 489 756 ;
+C 98 ; WX 548 ; N b ; B 25 -10 526 782 ;
+C 99 ; WX 393 ; N c ; B -28 -76 379 714 ;
+C 100 ; WX 556 ; N d ; B 25 -35 559 734 ;
+C 101 ; WX 468 ; N e ; B -7 -16 446 795 ;
+C 102 ; WX 405 ; N f ; B 19 -11 387 720 ;
+C 103 ; WX 471 ; N g ; B 3 -7 456 746 ;
+C 104 ; WX 467 ; N h ; B 16 -30 459 780 ;
+C 105 ; WX 154 ; N i ; B 16 -5 147 718 ;
+C 106 ; WX 421 ; N j ; B 19 -6 409 714 ;
+C 107 ; WX 496 ; N k ; B 23 -10 474 725 ;
+C 108 ; WX 428 ; N l ; B 19 0 411 731 ;
+C 109 ; WX 639 ; N m ; B 32 -148 609 730 ;
+C 110 ; WX 496 ; N n ; B 31 -149 459 815 ;
+C 111 ; WX 515 ; N o ; B -9 -8 524 736 ;
+C 112 ; WX 486 ; N p ; B 12 -32 533 738 ;
+C 113 ; WX 482 ; N q ; B -21 -82 484 716 ;
+C 114 ; WX 550 ; N r ; B 21 0 527 777 ;
+C 115 ; WX 486 ; N s ; B 22 -12 464 731 ;
+C 116 ; WX 507 ; N t ; B 23 0 487 717 ;
+C 117 ; WX 471 ; N u ; B 7 -4 452 714 ;
+C 118 ; WX 482 ; N v ; B 23 -7 476 850 ;
+C 119 ; WX 782 ; N w ; B 37 0 781 843 ;
+C 120 ; WX 501 ; N x ; B 23 -24 478 743 ;
+C 121 ; WX 484 ; N y ; B 22 0 462 758 ;
+C 122 ; WX 467 ; N z ; B 21 0 450 714 ;
+C 160 ; WX 313 ; N space ; B 0 0 0 0 ;
+C 210 ; WX 279 ; N Ograve ; B 21 513 253 695 ;
+C 211 ; WX 279 ; N Oacute ; B 19 513 250 696 ;
+C 212 ; WX 154 ; N Ocircumflex ; B 21 513 133 695 ;
+C 213 ; WX 154 ; N Otilde ; B 19 504 130 687 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 313 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 51
+KPX A C -47
+KPX A E -40
+KPX A O -34
+KPX A T -81
+KPX A U -13
+KPX A V -72
+KPX A W -107
+KPX A Y -86
+
+KPX C A -54
+
+KPX D T -40
+
+KPX F A -94
+KPX F Z -67
+
+KPX L C -47
+KPX L E -34
+KPX L G -26
+KPX L O -34
+KPX L Q -20
+KPX L T -129
+KPX L U -13
+KPX L V -94
+KPX L W -108
+KPX L Y -121
+
+KPX O A -20
+KPX O T -26
+
+KPX P A -61
+
+KPX Q A -13
+KPX Q T -26
+
+KPX T A -88
+KPX T C -26
+KPX T G -40
+KPX T J -134
+KPX T O -26
+KPX T Q -26
+KPX T Z -13
+
+KPX U A -20
+
+KPX V A -81
+
+KPX W A -87
+
+KPX Y A -74
+
+KPX a o -30
+KPX a t -85
+KPX a v -79
+KPX a w -73
+KPX a y -49
+
+KPX f a -49
+
+KPX o period -42
+KPX o y -61
+
+KPX t a -85
+
+KPX v a -66
+
+KPX w a -91
+
+KPX y a -54
+KPX y o -36
+
+EndKernPairs
+EndKernData
+EndFontMetrics

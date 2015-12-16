@@ -1,0 +1,74 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 6 0 0 2 0 4
+FullName ATHLETES
+FontName ATHLETES
+FamilyName ATHLETES
+Weight normal
+Notice FREEWARE!
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -2 -4 1004 1001
+Ascender 987
+Descender -13
+XHeight 500
+CapHeight 992
+UnderlinePosition -49
+UnderlineThickness 25
+StdHW 23
+StdVW 49
+EncodingScheme FontSpecific
+StartCharMetrics 52
+C 32 ; WX 244 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 748 ; N exclam ; B 31 0 713 992 ;
+C 34 ; WX 1008 ; N quotedbl ; B 110 3 959 938 ;
+C 35 ; WX 1049 ; N numbersign ; B 0 0 996 527 ;
+C 36 ; WX 846 ; N dollar ; B 4 8 807 975 ;
+C 37 ; WX 803 ; N percent ; B 0 9 760 1000 ;
+C 38 ; WX 1049 ; N ampersand ; B 20 4 1000 558 ;
+C 40 ; WX 1049 ; N parenleft ; B 32 0 1000 864 ;
+C 41 ; WX 729 ; N parenright ; B 32 0 679 957 ;
+C 42 ; WX 1012 ; N asterisk ; B 39 14 949 1000 ;
+C 43 ; WX 879 ; N plus ; B 0 0 801 992 ;
+C 58 ; WX 625 ; N colon ; B 5 6 596 999 ;
+C 60 ; WX 611 ; N less ; B 2 0 544 976 ;
+C 62 ; WX 375 ; N greater ; B 19 1 327 1000 ;
+C 63 ; WX 1049 ; N question ; B 0 0 1000 839 ;
+C 64 ; WX 1049 ; N at ; B 0 0 996 935 ;
+C 65 ; WX 1049 ; N A ; B 24 0 1000 814 ;
+C 66 ; WX 1049 ; N B ; B 0 0 996 487 ;
+C 67 ; WX 1049 ; N C ; B 34 2 990 621 ;
+C 68 ; WX 1049 ; N D ; B 0 2 997 828 ;
+C 69 ; WX 1049 ; N E ; B 2 57 998 604 ;
+C 70 ; WX 1049 ; N F ; B 13 0 941 359 ;
+C 71 ; WX 1049 ; N G ; B 43 29 993 610 ;
+C 72 ; WX 738 ; N H ; B 0 7 693 992 ;
+C 73 ; WX 1049 ; N I ; B 0 2 985 778 ;
+C 74 ; WX 602 ; N J ; B 2 0 537 984 ;
+C 75 ; WX 1049 ; N K ; B 0 4 959 760 ;
+C 76 ; WX 1049 ; N L ; B 64 47 991 763 ;
+C 77 ; WX 1049 ; N M ; B 48 11 994 857 ;
+C 78 ; WX 398 ; N N ; B 0 0 381 992 ;
+C 79 ; WX 455 ; N O ; B 18 14 434 1000 ;
+C 80 ; WX 648 ; N P ; B 2 -1 539 990 ;
+C 81 ; WX 629 ; N Q ; B 10 11 596 1001 ;
+C 82 ; WX 639 ; N R ; B 23 17 605 975 ;
+C 83 ; WX 1049 ; N S ; B 0 0 996 998 ;
+C 84 ; WX 1057 ; N T ; B 0 0 1004 839 ;
+C 85 ; WX 922 ; N U ; B 16 -4 856 1000 ;
+C 86 ; WX 561 ; N V ; B 2 0 527 996 ;
+C 87 ; WX 1051 ; N W ; B -2 0 974 721 ;
+C 88 ; WX 1049 ; N X ; B 2 0 1000 933 ;
+C 89 ; WX 1049 ; N Y ; B 4 0 996 308 ;
+C 90 ; WX 840 ; N Z ; B 19 0 794 991 ;
+C 94 ; WX 1049 ; N asciicircum ; B 2 2 998 760 ;
+C 95 ; WX 938 ; N underscore ; B 4 14 895 996 ;
+C 123 ; WX 738 ; N braceleft ; B 10 31 702 998 ;
+C 124 ; WX 1049 ; N bar ; B 1 9 998 891 ;
+C 125 ; WX 1049 ; N braceright ; B 6 -2 1000 654 ;
+C 126 ; WX 1049 ; N asciitilde ; B 0 25 1000 251 ;
+C 160 ; WX 244 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 244 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 244 ; N _51 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

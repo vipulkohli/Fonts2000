@@ -1,0 +1,391 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 6 0 0 2 0 4
+FullName FURIOSOT
+FontName FURIOSOT
+FamilyName FURIOSOT
+Weight normal
+Notice Copyright 1991 Glenn Fleishman Associates; Shareware; send $12 to 24 Pearl St#1, New Haven, CT 06511 for full character set & other info.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -11 -156 1025 822
+Ascender 800
+Descender -200
+XHeight 500
+CapHeight 806
+UnderlinePosition -129
+UnderlineThickness 19
+StdHW 178
+StdVW 118
+EncodingScheme FontSpecific
+StartCharMetrics 52
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 44 ; WX 242 ; N comma ; B 5 -137 217 182 ;
+C 45 ; WX 347 ; N hyphen ; B 32 281 317 429 ;
+C 46 ; WX 255 ; N period ; B 40 1 218 179 ;
+C 48 ; WX 856 ; N zero ; B 21 -9 835 811 ;
+C 49 ; WX 285 ; N one ; B 2 0 247 808 ;
+C 50 ; WX 588 ; N two ; B 8 -2 564 812 ;
+C 51 ; WX 610 ; N three ; B 46 -6 590 805 ;
+C 52 ; WX 637 ; N four ; B 19 0 623 806 ;
+C 53 ; WX 580 ; N five ; B 24 -15 572 806 ;
+C 54 ; WX 546 ; N six ; B 34 -2 540 804 ;
+C 55 ; WX 554 ; N seven ; B 33 -4 583 805 ;
+C 56 ; WX 531 ; N eight ; B 22 -7 510 822 ;
+C 57 ; WX 542 ; N nine ; B 43 -1 523 816 ;
+C 58 ; WX 255 ; N colon ; B 40 1 218 569 ;
+C 59 ; WX 252 ; N semicolon ; B 15 -137 229 569 ;
+C 65 ; WX 848 ; N A ; B 40 0 845 817 ;
+C 66 ; WX 522 ; N B ; B 40 0 493 806 ;
+C 67 ; WX 685 ; N C ; B 16 -2 663 810 ;
+C 68 ; WX 654 ; N D ; B 26 0 630 806 ;
+C 69 ; WX 522 ; N E ; B 33 0 506 806 ;
+C 70 ; WX 526 ; N F ; B 48 0 495 806 ;
+C 71 ; WX 773 ; N G ; B 13 -7 739 814 ;
+C 72 ; WX 698 ; N H ; B 40 0 656 806 ;
+C 73 ; WX 251 ; N I ; B 40 0 206 806 ;
+C 74 ; WX 461 ; N J ; B 33 -3 421 806 ;
+C 75 ; WX 730 ; N K ; B 38 0 705 806 ;
+C 76 ; WX 497 ; N L ; B 28 0 481 806 ;
+C 77 ; WX 897 ; N M ; B -11 0 895 806 ;
+C 78 ; WX 783 ; N N ; B 24 -1 758 806 ;
+C 79 ; WX 856 ; N O ; B 21 -9 835 811 ;
+C 80 ; WX 473 ; N P ; B 14 0 451 806 ;
+C 81 ; WX 850 ; N Q ; B 20 -156 846 814 ;
+C 82 ; WX 640 ; N R ; B 31 -6 639 806 ;
+C 83 ; WX 489 ; N S ; B 26 -7 468 813 ;
+C 84 ; WX 688 ; N T ; B 35 -1 659 806 ;
+C 85 ; WX 733 ; N U ; B 40 -7 695 806 ;
+C 86 ; WX 830 ; N V ; B 3 -1 808 806 ;
+C 87 ; WX 1016 ; N W ; B -8 -1 1025 806 ;
+C 88 ; WX 745 ; N X ; B 33 0 715 806 ;
+C 89 ; WX 687 ; N Y ; B 19 0 673 806 ;
+C 90 ; WX 621 ; N Z ; B 23 0 611 806 ;
+C 145 ; WX 255 ; N quoteleft ; B 21 510 241 803 ;
+C 146 ; WX 255 ; N quoteright ; B 28 512 249 806 ;
+C 147 ; WX 489 ; N quotedblleft ; B 21 510 463 803 ;
+C 148 ; WX 489 ; N quotedblright ; B 46 517 488 812 ;
+C 150 ; WX 527 ; N endash ; B 30 283 500 432 ;
+C 151 ; WX 665 ; N emdash ; B 30 291 646 440 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _51 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 275
+KPX zero period -96
+KPX zero three -42
+KPX zero five -21
+
+KPX one zero -21
+KPX one four -30
+KPX one six -36
+KPX one seven -10
+KPX one eight -21
+KPX one nine -36
+
+KPX two four -116
+KPX two seven -21
+KPX two nine -56
+
+KPX three zero -72
+KPX three two -61
+KPX three four -52
+KPX three five -41
+KPX three six -56
+KPX three eight -25
+KPX three nine -61
+
+KPX four zero 21
+KPX four two -21
+KPX four three -30
+KPX four five -30
+KPX four seven -52
+KPX four nine -25
+
+KPX five zero -30
+KPX five two -25
+KPX five four -25
+KPX five five -41
+KPX five six -36
+KPX five nine -30
+
+KPX six zero 5
+KPX six two -21
+KPX six seven -21
+KPX six eight 21
+KPX six nine -30
+
+KPX seven period -225
+KPX seven zero -46
+KPX seven one 21
+KPX seven two -30
+KPX seven three 21
+KPX seven four -127
+KPX seven six -103
+KPX seven seven 61
+KPX seven eight -30
+KPX seven nine -25
+KPX seven comma -198
+
+KPX eight two -21
+
+KPX nine two -36
+KPX nine three -21
+KPX nine four -36
+KPX nine five -46
+KPX nine six -46
+
+KPX A C -110
+KPX A G -101
+KPX A L -11
+KPX A M -29
+KPX A N -87
+KPX A O -94
+KPX A Q -87
+KPX A S -41
+KPX A T -195
+KPX A U -84
+KPX A V -222
+KPX A W -222
+KPX A Y -192
+KPX A quotedblright -186
+KPX A quoteright -181
+
+KPX B A -98
+KPX B N -35
+KPX B T -41
+KPX B V -45
+KPX B W -59
+KPX B Y -106
+KPX B Z -39
+
+KPX C A -44
+KPX C C -35
+KPX C G -10
+KPX C O -30
+KPX C Q -35
+KPX C S -15
+KPX C X -30
+KPX C Y -21
+KPX C Z -30
+
+KPX D A -167
+KPX D E -34
+KPX D F -27
+KPX D M -19
+KPX D N -43
+KPX D T -70
+KPX D V -81
+KPX D W -67
+KPX D X -125
+KPX D Y -130
+KPX D Z -30
+
+KPX E A -73
+KPX E C -44
+KPX E G -30
+KPX E N -22
+KPX E O -39
+KPX E Q -29
+KPX E S -17
+KPX E T -60
+KPX E U -30
+KPX E V -25
+KPX E X -41
+KPX E Y -30
+KPX E Z -36
+
+KPX F A -244
+KPX F C -46
+KPX F G -45
+KPX F J -41
+KPX F O -42
+KPX F Q -45
+KPX F S -35
+KPX F T -35
+KPX F X -45
+KPX F Z -52
+
+KPX G A -54
+KPX G N -66
+KPX G T -66
+KPX G U -30
+KPX G V -56
+KPX G W -41
+KPX G X -41
+KPX G Y -76
+KPX G Z -21
+
+KPX H A -40
+KPX H O -21
+KPX H Q -21
+KPX H T -21
+
+KPX I A -25
+
+KPX J A -127
+
+KPX K A -22
+KPX K C -113
+KPX K G -96
+KPX K J -41
+KPX K O -115
+KPX K Q -110
+KPX K S -60
+KPX K T -76
+KPX K U -41
+
+KPX L A -73
+KPX L C -70
+KPX L E -24
+KPX L G -29
+KPX L N -100
+KPX L O -29
+KPX L Q -14
+KPX L T -178
+KPX L U -33
+KPX L V -179
+KPX L W -184
+KPX L X -41
+KPX L Y -177
+KPX L Z -21
+KPX L quoteright -128
+
+KPX M M 21
+KPX M P 35
+KPX M W 25
+
+KPX N A -46
+KPX N P 31
+KPX N T -18
+
+KPX O period -81
+KPX O A -173
+KPX O J -22
+KPX O N -82
+KPX O P -19
+KPX O T -63
+KPX O V -67
+KPX O W -59
+KPX O X -96
+KPX O Y -97
+KPX O Z -30
+
+KPX P A -203
+KPX P N -63
+KPX P V -44
+KPX P W -37
+KPX P X -59
+KPX P Y -64
+
+KPX Q A -58
+KPX Q N -52
+KPX Q T -29
+KPX Q V -56
+KPX Q W -74
+KPX Q X -68
+KPX Q Y -82
+
+KPX R A -40
+KPX R C -153
+KPX R G -146
+KPX R N -81
+KPX R O -135
+KPX R P -13
+KPX R Q -105
+KPX R S -21
+KPX R T -140
+KPX R U -100
+KPX R V -184
+KPX R W -177
+KPX R Y -164
+KPX R quotedblright -191
+KPX R quoteright -176
+
+KPX S A -84
+KPX S N -67
+KPX S T -45
+KPX S Z -15
+
+KPX T A -219
+KPX T C -94
+KPX T G -109
+KPX T J -30
+KPX T O -149
+KPX T Q -94
+KPX T S -76
+KPX T Z -41
+
+KPX U A -52
+KPX U C -25
+KPX U O -15
+KPX U P 41
+KPX U T -30
+
+KPX V A -274
+KPX V C -86
+KPX V G -121
+KPX V O -124
+KPX V Q -127
+KPX V S -56
+KPX V T -21
+KPX V Z -56
+
+KPX W A -233
+KPX W C -105
+KPX W D 15
+KPX W G -95
+KPX W M 30
+KPX W N 5
+KPX W O -90
+KPX W P 25
+KPX W Q -106
+KPX W R 5
+KPX W S -25
+KPX W T -15
+KPX W V 52
+KPX W W 46
+KPX W Y 15
+KPX W Z -25
+
+KPX X C -120
+KPX X G -105
+KPX X O -93
+KPX X P 10
+KPX X Q -97
+KPX X S -25
+KPX X T -46
+KPX X U -25
+
+KPX Y A -240
+KPX Y C -148
+KPX Y G -148
+KPX Y J -49
+KPX Y O -156
+KPX Y P 15
+KPX Y Q -162
+KPX Y S -94
+KPX Y T -21
+KPX Y Z -36
+KPX Y quoteright -37
+
+KPX Z A -30
+KPX Z C -52
+KPX Z G -46
+KPX Z O -36
+KPX Z P 21
+KPX Z Q -41
+KPX Z S -15
+KPX Z T -60
+KPX Z U -56
+KPX Z V -15
+KPX Z X -25
+
+KPX quoteleft A -206
+
+KPX quotedblleft A -225
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,63 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 3 0 0 2 0 3
+FullName Tenderleaf-Caps
+FontName Tenderleaf-Caps
+FamilyName Tenderleaf
+Weight normal
+Notice TenderleafCaps (c) 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -24 -90 1580 872
+Ascender 870
+Descender -200
+XHeight 435
+CapHeight 870
+UnderlinePosition -116
+UnderlineThickness 17
+StdVW 75
+EncodingScheme FontSpecific
+StartCharMetrics 34
+C 32 ; WX 435 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 536 ; N exclam ; B -6 0 533 783 ;
+C 38 ; WX 840 ; N ampersand ; B -11 -17 844 870 ;
+C 46 ; WX 224 ; N period ; B 36 -6 195 140 ;
+C 63 ; WX 1034 ; N question ; B -24 -6 1048 873 ;
+C 65 ; WX 1000 ; N A ; B 3 0 991 870 ;
+C 66 ; WX 1013 ; N B ; B 0 0 1009 870 ;
+C 67 ; WX 1064 ; N C ; B 12 0 1058 870 ;
+C 68 ; WX 1109 ; N D ; B 0 -8 1120 873 ;
+C 69 ; WX 948 ; N E ; B 2 0 937 870 ;
+C 70 ; WX 971 ; N F ; B 3 0 975 870 ;
+C 71 ; WX 1137 ; N G ; B -9 -3 1146 870 ;
+C 72 ; WX 1168 ; N H ; B -3 0 1170 870 ;
+C 73 ; WX 761 ; N I ; B -2 0 758 870 ;
+C 74 ; WX 1062 ; N J ; B 4 -4 1057 870 ;
+C 75 ; WX 1185 ; N K ; B -6 -21 1187 870 ;
+C 76 ; WX 977 ; N L ; B -10 -3 976 864 ;
+C 77 ; WX 1364 ; N M ; B -18 0 1367 877 ;
+C 78 ; WX 1154 ; N N ; B -13 0 1132 870 ;
+C 79 ; WX 1126 ; N O ; B -5 -9 1122 871 ;
+C 80 ; WX 997 ; N P ; B -16 0 992 873 ;
+C 81 ; WX 1138 ; N Q ; B -1 -99 1140 870 ;
+C 82 ; WX 1097 ; N R ; B 3 -3 1094 874 ;
+C 83 ; WX 1033 ; N S ; B 1 -20 1023 873 ;
+C 84 ; WX 1050 ; N T ; B -19 -3 1048 875 ;
+C 85 ; WX 1248 ; N U ; B -9 -22 1260 871 ;
+C 86 ; WX 1361 ; N V ; B -16 -6 1358 870 ;
+C 87 ; WX 1575 ; N W ; B -12 -3 1580 870 ;
+C 88 ; WX 1152 ; N X ; B -3 0 1160 872 ;
+C 89 ; WX 1205 ; N Y ; B -1 -3 1210 883 ;
+C 90 ; WX 1062 ; N Z ; B -3 0 1055 870 ;
+C 160 ; WX 435 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 435 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 2
+KPX A Y -178
+
+KPX Y A -25
+
+EndKernPairs
+EndKernData
+EndFontMetrics

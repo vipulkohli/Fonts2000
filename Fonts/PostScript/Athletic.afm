@@ -1,0 +1,273 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 5 3 0 0 0 2 0 2
+FullName Athletic
+FontName Athletic
+FamilyName Athletic
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -174 -107 855 1006
+Ascender 1002
+Descender -200
+XHeight 500
+CapHeight 1006
+UnderlinePosition -98
+UnderlineThickness 54
+StdHW 225
+StdVW 199
+EncodingScheme FontSpecific
+StartCharMetrics 58
+C 32 ; WX 29 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 232 ; N exclam ; B -25 64 260 1006 ;
+C 34 ; WX 29 ; N quotedbl ; B -104 814 180 1006 ;
+C 35 ; WX 295 ; N numbersign ; B -86 574 434 1006 ;
+C 36 ; WX 482 ; N dollar ; B -2 64 479 1002 ;
+C 37 ; WX 857 ; N percent ; B 10 64 855 1006 ;
+C 42 ; WX 29 ; N asterisk ; B -113 709 193 1006 ;
+C 44 ; WX 186 ; N comma ; B -2 -107 176 193 ;
+C 46 ; WX 215 ; N period ; B 8 64 199 279 ;
+C 47 ; WX 482 ; N slash ; B 2 64 650 1006 ;
+C 48 ; WX 576 ; N zero ; B 0 64 566 1006 ;
+C 49 ; WX 326 ; N one ; B -12 64 311 1006 ;
+C 50 ; WX 576 ; N two ; B -2 64 568 1002 ;
+C 51 ; WX 576 ; N three ; B 6 64 561 1006 ;
+C 52 ; WX 684 ; N four ; B 2 64 680 1006 ;
+C 53 ; WX 576 ; N five ; B 6 61 561 1006 ;
+C 54 ; WX 576 ; N six ; B 2 64 561 1006 ;
+C 55 ; WX 451 ; N seven ; B -68 64 508 1006 ;
+C 56 ; WX 561 ; N eight ; B 12 64 555 1006 ;
+C 57 ; WX 561 ; N nine ; B 12 64 555 1006 ;
+C 58 ; WX 123 ; N colon ; B 0 152 117 494 ;
+C 59 ; WX 154 ; N semicolon ; B 6 64 143 502 ;
+C 60 ; WX 373 ; N less ; B -2 229 359 801 ;
+C 62 ; WX 355 ; N greater ; B 10 262 340 789 ;
+C 63 ; WX 404 ; N question ; B -84 64 402 1006 ;
+C 64 ; WX 561 ; N at ; B 8 64 557 1006 ;
+C 65 ; WX 779 ; N A ; B 10 64 766 998 ;
+C 66 ; WX 641 ; N B ; B 6 64 623 1006 ;
+C 67 ; WX 670 ; N C ; B -2 64 656 1006 ;
+C 68 ; WX 670 ; N D ; B -2 64 660 1002 ;
+C 69 ; WX 654 ; N E ; B 2 64 650 1002 ;
+C 70 ; WX 465 ; N F ; B -2 64 656 1006 ;
+C 71 ; WX 654 ; N G ; B 6 64 650 1006 ;
+C 72 ; WX 795 ; N H ; B 10 64 795 1002 ;
+C 73 ; WX 326 ; N I ; B 10 64 318 1006 ;
+C 74 ; WX 498 ; N J ; B -2 64 568 1006 ;
+C 75 ; WX 779 ; N K ; B 2 64 775 1006 ;
+C 76 ; WX 605 ; N L ; B -2 64 598 1006 ;
+C 77 ; WX 840 ; N M ; B 2 64 826 1006 ;
+C 78 ; WX 701 ; N N ; B 2 64 740 1006 ;
+C 79 ; WX 684 ; N O ; B 2 64 682 1006 ;
+C 80 ; WX 684 ; N P ; B 10 64 676 1006 ;
+C 81 ; WX 748 ; N Q ; B 8 29 732 1006 ;
+C 82 ; WX 670 ; N R ; B 2 64 652 1002 ;
+C 83 ; WX 641 ; N S ; B 0 64 625 1006 ;
+C 84 ; WX 326 ; N T ; B -174 64 488 1006 ;
+C 85 ; WX 654 ; N U ; B -51 64 699 1006 ;
+C 86 ; WX 498 ; N V ; B -105 64 600 1006 ;
+C 87 ; WX 748 ; N W ; B -96 64 828 1006 ;
+C 88 ; WX 732 ; N X ; B 0 64 715 1006 ;
+C 89 ; WX 404 ; N Y ; B -125 64 527 1006 ;
+C 90 ; WX 684 ; N Z ; B 8 64 676 1006 ;
+C 91 ; WX 232 ; N bracketleft ; B 0 64 232 1006 ;
+C 93 ; WX 248 ; N bracketright ; B 0 64 232 1006 ;
+C 146 ; WX 29 ; N quoteright ; B -27 771 109 1006 ;
+C 160 ; WX 29 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 29 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 165
+KPX numbersign percent -76
+KPX numbersign period -61
+KPX numbersign slash -125
+KPX numbersign two -125
+KPX numbersign three -125
+KPX numbersign seven -125
+KPX numbersign greater -94
+KPX numbersign A -125
+KPX numbersign H -76
+KPX numbersign I -61
+KPX numbersign J -125
+KPX numbersign P -61
+KPX numbersign X -125
+KPX numbersign Z -125
+KPX numbersign bracketright -76
+
+KPX percent numbersign -141
+
+KPX comma numbersign -107
+KPX comma four -107
+KPX comma less -107
+KPX comma greater -107
+KPX comma V -94
+KPX comma W -61
+
+KPX period numbersign -125
+KPX period less -125
+KPX period V -61
+
+KPX slash percent -76
+KPX slash period -61
+KPX slash slash -154
+KPX slash two -125
+KPX slash three -61
+KPX slash seven -154
+KPX slash greater -94
+KPX slash A -125
+KPX slash H -76
+KPX slash I -61
+KPX slash J -61
+KPX slash P -61
+KPX slash X -125
+KPX slash Z -125
+KPX slash bracketright -76
+
+KPX one numbersign -61
+KPX one less -61
+KPX one V -61
+
+KPX seven percent -76
+KPX seven period -61
+KPX seven slash -141
+KPX seven two -94
+KPX seven seven -141
+KPX seven greater -76
+KPX seven A -94
+KPX seven H -76
+KPX seven I -61
+KPX seven P -61
+KPX seven X -94
+KPX seven Z -94
+KPX seven bracketright -76
+
+KPX colon numbersign -76
+
+KPX less numbersign -94
+KPX less percent -61
+KPX less slash -61
+KPX less seven -61
+KPX less less -76
+KPX less V -61
+KPX less bracketright -61
+
+KPX greater percent -76
+KPX greater period -61
+KPX greater slash -172
+KPX greater two -107
+KPX greater seven -154
+KPX greater greater -61
+KPX greater A -125
+KPX greater H -76
+KPX greater I -61
+KPX greater P -61
+KPX greater X -141
+KPX greater Z -94
+KPX greater bracketright -76
+
+KPX question percent -76
+KPX question period -61
+KPX question slash -172
+KPX question two -141
+KPX question three -61
+KPX question seven -172
+KPX question greater -94
+KPX question A -141
+KPX question H -76
+KPX question I -61
+KPX question J -61
+KPX question P -61
+KPX question X -154
+KPX question Z -125
+KPX question bracketright -76
+
+KPX A numbersign -141
+KPX A less -125
+KPX A V -61
+
+KPX C numbersign -141
+
+KPX E numbersign -141
+KPX E less -125
+KPX E V -61
+
+KPX F percent -76
+KPX F period -61
+KPX F slash -141
+KPX F two -76
+KPX F seven -125
+KPX F A -94
+KPX F H -76
+KPX F I -61
+KPX F P -61
+KPX F X -107
+KPX F Z -61
+KPX F bracketright -76
+
+KPX H numbersign -61
+KPX H less -61
+KPX H V -61
+
+KPX K numbersign -141
+KPX K less -125
+KPX K V -61
+
+KPX L numbersign -141
+KPX L less -125
+KPX L V -61
+
+KPX P percent -76
+KPX P period -61
+KPX P slash -186
+KPX P two -125
+KPX P seven -172
+KPX P greater -76
+KPX P A -141
+KPX P H -76
+KPX P I -61
+KPX P P -61
+KPX P X -154
+KPX P Z -107
+KPX P bracketright -76
+
+KPX T numbersign -61
+KPX T less -61
+KPX T V -61
+
+KPX V percent -76
+KPX V period -61
+KPX V slash -94
+KPX V two -61
+KPX V seven -94
+KPX V greater -61
+KPX V A -61
+KPX V H -61
+KPX V I -61
+KPX V P -61
+KPX V X -61
+KPX V Z -61
+KPX V bracketright -76
+
+KPX W percent -76
+KPX W slash -76
+KPX W seven -76
+KPX W bracketright -76
+
+KPX X numbersign -141
+KPX X less -125
+KPX X V -61
+
+KPX Z numbersign -141
+KPX Z less -125
+KPX Z V -61
+
+KPX bracketleft numbersign -61
+KPX bracketleft four -61
+KPX bracketleft less -61
+KPX bracketleft greater -61
+KPX bracketleft V -61
+KPX bracketleft W -61
+
+EndKernPairs
+EndKernData
+EndFontMetrics

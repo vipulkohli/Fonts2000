@@ -1,0 +1,23 @@
+FontName (Sailor)
+FullName (Sailor      )
+AppleName (Sailor)
+FamilyName (Sailor )
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 0
+CapHeight 622
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 50
+Serif false
+AppleName (Sailor )
+MSMenuName (Sailor      )
+VPMenuName (Sailor      )
+WORDMenuName (Sailor      )
+AppleFONDID 6361
+VPStyle (N)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

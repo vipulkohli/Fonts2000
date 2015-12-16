@@ -1,0 +1,87 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 8 0 0 2 0 3
+FullName DieterCaps
+FontName DieterCaps
+FamilyName DieterCaps
+Weight normal
+Notice DieterCaps font-in-progress (c) 1992 by David Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -53 -71 1762 910
+Ascender 911
+Descender -200
+XHeight 455
+CapHeight 910
+UnderlinePosition -119
+UnderlineThickness 18
+StdHW 67
+StdVW 66
+EncodingScheme FontSpecific
+StartCharMetrics 47
+C 32 ; WX 358 ; N space ; B 0 0 0 0 ;
+C 34 ; WX 185 ; N quotedbl ; B -53 746 173 888 ;
+C 39 ; WX 104 ; N quotesingle ; B -53 746 87 888 ;
+C 44 ; WX 104 ; N comma ; B -53 -71 87 71 ;
+C 45 ; WX 375 ; N hyphen ; B 4 382 354 502 ;
+C 46 ; WX 104 ; N period ; B 18 3 84 70 ;
+C 58 ; WX 104 ; N colon ; B 18 -1 84 430 ;
+C 59 ; WX 104 ; N semicolon ; B -53 -71 87 430 ;
+C 63 ; WX 681 ; N question ; B 7 3 654 895 ;
+C 65 ; WX 975 ; N A ; B 21 -22 959 913 ;
+C 66 ; WX 923 ; N B ; B 6 -31 919 907 ;
+C 67 ; WX 977 ; N C ; B 23 -43 961 896 ;
+C 68 ; WX 957 ; N D ; B 7 0 962 916 ;
+C 69 ; WX 955 ; N E ; B 5 -3 935 896 ;
+C 70 ; WX 964 ; N F ; B 13 -2 938 926 ;
+C 71 ; WX 919 ; N G ; B 1 -7 905 893 ;
+C 72 ; WX 938 ; N H ; B 0 -5 939 901 ;
+C 73 ; WX 638 ; N I ; B 16 -31 619 910 ;
+C 74 ; WX 946 ; N J ; B 18 -36 929 904 ;
+C 75 ; WX 951 ; N K ; B 21 -4 926 890 ;
+C 76 ; WX 953 ; N L ; B 12 -2 927 903 ;
+C 77 ; WX 1232 ; N M ; B 10 -28 1210 892 ;
+C 78 ; WX 948 ; N N ; B 4 -27 980 929 ;
+C 79 ; WX 956 ; N O ; B 17 0 932 896 ;
+C 80 ; WX 945 ; N P ; B 17 -4 940 938 ;
+C 81 ; WX 944 ; N Q ; B -30 -18 938 921 ;
+C 82 ; WX 904 ; N R ; B 7 -16 883 942 ;
+C 83 ; WX 931 ; N S ; B 14 -11 942 909 ;
+C 84 ; WX 951 ; N T ; B 6 -35 939 894 ;
+C 85 ; WX 969 ; N U ; B -15 -34 955 898 ;
+C 86 ; WX 945 ; N V ; B 14 0 931 897 ;
+C 87 ; WX 1255 ; N W ; B -2 -35 1241 912 ;
+C 88 ; WX 994 ; N X ; B 20 -5 980 896 ;
+C 89 ; WX 920 ; N Y ; B 10 -32 919 900 ;
+C 90 ; WX 929 ; N Z ; B 8 -10 919 905 ;
+C 96 ; WX 847 ; N grave ; B 22 -7 845 817 ;
+C 138 ; WX 991 ; N Scaron ; B 12 -3 952 764 ;
+C 140 ; WX 1773 ; N OE ; B 17 -7 1762 896 ;
+C 145 ; WX 104 ; N quoteleft ; B 14 746 154 888 ;
+C 146 ; WX 104 ; N quoteright ; B -47 746 92 888 ;
+C 147 ; WX 185 ; N quotedblleft ; B 11 746 237 888 ;
+C 148 ; WX 185 ; N quotedblright ; B -53 746 173 888 ;
+C 160 ; WX 358 ; N space ; B 0 0 0 0 ;
+C 198 ; WX 1650 ; N AE ; B 21 -14 1636 913 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 358 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 142 ; N exclam ; B 5 3 126 893 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 10
+KPX A C -81
+KPX A D -81
+KPX A E -91
+KPX A O -86
+
+KPX C A -43
+KPX C D -97
+KPX C O -108
+KPX C Q -108
+
+KPX E A -86
+
+KPX F A -19
+
+EndKernPairs
+EndKernData
+EndFontMetrics

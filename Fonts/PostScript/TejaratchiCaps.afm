@@ -1,0 +1,90 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 3
+FullName TejaratchiCaps
+FontName TejaratchiCaps
+FamilyName Tejaratchi
+Weight normal
+Notice Copyright (c) 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -21 -113 749 791
+Ascender 808
+Descender -200
+XHeight 404
+CapHeight 772
+UnderlinePosition -102
+UnderlineThickness 15
+StdHW 92
+StdVW 89
+EncodingScheme FontSpecific
+StartCharMetrics 30
+C 32 ; WX 245 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 588 ; N A ; B 27 -6 562 769 ;
+C 66 ; WX 552 ; N B ; B 17 -17 536 799 ;
+C 67 ; WX 501 ; N C ; B -21 -11 483 792 ;
+C 68 ; WX 542 ; N D ; B 27 -17 530 817 ;
+C 69 ; WX 434 ; N E ; B 7 3 410 769 ;
+C 70 ; WX 438 ; N F ; B 19 0 419 772 ;
+C 71 ; WX 526 ; N G ; B -18 -15 506 795 ;
+C 72 ; WX 538 ; N H ; B 25 -5 518 775 ;
+C 73 ; WX 236 ; N I ; B 19 0 228 772 ;
+C 74 ; WX 463 ; N J ; B 17 -10 444 770 ;
+C 75 ; WX 535 ; N K ; B 25 -1 518 768 ;
+C 76 ; WX 446 ; N L ; B 18 0 425 771 ;
+C 77 ; WX 725 ; N M ; B 37 0 692 769 ;
+C 78 ; WX 555 ; N N ; B 25 -5 529 774 ;
+C 79 ; WX 542 ; N O ; B -10 -13 532 806 ;
+C 80 ; WX 503 ; N P ; B 22 0 494 817 ;
+C 81 ; WX 555 ; N Q ; B -20 -119 539 782 ;
+C 82 ; WX 554 ; N R ; B 27 0 567 831 ;
+C 83 ; WX 524 ; N S ; B 22 -16 509 781 ;
+C 84 ; WX 546 ; N T ; B 20 0 526 773 ;
+C 85 ; WX 501 ; N U ; B -21 -13 483 774 ;
+C 86 ; WX 548 ; N V ; B 25 -2 523 775 ;
+C 87 ; WX 785 ; N W ; B 35 -4 749 777 ;
+C 88 ; WX 535 ; N X ; B 25 0 511 774 ;
+C 89 ; WX 524 ; N Y ; B 24 -5 500 779 ;
+C 90 ; WX 495 ; N Z ; B 20 -5 476 772 ;
+C 160 ; WX 245 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 245 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 23
+KPX A T -68
+KPX A V -95
+KPX A W -79
+KPX A Y -84
+
+KPX D A -21
+
+KPX F A -52
+
+KPX J A -21
+
+KPX L T -100
+
+KPX O T -24
+KPX O V -32
+KPX O W -48
+KPX O X -36
+KPX O Y -30
+
+KPX P J -61
+KPX P A -72
+
+KPX T J -89
+KPX T A -68
+
+KPX V J -52
+KPX V O -52
+KPX V A -106
+
+KPX W A -68
+
+KPX Y J -79
+KPX Y A -89
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,52 @@
+StartFontMetrics 2.0
+Comment Panose 0 0 0 0 0 0 0 0 0 0
+FullName Jeff Plain
+FontName JeffPlain
+FamilyName Jeff
+Weight normal
+Notice Jeff-Nichols   1991 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -1 -37 1188 808
+Ascender 808
+Descender -192
+XHeight 385
+CapHeight 770
+UnderlinePosition -109
+UnderlineThickness 15
+StdHW 26
+StdVW 34
+EncodingScheme FontSpecific
+StartCharMetrics 30
+C 32 ; WX 385 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 1178 ; N A ; B 52 0 1125 769 ;
+C 66 ; WX 975 ; N B ; B 45 -2 930 769 ;
+C 67 ; WX 849 ; N C ; B 40 5 815 770 ;
+C 68 ; WX 926 ; N D ; B 42 0 884 769 ;
+C 69 ; WX 949 ; N E ; B 43 -2 906 769 ;
+C 70 ; WX 1044 ; N F ; B 48 -2 996 770 ;
+C 71 ; WX 971 ; N G ; B 45 -1 928 769 ;
+C 72 ; WX 935 ; N H ; B 42 0 892 769 ;
+C 73 ; WX 852 ; N I ; B 38 0 813 769 ;
+C 74 ; WX 1034 ; N J ; B 59 -8 999 757 ;
+C 75 ; WX 941 ; N K ; B 55 -2 908 760 ;
+C 76 ; WX 1018 ; N L ; B 48 0 973 768 ;
+C 77 ; WX 1022 ; N M ; B 47 0 978 769 ;
+C 78 ; WX 975 ; N N ; B 45 0 931 769 ;
+C 79 ; WX 937 ; N O ; B 42 0 894 768 ;
+C 80 ; WX 1018 ; N P ; B 45 0 970 774 ;
+C 81 ; WX 1020 ; N Q ; B 46 0 974 769 ;
+C 82 ; WX 962 ; N R ; B 44 0 918 768 ;
+C 83 ; WX 918 ; N S ; B 42 0 878 769 ;
+C 84 ; WX 1015 ; N T ; B 42 -1 968 769 ;
+C 85 ; WX 939 ; N U ; B 42 0 897 768 ;
+C 86 ; WX 972 ; N V ; B 32 0 928 769 ;
+C 87 ; WX 1245 ; N W ; B 57 0 1188 771 ;
+C 88 ; WX 934 ; N X ; B 42 0 892 769 ;
+C 89 ; WX 835 ; N Y ; B 38 0 796 769 ;
+C 90 ; WX 917 ; N Z ; B -1 -37 920 808 ;
+C 160 ; WX 385 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 385 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

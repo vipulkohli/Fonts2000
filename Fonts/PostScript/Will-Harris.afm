@@ -1,0 +1,172 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 9 0 0 2 0 3
+FullName Will-Harris
+FontName Will-Harris
+FamilyName Will
+Weight normal
+Notice Will-Harris (c) 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -8 -163 743 945
+Ascender 871
+Descender -79
+XHeight 870
+CapHeight 870
+UnderlinePosition -116
+UnderlineThickness 17
+StdHW 25
+StdVW 176
+EncodingScheme FontSpecific
+StartCharMetrics 87
+C 32 ; WX 234 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 232 ; N exclam ; B 30 4 204 825 ;
+C 34 ; WX 400 ; N quotedbl ; B 22 540 389 817 ;
+C 36 ; WX 360 ; N dollar ; B 16 29 359 858 ;
+C 37 ; WX 610 ; N percent ; B 2 87 597 871 ;
+C 38 ; WX 637 ; N ampersand ; B -8 -43 615 877 ;
+C 39 ; WX 227 ; N quotesingle ; B 22 540 204 820 ;
+C 40 ; WX 271 ; N parenleft ; B 13 -163 278 939 ;
+C 41 ; WX 329 ; N parenright ; B 16 -150 308 945 ;
+C 44 ; WX 227 ; N comma ; B 31 -90 220 217 ;
+C 45 ; WX 303 ; N hyphen ; B 21 306 277 452 ;
+C 46 ; WX 222 ; N period ; B 44 -1 191 224 ;
+C 48 ; WX 443 ; N zero ; B -2 -6 429 905 ;
+C 49 ; WX 199 ; N one ; B 13 0 191 871 ;
+C 50 ; WX 444 ; N two ; B 20 -3 437 910 ;
+C 51 ; WX 431 ; N three ; B 7 -9 435 918 ;
+C 52 ; WX 506 ; N four ; B 20 -5 483 870 ;
+C 53 ; WX 440 ; N five ; B 15 -10 441 870 ;
+C 54 ; WX 443 ; N six ; B 18 -12 431 914 ;
+C 55 ; WX 396 ; N seven ; B 18 -4 379 871 ;
+C 56 ; WX 442 ; N eight ; B 8 -8 432 906 ;
+C 57 ; WX 450 ; N nine ; B 9 -13 430 903 ;
+C 58 ; WX 222 ; N colon ; B 37 -1 196 725 ;
+C 59 ; WX 227 ; N semicolon ; B 28 -90 221 728 ;
+C 63 ; WX 425 ; N question ; B 17 2 403 863 ;
+C 65 ; WX 521 ; N A ; B 24 0 503 874 ;
+C 66 ; WX 475 ; N B ; B 18 -3 466 868 ;
+C 67 ; WX 430 ; N C ; B 15 -12 427 908 ;
+C 68 ; WX 450 ; N D ; B 19 0 430 871 ;
+C 69 ; WX 417 ; N E ; B 16 -4 397 870 ;
+C 70 ; WX 398 ; N F ; B 15 -3 381 870 ;
+C 71 ; WX 430 ; N G ; B 22 -10 446 904 ;
+C 72 ; WX 460 ; N H ; B 19 -2 434 870 ;
+C 73 ; WX 208 ; N I ; B 9 -1 205 870 ;
+C 74 ; WX 258 ; N J ; B 12 -10 288 870 ;
+C 75 ; WX 490 ; N K ; B 18 -3 468 871 ;
+C 76 ; WX 346 ; N L ; B 14 -4 327 870 ;
+C 77 ; WX 614 ; N M ; B 25 -8 590 866 ;
+C 78 ; WX 505 ; N N ; B 15 0 489 867 ;
+C 79 ; WX 434 ; N O ; B 18 -17 414 909 ;
+C 80 ; WX 459 ; N P ; B 20 -1 440 870 ;
+C 81 ; WX 437 ; N Q ; B 19 -79 417 909 ;
+C 82 ; WX 476 ; N R ; B 18 -24 458 870 ;
+C 83 ; WX 443 ; N S ; B 15 -9 440 917 ;
+C 84 ; WX 412 ; N T ; B 9 -2 390 866 ;
+C 85 ; WX 442 ; N U ; B 18 -11 457 872 ;
+C 86 ; WX 522 ; N V ; B 19 -1 498 872 ;
+C 87 ; WX 779 ; N W ; B 32 -4 743 870 ;
+C 88 ; WX 499 ; N X ; B 20 -1 477 870 ;
+C 89 ; WX 525 ; N Y ; B 23 -3 501 870 ;
+C 90 ; WX 403 ; N Z ; B 18 -1 388 871 ;
+C 97 ; WX 521 ; N a ; B 24 0 503 874 ;
+C 98 ; WX 475 ; N b ; B 18 -3 466 868 ;
+C 99 ; WX 430 ; N c ; B 15 -12 427 908 ;
+C 100 ; WX 450 ; N d ; B 19 0 430 871 ;
+C 101 ; WX 417 ; N e ; B 16 -4 397 870 ;
+C 102 ; WX 398 ; N f ; B 15 -3 381 870 ;
+C 103 ; WX 430 ; N g ; B 22 -10 446 904 ;
+C 104 ; WX 460 ; N h ; B 19 -2 434 870 ;
+C 105 ; WX 208 ; N i ; B 6 -1 197 870 ;
+C 106 ; WX 258 ; N j ; B 12 -10 288 870 ;
+C 107 ; WX 490 ; N k ; B 18 -3 468 871 ;
+C 108 ; WX 346 ; N l ; B 14 -4 327 870 ;
+C 109 ; WX 614 ; N m ; B 25 -8 590 866 ;
+C 110 ; WX 505 ; N n ; B 15 0 489 867 ;
+C 111 ; WX 434 ; N o ; B 18 -17 414 909 ;
+C 112 ; WX 459 ; N p ; B 20 -1 440 870 ;
+C 113 ; WX 437 ; N q ; B 19 -79 417 909 ;
+C 114 ; WX 476 ; N r ; B 18 -24 458 870 ;
+C 115 ; WX 443 ; N s ; B 15 -9 440 917 ;
+C 116 ; WX 412 ; N t ; B 9 -2 390 866 ;
+C 117 ; WX 442 ; N u ; B 18 -11 457 872 ;
+C 118 ; WX 522 ; N v ; B 19 -1 498 872 ;
+C 119 ; WX 779 ; N w ; B 32 -4 743 870 ;
+C 120 ; WX 499 ; N x ; B 20 -1 477 870 ;
+C 121 ; WX 525 ; N y ; B 23 -3 501 870 ;
+C 122 ; WX 403 ; N z ; B 18 -1 388 871 ;
+C 145 ; WX 214 ; N quoteleft ; B 10 540 199 822 ;
+C 146 ; WX 227 ; N quoteright ; B 22 540 204 817 ;
+C 147 ; WX 430 ; N quotedblleft ; B 15 540 394 822 ;
+C 148 ; WX 400 ; N quotedblright ; B 22 540 389 817 ;
+C 150 ; WX 454 ; N endash ; B 24 306 423 457 ;
+C 151 ; WX 681 ; N emdash ; B 38 306 634 457 ;
+C 160 ; WX 234 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 250 ; N cent ; B 7 131 265 718 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 234 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 41
+KPX A O -24
+KPX A T -67
+KPX A V -67
+KPX A W -97
+KPX A Y -91
+KPX A t -79
+KPX A v -73
+KPX A w -79
+KPX A y -79
+
+KPX F A -30
+KPX F a -43
+
+KPX L T -91
+KPX L W -97
+KPX L Y -103
+
+KPX O A -18
+KPX O X -30
+KPX O w -30
+KPX O y -24
+
+KPX P A -61
+
+KPX T A -67
+
+KPX V A -61
+
+KPX W A -91
+
+KPX X O -30
+
+KPX Y A -110
+KPX Y O -24
+
+KPX a t -79
+KPX a v -91
+KPX a w -91
+KPX a y -91
+
+KPX f a -55
+
+KPX l W -85
+KPX l t -85
+KPX l w -67
+KPX l y -97
+
+KPX p a -30
+
+KPX t a -79
+
+KPX v a -67
+
+KPX w O -30
+KPX w a -73
+
+KPX y O -37
+KPX y a -97
+
+EndKernPairs
+EndKernData
+EndFontMetrics

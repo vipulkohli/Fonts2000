@@ -1,0 +1,124 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 3
+FullName LiquidCrystal
+FontName LiquidCrystal
+FamilyName LiquidCrystal
+Weight normal
+Notice LCD ©1991 Peter Jensen Typography Ñ SHAREWARE FEE $10
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -46 -85 520 807
+Ascender 732
+Descender -200
+XHeight 732
+CapHeight 760
+UnderlinePosition -133
+UnderlineThickness 20
+EncodingScheme FontSpecific
+StartCharMetrics 90
+C 32 ; WX 550 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 550 ; N exclam ; B 68 16 520 760 ;
+C 34 ; WX 550 ; N quotedbl ; B 68 409 520 732 ;
+C 39 ; WX 550 ; N quotesingle ; B 68 415 186 732 ;
+C 40 ; WX 550 ; N parenleft ; B 30 16 473 760 ;
+C 41 ; WX 550 ; N parenright ; B 69 16 520 760 ;
+C 43 ; WX 550 ; N plus ; B 30 44 432 732 ;
+C 44 ; WX 65 ; N comma ; B -46 -85 79 106 ;
+C 45 ; WX 550 ; N hyphen ; B 106 351 432 450 ;
+C 46 ; WX 65 ; N period ; B -42 -4 62 84 ;
+C 47 ; WX 550 ; N slash ; B 30 44 520 726 ;
+C 48 ; WX 550 ; N zero ; B 30 16 520 760 ;
+C 49 ; WX 550 ; N one ; B 368 50 520 726 ;
+C 50 ; WX 550 ; N two ; B 30 16 520 760 ;
+C 51 ; WX 550 ; N three ; B 69 16 520 760 ;
+C 52 ; WX 550 ; N four ; B 68 50 520 732 ;
+C 53 ; WX 550 ; N five ; B 68 16 493 760 ;
+C 54 ; WX 550 ; N six ; B 30 16 493 760 ;
+C 55 ; WX 550 ; N seven ; B 128 50 520 760 ;
+C 56 ; WX 550 ; N eight ; B 30 16 520 760 ;
+C 57 ; WX 550 ; N nine ; B 68 16 520 760 ;
+C 58 ; WX 246 ; N colon ; B 59 212 191 584 ;
+C 59 ; WX 550 ; N semicolon ; B 30 44 473 760 ;
+C 60 ; WX 550 ; N less ; B 30 16 432 450 ;
+C 61 ; WX 550 ; N equal ; B 69 16 432 450 ;
+C 62 ; WX 550 ; N greater ; B 69 16 493 450 ;
+C 63 ; WX 550 ; N question ; B 30 44 520 760 ;
+C 65 ; WX 550 ; N A ; B 30 44 520 760 ;
+C 66 ; WX 550 ; N B ; B 30 16 493 732 ;
+C 67 ; WX 550 ; N C ; B 30 16 432 450 ;
+C 68 ; WX 550 ; N D ; B 30 16 520 726 ;
+C 69 ; WX 550 ; N E ; B 30 16 473 760 ;
+C 70 ; WX 550 ; N F ; B 30 44 473 760 ;
+C 71 ; WX 550 ; N G ; B 30 16 493 760 ;
+C 72 ; WX 550 ; N H ; B 30 44 493 732 ;
+C 73 ; WX 550 ; N I ; B 368 50 520 726 ;
+C 74 ; WX 550 ; N J ; B 69 16 520 726 ;
+C 75 ; WX 550 ; N K ; B 30 44 520 732 ;
+C 76 ; WX 550 ; N L ; B 30 16 428 732 ;
+C 77 ; WX 550 ; N M ; B 30 44 520 760 ;
+C 78 ; WX 550 ; N N ; B 30 44 493 450 ;
+C 79 ; WX 550 ; N O ; B 30 16 493 450 ;
+C 80 ; WX 550 ; N P ; B 30 44 520 760 ;
+C 81 ; WX 550 ; N Q ; B 68 50 520 760 ;
+C 82 ; WX 550 ; N R ; B 30 44 432 450 ;
+C 83 ; WX 550 ; N S ; B 68 16 493 760 ;
+C 84 ; WX 550 ; N T ; B 30 16 432 732 ;
+C 85 ; WX 550 ; N U ; B 30 16 520 732 ;
+C 86 ; WX 550 ; N V ; B 30 16 493 390 ;
+C 87 ; WX 550 ; N W ; B 30 16 493 732 ;
+C 88 ; WX 550 ; N X ; B 30 44 520 732 ;
+C 89 ; WX 550 ; N Y ; B 68 16 520 732 ;
+C 90 ; WX 550 ; N Z ; B 30 16 520 760 ;
+C 91 ; WX 550 ; N bracketleft ; B 30 16 473 760 ;
+C 92 ; WX 550 ; N backslash ; B 68 50 493 732 ;
+C 93 ; WX 550 ; N bracketright ; B 69 16 520 760 ;
+C 94 ; WX 550 ; N asciicircum ; B 68 409 520 760 ;
+C 95 ; WX 550 ; N underscore ; B 106 351 432 450 ;
+C 96 ; WX 550 ; N grave ; B 68 415 186 732 ;
+C 97 ; WX 550 ; N a ; B 30 44 520 760 ;
+C 98 ; WX 550 ; N b ; B 30 16 493 732 ;
+C 99 ; WX 550 ; N c ; B 30 16 432 450 ;
+C 100 ; WX 550 ; N d ; B 30 16 520 726 ;
+C 101 ; WX 550 ; N e ; B 30 16 473 760 ;
+C 102 ; WX 550 ; N f ; B 30 44 473 760 ;
+C 103 ; WX 550 ; N g ; B 30 16 493 760 ;
+C 104 ; WX 550 ; N h ; B 30 44 493 732 ;
+C 105 ; WX 550 ; N i ; B 368 50 520 726 ;
+C 106 ; WX 550 ; N j ; B 69 16 520 726 ;
+C 107 ; WX 550 ; N k ; B 30 44 520 732 ;
+C 108 ; WX 550 ; N l ; B 30 16 428 732 ;
+C 109 ; WX 550 ; N m ; B 30 44 520 760 ;
+C 110 ; WX 550 ; N n ; B 30 44 493 450 ;
+C 111 ; WX 550 ; N o ; B 30 16 493 450 ;
+C 112 ; WX 550 ; N p ; B 30 44 520 760 ;
+C 113 ; WX 550 ; N q ; B 68 50 520 760 ;
+C 114 ; WX 550 ; N r ; B 30 44 432 450 ;
+C 115 ; WX 550 ; N s ; B 68 16 493 760 ;
+C 116 ; WX 550 ; N t ; B 30 16 432 732 ;
+C 117 ; WX 550 ; N u ; B 30 16 520 732 ;
+C 118 ; WX 550 ; N v ; B 30 16 493 390 ;
+C 119 ; WX 550 ; N w ; B 30 16 493 732 ;
+C 120 ; WX 550 ; N x ; B 30 44 520 732 ;
+C 121 ; WX 550 ; N y ; B 68 16 520 732 ;
+C 122 ; WX 550 ; N z ; B 30 16 520 760 ;
+C 126 ; WX 550 ; N asciitilde ; B 128 660 473 760 ;
+C 160 ; WX 550 ; N space ; B 0 0 0 0 ;
+C 213 ; WX 44 ; N Otilde ; B -8 623 117 814 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 550 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 6
+KPX M seven -194
+
+KPX W J -188
+KPX W j -188
+
+KPX m seven -194
+
+KPX w J -188
+KPX w j -189
+
+EndKernPairs
+EndKernData
+EndFontMetrics

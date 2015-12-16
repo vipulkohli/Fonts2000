@@ -1,0 +1,118 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 4 3 0 0 2 0 4
+FullName ARROW
+FontName ARROW
+FamilyName ARROW
+Weight normal
+Notice ArrowFonts, for paleoflow, in 5 degree increments, designed by Robert Remy, September, 1988.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -223 777 767
+Ascender 754
+Descender -204
+XHeight 670
+CapHeight 767
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 55
+StdVW 50
+EncodingScheme FontSpecific
+StartCharMetrics 96
+C 32 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 1000 ; N exclam ; B 136 140 697 647 ;
+C 35 ; WX 1000 ; N numbersign ; B 167 104 671 667 ;
+C 36 ; WX 1000 ; N dollar ; B 183 103 668 701 ;
+C 37 ; WX 1000 ; N percent ; B 196 85 657 714 ;
+C 40 ; WX 1000 ; N parenleft ; B 172 53 614 747 ;
+C 41 ; WX 1000 ; N parenright ; B 172 47 623 752 ;
+C 42 ; WX 1000 ; N asterisk ; B 183 52 614 730 ;
+C 48 ; WX 1000 ; N zero ; B 106 178 703 666 ;
+C 49 ; WX 1000 ; N one ; B 69 189 774 640 ;
+C 50 ; WX 1000 ; N two ; B 65 181 777 637 ;
+C 51 ; WX 1000 ; N three ; B 55 204 767 662 ;
+C 52 ; WX 1000 ; N four ; B 66 195 777 651 ;
+C 53 ; WX 1000 ; N five ; B 64 187 769 638 ;
+C 54 ; WX 1000 ; N six ; B 59 236 753 678 ;
+C 55 ; WX 1000 ; N seven ; B 82 261 759 691 ;
+C 56 ; WX 1000 ; N eight ; B 86 221 742 658 ;
+C 57 ; WX 1000 ; N nine ; B 108 194 736 658 ;
+C 64 ; WX 1000 ; N at ; B 172 118 693 640 ;
+C 65 ; WX 1000 ; N A ; B 173 55 631 767 ;
+C 66 ; WX 1000 ; N B ; B 178 54 634 767 ;
+C 67 ; WX 1000 ; N C ; B 185 47 636 754 ;
+C 68 ; WX 1000 ; N D ; B 189 48 631 742 ;
+C 69 ; WX 1000 ; N E ; B 224 52 654 729 ;
+C 70 ; WX 1000 ; N F ; B 214 59 651 715 ;
+C 71 ; WX 1000 ; N G ; B 187 75 651 703 ;
+C 72 ; WX 1000 ; N H ; B 156 83 644 680 ;
+C 73 ; WX 1000 ; N I ; B 158 119 665 680 ;
+C 74 ; WX 1000 ; N J ; B 131 133 653 654 ;
+C 75 ; WX 1000 ; N K ; B 107 150 670 654 ;
+C 76 ; WX 1000 ; N L ; B 116 193 714 678 ;
+C 77 ; WX 1000 ; N M ; B 83 219 712 680 ;
+C 78 ; WX 1000 ; N N ; B 63 251 719 685 ;
+C 79 ; WX 1000 ; N O ; B 66 272 743 703 ;
+C 80 ; WX 1000 ; N P ; B 62 247 755 689 ;
+C 81 ; WX 1000 ; N Q ; B 51 248 755 699 ;
+C 82 ; WX 1000 ; N R ; B 48 221 759 677 ;
+C 83 ; WX 1000 ; N S ; B 53 225 764 683 ;
+C 84 ; WX 1000 ; N T ; B 48 212 758 668 ;
+C 85 ; WX 1000 ; N U ; B 56 195 760 646 ;
+C 86 ; WX 1000 ; N V ; B 47 215 740 657 ;
+C 87 ; WX 1000 ; N W ; B 76 202 752 632 ;
+C 88 ; WX 1000 ; N X ; B 68 220 723 657 ;
+C 89 ; WX 1000 ; N Y ; B 88 215 716 679 ;
+C 90 ; WX 1000 ; N Z ; B 96 212 693 700 ;
+C 94 ; WX 1000 ; N asciicircum ; B 186 54 620 711 ;
+C 95 ; WX 1000 ; N underscore ; B 179 39 635 751 ;
+C 97 ; WX 1000 ; N a ; B 127 196 688 703 ;
+C 98 ; WX 1000 ; N b ; B 126 201 647 725 ;
+C 99 ; WX 1000 ; N c ; B 183 161 687 724 ;
+C 100 ; WX 1000 ; N d ; B 191 137 676 735 ;
+C 101 ; WX 1000 ; N e ; B 192 109 653 738 ;
+C 102 ; WX 1000 ; N f ; B 259 82 693 739 ;
+C 103 ; WX 1000 ; N g ; B 245 58 676 736 ;
+C 104 ; WX 1000 ; N h ; B 265 51 707 745 ;
+C 105 ; WX 1000 ; N i ; B 216 46 667 751 ;
+C 106 ; WX 1000 ; N j ; B 224 32 680 744 ;
+C 107 ; WX 1000 ; N k ; B 188 37 646 749 ;
+C 108 ; WX 1000 ; N l ; B 170 43 626 754 ;
+C 109 ; WX 1000 ; N m ; B 188 41 639 746 ;
+C 110 ; WX 1000 ; N n ; B 188 51 630 745 ;
+C 111 ; WX 1000 ; N o ; B 180 64 610 741 ;
+C 112 ; WX 1000 ; N p ; B 163 68 600 724 ;
+C 113 ; WX 1000 ; N q ; B 148 90 612 718 ;
+C 114 ; WX 1000 ; N r ; B 195 123 683 720 ;
+C 115 ; WX 1000 ; N s ; B 164 108 671 669 ;
+C 116 ; WX 1000 ; N t ; B 171 169 693 690 ;
+C 117 ; WX 1000 ; N u ; B 159 169 722 673 ;
+C 118 ; WX 1000 ; N v ; B 135 185 733 670 ;
+C 119 ; WX 1000 ; N w ; B 107 158 736 619 ;
+C 120 ; WX 1000 ; N x ; B 80 188 737 622 ;
+C 121 ; WX 1000 ; N y ; B 81 190 759 621 ;
+C 122 ; WX 1000 ; N z ; B 69 184 763 626 ;
+C 160 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 176 ; WX 400 ; N degree ; B 50 385 350 685 ;
+C 177 ; WX 549 ; N plusminus ; B 10 0 539 645 ;
+C 181 ; WX 600 ; N mu ; B 33 -223 567 500 ;
+C 247 ; WX 546 ; N divide ; B 10 71 536 456 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 614 ; N Delta ; B 6 0 608 688 ;
+C -1 ; WX 770 ; N _93 ; B 34 0 736 688 ;
+C -1 ; WX 122 ; N _94 ; B 0 0 0 0 ;
+C -1 ; WX 789 ; N _95 ; B 56 -3 733 808 ;
+C -1 ; WX 541 ; N approxequal ; B 14 135 527 394 ;
+C -1 ; WX 555 ; N greaterequal ; B 29 0 526 639 ;
+C -1 ; WX 714 ; N infinity ; B 26 125 688 404 ;
+C -1 ; WX 293 ; N integral ; B 2 -107 291 916 ;
+C -1 ; WX 555 ; N lessequal ; B 29 0 526 639 ;
+C -1 ; WX 484 ; N lozenge ; B 18 0 466 745 ;
+C -1 ; WX 555 ; N notequal ; B 15 -25 540 549 ;
+C -1 ; WX 488 ; N partialdiff ; B 26 -21 462 746 ;
+C -1 ; WX 540 ; N pi ; B 10 -18 530 487 ;
+C -1 ; WX 770 ; N product ; B 25 0 745 673 ;
+C -1 ; WX 525 ; N radical ; B 10 -38 515 917 ;
+C -1 ; WX 594 ; N summation ; B 5 0 589 673 ;
+EndCharMetrics
+EndFontMetrics

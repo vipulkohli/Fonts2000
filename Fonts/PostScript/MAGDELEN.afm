@@ -1,0 +1,52 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 9 0 0 2 0 4
+FullName MAGDELEN
+FontName MAGDELEN
+FamilyName MAGDELEN
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -45 -232 1078 858
+Ascender 784
+Descender -216
+XHeight 500
+CapHeight 812
+UnderlinePosition -146
+UnderlineThickness 20
+StdVW 92
+EncodingScheme FontSpecific
+StartCharMetrics 32
+C 32 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 555 ; N A ; B 3 -210 494 780 ;
+C 66 ; WX 470 ; N B ; B 1 -17 412 782 ;
+C 67 ; WX 475 ; N C ; B 12 -18 423 791 ;
+C 68 ; WX 510 ; N D ; B 0 -9 450 790 ;
+C 69 ; WX 480 ; N E ; B 12 -18 431 791 ;
+C 70 ; WX 465 ; N F ; B 12 -227 426 804 ;
+C 71 ; WX 520 ; N G ; B 0 -18 471 791 ;
+C 72 ; WX 520 ; N H ; B -16 -144 466 812 ;
+C 73 ; WX 455 ; N I ; B -4 -28 428 786 ;
+C 74 ; WX 685 ; N J ; B 19 -222 643 786 ;
+C 75 ; WX 605 ; N K ; B -6 -56 532 798 ;
+C 76 ; WX 470 ; N L ; B -14 -12 408 806 ;
+C 77 ; WX 752 ; N M ; B 3 -210 694 808 ;
+C 78 ; WX 605 ; N N ; B 3 -210 531 796 ;
+C 79 ; WX 525 ; N O ; B -2 -20 476 814 ;
+C 80 ; WX 525 ; N P ; B 0 -232 470 814 ;
+C 81 ; WX 525 ; N Q ; B -2 -162 846 814 ;
+C 82 ; WX 520 ; N R ; B -16 -226 552 812 ;
+C 83 ; WX 1000 ; N S ; B -3 -39 441 801 ;
+C 84 ; WX 475 ; N T ; B -45 -18 525 858 ;
+C 85 ; WX 610 ; N U ; B 2 -32 574 818 ;
+C 86 ; WX 670 ; N V ; B -1 -25 601 847 ;
+C 87 ; WX 840 ; N W ; B 14 -25 786 822 ;
+C 88 ; WX 635 ; N X ; B -3 -162 588 822 ;
+C 89 ; WX 478 ; N Y ; B -15 -231 438 813 ;
+C 90 ; WX 669 ; N Z ; B -3 -216 603 831 ;
+C 126 ; WX 1150 ; N asciitilde ; B 9 30 1078 760 ;
+C 160 ; WX 122 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N _31 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

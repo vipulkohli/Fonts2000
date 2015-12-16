@@ -1,0 +1,103 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 5 0 0 2 0 4
+FullName DragonWick
+FontName DragonWick
+FamilyName Dragon
+Weight normal
+Notice Dragonwick © 1990 by David Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -34 -238 2182 768
+Ascender 611
+Descender -218
+XHeight 290
+CapHeight 763
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 127
+EncodingScheme FontSpecific
+StartCharMetrics 82
+C 32 ; WX 319 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 230 ; N exclam ; B 1 -7 208 690 ;
+C 36 ; WX 362 ; N dollar ; B 9 0 354 391 ;
+C 39 ; WX 183 ; N quotesingle ; B 20 580 162 754 ;
+C 44 ; WX 183 ; N comma ; B 20 -64 162 110 ;
+C 45 ; WX 438 ; N hyphen ; B 4 95 424 224 ;
+C 46 ; WX 179 ; N period ; B 20 -5 166 118 ;
+C 48 ; WX 1223 ; N zero ; B 6 -22 1216 647 ;
+C 49 ; WX 179 ; N one ; B 8 0 152 610 ;
+C 50 ; WX 1196 ; N two ; B 13 0 1177 627 ;
+C 51 ; WX 1162 ; N three ; B 20 -7 1151 614 ;
+C 52 ; WX 1242 ; N four ; B 30 -7 1225 610 ;
+C 53 ; WX 1242 ; N five ; B 7 -34 1228 610 ;
+C 54 ; WX 1233 ; N six ; B 27 -26 1233 645 ;
+C 55 ; WX 1262 ; N seven ; B 23 -6 1257 618 ;
+C 56 ; WX 1246 ; N eight ; B 29 -12 1235 629 ;
+C 57 ; WX 1227 ; N nine ; B 17 -69 1225 638 ;
+C 58 ; WX 183 ; N colon ; B 24 14 170 288 ;
+C 59 ; WX 194 ; N semicolon ; B 10 -3 177 291 ;
+C 63 ; WX 1290 ; N question ; B 36 -5 1246 723 ;
+C 65 ; WX 1708 ; N A ; B 73 -15 1657 830 ;
+C 66 ; WX 1961 ; N B ; B 78 -26 1874 781 ;
+C 67 ; WX 1702 ; N C ; B 77 -33 1624 805 ;
+C 68 ; WX 1911 ; N D ; B 87 -32 1837 842 ;
+C 69 ; WX 1756 ; N E ; B 80 -11 1703 799 ;
+C 70 ; WX 1862 ; N F ; B 75 0 1777 821 ;
+C 71 ; WX 1630 ; N G ; B 71 -27 1574 812 ;
+C 72 ; WX 1718 ; N H ; B 78 -4 1650 769 ;
+C 73 ; WX 803 ; N I ; B 30 -14 776 786 ;
+C 74 ; WX 1601 ; N J ; B 69 -45 1535 777 ;
+C 75 ; WX 1626 ; N K ; B 74 -95 1562 767 ;
+C 76 ; WX 1675 ; N L ; B 71 -207 1610 766 ;
+C 77 ; WX 2272 ; N M ; B 103 -10 2182 848 ;
+C 78 ; WX 1728 ; N N ; B 78 -10 1649 773 ;
+C 79 ; WX 1690 ; N O ; B 63 -50 1625 791 ;
+C 80 ; WX 1756 ; N P ; B 69 0 1676 785 ;
+C 81 ; WX 1696 ; N Q ; B 61 -22 1634 762 ;
+C 82 ; WX 1935 ; N R ; B 85 -15 1863 786 ;
+C 83 ; WX 1629 ; N S ; B 67 -17 1559 765 ;
+C 84 ; WX 1441 ; N T ; B 53 0 1392 975 ;
+C 85 ; WX 1640 ; N U ; B 67 -6 1565 787 ;
+C 86 ; WX 1327 ; N V ; B 60 -18 1297 773 ;
+C 87 ; WX 2044 ; N W ; B 93 -22 1974 789 ;
+C 88 ; WX 1442 ; N X ; B 66 0 1389 807 ;
+C 89 ; WX 1625 ; N Y ; B 58 -47 1550 824 ;
+C 90 ; WX 1627 ; N Z ; B 74 -22 1553 822 ;
+C 97 ; WX 503 ; N a ; B 15 -30 559 300 ;
+C 98 ; WX 501 ; N b ; B 24 -14 499 631 ;
+C 99 ; WX 382 ; N c ; B 3 -13 372 305 ;
+C 100 ; WX 597 ; N d ; B 3 -25 577 614 ;
+C 101 ; WX 446 ; N e ; B 5 -11 424 290 ;
+C 102 ; WX 396 ; N f ; B 14 -7 394 621 ;
+C 103 ; WX 495 ; N g ; B -29 -231 475 301 ;
+C 104 ; WX 628 ; N h ; B 29 -18 627 630 ;
+C 105 ; WX 324 ; N i ; B -5 -14 322 582 ;
+C 106 ; WX 300 ; N j ; B 5 -217 287 554 ;
+C 107 ; WX 651 ; N k ; B 23 -32 653 638 ;
+C 108 ; WX 240 ; N l ; B -13 -10 224 610 ;
+C 109 ; WX 1078 ; N m ; B 21 -13 1062 339 ;
+C 110 ; WX 770 ; N n ; B 21 -22 757 310 ;
+C 111 ; WX 484 ; N o ; B -34 -17 472 309 ;
+C 112 ; WX 488 ; N p ; B 14 -212 482 297 ;
+C 113 ; WX 518 ; N q ; B -6 -223 490 289 ;
+C 114 ; WX 430 ; N r ; B 20 -7 421 308 ;
+C 115 ; WX 396 ; N s ; B 6 -15 383 312 ;
+C 116 ; WX 434 ; N t ; B 10 -16 410 626 ;
+C 117 ; WX 607 ; N u ; B 24 -18 592 351 ;
+C 118 ; WX 565 ; N v ; B 27 -88 558 298 ;
+C 119 ; WX 838 ; N w ; B 28 0 828 295 ;
+C 120 ; WX 499 ; N x ; B 15 0 479 297 ;
+C 121 ; WX 480 ; N y ; B 10 -199 472 288 ;
+C 122 ; WX 453 ; N z ; B 4 -242 421 283 ;
+C 145 ; WX 198 ; N quoteleft ; B 13 554 181 741 ;
+C 146 ; WX 198 ; N quoteright ; B 18 568 186 746 ;
+C 147 ; WX 301 ; N quotedblleft ; B 9 585 286 756 ;
+C 148 ; WX 301 ; N quotedblright ; B 16 578 292 752 ;
+C 160 ; WX 500 ; N nbspace ; B 0 0 0 0 ;
+C 162 ; WX 373 ; N cent ; B 9 0 380 396 ;
+C 223 ; WX 724 ; N germandbls ; B 27 -7 720 302 ;
+C 248 ; WX 545 ; N oslash ; B 22 -3 531 311 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 319 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,110 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName OXNARD
+FontName OXNARD
+FamilyName OXNARD
+Weight normal
+Notice  
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -197 1351 769
+Ascender 746
+Descender -174
+XHeight 769
+CapHeight 746
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 105
+StdVW 69
+EncodingScheme FontSpecific
+StartCharMetrics 62
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 44 ; WX 312 ; N comma ; B 33 -198 287 170 ;
+C 45 ; WX 491 ; N hyphen ; B 19 195 447 439 ;
+C 46 ; WX 413 ; N period ; B 38 -94 317 263 ;
+C 58 ; WX 312 ; N colon ; B 11 -139 302 599 ;
+C 59 ; WX 312 ; N semicolon ; B 23 -198 302 599 ;
+C 65 ; WX 921 ; N A ; B 13 -44 892 736 ;
+C 66 ; WX 766 ; N B ; B 29 -94 731 720 ;
+C 67 ; WX 709 ; N C ; B 29 -94 677 712 ;
+C 68 ; WX 800 ; N D ; B 33 -142 764 711 ;
+C 69 ; WX 826 ; N E ; B 37 -142 788 721 ;
+C 70 ; WX 814 ; N F ; B 37 -131 777 731 ;
+C 71 ; WX 843 ; N G ; B 38 -138 805 685 ;
+C 72 ; WX 923 ; N H ; B 42 -170 880 648 ;
+C 73 ; WX 578 ; N I ; B 26 -179 551 648 ;
+C 74 ; WX 823 ; N J ; B 37 -163 786 674 ;
+C 75 ; WX 868 ; N K ; B 39 -155 829 746 ;
+C 76 ; WX 866 ; N L ; B 39 -156 851 732 ;
+C 77 ; WX 1017 ; N M ; B 46 -73 971 735 ;
+C 78 ; WX 882 ; N N ; B 40 -130 842 746 ;
+C 79 ; WX 909 ; N O ; B 4 -116 882 738 ;
+C 80 ; WX 793 ; N P ; B 35 -163 757 746 ;
+C 81 ; WX 835 ; N Q ; B 38 -174 798 748 ;
+C 82 ; WX 853 ; N R ; B 39 -155 814 748 ;
+C 83 ; WX 823 ; N S ; B 37 -139 786 684 ;
+C 84 ; WX 897 ; N T ; B 41 -116 856 704 ;
+C 85 ; WX 827 ; N U ; B 38 -57 790 752 ;
+C 86 ; WX 961 ; N V ; B 44 -94 918 754 ;
+C 87 ; WX 1394 ; N W ; B 10 -115 1351 760 ;
+C 88 ; WX 1036 ; N X ; B 47 -138 988 756 ;
+C 89 ; WX 872 ; N Y ; B 40 -150 832 769 ;
+C 90 ; WX 943 ; N Z ; B 43 -103 901 733 ;
+C 97 ; WX 921 ; N a ; B 13 -44 892 736 ;
+C 98 ; WX 766 ; N b ; B 29 -94 731 720 ;
+C 99 ; WX 709 ; N c ; B 29 -94 677 712 ;
+C 100 ; WX 800 ; N d ; B 33 -142 764 711 ;
+C 101 ; WX 826 ; N e ; B 37 -142 788 721 ;
+C 102 ; WX 814 ; N f ; B 37 -131 777 731 ;
+C 103 ; WX 843 ; N g ; B 38 -138 805 685 ;
+C 104 ; WX 923 ; N h ; B 42 -170 880 648 ;
+C 105 ; WX 578 ; N i ; B 26 -179 551 648 ;
+C 106 ; WX 823 ; N j ; B 37 -163 786 674 ;
+C 107 ; WX 868 ; N k ; B 39 -155 829 746 ;
+C 108 ; WX 866 ; N l ; B 39 -156 851 732 ;
+C 109 ; WX 1017 ; N m ; B 46 -73 971 735 ;
+C 110 ; WX 882 ; N n ; B 40 -130 842 746 ;
+C 111 ; WX 909 ; N o ; B 4 -116 882 738 ;
+C 112 ; WX 793 ; N p ; B 35 -163 757 746 ;
+C 113 ; WX 835 ; N q ; B 38 -174 798 748 ;
+C 114 ; WX 853 ; N r ; B 39 -155 814 748 ;
+C 115 ; WX 823 ; N s ; B 37 -139 786 684 ;
+C 116 ; WX 897 ; N t ; B 41 -116 856 704 ;
+C 117 ; WX 827 ; N u ; B 38 -57 790 752 ;
+C 118 ; WX 961 ; N v ; B 44 -94 918 754 ;
+C 119 ; WX 1394 ; N w ; B 10 -115 1351 760 ;
+C 120 ; WX 1036 ; N x ; B 47 -138 988 756 ;
+C 121 ; WX 872 ; N y ; B 40 -150 832 769 ;
+C 122 ; WX 943 ; N z ; B 43 -103 901 733 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _61 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 12
+KPX space space 196
+
+KPX comma space -296
+
+KPX colon space 217
+
+KPX semicolon space -232
+
+KPX B space 226
+
+KPX C space 256
+
+KPX K space -270
+
+KPX b space -242
+
+KPX d space 269
+
+KPX h space -250
+
+KPX i p 116
+
+EndKernPairs
+EndKernData
+EndFontMetrics

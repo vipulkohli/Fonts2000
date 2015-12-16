@@ -1,0 +1,70 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName AVEROITT
+FontName AVEROITT
+FamilyName AVEROITT
+Weight normal
+Notice Copyright 1993, David F. Nalle                                                   Averoigne v. 1.0 - Scriptorium Font Library
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -33 -250 1690 1046
+Ascender 818
+Descender -182
+XHeight 500
+CapHeight 833
+UnderlinePosition -121
+UnderlineThickness 18
+StdHW 26
+StdVW 20
+EncodingScheme FontSpecific
+StartCharMetrics 48
+C 32 ; WX 455 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 292 ; N exclam ; B 69 -11 222 788 ;
+C 34 ; WX 240 ; N quotedbl ; B 55 548 186 788 ;
+C 39 ; WX 155 ; N quotesingle ; B 56 548 99 788 ;
+C 40 ; WX 292 ; N parenleft ; B 70 -172 255 819 ;
+C 41 ; WX 292 ; N parenright ; B 37 -172 222 819 ;
+C 43 ; WX 516 ; N plus ; B 57 0 457 560 ;
+C 44 ; WX 275 ; N comma ; B 39 -102 208 142 ;
+C 45 ; WX 223 ; N hyphen ; B 2 219 222 375 ;
+C 46 ; WX 275 ; N period ; B 67 -11 181 157 ;
+C 47 ; WX 361 ; N slash ; B -3 -172 363 788 ;
+C 58 ; WX 275 ; N colon ; B 67 -11 181 513 ;
+C 59 ; WX 275 ; N semicolon ; B 39 -102 222 513 ;
+C 60 ; WX 516 ; N less ; B 57 -8 457 570 ;
+C 62 ; WX 516 ; N greater ; B 57 -8 457 570 ;
+C 63 ; WX 446 ; N question ; B 25 -11 417 804 ;
+C 65 ; WX 719 ; N A ; B 5 -8 658 812 ;
+C 66 ; WX 700 ; N B ; B -2 -40 645 825 ;
+C 67 ; WX 668 ; N C ; B -2 -15 618 812 ;
+C 68 ; WX 764 ; N D ; B 9 -27 700 825 ;
+C 69 ; WX 757 ; N E ; B -10 -21 715 833 ;
+C 70 ; WX 751 ; N F ; B 3 -40 708 820 ;
+C 71 ; WX 636 ; N G ; B -4 -8 579 814 ;
+C 72 ; WX 725 ; N H ; B -23 -195 676 814 ;
+C 73 ; WX 484 ; N I ; B 12 -32 443 825 ;
+C 74 ; WX 649 ; N J ; B -1 -124 609 825 ;
+C 75 ; WX 808 ; N K ; B 0 -144 893 825 ;
+C 76 ; WX 706 ; N L ; B -1 -13 659 818 ;
+C 77 ; WX 1114 ; N M ; B 9 -21 1063 819 ;
+C 78 ; WX 808 ; N N ; B -7 -66 759 814 ;
+C 79 ; WX 675 ; N O ; B 3 -22 623 818 ;
+C 80 ; WX 776 ; N P ; B -10 -21 724 825 ;
+C 81 ; WX 770 ; N Q ; B 2 -54 716 818 ;
+C 82 ; WX 808 ; N R ; B -13 -24 748 819 ;
+C 83 ; WX 617 ; N S ; B -8 -37 561 820 ;
+C 84 ; WX 732 ; N T ; B -11 -24 673 819 ;
+C 85 ; WX 643 ; N U ; B 12 -44 581 824 ;
+C 86 ; WX 687 ; N V ; B -20 -24 628 817 ;
+C 87 ; WX 942 ; N W ; B 0 5 887 830 ;
+C 88 ; WX 783 ; N X ; B -5 -131 861 841 ;
+C 89 ; WX 617 ; N Y ; B -33 -181 577 824 ;
+C 90 ; WX 795 ; N Z ; B -5 -45 736 820 ;
+C 96 ; WX 320 ; N grave ; B 66 555 247 715 ;
+C 126 ; WX 1744 ; N asciitilde ; B 6 -250 1690 1046 ;
+C 160 ; WX 455 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 455 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 455 ; N _47 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

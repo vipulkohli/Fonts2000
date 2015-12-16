@@ -1,0 +1,54 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 0 2 0 0 2 0 4
+FullName CircledNumbers
+FontName CircledNumbers
+FamilyName CircledNumbers
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -14 754 705
+Ascender 705
+Descender -200
+XHeight 500
+CapHeight 700
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 188
+StdVW 122
+EncodingScheme FontSpecific
+StartCharMetrics 33
+C 32 ; WX 278 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 394 ; N exclam ; B 35 -14 394 705 ;
+C 35 ; WX 394 ; N numbersign ; B 34 -14 393 705 ;
+C 36 ; WX 394 ; N dollar ; B 35 -14 394 705 ;
+C 37 ; WX 394 ; N percent ; B 35 -14 394 705 ;
+C 38 ; WX 394 ; N ampersand ; B 35 -14 394 705 ;
+C 40 ; WX 394 ; N parenleft ; B 34 -14 394 705 ;
+C 41 ; WX 394 ; N parenright ; B 35 -14 394 705 ;
+C 42 ; WX 394 ; N asterisk ; B 35 -14 394 705 ;
+C 49 ; WX 788 ; N one ; B 35 -14 754 705 ;
+C 50 ; WX 788 ; N two ; B 35 -14 754 705 ;
+C 51 ; WX 788 ; N three ; B 35 -14 754 705 ;
+C 52 ; WX 788 ; N four ; B 35 -14 754 705 ;
+C 53 ; WX 788 ; N five ; B 35 -14 754 705 ;
+C 54 ; WX 788 ; N six ; B 35 -14 754 705 ;
+C 55 ; WX 788 ; N seven ; B 35 -14 754 705 ;
+C 56 ; WX 788 ; N eight ; B 35 -14 754 705 ;
+C 57 ; WX 788 ; N nine ; B 35 -14 754 705 ;
+C 64 ; WX 394 ; N at ; B 35 -14 394 705 ;
+C 94 ; WX 394 ; N asciicircum ; B 35 -14 394 705 ;
+C 160 ; WX 278 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 394 ; N cent ; B 0 -14 360 705 ;
+C 163 ; WX 394 ; N sterling ; B 0 -14 360 705 ;
+C 164 ; WX 394 ; N currency ; B 0 -14 360 705 ;
+C 165 ; WX 394 ; N yen ; B 0 -14 360 705 ;
+C 166 ; WX 394 ; N brokenbar ; B 0 -14 360 705 ;
+C 170 ; WX 394 ; N ordfeminine ; B 0 -14 360 705 ;
+C 176 ; WX 394 ; N degree ; B 0 -14 360 705 ;
+C 187 ; WX 394 ; N guillemotright ; B 0 -14 360 705 ;
+C 188 ; WX 394 ; N onequarter ; B 0 -14 360 705 ;
+C 193 ; WX 394 ; N Aacute ; B 0 -14 360 705 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 278 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

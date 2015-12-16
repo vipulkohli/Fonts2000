@@ -1,0 +1,529 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 5 5 0 0 0 2 0 2
+FullName BLADES
+FontName BLADES
+FamilyName BLADES
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -253 -25 1098 1002
+Ascender 1002
+Descender -200
+XHeight 500
+CapHeight 1002
+UnderlinePosition -98
+UnderlineThickness 54
+StdVW 115
+EncodingScheme FontSpecific
+StartCharMetrics 68
+C 32 ; WX 482 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 357 ; N exclam ; B 6 64 348 1002 ;
+C 34 ; WX 342 ; N quotedbl ; B -2 717 324 1002 ;
+C 35 ; WX 418 ; N numbersign ; B 10 551 404 916 ;
+C 36 ; WX 545 ; N dollar ; B -2 64 563 1002 ;
+C 37 ; WX 969 ; N percent ; B -68 64 984 963 ;
+C 38 ; WX 902 ; N ampersand ; B -2 61 893 275 ;
+C 40 ; WX 262 ; N parenleft ; B -58 64 254 1002 ;
+C 41 ; WX 264 ; N parenright ; B 8 64 317 1002 ;
+C 42 ; WX 324 ; N asterisk ; B 12 570 313 1002 ;
+C 43 ; WX 295 ; N plus ; B 6 342 293 689 ;
+C 44 ; WX 215 ; N comma ; B 0 -25 203 184 ;
+C 45 ; WX 246 ; N hyphen ; B -2 379 240 566 ;
+C 46 ; WX 123 ; N period ; B 0 64 115 207 ;
+C 47 ; WX 652 ; N slash ; B 6 64 645 1002 ;
+C 48 ; WX 715 ; N zero ; B -253 -39 718 894 ;
+C 49 ; WX 574 ; N one ; B 0 64 564 1002 ;
+C 50 ; WX 764 ; N two ; B 12 64 823 1001 ;
+C 51 ; WX 670 ; N three ; B -6 64 717 1003 ;
+C 52 ; WX 717 ; N four ; B 2 64 709 1002 ;
+C 53 ; WX 639 ; N five ; B 10 63 913 1002 ;
+C 54 ; WX 592 ; N six ; B -169 65 775 1002 ;
+C 55 ; WX 809 ; N seven ; B 2 64 799 1002 ;
+C 56 ; WX 779 ; N eight ; B -126 63 970 1004 ;
+C 57 ; WX 686 ; N nine ; B -167 64 823 1002 ;
+C 58 ; WX 215 ; N colon ; B 0 64 205 506 ;
+C 59 ; WX 232 ; N semicolon ; B 8 64 230 492 ;
+C 60 ; WX 418 ; N less ; B 8 283 406 705 ;
+C 61 ; WX 357 ; N equal ; B 0 342 352 678 ;
+C 62 ; WX 482 ; N greater ; B 2 225 475 721 ;
+C 63 ; WX 701 ; N question ; B 12 64 762 1001 ;
+C 64 ; WX 482 ; N at ; B -27 252 497 754 ;
+C 65 ; WX 1107 ; N A ; B 0 64 1098 998 ;
+C 66 ; WX 764 ; N B ; B -2 63 894 1001 ;
+C 67 ; WX 826 ; N C ; B -40 65 809 1010 ;
+C 68 ; WX 746 ; N D ; B 8 64 885 1002 ;
+C 69 ; WX 779 ; N E ; B 0 64 773 1002 ;
+C 70 ; WX 795 ; N F ; B -12 64 783 1002 ;
+C 71 ; WX 701 ; N G ; B -99 64 712 1003 ;
+C 72 ; WX 1061 ; N H ; B 8 64 1064 1002 ;
+C 73 ; WX 342 ; N I ; B -2 64 324 1002 ;
+C 74 ; WX 545 ; N J ; B 6 63 527 1000 ;
+C 75 ; WX 1045 ; N K ; B 6 64 1031 1002 ;
+C 76 ; WX 734 ; N L ; B -39 64 719 1002 ;
+C 77 ; WX 1076 ; N M ; B 0 64 1070 1002 ;
+C 78 ; WX 842 ; N N ; B 0 64 832 1002 ;
+C 79 ; WX 717 ; N O ; B -236 -22 734 918 ;
+C 80 ; WX 592 ; N P ; B 10 76 701 1003 ;
+C 81 ; WX 777 ; N Q ; B -239 -31 795 910 ;
+C 82 ; WX 639 ; N R ; B 6 64 644 1003 ;
+C 83 ; WX 686 ; N S ; B 6 64 680 1002 ;
+C 84 ; WX 902 ; N T ; B 0 64 891 1002 ;
+C 85 ; WX 748 ; N U ; B -28 64 738 1000 ;
+C 86 ; WX 951 ; N V ; B 10 70 939 1002 ;
+C 87 ; WX 1076 ; N W ; B 12 64 1059 1002 ;
+C 88 ; WX 936 ; N X ; B 0 64 920 1002 ;
+C 89 ; WX 1045 ; N Y ; B 2 84 1037 1002 ;
+C 90 ; WX 873 ; N Z ; B 0 64 861 1002 ;
+C 91 ; WX 279 ; N bracketleft ; B -2 64 266 1002 ;
+C 93 ; WX 279 ; N bracketright ; B -2 64 266 1002 ;
+C 94 ; WX 418 ; N asciicircum ; B -2 631 416 1002 ;
+C 123 ; WX 389 ; N braceleft ; B 6 65 381 1002 ;
+C 124 ; WX 777 ; N bar ; B -34 64 773 1002 ;
+C 125 ; WX 389 ; N braceright ; B 6 65 381 1002 ;
+C 146 ; WX 262 ; N quoteright ; B 8 822 260 1002 ;
+C 160 ; WX 482 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 482 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 395
+KPX quotedbl ampersand -186
+KPX quotedbl parenleft -61
+KPX quotedbl comma -61
+KPX quotedbl slash -186
+KPX quotedbl two -76
+KPX quotedbl eight -125
+KPX quotedbl colon -61
+KPX quotedbl semicolon -76
+KPX quotedbl less -76
+KPX quotedbl equal -76
+KPX quotedbl A -186
+KPX quotedbl M -94
+KPX quotedbl O -61
+KPX quotedbl Q -61
+KPX quotedbl S -76
+KPX quotedbl X -125
+KPX quotedbl bar -61
+
+KPX numbersign ampersand -217
+KPX numbersign comma -61
+KPX numbersign slash -217
+KPX numbersign two -61
+KPX numbersign eight -107
+KPX numbersign colon -61
+KPX numbersign semicolon -76
+KPX numbersign less -61
+KPX numbersign equal -61
+KPX numbersign A -217
+KPX numbersign M -76
+KPX numbersign S -61
+KPX numbersign X -107
+
+KPX percent V -139
+KPX percent W -125
+KPX percent Y -61
+KPX percent quotedbl -125
+
+KPX ampersand numbersign -172
+KPX ampersand asterisk -125
+KPX ampersand one -232
+KPX ampersand question -61
+KPX ampersand T -342
+KPX ampersand V -172
+KPX ampersand W -186
+KPX ampersand Y -311
+KPX ampersand asciicircum -172
+KPX ampersand quotedbl -125
+
+KPX asterisk ampersand -172
+KPX asterisk comma -61
+KPX asterisk slash -172
+KPX asterisk two -61
+KPX asterisk eight -94
+KPX asterisk colon -61
+KPX asterisk semicolon -61
+KPX asterisk A -172
+KPX asterisk S -61
+KPX asterisk X -107
+
+KPX plus V -125
+KPX plus W -107
+KPX plus quotedbl -125
+
+KPX comma numbersign -125
+KPX comma asterisk -125
+KPX comma one -125
+KPX comma question -61
+KPX comma T -125
+KPX comma V -125
+KPX comma W -125
+KPX comma Y -125
+KPX comma asciicircum -125
+KPX comma quotedbl -125
+
+KPX hyphen seven -61
+KPX hyphen V -125
+KPX hyphen W -107
+KPX hyphen quotedbl -125
+
+KPX period numbersign -76
+KPX period asterisk -76
+KPX period one -76
+KPX period question -61
+KPX period T -76
+KPX period V -76
+KPX period W -76
+KPX period Y -76
+KPX period asciicircum -76
+KPX period quotedbl -76
+
+KPX slash ampersand -232
+KPX slash parenleft -61
+KPX slash plus -107
+KPX slash comma -61
+KPX slash hyphen -76
+KPX slash slash -232
+KPX slash zero -107
+KPX slash two -61
+KPX slash four -107
+KPX slash eight -107
+KPX slash colon -61
+KPX slash semicolon -76
+KPX slash less -139
+KPX slash equal -139
+KPX slash greater -107
+KPX slash at -107
+KPX slash A -232
+KPX slash G -107
+KPX slash J -107
+KPX slash M -76
+KPX slash O -125
+KPX slash Q -125
+KPX slash S -61
+KPX slash X -107
+KPX slash bar -76
+
+KPX two V -61
+
+KPX three V -61
+
+KPX four V -125
+KPX four W -107
+KPX four quotedbl -125
+
+KPX six V -125
+KPX six W -107
+KPX six quotedbl -125
+
+KPX seven ampersand -139
+KPX seven parenleft -61
+KPX seven comma -61
+KPX seven slash -139
+KPX seven two -61
+KPX seven eight -107
+KPX seven colon -61
+KPX seven semicolon -76
+KPX seven less -76
+KPX seven equal -76
+KPX seven A -139
+KPX seven M -76
+KPX seven O -61
+KPX seven Q -61
+KPX seven S -61
+KPX seven X -107
+KPX seven bar -61
+
+KPX colon V -125
+KPX colon W -107
+KPX colon quotedbl -125
+
+KPX semicolon V -125
+KPX semicolon W -107
+KPX semicolon quotedbl -125
+
+KPX less V -125
+KPX less W -107
+KPX less quotedbl -125
+
+KPX equal seven -61
+KPX equal V -125
+KPX equal W -107
+KPX equal quotedbl -125
+
+KPX greater numbersign -76
+KPX greater asterisk -94
+KPX greater one -94
+KPX greater question -61
+KPX greater T -76
+KPX greater V -172
+KPX greater W -186
+KPX greater Y -125
+KPX greater asciicircum -76
+KPX greater quotedbl -125
+
+KPX question ampersand -186
+KPX question comma -61
+KPX question slash -186
+KPX question two -61
+KPX question eight -107
+KPX question colon -61
+KPX question semicolon -76
+KPX question A -186
+KPX question M -61
+KPX question S -61
+KPX question X -107
+
+KPX at V -125
+KPX at W -107
+KPX at quotedbl -125
+
+KPX A numbersign -154
+KPX A asterisk -125
+KPX A one -172
+KPX A question -61
+KPX A T -154
+KPX A V -172
+KPX A W -186
+KPX A Y -203
+KPX A asciicircum -154
+KPX A quotedbl -125
+
+KPX C asterisk -61
+KPX C one -61
+KPX C V -94
+KPX C W -76
+KPX C Y -76
+KPX C quotedbl -76
+
+KPX E numbersign -61
+KPX E question -61
+KPX E V -61
+KPX E asciicircum -61
+
+KPX F ampersand -107
+KPX F comma -61
+KPX F slash -107
+KPX F two -61
+KPX F eight -94
+KPX F colon -61
+KPX F semicolon -61
+KPX F A -107
+KPX F S -76
+KPX F X -107
+
+KPX K numbersign -139
+KPX K asterisk -125
+KPX K one -154
+KPX K question -61
+KPX K T -139
+KPX K V -172
+KPX K W -172
+KPX K Y -172
+KPX K asciicircum -139
+KPX K quotedbl -125
+
+KPX L numbersign -172
+KPX L asterisk -125
+KPX L one -232
+KPX L question -61
+KPX L T -264
+KPX L V -172
+KPX L W -186
+KPX L Y -264
+KPX L asciicircum -172
+KPX L quotedbl -125
+
+KPX M numbersign -76
+KPX M asterisk -94
+KPX M one -94
+KPX M question -61
+KPX M T -76
+KPX M V -172
+KPX M W -154
+KPX M Y -125
+KPX M asciicircum -76
+KPX M quotedbl -125
+
+KPX N asterisk -61
+KPX N one -61
+KPX N V -94
+KPX N W -76
+KPX N Y -76
+KPX N quotedbl -76
+
+KPX P ampersand -172
+KPX P comma -61
+KPX P slash -172
+KPX P two -61
+KPX P eight -94
+KPX P colon -61
+KPX P semicolon -61
+KPX P A -172
+KPX P S -61
+KPX P X -107
+
+KPX Q asterisk -61
+KPX Q one -61
+KPX Q V -94
+KPX Q W -76
+KPX Q Y -76
+KPX Q quotedbl -76
+
+KPX R numbersign -61
+KPX R asterisk -61
+KPX R one -61
+KPX R question -61
+KPX R T -61
+KPX R V -76
+KPX R W -61
+KPX R Y -61
+KPX R asciicircum -61
+KPX R quotedbl -61
+
+KPX S ampersand -61
+KPX S comma -61
+KPX S slash -61
+KPX S two -61
+KPX S eight -61
+KPX S colon -61
+KPX S semicolon -61
+KPX S less -61
+KPX S equal -61
+KPX S A -61
+KPX S M -61
+KPX S S -61
+KPX S X -61
+
+KPX T ampersand -357
+KPX T comma -61
+KPX T slash -203
+KPX T two -61
+KPX T eight -94
+KPX T colon -61
+KPX T semicolon -61
+KPX T A -250
+KPX T S -76
+KPX T X -125
+
+KPX V ampersand -186
+KPX V parenleft -61
+KPX V plus -76
+KPX V comma -61
+KPX V hyphen -76
+KPX V slash -186
+KPX V zero -76
+KPX V two -61
+KPX V four -76
+KPX V eight -107
+KPX V colon -61
+KPX V semicolon -76
+KPX V less -107
+KPX V equal -107
+KPX V greater -76
+KPX V at -76
+KPX V A -186
+KPX V G -76
+KPX V J -76
+KPX V M -76
+KPX V O -94
+KPX V Q -94
+KPX V S -61
+KPX V X -107
+KPX V bar -76
+
+KPX W ampersand -61
+KPX W comma -61
+KPX W slash -61
+KPX W two -61
+KPX W eight -61
+KPX W colon -61
+KPX W semicolon -61
+KPX W less -61
+KPX W equal -61
+KPX W A -61
+KPX W M -61
+KPX W S -61
+KPX W X -61
+
+KPX X numbersign -61
+KPX X ampersand -139
+KPX X parenleft -61
+KPX X plus -107
+KPX X comma -61
+KPX X hyphen -76
+KPX X slash -139
+KPX X zero -139
+KPX X two -94
+KPX X three -61
+KPX X four -139
+KPX X six -76
+KPX X eight -139
+KPX X nine -61
+KPX X colon -61
+KPX X semicolon -76
+KPX X less -139
+KPX X equal -139
+KPX X greater -139
+KPX X at -139
+KPX X A -139
+KPX X C -76
+KPX X G -139
+KPX X J -139
+KPX X M -107
+KPX X O -139
+KPX X Q -139
+KPX X S -94
+KPX X X -139
+KPX X asciicircum -61
+KPX X bar -107
+
+KPX Y ampersand -328
+KPX Y parenleft -61
+KPX Y plus -107
+KPX Y comma -61
+KPX Y hyphen -76
+KPX Y slash -295
+KPX Y zero -139
+KPX Y two -61
+KPX Y four -139
+KPX Y eight -107
+KPX Y colon -61
+KPX Y semicolon -76
+KPX Y less -172
+KPX Y equal -139
+KPX Y greater -172
+KPX Y at -172
+KPX Y A -328
+KPX Y G -139
+KPX Y J -172
+KPX Y M -76
+KPX Y O -139
+KPX Y Q -154
+KPX Y S -61
+KPX Y X -107
+KPX Y bar -76
+
+KPX Z numbersign -76
+KPX Z question -61
+KPX Z V -61
+KPX Z asciicircum -76
+
+KPX asciicircum ampersand -217
+KPX asciicircum comma -61
+KPX asciicircum slash -203
+KPX asciicircum two -61
+KPX asciicircum eight -94
+KPX asciicircum colon -61
+KPX asciicircum semicolon -61
+KPX asciicircum A -217
+KPX asciicircum S -76
+KPX asciicircum X -125
+
+KPX bar V -154
+KPX bar W -139
+KPX bar Y -76
+KPX bar quotedbl -125
+
+EndKernPairs
+EndKernData
+EndFontMetrics

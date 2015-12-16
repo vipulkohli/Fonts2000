@@ -1,0 +1,73 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 5 6 9 0 0 2 0 2
+FullName Carr Dingbats 1
+FontName CarrDingbats1
+FamilyName Carr Dingbats 1
+Weight normal
+Notice FREEWARE! from Alan Carr. Remember to VOTE! If you don't vote, you can't bitch!
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -2 0 1000 1000
+Ascender 1000
+Descender -200
+XHeight 500
+CapHeight 1000
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 82
+StdVW 66
+EncodingScheme FontSpecific
+StartCharMetrics 51
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 938 ; N exclam ; B 4 12 888 996 ;
+C 34 ; WX 932 ; N quotedbl ; B 88 123 889 914 ;
+C 35 ; WX 1049 ; N numbersign ; B 0 0 1000 1000 ;
+C 36 ; WX 1049 ; N dollar ; B 0 0 1000 1000 ;
+C 37 ; WX 1041 ; N percent ; B -2 4 990 994 ;
+C 38 ; WX 1049 ; N ampersand ; B 64 113 1000 996 ;
+C 40 ; WX 1148 ; N parenleft ; B 2 2 999 997 ;
+C 41 ; WX 1033 ; N parenright ; B 0 0 984 988 ;
+C 42 ; WX 1043 ; N asterisk ; B 19 18 963 523 ;
+C 43 ; WX 975 ; N plus ; B 100 119 930 910 ;
+C 58 ; WX 799 ; N colon ; B 2 0 762 996 ;
+C 60 ; WX 1049 ; N less ; B 0 0 1000 504 ;
+C 62 ; WX 1049 ; N greater ; B 0 0 1000 461 ;
+C 63 ; WX 1045 ; N question ; B 0 0 996 549 ;
+C 64 ; WX 518 ; N at ; B 0 0 494 1000 ;
+C 65 ; WX 1049 ; N A ; B 0 0 1000 1000 ;
+C 66 ; WX 1049 ; N B ; B 0 0 1000 1000 ;
+C 67 ; WX 1047 ; N C ; B 0 0 998 1000 ;
+C 68 ; WX 584 ; N D ; B 51 49 557 555 ;
+C 69 ; WX 1047 ; N E ; B 0 0 998 957 ;
+C 70 ; WX 973 ; N F ; B 42 12 918 996 ;
+C 71 ; WX 1045 ; N G ; B 0 0 996 996 ;
+C 72 ; WX 938 ; N H ; B 0 0 893 1000 ;
+C 73 ; WX 1049 ; N I ; B 0 0 1000 1000 ;
+C 74 ; WX 990 ; N J ; B 19 13 925 983 ;
+C 75 ; WX 1047 ; N K ; B 50 50 998 848 ;
+C 76 ; WX 709 ; N L ; B 0 0 676 1000 ;
+C 77 ; WX 711 ; N M ; B 0 0 678 996 ;
+C 78 ; WX 715 ; N N ; B 0 0 682 998 ;
+C 79 ; WX 959 ; N O ; B 123 141 904 922 ;
+C 80 ; WX 801 ; N P ; B 0 0 764 1000 ;
+C 81 ; WX 1047 ; N Q ; B 0 0 998 291 ;
+C 82 ; WX 1049 ; N R ; B 0 0 1000 689 ;
+C 83 ; WX 748 ; N S ; B 7 14 701 998 ;
+C 84 ; WX 1049 ; N T ; B 0 0 1000 1000 ;
+C 85 ; WX 729 ; N U ; B 0 0 695 996 ;
+C 86 ; WX 1047 ; N V ; B 0 0 998 998 ;
+C 87 ; WX 1049 ; N W ; B 0 0 1000 1000 ;
+C 88 ; WX 1047 ; N X ; B 0 0 998 992 ;
+C 89 ; WX 1049 ; N Y ; B 0 0 1000 996 ;
+C 90 ; WX 801 ; N Z ; B 0 0 764 1000 ;
+C 94 ; WX 1045 ; N asciicircum ; B 0 0 996 977 ;
+C 95 ; WX 834 ; N underscore ; B 119 109 795 785 ;
+C 123 ; WX 1041 ; N braceleft ; B -2 4 990 996 ;
+C 124 ; WX 857 ; N bar ; B 154 166 818 836 ;
+C 125 ; WX 1049 ; N braceright ; B 0 0 1000 1000 ;
+C 126 ; WX 1049 ; N asciitilde ; B 0 0 1000 1000 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,57 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 0 2 0 0 2 0 4
+FullName TASTRO
+FontName TASTRO
+FamilyName TASTRO
+Weight normal
+Notice FREEWARE! Please vote. 
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 0 2200 2000
+Ascender 2000
+Descender -3
+XHeight 2000
+CapHeight 700
+UnderlinePosition -24
+UnderlineThickness 12
+StdHW 136
+StdVW 151
+EncodingScheme FontSpecific
+StartCharMetrics 35
+C 32 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 44 ; WX 2275 ; N comma ; B 200 0 2125 1554 ;
+C 59 ; WX 2300 ; N semicolon ; B 211 13 2117 2000 ;
+C 91 ; WX 1925 ; N bracketleft ; B 207 0 1754 2000 ;
+C 93 ; WX 2200 ; N bracketright ; B 200 15 1996 1615 ;
+C 97 ; WX 2400 ; N a ; B 200 0 2200 1735 ;
+C 98 ; WX 2400 ; N b ; B 221 0 2165 1907 ;
+C 99 ; WX 2200 ; N c ; B 222 9 2015 1976 ;
+C 100 ; WX 2400 ; N d ; B 200 7 2193 1963 ;
+C 101 ; WX 2175 ; N e ; B 211 23 1980 1508 ;
+C 102 ; WX 2400 ; N f ; B 208 0 2185 1930 ;
+C 103 ; WX 1675 ; N g ; B 208 0 1485 2000 ;
+C 104 ; WX 2375 ; N h ; B 204 3 2170 1891 ;
+C 105 ; WX 1900 ; N i ; B 200 0 1716 2000 ;
+C 106 ; WX 1350 ; N j ; B 208 0 1148 2000 ;
+C 107 ; WX 1625 ; N k ; B 219 34 1427 2000 ;
+C 108 ; WX 2150 ; N l ; B 247 0 1963 2000 ;
+C 109 ; WX 1550 ; N m ; B 221 0 1366 2000 ;
+C 110 ; WX 1625 ; N n ; B 200 20 1447 2000 ;
+C 111 ; WX 2350 ; N o ; B 200 0 2154 1943 ;
+C 112 ; WX 2400 ; N p ; B 200 20 2185 1677 ;
+C 113 ; WX 2300 ; N q ; B 210 16 2127 1359 ;
+C 114 ; WX 2075 ; N r ; B 200 10 1899 1780 ;
+C 115 ; WX 2250 ; N s ; B 217 17 2053 1822 ;
+C 116 ; WX 2000 ; N t ; B 200 9 1820 1782 ;
+C 117 ; WX 2350 ; N u ; B 214 0 2141 1227 ;
+C 118 ; WX 2400 ; N v ; B 200 14 2200 1402 ;
+C 119 ; WX 2300 ; N w ; B 207 0 2132 1620 ;
+C 120 ; WX 1700 ; N x ; B 218 7 1512 2000 ;
+C 121 ; WX 2300 ; N y ; B 220 33 2106 1737 ;
+C 122 ; WX 2000 ; N z ; B 207 0 1834 2000 ;
+C 160 ; WX 122 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N _34 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

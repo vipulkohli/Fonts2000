@@ -1,0 +1,106 @@
+StartFontMetrics 2.0
+Comment Panose 0 0 0 0 0 0 0 0 0 0
+FullName Harting Plain
+FontName HartingPlain
+FamilyName Harting
+Weight normal
+Notice Harting Ì 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -35 -248 712 777
+Ascender 690
+Descender -204
+XHeight 608
+CapHeight 693
+UnderlinePosition -99
+UnderlineThickness 14
+StdHW 68
+StdVW 24
+EncodingScheme FontSpecific
+StartCharMetrics 84
+C 32 ; WX 605 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 604 ; N exclam ; B 211 10 383 646 ;
+C 34 ; WX 604 ; N quotedbl ; B 154 361 427 667 ;
+C 36 ; WX 604 ; N dollar ; B 94 -107 552 730 ;
+C 38 ; WX 604 ; N ampersand ; B 40 -16 583 673 ;
+C 39 ; WX 604 ; N quotesingle ; B 208 365 358 704 ;
+C 40 ; WX 604 ; N parenleft ; B 219 -206 414 682 ;
+C 41 ; WX 604 ; N parenright ; B 191 -188 406 683 ;
+C 44 ; WX 604 ; N comma ; B 217 -137 389 172 ;
+C 45 ; WX 604 ; N hyphen ; B 134 237 486 340 ;
+C 46 ; WX 604 ; N period ; B 222 3 354 150 ;
+C 48 ; WX 607 ; N zero ; B 61 0 558 690 ;
+C 49 ; WX 603 ; N one ; B 33 0 582 690 ;
+C 50 ; WX 607 ; N two ; B 34 54 548 743 ;
+C 51 ; WX 606 ; N three ; B 70 0 565 693 ;
+C 52 ; WX 603 ; N four ; B 48 0 561 690 ;
+C 53 ; WX 605 ; N five ; B 41 0 544 690 ;
+C 54 ; WX 606 ; N six ; B 74 -33 543 655 ;
+C 55 ; WX 604 ; N seven ; B 85 0 542 690 ;
+C 56 ; WX 604 ; N eight ; B 64 -1 546 690 ;
+C 57 ; WX 604 ; N nine ; B 86 -74 574 615 ;
+C 58 ; WX 604 ; N colon ; B 212 3 354 484 ;
+C 59 ; WX 604 ; N semicolon ; B 217 -137 389 455 ;
+C 63 ; WX 604 ; N question ; B 102 0 514 691 ;
+C 65 ; WX 606 ; N A ; B 50 0 602 691 ;
+C 66 ; WX 602 ; N B ; B 25 0 570 693 ;
+C 67 ; WX 603 ; N C ; B 74 37 554 727 ;
+C 68 ; WX 605 ; N D ; B 1 -21 608 669 ;
+C 69 ; WX 604 ; N E ; B 9 0 596 690 ;
+C 70 ; WX 607 ; N F ; B 39 -91 583 599 ;
+C 71 ; WX 606 ; N G ; B 17 0 590 690 ;
+C 72 ; WX 607 ; N H ; B -3 0 606 690 ;
+C 73 ; WX 606 ; N I ; B 94 0 553 690 ;
+C 74 ; WX 608 ; N J ; B 67 0 574 690 ;
+C 75 ; WX 606 ; N K ; B 1 0 597 690 ;
+C 76 ; WX 607 ; N L ; B 16 0 579 690 ;
+C 77 ; WX 606 ; N M ; B 2 85 617 777 ;
+C 78 ; WX 606 ; N N ; B -10 -1 617 690 ;
+C 79 ; WX 607 ; N O ; B 83 0 578 690 ;
+C 80 ; WX 606 ; N P ; B 43 -3 574 690 ;
+C 81 ; WX 603 ; N Q ; B 54 -133 589 686 ;
+C 82 ; WX 607 ; N R ; B 4 0 582 690 ;
+C 83 ; WX 606 ; N S ; B 68 -26 526 692 ;
+C 84 ; WX 608 ; N T ; B 86 0 554 690 ;
+C 85 ; WX 606 ; N U ; B 52 1 583 690 ;
+C 86 ; WX 606 ; N V ; B 48 0 588 690 ;
+C 87 ; WX 606 ; N W ; B 4 0 577 690 ;
+C 88 ; WX 603 ; N X ; B 5 0 601 679 ;
+C 89 ; WX 605 ; N Y ; B 28 -25 577 665 ;
+C 90 ; WX 604 ; N Z ; B 76 -1 528 689 ;
+C 97 ; WX 604 ; N a ; B 58 54 546 555 ;
+C 98 ; WX 603 ; N b ; B -10 0 569 690 ;
+C 99 ; WX 603 ; N c ; B 116 0 521 501 ;
+C 100 ; WX 606 ; N d ; B 34 -21 589 669 ;
+C 101 ; WX 605 ; N e ; B 90 0 537 501 ;
+C 102 ; WX 603 ; N f ; B 54 -1 577 690 ;
+C 103 ; WX 604 ; N g ; B 48 -248 577 446 ;
+C 104 ; WX 605 ; N h ; B -35 0 618 696 ;
+C 105 ; WX 606 ; N i ; B 106 0 539 690 ;
+C 106 ; WX 603 ; N j ; B 94 -172 514 679 ;
+C 107 ; WX 604 ; N k ; B 3 0 599 674 ;
+C 108 ; WX 604 ; N l ; B 42 -36 539 652 ;
+C 109 ; WX 603 ; N m ; B -3 0 612 501 ;
+C 110 ; WX 605 ; N n ; B 7 0 592 506 ;
+C 111 ; WX 603 ; N o ; B 85 40 535 543 ;
+C 112 ; WX 605 ; N p ; B 26 -199 557 491 ;
+C 113 ; WX 602 ; N q ; B 54 -204 582 488 ;
+C 114 ; WX 603 ; N r ; B 69 0 556 503 ;
+C 115 ; WX 603 ; N s ; B 121 0 498 502 ;
+C 116 ; WX 606 ; N t ; B 88 0 490 621 ;
+C 117 ; WX 602 ; N u ; B 39 0 590 501 ;
+C 118 ; WX 602 ; N v ; B 62 -66 540 436 ;
+C 119 ; WX 603 ; N w ; B 34 0 603 501 ;
+C 120 ; WX 604 ; N x ; B 49 135 587 608 ;
+C 121 ; WX 632 ; N y ; B 68 -224 615 493 ;
+C 122 ; WX 606 ; N z ; B 71 19 503 490 ;
+C 145 ; WX 608 ; N quoteleft ; B 208 323 358 663 ;
+C 146 ; WX 604 ; N quoteright ; B 208 323 358 663 ;
+C 147 ; WX 604 ; N quotedblleft ; B 154 361 427 667 ;
+C 148 ; WX 604 ; N quotedblright ; B 154 361 427 667 ;
+C 160 ; WX 605 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 604 ; N cent ; B 96 -3 510 639 ;
+C -1 ; WX 605 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

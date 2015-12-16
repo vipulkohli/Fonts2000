@@ -1,0 +1,215 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 0 5 0 0 2 0 4
+FullName HVBFB
+FontName HVBFB
+FamilyName HVBFB
+Weight normal
+Notice F/F v.2.0 - Copyright 1991,1992 - White Dog Communications. WtMfWf
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -161 -20 756 749
+Ascender 783
+Descender -217
+XHeight 500
+CapHeight 710
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 66
+StdVW 85
+EncodingScheme FontSpecific
+StartCharMetrics 40
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 34 ; WX 356 ; N quotedbl ; B 56 448 334 718 ;
+C 35 ; WX 290 ; N numbersign ; B -1 275 288 707 ;
+C 36 ; WX 290 ; N dollar ; B -4 286 291 707 ;
+C 37 ; WX 290 ; N percent ; B -2 275 287 700 ;
+C 38 ; WX 212 ; N ampersand ; B 3 286 300 700 ;
+C 39 ; WX 189 ; N quotesingle ; B 61 448 159 718 ;
+C 40 ; WX 290 ; N parenleft ; B 9 275 300 707 ;
+C 41 ; WX 312 ; N parenright ; B 23 275 314 707 ;
+C 42 ; WX 279 ; N asterisk ; B -2 275 289 707 ;
+C 43 ; WX 301 ; N plus ; B 58 531 276 749 ;
+C 47 ; WX 178 ; N slash ; B -161 -20 345 710 ;
+C 48 ; WX 317 ; N zero ; B 1 -11 292 421 ;
+C 49 ; WX 246 ; N one ; B 1 0 183 421 ;
+C 50 ; WX 323 ; N two ; B 8 0 296 421 ;
+C 51 ; WX 301 ; N three ; B -1 -11 288 421 ;
+C 52 ; WX 349 ; N four ; B 0 0 295 421 ;
+C 53 ; WX 312 ; N five ; B -2 -11 287 414 ;
+C 54 ; WX 318 ; N six ; B -1 -11 288 421 ;
+C 55 ; WX 323 ; N seven ; B 25 0 322 414 ;
+C 56 ; WX 323 ; N eight ; B 9 -11 300 421 ;
+C 57 ; WX 323 ; N nine ; B 9 -11 300 421 ;
+C 61 ; WX 367 ; N equal ; B 58 426 344 712 ;
+C 64 ; WX 334 ; N at ; B 8 286 296 707 ;
+C 65 ; WX 788 ; N A ; B 40 -20 756 710 ;
+C 70 ; WX 788 ; N F ; B 40 -20 756 710 ;
+C 94 ; WX 290 ; N asciicircum ; B 10 275 299 707 ;
+C 95 ; WX 777 ; N underscore ; B 29 -20 745 710 ;
+C 97 ; WX 788 ; N a ; B 40 -20 756 710 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 224 ; WX 290 ; N agrave ; B 10 275 299 707 ;
+C 235 ; WX 189 ; N edieresis ; B 61 448 159 718 ;
+C 236 ; WX 356 ; N igrave ; B 56 448 334 718 ;
+C 237 ; WX 189 ; N iacute ; B 61 448 159 718 ;
+C 238 ; WX 356 ; N icircumflex ; B 56 448 334 718 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _37 ; B 0 0 0 0 ;
+C -1 ; WX 178 ; N _38 ; B -161 -20 345 710 ;
+C -1 ; WX 246 ; N exclam ; B 1 286 183 707 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 128
+KPX numbersign numbersign 20
+KPX numbersign dollar 30
+KPX numbersign percent 30
+KPX numbersign ampersand 10
+KPX numbersign parenleft 5
+KPX numbersign asterisk 25
+KPX numbersign at 10
+KPX numbersign asciicircum 5
+KPX numbersign exclam 20
+
+KPX dollar numbersign 30
+KPX dollar dollar 30
+KPX dollar percent 40
+KPX dollar parenleft 10
+KPX dollar asterisk 35
+KPX dollar at 20
+KPX dollar asciicircum 20
+KPX dollar exclam 30
+
+KPX percent numbersign 20
+KPX percent dollar 30
+KPX percent percent 20
+KPX percent ampersand 10
+KPX percent parenleft 10
+KPX percent asterisk 30
+KPX percent at 10
+KPX percent asciicircum 5
+KPX percent exclam 20
+
+KPX ampersand numbersign 100
+KPX ampersand dollar 90
+KPX ampersand percent 95
+KPX ampersand ampersand 115
+KPX ampersand parenleft 100
+KPX ampersand parenright 70
+KPX ampersand asterisk 100
+KPX ampersand at 90
+KPX ampersand asciicircum 80
+KPX ampersand exclam 120
+
+KPX parenleft numbersign 30
+KPX parenleft dollar 40
+KPX parenleft percent 40
+KPX parenleft ampersand 20
+KPX parenleft parenleft 30
+KPX parenleft parenright 10
+KPX parenleft asterisk 40
+KPX parenleft at 30
+KPX parenleft asciicircum 30
+KPX parenleft exclam 40
+
+KPX parenright parenright 10
+
+KPX asterisk numbersign 30
+KPX asterisk dollar 40
+KPX asterisk percent 30
+KPX asterisk ampersand 10
+KPX asterisk parenleft 20
+KPX asterisk parenright 10
+KPX asterisk asterisk 40
+KPX asterisk at 20
+KPX asterisk asciicircum 15
+KPX asterisk exclam 30
+
+KPX slash four -60
+KPX slash five 10
+
+KPX zero zero 10
+
+KPX one four -10
+KPX one seven -20
+
+KPX two zero 10
+KPX two one 10
+KPX two two 10
+KPX two three 10
+KPX two four 20
+KPX two five 10
+KPX two six 10
+KPX two seven -10
+
+KPX three zero 10
+KPX three one 20
+KPX three three 10
+KPX three four 10
+KPX three five 10
+KPX three six 10
+KPX three seven -10
+
+KPX four zero -30
+KPX four one -30
+KPX four two -40
+KPX four three -25
+KPX four four -20
+KPX four five -10
+KPX four six -30
+KPX four seven -70
+KPX four eight -35
+KPX four nine -35
+
+KPX five seven -30
+KPX five nine -15
+
+KPX six two -10
+KPX six seven -30
+KPX six eight -10
+KPX six nine -15
+
+KPX seven one 30
+KPX seven two 10
+KPX seven three 10
+KPX seven six 10
+KPX seven seven 5
+
+KPX eight zero 10
+KPX eight one 10
+KPX eight two -10
+KPX eight four 5
+KPX eight five 10
+KPX eight seven -20
+KPX eight eight -10
+KPX eight nine -20
+
+KPX nine two -10
+KPX nine four 5
+KPX nine six 10
+KPX nine seven -30
+KPX nine eight -10
+
+KPX at ampersand -10
+KPX at parenleft -10
+KPX at parenright -30
+KPX at asciicircum -10
+
+KPX asciicircum numbersign 40
+KPX asciicircum dollar 45
+KPX asciicircum percent 40
+KPX asciicircum ampersand 20
+KPX asciicircum parenleft 20
+KPX asciicircum parenright 20
+KPX asciicircum asterisk 40
+KPX asciicircum at 30
+KPX asciicircum asciicircum 30
+KPX asciicircum exclam 30
+
+KPX exclam percent -10
+KPX exclam parenleft -10
+KPX exclam parenright -20
+
+EndKernPairs
+EndKernData
+EndFontMetrics

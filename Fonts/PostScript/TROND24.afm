@@ -1,0 +1,58 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 0 8 0 0 2 0 4
+FullName TROND24
+FontName TROND24
+FamilyName TROND24
+Weight normal
+Notice The Trondheim Font is copyright 1988 by Bradley Poulson. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -160 896 650
+Ascender 590
+Descender -60
+XHeight 590
+CapHeight 700
+UnderlinePosition -37
+UnderlineThickness 37
+StdHW 100
+StdVW 100
+EncodingScheme FontSpecific
+StartCharMetrics 36
+C 32 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 220 ; N exclam ; B 50 -160 170 590 ;
+C 63 ; WX 600 ; N question ; B 50 -160 550 590 ;
+C 97 ; WX 740 ; N a ; B 50 -60 690 590 ;
+C 98 ; WX 570 ; N b ; B 50 -60 520 590 ;
+C 99 ; WX 560 ; N c ; B 50 -60 510 590 ;
+C 100 ; WX 760 ; N d ; B 50 -60 710 590 ;
+C 101 ; WX 740 ; N e ; B 50 -60 690 590 ;
+C 102 ; WX 710 ; N f ; B 50 -60 660 590 ;
+C 103 ; WX 740 ; N g ; B 50 -60 690 590 ;
+C 104 ; WX 730 ; N h ; B 50 -60 680 590 ;
+C 105 ; WX 660 ; N i ; B 10 -60 650 590 ;
+C 106 ; WX 700 ; N j ; B 50 -60 650 590 ;
+C 107 ; WX 705 ; N k ; B 50 -60 655 590 ;
+C 108 ; WX 810 ; N l ; B 50 -60 770 590 ;
+C 109 ; WX 700 ; N m ; B 50 -60 650 590 ;
+C 110 ; WX 550 ; N n ; B 50 -60 520 590 ;
+C 111 ; WX 810 ; N o ; B 50 -60 760 590 ;
+C 112 ; WX 580 ; N p ; B 50 -60 530 590 ;
+C 113 ; WX 210 ; N q ; B 55 -60 155 590 ;
+C 114 ; WX 840 ; N r ; B 50 -60 790 590 ;
+C 115 ; WX 550 ; N s ; B 50 -60 500 590 ;
+C 116 ; WX 900 ; N t ; B 50 -60 850 590 ;
+C 117 ; WX 555 ; N u ; B 50 -60 545 590 ;
+C 118 ; WX 660 ; N v ; B 50 -60 610 590 ;
+C 119 ; WX 800 ; N w ; B 50 -60 750 590 ;
+C 120 ; WX 750 ; N x ; B 50 -60 700 590 ;
+C 160 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 175 ; WX 600 ; N macron ; B 50 0 550 500 ;
+C 217 ; WX 500 ; N Ugrave ; B 14 -55 450 595 ;
+C 234 ; WX 900 ; N ecircumflex ; B 50 -145 850 650 ;
+C 236 ; WX 900 ; N igrave ; B 76 -145 876 650 ;
+C 245 ; WX 916 ; N otilde ; B 20 0 896 499 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N _35 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

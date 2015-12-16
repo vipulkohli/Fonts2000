@@ -1,0 +1,51 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName FKafka
+FontName FKafka
+FamilyName FKafka
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -214 1230 813
+Ascender 800
+Descender -200
+XHeight 500
+CapHeight 802
+UnderlinePosition -100
+UnderlineThickness 50
+StdVW 65
+EncodingScheme FontSpecific
+StartCharMetrics 31
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 1140 ; N A ; B 51 -203 1056 808 ;
+C 66 ; WX 1089 ; N B ; B 43 -214 1039 825 ;
+C 67 ; WX 1270 ; N C ; B 45 -221 1212 803 ;
+C 68 ; WX 1008 ; N D ; B 31 -215 940 809 ;
+C 69 ; WX 1060 ; N E ; B 48 -200 1024 817 ;
+C 70 ; WX 1204 ; N F ; B 33 -188 1090 808 ;
+C 71 ; WX 1260 ; N G ; B 49 -212 1218 805 ;
+C 72 ; WX 1192 ; N H ; B 54 -209 1140 814 ;
+C 73 ; WX 1226 ; N I ; B 51 -203 1176 811 ;
+C 74 ; WX 1270 ; N J ; B 53 -221 1230 820 ;
+C 75 ; WX 1103 ; N K ; B 28 -226 1069 805 ;
+C 76 ; WX 1204 ; N L ; B 36 -235 1171 800 ;
+C 77 ; WX 1185 ; N M ; B 41 -203 1137 811 ;
+C 78 ; WX 1187 ; N N ; B 27 -212 1136 826 ;
+C 79 ; WX 1163 ; N O ; B 53 -217 1125 806 ;
+C 80 ; WX 1092 ; N P ; B 50 -206 1043 801 ;
+C 81 ; WX 1152 ; N Q ; B 52 -212 1108 815 ;
+C 82 ; WX 1137 ; N R ; B 52 -200 1088 821 ;
+C 83 ; WX 1060 ; N S ; B 47 -213 1020 813 ;
+C 84 ; WX 1040 ; N T ; B 40 -209 993 806 ;
+C 85 ; WX 1067 ; N U ; B 38 -201 1022 806 ;
+C 86 ; WX 1039 ; N V ; B 45 -200 992 833 ;
+C 87 ; WX 1158 ; N W ; B 44 -207 1129 807 ;
+C 88 ; WX 1139 ; N X ; B 49 -214 1089 804 ;
+C 89 ; WX 1036 ; N Y ; B 27 -221 993 813 ;
+C 90 ; WX 1074 ; N Z ; B 36 -201 1035 819 ;
+C 160 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 202 ; WX 250 ; N Ecircumflex ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

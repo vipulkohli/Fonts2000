@@ -1,0 +1,56 @@
+StartFontMetrics 2.0
+Comment Copyright  Adobe is licensing this font software "Cheq" to you  royalty-free for your use and not for sale to others.  This  font software is provided as is and Adobe disclaims all  warranties, including merchantability and fitness for a  particular purpose.  Any and all copies of this software must contain this notice  intact.   Design (D) 1989 John S. Renner, Adobe Systems, Inc.  
+Comment Panose 2 0 6 9 0 0 0 2 0 4
+FullName Cheq
+FontName Cheq
+FamilyName Cheq
+Weight normal
+Notice Copyright (c) 1989 Adobe Systems Incorporated.  All rights reserved.
+IsFixedPitch true
+ItalicAngle 0.00
+FontBBox -50 -150 1050 950
+Ascender 813
+Descender -200
+XHeight 900
+CapHeight 817
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 71
+StdVW 71
+EncodingScheme FontSpecific
+StartCharMetrics 33
+C 32 ; WX 1000 ; N space ; B 0 0 0 0 ;
+C 45 ; WX 1000 ; N hyphen ; B -50 850 1050 900 ;
+C 47 ; WX 1000 ; N slash ; B 950 -150 1000 950 ;
+C 66 ; WX 1000 ; N B ; B 92 0 909 817 ;
+C 68 ; WX 1000 ; N D ; B 97 0 902 755 ;
+C 75 ; WX 1000 ; N K ; B 146 0 855 807 ;
+C 78 ; WX 1000 ; N N ; B 166 0 835 783 ;
+C 80 ; WX 1000 ; N P ; B 241 0 759 575 ;
+C 82 ; WX 1000 ; N R ; B 198 0 790 717 ;
+C 92 ; WX 1000 ; N backslash ; B 0 -150 50 950 ;
+C 95 ; WX 1000 ; N underscore ; B -50 -100 1050 -50 ;
+C 98 ; WX 1000 ; N b ; B 81 0 919 807 ;
+C 100 ; WX 1000 ; N d ; B 103 0 897 736 ;
+C 107 ; WX 1000 ; N k ; B 126 0 872 813 ;
+C 110 ; WX 1000 ; N n ; B 159 0 849 785 ;
+C 112 ; WX 1000 ; N p ; B 240 0 761 620 ;
+C 114 ; WX 1000 ; N r ; B 204 0 796 718 ;
+C 120 ; WX 1000 ; N x ; B 0 -100 1000 900 ;
+C 160 ; WX 1000 ; N space ; B 0 0 0 0 ;
+C 168 ; WX 1000 ; N dieresis ; B 0 -100 1000 900 ;
+C 182 ; WX 1000 ; N paragraph ; B 0 -100 1002 900 ;
+C 184 ; WX 1000 ; N cedilla ; B 0 -100 1000 900 ;
+C 186 ; WX 1000 ; N ordmasculine ; B 0 -100 1000 900 ;
+C 191 ; WX 1000 ; N questiondown ; B 0 -100 1000 900 ;
+C 229 ; WX 1000 ; N aring ; B 0 -100 1000 900 ;
+C 235 ; WX 1000 ; N edieresis ; B 0 -100 1000 900 ;
+C 240 ; WX 1000 ; N eth ; B 0 -100 1000 900 ;
+C 245 ; WX 1000 ; N otilde ; B 0 -100 1000 900 ;
+C 246 ; WX 1000 ; N odieresis ; B 0 -100 1000 900 ;
+C 251 ; WX 1000 ; N ucircumflex ; B 0 -100 1000 900 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 1000 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 1000 ; N _31 ; B 0 -100 1000 900 ;
+EndCharMetrics
+EndFontMetrics

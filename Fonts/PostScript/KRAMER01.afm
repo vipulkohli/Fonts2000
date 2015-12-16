@@ -1,0 +1,121 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 3 0 0 2 0 4
+FullName KRAMER
+FontName KRAMER
+FamilyName KRAMER
+Weight normal
+Notice Kramer font   1991 by D. Rakowski. All Rights Reserved. 
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -87 755 753
+Ascender 674
+Descender -2
+XHeight 680
+CapHeight 751
+UnderlinePosition -80
+UnderlineThickness 49
+StdHW 27
+StdVW 31
+EncodingScheme FontSpecific
+StartCharMetrics 69
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 150 ; N exclam ; B 21 -8 138 645 ;
+C 34 ; WX 292 ; N quotedbl ; B 15 563 273 704 ;
+C 39 ; WX 146 ; N quotesingle ; B 15 563 127 704 ;
+C 44 ; WX 146 ; N comma ; B 15 -37 127 104 ;
+C 46 ; WX 150 ; N period ; B 24 -8 135 104 ;
+C 58 ; WX 150 ; N colon ; B 24 -8 135 363 ;
+C 59 ; WX 146 ; N semicolon ; B 15 -37 135 363 ;
+C 63 ; WX 559 ; N question ; B 24 -8 494 695 ;
+C 65 ; WX 795 ; N A ; B 34 -87 755 748 ;
+C 66 ; WX 777 ; N B ; B 33 -82 742 750 ;
+C 67 ; WX 768 ; N C ; B 39 -77 726 747 ;
+C 68 ; WX 762 ; N D ; B 35 -82 727 750 ;
+C 69 ; WX 773 ; N E ; B 35 -82 739 750 ;
+C 70 ; WX 775 ; N F ; B 35 -82 740 750 ;
+C 71 ; WX 781 ; N G ; B 39 -86 743 749 ;
+C 72 ; WX 784 ; N H ; B 37 -82 748 751 ;
+C 73 ; WX 764 ; N I ; B 35 -82 730 750 ;
+C 74 ; WX 770 ; N J ; B 34 -82 735 750 ;
+C 75 ; WX 764 ; N K ; B 34 -81 728 747 ;
+C 76 ; WX 770 ; N L ; B 35 -82 735 750 ;
+C 77 ; WX 779 ; N M ; B 35 -84 743 753 ;
+C 78 ; WX 780 ; N N ; B 37 -82 747 751 ;
+C 79 ; WX 768 ; N O ; B 35 -83 733 750 ;
+C 80 ; WX 763 ; N P ; B 35 -82 728 750 ;
+C 81 ; WX 788 ; N Q ; B 37 -82 753 750 ;
+C 82 ; WX 766 ; N R ; B 32 -84 731 750 ;
+C 83 ; WX 763 ; N S ; B 35 -82 728 750 ;
+C 84 ; WX 764 ; N T ; B 35 -82 730 750 ;
+C 85 ; WX 760 ; N U ; B 32 -82 729 749 ;
+C 86 ; WX 773 ; N V ; B 35 -82 739 750 ;
+C 87 ; WX 764 ; N W ; B 35 -82 731 750 ;
+C 88 ; WX 749 ; N X ; B 34 -82 715 750 ;
+C 89 ; WX 759 ; N Y ; B 37 -82 722 749 ;
+C 90 ; WX 768 ; N Z ; B 35 -82 734 750 ;
+C 97 ; WX 581 ; N a ; B 16 4 565 670 ;
+C 98 ; WX 577 ; N b ; B 19 -1 559 674 ;
+C 99 ; WX 543 ; N c ; B 15 1 527 673 ;
+C 100 ; WX 567 ; N d ; B 15 -6 547 673 ;
+C 101 ; WX 568 ; N e ; B 9 0 549 676 ;
+C 102 ; WX 506 ; N f ; B 14 -2 494 669 ;
+C 103 ; WX 562 ; N g ; B 16 -4 539 671 ;
+C 104 ; WX 570 ; N h ; B 9 -1 544 670 ;
+C 105 ; WX 155 ; N i ; B 24 0 130 664 ;
+C 106 ; WX 424 ; N j ; B 20 5 409 668 ;
+C 107 ; WX 580 ; N k ; B 24 4 549 666 ;
+C 108 ; WX 561 ; N l ; B 16 -6 549 669 ;
+C 109 ; WX 585 ; N m ; B 18 -1 560 678 ;
+C 110 ; WX 572 ; N n ; B 15 -1 555 673 ;
+C 111 ; WX 559 ; N o ; B 13 11 529 663 ;
+C 112 ; WX 559 ; N p ; B 21 -2 548 671 ;
+C 113 ; WX 580 ; N q ; B 14 -1 559 665 ;
+C 114 ; WX 563 ; N r ; B 18 -9 542 674 ;
+C 115 ; WX 559 ; N s ; B 14 2 539 667 ;
+C 116 ; WX 547 ; N t ; B 11 0 530 668 ;
+C 117 ; WX 562 ; N u ; B 19 -4 548 655 ;
+C 118 ; WX 544 ; N v ; B 14 -4 532 666 ;
+C 119 ; WX 577 ; N w ; B 21 -2 558 658 ;
+C 120 ; WX 541 ; N x ; B 16 -9 527 680 ;
+C 121 ; WX 539 ; N y ; B 11 -2 521 664 ;
+C 122 ; WX 565 ; N z ; B 13 -2 542 672 ;
+C 145 ; WX 146 ; N quoteleft ; B 15 563 127 704 ;
+C 146 ; WX 146 ; N quoteright ; B 15 563 127 704 ;
+C 147 ; WX 305 ; N quotedblleft ; B 15 563 282 704 ;
+C 148 ; WX 292 ; N quotedblright ; B 15 563 273 704 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _68 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 16
+KPX f a -78
+KPX f j -163
+KPX f o -44
+
+KPX j l 21
+
+KPX l o -44
+KPX l t -128
+
+KPX o a -28
+
+KPX p a -50
+KPX p j -199
+
+KPX t a -106
+KPX t j -143
+KPX t o -64
+
+KPX u j -28
+
+KPX v a -64
+
+KPX w a -14
+
+KPX y a -57
+
+EndKernPairs
+EndKernData
+EndFontMetrics

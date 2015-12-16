@@ -1,0 +1,73 @@
+StartFontMetrics 2.0
+Comment Panose 0 0 0 0 0 0 0 0 0 0
+FullName GriffinTwo Plain
+FontName GriffinTwoPlain
+FamilyName GriffinTwo
+Weight normal
+Notice Copyright 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -2 -140 2016 809
+Ascender 800
+Descender -140
+XHeight 800
+CapHeight 560
+UnderlinePosition -114
+UnderlineThickness 16
+StdHW 24
+StdVW 24
+EncodingScheme FontSpecific
+StartCharMetrics 51
+C 32 ; WX 400 ; N space ; B 0 0 0 0 ;
+C 39 ; WX 859 ; N quotesingle ; B 0 -4 818 795 ;
+C 44 ; WX 1661 ; N comma ; B 36 0 1622 480 ;
+C 45 ; WX 859 ; N hyphen ; B -2 1 817 802 ;
+C 46 ; WX 2026 ; N period ; B 16 7 2016 554 ;
+C 47 ; WX 928 ; N slash ; B 47 -5 886 798 ;
+C 48 ; WX 523 ; N zero ; B 0 36 523 206 ;
+C 49 ; WX 861 ; N one ; B 39 0 822 800 ;
+C 50 ; WX 412 ; N two ; B 17 0 394 801 ;
+C 51 ; WX 466 ; N three ; B 14 -3 445 802 ;
+C 52 ; WX 903 ; N four ; B 41 0 862 800 ;
+C 53 ; WX 689 ; N five ; B 23 0 658 809 ;
+C 54 ; WX 859 ; N six ; B 41 0 859 800 ;
+C 55 ; WX 523 ; N seven ; B 0 594 523 764 ;
+C 56 ; WX 859 ; N eight ; B -2 -2 817 800 ;
+C 57 ; WX 859 ; N nine ; B 41 0 859 800 ;
+C 59 ; WX 522 ; N semicolon ; B 0 -4 522 101 ;
+C 61 ; WX 859 ; N equal ; B 41 0 859 798 ;
+C 91 ; WX 522 ; N bracketleft ; B 0 693 522 798 ;
+C 92 ; WX 859 ; N backslash ; B 41 -4 859 794 ;
+C 93 ; WX 859 ; N bracketright ; B 0 -2 818 798 ;
+C 96 ; WX 633 ; N grave ; B 29 0 604 800 ;
+C 97 ; WX 854 ; N a ; B 40 0 805 800 ;
+C 98 ; WX 834 ; N b ; B 38 0 796 800 ;
+C 99 ; WX 692 ; N c ; B 32 0 660 805 ;
+C 100 ; WX 738 ; N d ; B 34 0 703 800 ;
+C 101 ; WX 802 ; N e ; B 36 0 769 800 ;
+C 102 ; WX 759 ; N f ; B 34 0 724 800 ;
+C 103 ; WX 753 ; N g ; B 34 0 718 802 ;
+C 104 ; WX 797 ; N h ; B 36 0 761 800 ;
+C 105 ; WX 614 ; N i ; B 28 0 586 800 ;
+C 106 ; WX 613 ; N j ; B 27 0 585 800 ;
+C 107 ; WX 858 ; N k ; B 39 0 819 800 ;
+C 108 ; WX 826 ; N l ; B 34 -5 787 800 ;
+C 109 ; WX 1053 ; N m ; B 48 0 1005 801 ;
+C 110 ; WX 923 ; N n ; B 42 0 888 805 ;
+C 111 ; WX 726 ; N o ; B 33 0 693 800 ;
+C 112 ; WX 844 ; N p ; B 33 -140 812 780 ;
+C 113 ; WX 794 ; N q ; B 36 0 758 800 ;
+C 114 ; WX 905 ; N r ; B 41 -5 864 800 ;
+C 115 ; WX 683 ; N s ; B 31 0 652 800 ;
+C 116 ; WX 794 ; N t ; B 36 0 761 800 ;
+C 117 ; WX 946 ; N u ; B 43 0 903 800 ;
+C 118 ; WX 857 ; N v ; B 39 0 824 800 ;
+C 119 ; WX 1077 ; N w ; B 50 0 1028 800 ;
+C 120 ; WX 919 ; N x ; B 42 0 877 800 ;
+C 121 ; WX 737 ; N y ; B 34 0 703 800 ;
+C 122 ; WX 676 ; N z ; B 30 0 645 803 ;
+C 160 ; WX 400 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 400 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

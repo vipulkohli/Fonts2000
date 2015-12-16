@@ -1,0 +1,51 @@
+StartFontMetrics 2.0
+Comment Panose 0 0 0 0 0 0 0 0 0 0
+FullName EileensMediumZodiac Regular
+FontName EileensMediumZodiac-Regular
+FamilyName EileensMediumZodiac
+Weight normal
+Notice EileensMediumZodiac copyright (c) 1992 by D. Rakowski. All Rights Reserved. 
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -7 1266 836
+Ascender 836
+Descender -164
+XHeight 410
+CapHeight 574
+UnderlinePosition -117
+UnderlineThickness 16
+StdHW 52
+StdVW 25
+EncodingScheme FontSpecific
+StartCharMetrics 29
+C 32 ; WX 410 ; N space ; B 0 0 0 0 ;
+C 160 ; WX 410 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 410 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+C -1 ; WX 1175 ; N ampersand ; B 36 -7 1121 798 ;
+C -1 ; WX 1216 ; N asciicircum ; B 46 -1 1148 820 ;
+C -1 ; WX 1275 ; N asterisk ; B 38 0 1197 820 ;
+C -1 ; WX 1221 ; N at ; B 28 0 1142 820 ;
+C -1 ; WX 1150 ; N dollar ; B 43 -3 1090 820 ;
+C -1 ; WX 1275 ; N eight ; B 57 0 1216 820 ;
+C -1 ; WX 1325 ; N equal ; B 60 0 1266 820 ;
+C -1 ; WX 1226 ; N exclam ; B 50 0 1165 820 ;
+C -1 ; WX 1102 ; N five ; B 48 0 1052 820 ;
+C -1 ; WX 1150 ; N four ; B 53 -3 1100 820 ;
+C -1 ; WX 1230 ; N hyphen ; B 56 0 1175 822 ;
+C -1 ; WX 1233 ; N nine ; B 56 0 1179 820 ;
+C -1 ; WX 1199 ; N numbersign ; B 87 0 1181 820 ;
+C -1 ; WX 1226 ; N one ; B 55 0 1170 820 ;
+C -1 ; WX 915 ; N overscore ; B 32 0 873 693 ;
+C -1 ; WX 1233 ; N parenleft ; B 60 0 1184 820 ;
+C -1 ; WX 1211 ; N parenright ; B 51 0 1152 822 ;
+C -1 ; WX 1102 ; N percent ; B 41 0 1044 820 ;
+C -1 ; WX 1325 ; N plus ; B 60 0 1266 820 ;
+C -1 ; WX 1175 ; N seven ; B 64 -7 1149 798 ;
+C -1 ; WX 1216 ; N six ; B 55 -1 1157 820 ;
+C -1 ; WX 1199 ; N three ; B 56 0 1150 820 ;
+C -1 ; WX 1221 ; N two ; B 56 -1 1166 820 ;
+C -1 ; WX 1230 ; N underscore ; B 80 0 1198 822 ;
+C -1 ; WX 1211 ; N zero ; B 55 0 1156 822 ;
+EndCharMetrics
+EndFontMetrics

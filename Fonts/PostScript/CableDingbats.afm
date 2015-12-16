@@ -1,0 +1,51 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 2 0 0 2 0 4
+FullName CableDingbats
+FontName CableDingbats
+FamilyName CableDingbats
+Weight normal
+Notice Created by Gene Cowan, Cowan Design Associates. All logos Copr. by their respective holders.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -205 4385 916
+Ascender 800
+Descender -200
+XHeight 500
+CapHeight 800
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 181
+StdVW 68
+EncodingScheme FontSpecific
+StartCharMetrics 29
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 36 ; WX 2720 ; N dollar ; B 4 20 2674 820 ;
+C 48 ; WX 1841 ; N zero ; B 4 0 1678 800 ;
+C 52 ; WX 1367 ; N four ; B 50 2 1303 800 ;
+C 53 ; WX 661 ; N five ; B 30 0 633 800 ;
+C 54 ; WX 3175 ; N six ; B 19 0 3172 791 ;
+C 55 ; WX 878 ; N seven ; B 35 -3 837 800 ;
+C 57 ; WX 2741 ; N nine ; B 35 -5 2493 790 ;
+C 65 ; WX 880 ; N A ; B 72 30 810 768 ;
+C 67 ; WX 900 ; N C ; B 25 -2 830 802 ;
+C 70 ; WX 1069 ; N F ; B 49 0 1020 800 ;
+C 72 ; WX 1465 ; N H ; B 67 0 1398 800 ;
+C 77 ; WX 1220 ; N M ; B 13 0 1190 800 ;
+C 78 ; WX 934 ; N N ; B 42 -2 896 807 ;
+C 81 ; WX 2155 ; N Q ; B 38 -205 2074 660 ;
+C 84 ; WX 2085 ; N T ; B 32 -184 2068 916 ;
+C 85 ; WX 2199 ; N U ; B 18 -9 2034 800 ;
+C 86 ; WX 1965 ; N V ; B 0 -81 1910 906 ;
+C 97 ; WX 1224 ; N a ; B 56 0 1168 800 ;
+C 98 ; WX 2303 ; N b ; B 12 -44 2150 800 ;
+C 99 ; WX 1836 ; N c ; B 14 -22 1687 819 ;
+C 101 ; WX 550 ; N e ; B 164 -2 402 793 ;
+C 104 ; WX 2045 ; N h ; B 15 0 2026 800 ;
+C 109 ; WX 4404 ; N m ; B 0 0 4385 800 ;
+C 116 ; WX 2195 ; N t ; B 0 0 2197 800 ;
+C 160 ; WX 250 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 2850 ; N _28 ; B 17 -1 2768 800 ;
+EndCharMetrics
+EndFontMetrics

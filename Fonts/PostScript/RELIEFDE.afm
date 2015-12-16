@@ -1,0 +1,164 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName RELIEFDE
+FontName RELIEFDE
+FamilyName RELIEFDE
+Weight normal
+Notice ReliefDeco © 1991 by David Rakowski. All Rights Reserved. 
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -145 1281 835
+Ascender 835
+Descender -142
+XHeight 835
+CapHeight 835
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 20
+StdVW 22
+EncodingScheme FontSpecific
+StartCharMetrics 68
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 48 ; WX 596 ; N zero ; B 145 0 558 834 ;
+C 49 ; WX 429 ; N one ; B 48 6 408 835 ;
+C 50 ; WX 588 ; N two ; B 149 0 543 833 ;
+C 51 ; WX 563 ; N three ; B 26 0 537 834 ;
+C 52 ; WX 627 ; N four ; B 28 0 602 833 ;
+C 53 ; WX 600 ; N five ; B 28 0 573 835 ;
+C 54 ; WX 679 ; N six ; B 205 0 647 833 ;
+C 55 ; WX 539 ; N seven ; B 24 0 515 833 ;
+C 56 ; WX 572 ; N eight ; B 26 0 547 833 ;
+C 57 ; WX 595 ; N nine ; B 27 0 568 833 ;
+C 65 ; WX 933 ; N A ; B 43 -4 887 835 ;
+C 66 ; WX 728 ; N B ; B 33 0 696 833 ;
+C 67 ; WX 770 ; N C ; B 35 0 735 834 ;
+C 68 ; WX 844 ; N D ; B 38 0 805 835 ;
+C 69 ; WX 688 ; N E ; B 28 -2 663 832 ;
+C 70 ; WX 741 ; N F ; B 33 0 710 834 ;
+C 71 ; WX 965 ; N G ; B 183 0 943 833 ;
+C 72 ; WX 871 ; N H ; B 39 0 832 835 ;
+C 73 ; WX 458 ; N I ; B 40 0 421 828 ;
+C 74 ; WX 446 ; N J ; B 54 -145 419 835 ;
+C 75 ; WX 834 ; N K ; B 42 -4 796 833 ;
+C 76 ; WX 640 ; N L ; B 29 0 610 834 ;
+C 77 ; WX 1121 ; N M ; B 52 0 1080 834 ;
+C 78 ; WX 954 ; N N ; B 41 1 914 830 ;
+C 79 ; WX 895 ; N O ; B 146 58 867 823 ;
+C 80 ; WX 667 ; N P ; B 30 0 637 833 ;
+C 81 ; WX 904 ; N Q ; B 124 -142 871 826 ;
+C 82 ; WX 780 ; N R ; B 36 -1 747 834 ;
+C 83 ; WX 659 ; N S ; B 30 0 629 834 ;
+C 84 ; WX 728 ; N T ; B 33 0 694 833 ;
+C 85 ; WX 890 ; N U ; B 41 0 849 831 ;
+C 86 ; WX 968 ; N V ; B 44 0 924 835 ;
+C 87 ; WX 1344 ; N W ; B 61 0 1281 835 ;
+C 88 ; WX 889 ; N X ; B 41 0 850 833 ;
+C 89 ; WX 876 ; N Y ; B 40 0 843 833 ;
+C 90 ; WX 732 ; N Z ; B 33 0 695 833 ;
+C 97 ; WX 933 ; N a ; B 43 -4 887 835 ;
+C 98 ; WX 728 ; N b ; B 33 0 696 833 ;
+C 99 ; WX 770 ; N c ; B 35 0 735 834 ;
+C 100 ; WX 844 ; N d ; B 38 0 805 835 ;
+C 101 ; WX 688 ; N e ; B 28 -2 663 832 ;
+C 102 ; WX 741 ; N f ; B 33 0 710 834 ;
+C 103 ; WX 965 ; N g ; B 183 0 943 833 ;
+C 104 ; WX 871 ; N h ; B 39 0 832 835 ;
+C 105 ; WX 458 ; N i ; B 40 0 421 828 ;
+C 106 ; WX 446 ; N j ; B 54 -145 419 835 ;
+C 107 ; WX 834 ; N k ; B 42 -4 796 833 ;
+C 108 ; WX 640 ; N l ; B 29 0 610 834 ;
+C 109 ; WX 1121 ; N m ; B 52 0 1080 834 ;
+C 110 ; WX 954 ; N n ; B 41 1 914 830 ;
+C 111 ; WX 895 ; N o ; B 146 58 867 823 ;
+C 112 ; WX 667 ; N p ; B 30 0 637 833 ;
+C 113 ; WX 904 ; N q ; B 124 -142 871 826 ;
+C 114 ; WX 780 ; N r ; B 36 -1 747 834 ;
+C 115 ; WX 659 ; N s ; B 30 0 629 834 ;
+C 116 ; WX 728 ; N t ; B 33 0 694 833 ;
+C 117 ; WX 890 ; N u ; B 41 0 849 831 ;
+C 118 ; WX 968 ; N v ; B 44 0 924 835 ;
+C 119 ; WX 1344 ; N w ; B 61 0 1281 835 ;
+C 120 ; WX 889 ; N x ; B 41 0 850 833 ;
+C 121 ; WX 876 ; N y ; B 40 0 843 833 ;
+C 122 ; WX 732 ; N z ; B 33 0 695 833 ;
+C 159 ; WX 1021 ; N Ydieresis ; B 46 1 966 774 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _67 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 49
+KPX A O -68
+KPX A T -111
+KPX A V -145
+KPX A W -128
+KPX A Y -120
+KPX A y -128
+
+KPX B A -25
+
+KPX D Y -77
+KPX D y -86
+
+KPX F A -103
+
+KPX O A -43
+KPX O D -60
+KPX O V -103
+KPX O W -111
+KPX O X -51
+KPX O Y -68
+
+KPX P A -86
+
+KPX R V -60
+KPX R Y -43
+
+KPX T A -111
+
+KPX V A -154
+KPX V O -60
+
+KPX W A -128
+KPX W O -119
+
+KPX X O -68
+
+KPX Y A -111
+KPX Y O -94
+
+KPX a Y -128
+KPX a t -103
+KPX a v -128
+KPX a w -146
+KPX a x -25
+KPX a y -128
+
+KPX d y -94
+
+KPX f a -103
+
+KPX o d -60
+KPX o t -51
+KPX o v -86
+KPX o w -120
+KPX o y -111
+
+KPX p a -86
+
+KPX t a -77
+KPX t o -60
+
+KPX v a -120
+KPX v o -86
+
+KPX w a -128
+KPX w o -94
+
+KPX y a -120
+KPX y o -86
+
+EndKernPairs
+EndKernData
+EndFontMetrics

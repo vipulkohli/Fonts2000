@@ -1,0 +1,90 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 3 0 0 2 0 4
+FullName Riverside
+FontName Riverside
+FamilyName Riverside
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -31 -344 805 654
+Ascender 643
+Descender -328
+XHeight 322
+CapHeight 643
+UnderlinePosition -100
+UnderlineThickness 50
+StdVW 30
+EncodingScheme FontSpecific
+StartCharMetrics 70
+C 32 ; WX 201 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 194 ; N exclam ; B 5 -2 190 646 ;
+C 48 ; WX 579 ; N zero ; B 15 -27 571 643 ;
+C 49 ; WX 300 ; N one ; B 14 -5 287 643 ;
+C 50 ; WX 534 ; N two ; B 21 -11 516 643 ;
+C 51 ; WX 569 ; N three ; B 15 -12 551 643 ;
+C 52 ; WX 532 ; N four ; B 21 -3 508 644 ;
+C 53 ; WX 647 ; N five ; B 30 -18 627 649 ;
+C 54 ; WX 576 ; N six ; B 19 0 553 643 ;
+C 55 ; WX 443 ; N seven ; B -6 0 422 655 ;
+C 56 ; WX 651 ; N eight ; B 3 0 621 655 ;
+C 57 ; WX 470 ; N nine ; B 18 -11 463 659 ;
+C 63 ; WX 307 ; N question ; B 10 -3 296 648 ;
+C 65 ; WX 761 ; N A ; B 29 0 727 643 ;
+C 66 ; WX 665 ; N B ; B 0 -9 635 651 ;
+C 67 ; WX 513 ; N C ; B -5 -9 492 648 ;
+C 68 ; WX 670 ; N D ; B 31 0 653 656 ;
+C 69 ; WX 598 ; N E ; B 22 -5 580 643 ;
+C 70 ; WX 724 ; N F ; B 28 -8 692 643 ;
+C 71 ; WX 415 ; N G ; B 12 -161 407 643 ;
+C 72 ; WX 669 ; N H ; B 27 -9 640 643 ;
+C 73 ; WX 500 ; N I ; B 12 -21 479 643 ;
+C 74 ; WX 467 ; N J ; B 21 -19 459 646 ;
+C 75 ; WX 496 ; N K ; B 22 -3 476 651 ;
+C 76 ; WX 503 ; N L ; B 22 -3 487 660 ;
+C 77 ; WX 590 ; N M ; B 19 0 568 643 ;
+C 78 ; WX 473 ; N N ; B 22 -6 451 643 ;
+C 79 ; WX 826 ; N O ; B 36 -41 805 657 ;
+C 80 ; WX 566 ; N P ; B -12 -6 551 659 ;
+C 81 ; WX 733 ; N Q ; B 27 0 681 688 ;
+C 82 ; WX 605 ; N R ; B 10 -6 588 659 ;
+C 83 ; WX 746 ; N S ; B 29 -6 716 643 ;
+C 84 ; WX 733 ; N T ; B 31 -2 704 643 ;
+C 85 ; WX 504 ; N U ; B -28 -10 482 643 ;
+C 86 ; WX 749 ; N V ; B -2 0 716 647 ;
+C 87 ; WX 634 ; N W ; B 22 -10 625 650 ;
+C 88 ; WX 540 ; N X ; B 25 -4 516 646 ;
+C 89 ; WX 398 ; N Y ; B -31 -165 385 643 ;
+C 90 ; WX 755 ; N Z ; B 35 0 721 647 ;
+C 94 ; WX 286 ; N asciicircum ; B -4 -125 276 490 ;
+C 97 ; WX 399 ; N a ; B -1 -1 382 336 ;
+C 98 ; WX 388 ; N b ; B 15 -2 371 522 ;
+C 99 ; WX 400 ; N c ; B 11 -4 386 323 ;
+C 100 ; WX 494 ; N d ; B 19 -18 471 643 ;
+C 101 ; WX 212 ; N e ; B 6 -3 211 348 ;
+C 102 ; WX 335 ; N f ; B 14 -120 327 643 ;
+C 103 ; WX 305 ; N g ; B -10 -319 287 337 ;
+C 104 ; WX 402 ; N h ; B -14 -5 384 514 ;
+C 105 ; WX 225 ; N i ; B -2 -2 215 483 ;
+C 106 ; WX 314 ; N j ; B 0 -333 310 317 ;
+C 107 ; WX 335 ; N k ; B 12 -4 320 643 ;
+C 108 ; WX 219 ; N l ; B -19 -3 212 648 ;
+C 109 ; WX 543 ; N m ; B 11 -2 528 325 ;
+C 110 ; WX 335 ; N n ; B 3 -3 320 328 ;
+C 111 ; WX 396 ; N o ; B -5 -4 381 333 ;
+C 112 ; WX 427 ; N p ; B 13 -323 407 321 ;
+C 113 ; WX 372 ; N q ; B 10 -336 397 318 ;
+C 114 ; WX 265 ; N r ; B 5 -4 258 337 ;
+C 115 ; WX 287 ; N s ; B 9 -4 273 328 ;
+C 116 ; WX 362 ; N t ; B 11 -4 351 643 ;
+C 117 ; WX 524 ; N u ; B 6 -8 501 328 ;
+C 118 ; WX 367 ; N v ; B 10 -2 351 324 ;
+C 119 ; WX 576 ; N w ; B 17 -8 550 321 ;
+C 120 ; WX 377 ; N x ; B 17 -80 360 331 ;
+C 121 ; WX 450 ; N y ; B 22 -348 444 318 ;
+C 122 ; WX 308 ; N z ; B 14 0 300 321 ;
+C 160 ; WX 201 ; N space ; B 0 0 0 0 ;
+C 202 ; WX 250 ; N Ecircumflex ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 201 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,109 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 4 0 0 2 0 4
+FullName OregonWet
+FontName OregonWet
+FamilyName OregonWet
+Weight normal
+Notice Copr.Pat Snyder, 1797 Ross Inlet, Coos Bay OR 97420 Shware $15
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -21 -252 759 804
+Ascender 777
+Descender -230
+XHeight 783
+CapHeight 802
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 120
+StdVW 138
+EncodingScheme FontSpecific
+StartCharMetrics 87
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 186 ; N exclam ; B 41 -156 169 679 ;
+C 35 ; WX 456 ; N numbersign ; B 24 117 438 534 ;
+C 36 ; WX 378 ; N dollar ; B 11 -146 384 683 ;
+C 37 ; WX 456 ; N percent ; B 17 -228 472 783 ;
+C 38 ; WX 461 ; N ampersand ; B 13 -161 514 789 ;
+C 39 ; WX 152 ; N quotesingle ; B 32 537 148 680 ;
+C 40 ; WX 318 ; N parenleft ; B 24 -157 300 796 ;
+C 41 ; WX 318 ; N parenright ; B 22 -158 298 795 ;
+C 42 ; WX 180 ; N asterisk ; B 21 267 163 409 ;
+C 43 ; WX 373 ; N plus ; B 3 -141 354 691 ;
+C 44 ; WX 152 ; N comma ; B 32 -66 148 77 ;
+C 45 ; WX 348 ; N hyphen ; B 18 267 335 393 ;
+C 46 ; WX 152 ; N period ; B 27 0 135 96 ;
+C 47 ; WX 456 ; N slash ; B 17 -160 472 783 ;
+C 48 ; WX 449 ; N zero ; B 24 -172 438 762 ;
+C 49 ; WX 218 ; N one ; B 12 -190 217 808 ;
+C 50 ; WX 444 ; N two ; B 24 -160 438 778 ;
+C 51 ; WX 461 ; N three ; B 23 -161 447 789 ;
+C 52 ; WX 448 ; N four ; B -21 -195 450 754 ;
+C 53 ; WX 450 ; N five ; B 15 -168 438 777 ;
+C 54 ; WX 459 ; N six ; B 24 -201 449 798 ;
+C 55 ; WX 456 ; N seven ; B 17 -160 476 791 ;
+C 56 ; WX 442 ; N eight ; B 28 -161 450 789 ;
+C 57 ; WX 459 ; N nine ; B 23 -162 446 773 ;
+C 58 ; WX 152 ; N colon ; B 27 0 135 408 ;
+C 59 ; WX 152 ; N semicolon ; B 6 -66 135 438 ;
+C 61 ; WX 348 ; N equal ; B 18 183 335 473 ;
+C 63 ; WX 384 ; N question ; B -21 -160 381 778 ;
+C 65 ; WX 516 ; N A ; B -1 -195 532 754 ;
+C 66 ; WX 462 ; N B ; B 24 -212 450 814 ;
+C 67 ; WX 444 ; N C ; B 24 -161 441 789 ;
+C 68 ; WX 467 ; N D ; B 23 -184 440 786 ;
+C 69 ; WX 390 ; N E ; B 15 -216 387 797 ;
+C 70 ; WX 391 ; N F ; B 23 -180 388 790 ;
+C 71 ; WX 467 ; N G ; B 24 -201 438 798 ;
+C 72 ; WX 456 ; N H ; B 24 -226 438 808 ;
+C 73 ; WX 181 ; N I ; B 24 -190 162 808 ;
+C 74 ; WX 378 ; N J ; B 9 -256 360 748 ;
+C 75 ; WX 474 ; N K ; B 24 -211 472 809 ;
+C 76 ; WX 377 ; N L ; B 24 -141 406 811 ;
+C 77 ; WX 707 ; N M ; B 32 -258 680 794 ;
+C 78 ; WX 470 ; N N ; B 22 -241 446 800 ;
+C 79 ; WX 466 ; N O ; B 24 -172 438 761 ;
+C 80 ; WX 441 ; N P ; B 21 -213 438 802 ;
+C 81 ; WX 462 ; N Q ; B 24 -227 438 796 ;
+C 82 ; WX 474 ; N R ; B 24 -194 490 789 ;
+C 83 ; WX 450 ; N S ; B 15 -239 441 777 ;
+C 84 ; WX 447 ; N T ; B 12 -234 444 784 ;
+C 85 ; WX 456 ; N U ; B 24 -209 438 806 ;
+C 86 ; WX 468 ; N V ; B 6 -211 462 818 ;
+C 87 ; WX 762 ; N W ; B 7 -185 759 813 ;
+C 88 ; WX 492 ; N X ; B 9 -189 486 791 ;
+C 89 ; WX 460 ; N Y ; B 3 -203 511 798 ;
+C 90 ; WX 466 ; N Z ; B 24 -195 456 795 ;
+C 95 ; WX 348 ; N underscore ; B 18 -3 335 123 ;
+C 97 ; WX 417 ; N a ; B 16 -246 391 765 ;
+C 98 ; WX 438 ; N b ; B 40 -168 473 787 ;
+C 99 ; WX 376 ; N c ; B 30 -228 364 563 ;
+C 100 ; WX 436 ; N d ; B 25 -206 402 781 ;
+C 101 ; WX 416 ; N e ; B 28 -231 406 708 ;
+C 102 ; WX 306 ; N f ; B 29 -207 304 815 ;
+C 103 ; WX 421 ; N g ; B 22 -231 415 634 ;
+C 104 ; WX 421 ; N h ; B 41 -232 400 788 ;
+C 105 ; WX 186 ; N i ; B 41 -156 169 739 ;
+C 106 ; WX 186 ; N j ; B 41 -208 169 789 ;
+C 107 ; WX 442 ; N k ; B 41 -192 437 791 ;
+C 108 ; WX 210 ; N l ; B 41 -199 173 738 ;
+C 109 ; WX 679 ; N m ; B 41 -215 649 787 ;
+C 110 ; WX 422 ; N n ; B 41 -232 401 692 ;
+C 111 ; WX 421 ; N o ; B 41 -140 404 677 ;
+C 112 ; WX 440 ; N p ; B 36 -230 419 629 ;
+C 113 ; WX 439 ; N q ; B 28 -230 414 799 ;
+C 114 ; WX 327 ; N r ; B 41 -207 319 620 ;
+C 115 ; WX 379 ; N s ; B 11 -194 384 724 ;
+C 116 ; WX 363 ; N t ; B 3 -141 354 691 ;
+C 117 ; WX 400 ; N u ; B 28 -255 386 670 ;
+C 118 ; WX 428 ; N v ; B 11 -254 411 747 ;
+C 119 ; WX 649 ; N w ; B -3 -241 661 713 ;
+C 120 ; WX 360 ; N x ; B 12 -140 347 677 ;
+C 121 ; WX 411 ; N y ; B 13 -182 398 785 ;
+C 122 ; WX 411 ; N z ; B 16 -189 400 712 ;
+C 160 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 210 ; WX 258 ; N Ograve ; B -2 536 240 679 ;
+C 211 ; WX 258 ; N Oacute ; B 14 537 256 680 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

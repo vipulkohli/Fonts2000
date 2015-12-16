@@ -1,0 +1,98 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 3 0 0 2 0 4
+FullName ROCKMAK
+FontName ROCKMAK
+FamilyName ROCKMAK
+Weight normal
+Notice Rockmaker font copyright (c) 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -122 1061 855
+Ascender 879
+Descender -120
+XHeight 500
+CapHeight 852
+UnderlinePosition -113
+UnderlineThickness 17
+StdHW 162
+StdVW 159
+EncodingScheme FontSpecific
+StartCharMetrics 55
+C 32 ; WX 425 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 266 ; N exclam ; B 49 12 235 822 ;
+C 34 ; WX 395 ; N quotedbl ; B 36 498 377 848 ;
+C 36 ; WX 462 ; N dollar ; B 6 -55 459 809 ;
+C 39 ; WX 224 ; N quotesingle ; B 36 498 197 848 ;
+C 44 ; WX 224 ; N comma ; B 36 -121 197 228 ;
+C 46 ; WX 224 ; N period ; B 30 -15 195 240 ;
+C 48 ; WX 709 ; N zero ; B 28 0 691 851 ;
+C 49 ; WX 220 ; N one ; B 27 -1 191 851 ;
+C 50 ; WX 748 ; N two ; B 20 0 729 851 ;
+C 51 ; WX 645 ; N three ; B 30 0 625 851 ;
+C 52 ; WX 714 ; N four ; B 23 0 690 851 ;
+C 53 ; WX 648 ; N five ; B 15 0 611 851 ;
+C 54 ; WX 621 ; N six ; B 19 0 601 851 ;
+C 55 ; WX 738 ; N seven ; B 16 0 723 851 ;
+C 56 ; WX 662 ; N eight ; B 27 0 644 851 ;
+C 57 ; WX 627 ; N nine ; B 14 0 598 851 ;
+C 58 ; WX 224 ; N colon ; B 30 -15 195 621 ;
+C 59 ; WX 224 ; N semicolon ; B 30 -121 197 621 ;
+C 63 ; WX 466 ; N question ; B 27 0 440 852 ;
+C 65 ; WX 698 ; N A ; B 32 0 668 851 ;
+C 66 ; WX 677 ; N B ; B 32 0 660 853 ;
+C 67 ; WX 708 ; N C ; B 34 0 693 852 ;
+C 68 ; WX 702 ; N D ; B 33 0 683 851 ;
+C 69 ; WX 721 ; N E ; B 35 0 724 852 ;
+C 70 ; WX 694 ; N F ; B 33 0 672 851 ;
+C 71 ; WX 664 ; N G ; B 32 -1 657 851 ;
+C 72 ; WX 622 ; N H ; B 14 0 588 853 ;
+C 73 ; WX 256 ; N I ; B 40 0 227 851 ;
+C 74 ; WX 570 ; N J ; B 17 0 548 851 ;
+C 75 ; WX 698 ; N K ; B 23 0 671 851 ;
+C 76 ; WX 617 ; N L ; B 18 0 585 851 ;
+C 77 ; WX 945 ; N M ; B 25 0 915 852 ;
+C 78 ; WX 712 ; N N ; B 14 0 675 851 ;
+C 79 ; WX 615 ; N O ; B 28 0 587 851 ;
+C 80 ; WX 685 ; N P ; B 17 0 652 853 ;
+C 81 ; WX 761 ; N Q ; B 4 -98 753 848 ;
+C 82 ; WX 694 ; N R ; B 4 0 657 851 ;
+C 83 ; WX 649 ; N S ; B 11 0 616 851 ;
+C 84 ; WX 669 ; N T ; B 17 0 647 851 ;
+C 85 ; WX 671 ; N U ; B 17 0 643 852 ;
+C 86 ; WX 693 ; N V ; B 22 0 661 851 ;
+C 87 ; WX 1108 ; N W ; B 33 0 1061 851 ;
+C 88 ; WX 647 ; N X ; B 15 0 618 851 ;
+C 89 ; WX 668 ; N Y ; B 21 0 631 851 ;
+C 90 ; WX 762 ; N Z ; B 17 0 727 851 ;
+C 145 ; WX 224 ; N quoteleft ; B 34 498 194 848 ;
+C 146 ; WX 224 ; N quoteright ; B 36 498 197 848 ;
+C 147 ; WX 395 ; N quotedblleft ; B 27 498 369 848 ;
+C 148 ; WX 395 ; N quotedblright ; B 36 498 377 848 ;
+C 160 ; WX 425 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 400 ; N cent ; B 17 66 388 694 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 425 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 425 ; N _54 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 10
+KPX A T -70
+KPX A V -135
+KPX A W -124
+KPX A Y -64
+
+KPX F A -109
+
+KPX P A -129
+
+KPX T A -105
+
+KPX V A -109
+
+KPX W A -129
+
+KPX Y A -119
+
+EndKernPairs
+EndKernData
+EndFontMetrics

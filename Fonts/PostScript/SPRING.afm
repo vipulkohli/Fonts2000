@@ -1,0 +1,63 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName SPRING
+FontName SPRING
+FamilyName SPRING
+Weight normal
+Notice Shareware. Send $5 to J. Macagba    849 N. Fifth St., Phila. PA 19123
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -69 -122 794 739
+Ascender 778
+Descender -222
+XHeight 500
+CapHeight 697
+UnderlinePosition -148
+UnderlineThickness 44
+StdHW 45
+StdVW 45
+EncodingScheme FontSpecific
+StartCharMetrics 32
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 38 ; WX 543 ; N ampersand ; B 17 2 577 691 ;
+C 65 ; WX 461 ; N A ; B 28 -1 442 693 ;
+C 66 ; WX 490 ; N B ; B 31 -1 489 693 ;
+C 67 ; WX 622 ; N C ; B 34 -29 610 716 ;
+C 68 ; WX 424 ; N D ; B 38 -3 408 690 ;
+C 69 ; WX 264 ; N E ; B 36 0 273 693 ;
+C 70 ; WX 257 ; N F ; B 38 0 251 693 ;
+C 71 ; WX 778 ; N G ; B 16 -29 794 716 ;
+C 72 ; WX 638 ; N H ; B 34 -3 612 697 ;
+C 73 ; WX 136 ; N I ; B 46 0 90 693 ;
+C 74 ; WX 146 ; N J ; B -69 -122 103 694 ;
+C 75 ; WX 547 ; N K ; B 31 -2 533 693 ;
+C 76 ; WX 331 ; N L ; B 32 -2 328 693 ;
+C 77 ; WX 751 ; N M ; B 46 -1 737 697 ;
+C 78 ; WX 468 ; N N ; B 40 -1 454 693 ;
+C 79 ; WX 766 ; N O ; B 21 -29 766 716 ;
+C 80 ; WX 334 ; N P ; B 44 -3 319 697 ;
+C 81 ; WX 769 ; N Q ; B 11 -74 758 716 ;
+C 82 ; WX 402 ; N R ; B 32 -2 433 692 ;
+C 83 ; WX 224 ; N S ; B 16 -49 214 739 ;
+C 84 ; WX 374 ; N T ; B -1 0 376 692 ;
+C 85 ; WX 642 ; N U ; B 41 -27 618 693 ;
+C 86 ; WX 477 ; N V ; B 46 -4 460 693 ;
+C 87 ; WX 754 ; N W ; B 46 -4 737 693 ;
+C 88 ; WX 390 ; N X ; B -37 -4 416 693 ;
+C 89 ; WX 407 ; N Y ; B -19 -1 433 693 ;
+C 90 ; WX 411 ; N Z ; B -12 -2 414 692 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _31 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 3
+KPX A T -99
+
+KPX L T -100
+KPX L Y -64
+
+EndKernPairs
+EndKernData
+EndFontMetrics

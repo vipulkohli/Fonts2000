@@ -1,0 +1,53 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 2 0 0 2 0 4
+FullName CARRICKC
+FontName CARRICKC
+FamilyName CARRICKC
+Weight normal
+Notice  
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 0 934 1003
+Ascender 942
+Descender -58
+XHeight 500
+CapHeight 1001
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 20
+StdVW 20
+EncodingScheme FontSpecific
+StartCharMetrics 31
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 907 ; N A ; B 41 0 865 1001 ;
+C 66 ; WX 897 ; N B ; B 41 0 856 999 ;
+C 67 ; WX 907 ; N C ; B 41 0 865 1000 ;
+C 68 ; WX 892 ; N D ; B 40 0 851 999 ;
+C 69 ; WX 916 ; N E ; B 41 -1 875 1001 ;
+C 70 ; WX 904 ; N F ; B 41 0 864 1001 ;
+C 71 ; WX 911 ; N G ; B 41 0 870 1000 ;
+C 72 ; WX 914 ; N H ; B 45 1 873 997 ;
+C 73 ; WX 936 ; N I ; B 42 0 894 1000 ;
+C 74 ; WX 936 ; N J ; B 42 0 894 1000 ;
+C 75 ; WX 883 ; N K ; B 40 0 844 1000 ;
+C 76 ; WX 875 ; N L ; B 37 0 836 1000 ;
+C 77 ; WX 979 ; N M ; B 44 0 934 1003 ;
+C 78 ; WX 880 ; N N ; B 40 0 840 1001 ;
+C 79 ; WX 914 ; N O ; B 41 0 873 1000 ;
+C 80 ; WX 869 ; N P ; B 39 0 830 1001 ;
+C 81 ; WX 901 ; N Q ; B 41 0 860 1000 ;
+C 82 ; WX 893 ; N R ; B 41 0 853 1000 ;
+C 83 ; WX 912 ; N S ; B 42 0 871 1000 ;
+C 84 ; WX 895 ; N T ; B 41 0 855 1001 ;
+C 85 ; WX 892 ; N U ; B 41 0 851 1001 ;
+C 86 ; WX 914 ; N V ; B 41 0 872 1003 ;
+C 87 ; WX 959 ; N W ; B 44 0 915 1000 ;
+C 88 ; WX 917 ; N X ; B 41 0 875 1000 ;
+C 89 ; WX 909 ; N Y ; B 44 3 865 997 ;
+C 90 ; WX 903 ; N Z ; B 41 0 863 1000 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _30 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

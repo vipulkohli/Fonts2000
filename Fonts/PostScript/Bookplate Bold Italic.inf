@@ -1,0 +1,23 @@
+FontName (BookplateBoldItalic)
+FullName (Bookplate Bold Italic)
+AppleName (BookplateBoldItalic)
+FamilyName (Bookplate)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle -12
+CapHeight 677
+UnderlinePosition -125
+UnderlineThickness 50
+StemWidth 50
+Serif false
+AppleName (Bookplate)
+MSMenuName (Bookplate Bold Italic)
+VPMenuName (Bookplate Bold Italic)
+WORDMenuName (Bookplate Bold Italic)
+AppleFONDID 4772
+VPStyle (T)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

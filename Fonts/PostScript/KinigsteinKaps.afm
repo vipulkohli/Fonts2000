@@ -1,0 +1,53 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 3 0 0 2 0 4
+FullName KinigsteinKaps
+FontName KinigsteinKaps
+FamilyName KinigsteinKaps
+Weight normal
+Notice Kinigstein Caps © 1990 by David Rakowski. Alle Rechte Vorhalten.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -7 -3 1096 1002
+Ascender 1000
+Descender -200
+XHeight 500
+CapHeight 1001
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 38
+StdVW 20
+EncodingScheme FontSpecific
+StartCharMetrics 31
+C 32 ; WX 722 ; N space ; B 0 0 0 0 ;
+C 49 ; WX 926 ; N one ; B 42 0 884 1000 ;
+C 50 ; WX 1123 ; N two ; B 33 -44 1096 1017 ;
+C 51 ; WX 825 ; N three ; B 31 -2 787 1010 ;
+C 52 ; WX 437 ; N four ; B -7 -11 432 1007 ;
+C 65 ; WX 955 ; N A ; B 34 0 915 1000 ;
+C 66 ; WX 936 ; N B ; B 37 0 918 1003 ;
+C 67 ; WX 948 ; N C ; B 43 -2 905 1000 ;
+C 68 ; WX 948 ; N D ; B 39 0 907 1000 ;
+C 69 ; WX 933 ; N E ; B 37 -4 896 1000 ;
+C 70 ; WX 939 ; N F ; B 43 0 904 1001 ;
+C 71 ; WX 945 ; N G ; B 42 0 904 1004 ;
+C 72 ; WX 949 ; N H ; B 40 -2 907 1000 ;
+C 73 ; WX 937 ; N I ; B 40 0 897 1000 ;
+C 74 ; WX 940 ; N J ; B 40 -21 917 1000 ;
+C 75 ; WX 936 ; N K ; B 35 -3 896 1000 ;
+C 76 ; WX 957 ; N L ; B 43 -1 913 1001 ;
+C 77 ; WX 1010 ; N M ; B 45 0 967 1000 ;
+C 78 ; WX 954 ; N N ; B 40 -12 912 1000 ;
+C 79 ; WX 945 ; N O ; B 40 0 907 1000 ;
+C 80 ; WX 959 ; N P ; B 44 0 924 1001 ;
+C 82 ; WX 943 ; N R ; B 43 -6 905 1015 ;
+C 83 ; WX 948 ; N S ; B 41 -66 916 1070 ;
+C 84 ; WX 934 ; N T ; B 42 0 892 1000 ;
+C 85 ; WX 954 ; N U ; B 43 0 919 1001 ;
+C 86 ; WX 932 ; N V ; B 33 -7 896 1004 ;
+C 87 ; WX 1126 ; N W ; B 49 -1 1084 1000 ;
+C 90 ; WX 930 ; N Z ; B 42 -6 894 1000 ;
+C 160 ; WX 722 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 722 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,155 @@
+StartFontMetrics 2.0
+Comment Panose 0 0 0 0 0 0 0 0 0 0
+FullName Dupuy Regular
+FontName DupuyRegular
+FamilyName Dupuy
+Weight normal
+Notice DupuyBALloon (c) 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -33 -128 776 828
+Ascender 694
+Descender -17
+XHeight 690
+CapHeight 694
+UnderlinePosition -99
+UnderlineThickness 14
+StdHW 74
+StdVW 68
+EncodingScheme FontSpecific
+StartCharMetrics 90
+C 32 ; WX 237 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 197 ; N exclam ; B 30 -5 164 678 ;
+C 34 ; WX 292 ; N quotedbl ; B 39 515 262 756 ;
+C 36 ; WX 474 ; N dollar ; B 11 -128 455 787 ;
+C 38 ; WX 563 ; N ampersand ; B 17 5 529 586 ;
+C 39 ; WX 143 ; N quotesingle ; B 15 515 124 756 ;
+C 40 ; WX 239 ; N parenleft ; B 39 -112 292 779 ;
+C 41 ; WX 257 ; N parenright ; B -33 -112 221 779 ;
+C 43 ; WX 357 ; N plus ; B 27 186 332 491 ;
+C 44 ; WX 134 ; N comma ; B 14 -100 123 141 ;
+C 45 ; WX 254 ; N hyphen ; B 15 312 233 393 ;
+C 46 ; WX 173 ; N period ; B 36 0 139 105 ;
+C 47 ; WX 426 ; N slash ; B 33 -38 419 703 ;
+C 48 ; WX 437 ; N zero ; B 20 0 417 690 ;
+C 49 ; WX 171 ; N one ; B 10 12 162 688 ;
+C 50 ; WX 388 ; N two ; B 18 0 370 690 ;
+C 51 ; WX 406 ; N three ; B 19 1 388 690 ;
+C 52 ; WX 451 ; N four ; B 18 0 430 690 ;
+C 53 ; WX 443 ; N five ; B 20 0 423 690 ;
+C 54 ; WX 408 ; N six ; B 18 0 397 690 ;
+C 55 ; WX 403 ; N seven ; B 19 0 387 690 ;
+C 56 ; WX 427 ; N eight ; B 19 0 407 690 ;
+C 57 ; WX 380 ; N nine ; B 17 0 363 690 ;
+C 58 ; WX 179 ; N colon ; B 32 0 153 414 ;
+C 59 ; WX 185 ; N semicolon ; B 14 -100 153 414 ;
+C 61 ; WX 343 ; N equal ; B 27 192 298 392 ;
+C 63 ; WX 418 ; N question ; B 26 3 406 691 ;
+C 65 ; WX 534 ; N A ; B 25 -41 519 690 ;
+C 66 ; WX 477 ; N B ; B 22 0 455 690 ;
+C 67 ; WX 506 ; N C ; B 23 0 483 690 ;
+C 68 ; WX 523 ; N D ; B 23 -4 489 672 ;
+C 69 ; WX 481 ; N E ; B 21 0 459 689 ;
+C 70 ; WX 483 ; N F ; B 22 0 462 690 ;
+C 71 ; WX 468 ; N G ; B 21 0 448 690 ;
+C 72 ; WX 534 ; N H ; B 31 -32 492 661 ;
+C 73 ; WX 210 ; N I ; B 59 45 139 688 ;
+C 74 ; WX 479 ; N J ; B 21 0 457 690 ;
+C 75 ; WX 476 ; N K ; B 22 -42 463 694 ;
+C 76 ; WX 550 ; N L ; B 43 0 527 662 ;
+C 77 ; WX 674 ; N M ; B 31 -15 654 696 ;
+C 78 ; WX 483 ; N N ; B 21 0 444 690 ;
+C 79 ; WX 493 ; N O ; B 24 0 459 690 ;
+C 80 ; WX 486 ; N P ; B 21 0 461 662 ;
+C 81 ; WX 505 ; N Q ; B 23 -17 483 693 ;
+C 82 ; WX 465 ; N R ; B 24 0 443 690 ;
+C 83 ; WX 494 ; N S ; B 23 0 472 690 ;
+C 84 ; WX 517 ; N T ; B 23 0 495 677 ;
+C 85 ; WX 532 ; N U ; B 25 0 494 690 ;
+C 86 ; WX 519 ; N V ; B 23 0 495 690 ;
+C 87 ; WX 739 ; N W ; B 34 0 706 690 ;
+C 88 ; WX 486 ; N X ; B 18 0 463 690 ;
+C 89 ; WX 478 ; N Y ; B 21 0 457 690 ;
+C 90 ; WX 503 ; N Z ; B 23 0 481 690 ;
+C 92 ; WX 426 ; N backslash ; B 19 -38 405 703 ;
+C 97 ; WX 534 ; N a ; B 25 -41 519 690 ;
+C 98 ; WX 477 ; N b ; B 22 0 455 690 ;
+C 99 ; WX 506 ; N c ; B 23 0 483 690 ;
+C 100 ; WX 523 ; N d ; B 23 -4 489 672 ;
+C 101 ; WX 481 ; N e ; B 21 0 459 689 ;
+C 102 ; WX 483 ; N f ; B 22 0 462 690 ;
+C 103 ; WX 468 ; N g ; B 21 0 448 690 ;
+C 104 ; WX 541 ; N h ; B 31 -32 492 661 ;
+C 105 ; WX 209 ; N i ; B 66 45 146 688 ;
+C 106 ; WX 479 ; N j ; B 21 0 457 690 ;
+C 107 ; WX 476 ; N k ; B 22 -42 463 694 ;
+C 108 ; WX 550 ; N l ; B 49 0 533 662 ;
+C 109 ; WX 674 ; N m ; B 31 -15 654 696 ;
+C 110 ; WX 483 ; N n ; B 21 0 444 690 ;
+C 111 ; WX 493 ; N o ; B 24 0 459 690 ;
+C 112 ; WX 486 ; N p ; B 21 0 461 662 ;
+C 113 ; WX 505 ; N q ; B 23 -17 483 693 ;
+C 114 ; WX 465 ; N r ; B 24 0 443 690 ;
+C 115 ; WX 494 ; N s ; B 23 0 472 690 ;
+C 116 ; WX 517 ; N t ; B 23 0 495 677 ;
+C 117 ; WX 537 ; N u ; B 25 0 494 690 ;
+C 118 ; WX 519 ; N v ; B 23 0 495 690 ;
+C 119 ; WX 739 ; N w ; B 34 0 706 690 ;
+C 120 ; WX 486 ; N x ; B 18 0 463 690 ;
+C 121 ; WX 478 ; N y ; B 21 0 457 690 ;
+C 122 ; WX 503 ; N z ; B 23 0 481 690 ;
+C 145 ; WX 151 ; N quoteleft ; B 16 516 125 758 ;
+C 146 ; WX 137 ; N quoteright ; B 15 515 124 756 ;
+C 147 ; WX 281 ; N quotedblleft ; B 22 516 245 758 ;
+C 148 ; WX 250 ; N quotedblright ; B 15 515 238 756 ;
+C 150 ; WX 339 ; N endash ; B 15 312 320 392 ;
+C 151 ; WX 496 ; N emdash ; B 15 312 474 392 ;
+C 160 ; WX 237 ; N space ; B 0 0 0 0 ;
+C 173 ; WX 254 ; N hyphen ; B 15 312 233 393 ;
+C -1 ; WX 237 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 28
+KPX A C -17
+KPX A G -17
+KPX A T -75
+KPX A V -88
+KPX A W -54
+KPX A t -92
+KPX A v -104
+KPX A w -59
+
+KPX F A -37
+
+KPX L T -97
+KPX L Y -103
+KPX L y -67
+
+KPX T A -75
+KPX T H -24
+KPX T a -83
+KPX T h -24
+
+KPX V A -71
+KPX V a -67
+
+KPX W A -37
+
+KPX a t -71
+KPX a v -79
+KPX a w -83
+
+KPX l t -91
+KPX l y -97
+
+KPX t a -75
+KPX t h -24
+
+KPX v a -63
+
+KPX w a -71
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,110 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 8 5 8 0 0 2 0 4
+FullName Empire----- Bold
+FontName Empire-----Bold
+FamilyName Empire----- Bold
+Weight normal
+Notice Freeware! from A. Carr    Remember to vote! If you don't vote, you can't bitch!
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -57 -246 1088 928
+Ascender 707
+Descender -236
+XHeight 705
+CapHeight 781
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 35
+StdVW 119
+EncodingScheme FontSpecific
+StartCharMetrics 88
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 359 ; N exclam ; B 107 -16 254 709 ;
+C 36 ; WX 531 ; N dollar ; B 43 -164 447 857 ;
+C 37 ; WX 766 ; N percent ; B 51 -6 715 703 ;
+C 38 ; WX 814 ; N ampersand ; B 61 -29 791 717 ;
+C 39 ; WX 230 ; N quotesingle ; B 49 498 182 752 ;
+C 40 ; WX 350 ; N parenleft ; B 75 -133 309 783 ;
+C 41 ; WX 350 ; N parenright ; B 39 -135 273 783 ;
+C 42 ; WX 410 ; N asterisk ; B 66 463 344 742 ;
+C 43 ; WX 266 ; N plus ; B 107 -16 254 709 ;
+C 44 ; WX 320 ; N comma ; B 100 -180 219 98 ;
+C 45 ; WX 449 ; N hyphen ; B 70 318 381 400 ;
+C 46 ; WX 320 ; N period ; B 100 -16 221 113 ;
+C 47 ; WX 490 ; N slash ; B 4 -6 486 701 ;
+C 48 ; WX 676 ; N zero ; B 55 -16 622 717 ;
+C 49 ; WX 463 ; N one ; B 20 -4 451 727 ;
+C 50 ; WX 578 ; N two ; B -6 -80 510 773 ;
+C 51 ; WX 580 ; N three ; B 57 -53 512 771 ;
+C 52 ; WX 637 ; N four ; B -14 -6 609 752 ;
+C 53 ; WX 576 ; N five ; B 39 -53 494 773 ;
+C 54 ; WX 631 ; N six ; B 62 -16 568 748 ;
+C 55 ; WX 535 ; N seven ; B 49 -6 539 773 ;
+C 56 ; WX 615 ; N eight ; B 53 -18 553 718 ;
+C 57 ; WX 631 ; N nine ; B 57 -41 564 718 ;
+C 58 ; WX 320 ; N colon ; B 100 -16 221 408 ;
+C 59 ; WX 320 ; N semicolon ; B 99 -180 219 406 ;
+C 63 ; WX 609 ; N question ; B 92 -18 531 813 ;
+C 65 ; WX 713 ; N A ; B -57 -6 758 705 ;
+C 66 ; WX 684 ; N B ; B 47 -8 609 707 ;
+C 67 ; WX 809 ; N C ; B 54 -18 783 783 ;
+C 68 ; WX 939 ; N D ; B 47 -4 893 703 ;
+C 69 ; WX 637 ; N E ; B 47 -74 568 758 ;
+C 70 ; WX 637 ; N F ; B 47 -6 576 781 ;
+C 71 ; WX 904 ; N G ; B 55 -18 869 789 ;
+C 72 ; WX 969 ; N H ; B 47 -6 922 705 ;
+C 73 ; WX 439 ; N I ; B 47 -4 393 703 ;
+C 74 ; WX 420 ; N J ; B 21 -246 391 703 ;
+C 75 ; WX 801 ; N K ; B 47 -29 816 703 ;
+C 76 ; WX 590 ; N L ; B 47 -129 582 703 ;
+C 77 ; WX 1061 ; N M ; B -2 -10 1053 703 ;
+C 78 ; WX 908 ; N N ; B 39 -51 873 707 ;
+C 79 ; WX 947 ; N O ; B 51 -18 891 718 ;
+C 80 ; WX 639 ; N P ; B 47 -4 609 705 ;
+C 81 ; WX 945 ; N Q ; B 51 -236 961 718 ;
+C 82 ; WX 748 ; N R ; B 47 -33 766 703 ;
+C 83 ; WX 553 ; N S ; B 63 -102 490 781 ;
+C 84 ; WX 746 ; N T ; B 10 -4 750 770 ;
+C 85 ; WX 857 ; N U ; B 43 -17 818 703 ;
+C 86 ; WX 746 ; N V ; B -31 -45 801 703 ;
+C 87 ; WX 1055 ; N W ; B -27 -53 1088 703 ;
+C 88 ; WX 709 ; N X ; B -23 -47 719 703 ;
+C 89 ; WX 654 ; N Y ; B -35 -4 717 705 ;
+C 90 ; WX 719 ; N Z ; B 25 -115 676 797 ;
+C 91 ; WX 350 ; N bracketleft ; B 96 -127 311 779 ;
+C 93 ; WX 350 ; N bracketright ; B 39 -127 254 779 ;
+C 95 ; WX 500 ; N underscore ; B 0 -127 500 -76 ;
+C 96 ; WX 918 ; N grave ; B 281 770 518 928 ;
+C 97 ; WX 713 ; N a ; B -57 -6 758 705 ;
+C 98 ; WX 684 ; N b ; B 47 -8 609 707 ;
+C 99 ; WX 809 ; N c ; B 54 -18 783 783 ;
+C 100 ; WX 939 ; N d ; B 47 -4 893 703 ;
+C 101 ; WX 637 ; N e ; B 47 -74 568 758 ;
+C 102 ; WX 637 ; N f ; B 47 -6 576 781 ;
+C 103 ; WX 904 ; N g ; B 55 -18 869 789 ;
+C 104 ; WX 969 ; N h ; B 47 -6 922 705 ;
+C 105 ; WX 439 ; N i ; B 47 -4 393 703 ;
+C 106 ; WX 420 ; N j ; B 21 -246 391 703 ;
+C 107 ; WX 801 ; N k ; B 47 -29 816 703 ;
+C 108 ; WX 590 ; N l ; B 47 -129 582 703 ;
+C 109 ; WX 1061 ; N m ; B -2 -10 1053 703 ;
+C 110 ; WX 908 ; N n ; B 39 -51 873 707 ;
+C 111 ; WX 947 ; N o ; B 51 -18 891 718 ;
+C 112 ; WX 639 ; N p ; B 47 -4 609 705 ;
+C 113 ; WX 945 ; N q ; B 51 -236 961 718 ;
+C 114 ; WX 748 ; N r ; B 47 -33 766 703 ;
+C 115 ; WX 553 ; N s ; B 63 -102 490 781 ;
+C 116 ; WX 746 ; N t ; B 10 -4 750 770 ;
+C 117 ; WX 857 ; N u ; B 43 -17 818 703 ;
+C 118 ; WX 746 ; N v ; B -31 -45 801 703 ;
+C 119 ; WX 1055 ; N w ; B -27 -53 1088 703 ;
+C 120 ; WX 709 ; N x ; B -23 -47 719 703 ;
+C 121 ; WX 654 ; N y ; B -35 -4 717 705 ;
+C 122 ; WX 719 ; N z ; B 25 -115 676 797 ;
+C 123 ; WX 350 ; N braceleft ; B 29 -127 311 781 ;
+C 125 ; WX 350 ; N braceright ; B 39 -129 320 781 ;
+C 160 ; WX 250 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

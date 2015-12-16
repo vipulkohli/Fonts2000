@@ -1,0 +1,94 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 9 0 0 2 0 4
+FullName SINALOA
+FontName SINALOA
+FamilyName SINALOA
+Weight normal
+Notice  
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -4 -219 902 735
+Ascender 678
+Descender -217
+XHeight 455
+CapHeight 680
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 39
+StdVW 227
+EncodingScheme FontSpecific
+StartCharMetrics 72
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 36 ; WX 775 ; N dollar ; B 2 -57 702 735 ;
+C 38 ; WX 773 ; N ampersand ; B 3 0 727 679 ;
+C 44 ; WX 354 ; N comma ; B 0 -105 338 230 ;
+C 46 ; WX 273 ; N period ; B 0 0 262 174 ;
+C 48 ; WX 738 ; N zero ; B 0 1 672 676 ;
+C 49 ; WX 469 ; N one ; B -2 0 445 676 ;
+C 50 ; WX 582 ; N two ; B -2 0 553 676 ;
+C 51 ; WX 658 ; N three ; B 0 -1 616 678 ;
+C 52 ; WX 805 ; N four ; B 2 0 768 680 ;
+C 53 ; WX 637 ; N five ; B 0 0 592 678 ;
+C 54 ; WX 712 ; N six ; B 4 0 666 678 ;
+C 55 ; WX 742 ; N seven ; B 33 0 707 678 ;
+C 56 ; WX 662 ; N eight ; B 13 0 622 678 ;
+C 57 ; WX 712 ; N nine ; B -2 0 660 680 ;
+C 63 ; WX 557 ; N question ; B 0 0 510 678 ;
+C 65 ; WX 717 ; N A ; B 4 0 684 680 ;
+C 66 ; WX 672 ; N B ; B 0 0 633 676 ;
+C 67 ; WX 693 ; N C ; B 1 2 650 678 ;
+C 68 ; WX 705 ; N D ; B 0 0 659 679 ;
+C 69 ; WX 707 ; N E ; B 0 0 674 678 ;
+C 70 ; WX 680 ; N F ; B 0 0 648 680 ;
+C 71 ; WX 686 ; N G ; B 1 -72 645 676 ;
+C 72 ; WX 740 ; N H ; B 2 0 705 678 ;
+C 73 ; WX 352 ; N I ; B 0 0 336 676 ;
+C 74 ; WX 455 ; N J ; B -2 2 432 678 ;
+C 75 ; WX 712 ; N K ; B 2 -33 680 680 ;
+C 76 ; WX 707 ; N L ; B 0 2 674 678 ;
+C 77 ; WX 791 ; N M ; B 0 0 754 680 ;
+C 78 ; WX 684 ; N N ; B 2 -31 652 678 ;
+C 79 ; WX 744 ; N O ; B 6 -7 687 677 ;
+C 80 ; WX 688 ; N P ; B 0 0 651 674 ;
+C 81 ; WX 715 ; N Q ; B 0 -20 672 674 ;
+C 82 ; WX 721 ; N R ; B 0 -33 679 680 ;
+C 83 ; WX 709 ; N S ; B 0 0 676 678 ;
+C 84 ; WX 711 ; N T ; B 4 2 678 678 ;
+C 85 ; WX 701 ; N U ; B 0 -1 666 680 ;
+C 86 ; WX 715 ; N V ; B -4 -6 678 678 ;
+C 87 ; WX 939 ; N W ; B 0 -4 896 676 ;
+C 88 ; WX 652 ; N X ; B 0 2 623 678 ;
+C 89 ; WX 676 ; N Y ; B 0 2 645 676 ;
+C 90 ; WX 707 ; N Z ; B 0 0 674 678 ;
+C 97 ; WX 578 ; N a ; B -1 -1 535 453 ;
+C 98 ; WX 563 ; N b ; B 0 0 533 678 ;
+C 99 ; WX 559 ; N c ; B -2 -1 520 455 ;
+C 100 ; WX 570 ; N d ; B 0 -2 535 678 ;
+C 101 ; WX 580 ; N e ; B 0 -1 539 454 ;
+C 102 ; WX 488 ; N f ; B -1 0 463 676 ;
+C 103 ; WX 588 ; N g ; B 0 -217 534 453 ;
+C 104 ; WX 561 ; N h ; B 0 0 534 678 ;
+C 105 ; WX 234 ; N i ; B -2 0 224 678 ;
+C 106 ; WX 344 ; N j ; B 0 -217 325 678 ;
+C 107 ; WX 602 ; N k ; B 0 -29 574 678 ;
+C 108 ; WX 236 ; N l ; B 2 0 227 678 ;
+C 109 ; WX 861 ; N m ; B 0 -2 813 454 ;
+C 110 ; WX 555 ; N n ; B 0 0 527 453 ;
+C 111 ; WX 578 ; N o ; B 1 1 529 455 ;
+C 112 ; WX 563 ; N p ; B 0 -217 529 455 ;
+C 113 ; WX 563 ; N q ; B 10 -217 539 455 ;
+C 114 ; WX 494 ; N r ; B 0 0 469 454 ;
+C 115 ; WX 443 ; N s ; B 2 0 424 453 ;
+C 116 ; WX 578 ; N t ; B -2 1 545 678 ;
+C 117 ; WX 578 ; N u ; B 0 0 541 455 ;
+C 118 ; WX 625 ; N v ; B 0 0 596 455 ;
+C 119 ; WX 946 ; N w ; B 0 -2 902 455 ;
+C 120 ; WX 574 ; N x ; B 0 0 547 449 ;
+C 121 ; WX 566 ; N y ; B 0 -219 537 453 ;
+C 122 ; WX 553 ; N z ; B 0 0 527 453 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _71 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

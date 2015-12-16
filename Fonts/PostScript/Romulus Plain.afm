@@ -1,0 +1,80 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 5 6 2 0 0 2 0 4
+FullName Romulus Plain
+FontName RomulusPlain
+FamilyName Romulus
+Weight normal
+Notice Copyright 1992 Computer Safari
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -13 603 570
+Ascender 500
+Descender -200
+XHeight 570
+CapHeight 530
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 80
+StdVW 80
+EncodingScheme FontSpecific
+StartCharMetrics 58
+C 32 ; WX 400 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 580 ; N A ; B 37 250 537 500 ;
+C 66 ; WX 580 ; N B ; B 43 1 543 500 ;
+C 67 ; WX 447 ; N C ; B 33 0 398 523 ;
+C 68 ; WX 425 ; N D ; B 37 0 385 500 ;
+C 69 ; WX 447 ; N E ; B 36 2 399 503 ;
+C 70 ; WX 440 ; N F ; B 27 -13 410 530 ;
+C 71 ; WX 540 ; N G ; B 37 0 502 500 ;
+C 72 ; WX 497 ; N H ; B 37 0 455 500 ;
+C 73 ; WX 440 ; N I ; B 32 4 399 500 ;
+C 74 ; WX 490 ; N J ; B 32 0 460 496 ;
+C 75 ; WX 580 ; N K ; B 37 0 537 250 ;
+C 76 ; WX 540 ; N L ; B 37 0 502 500 ;
+C 77 ; WX 572 ; N M ; B 37 0 537 500 ;
+C 78 ; WX 572 ; N N ; B 37 0 537 500 ;
+C 79 ; WX 572 ; N O ; B 37 0 537 500 ;
+C 80 ; WX 580 ; N P ; B 37 250 537 500 ;
+C 81 ; WX 580 ; N Q ; B 43 1 543 408 ;
+C 82 ; WX 607 ; N R ; B 40 1 562 500 ;
+C 83 ; WX 440 ; N S ; B 32 46 399 500 ;
+C 84 ; WX 472 ; N T ; B 37 0 437 500 ;
+C 85 ; WX 592 ; N U ; B 6 1 533 530 ;
+C 86 ; WX 493 ; N V ; B 24 0 450 500 ;
+C 87 ; WX 642 ; N W ; B 38 4 603 494 ;
+C 88 ; WX 572 ; N X ; B 37 0 537 500 ;
+C 89 ; WX 552 ; N Y ; B 24 0 515 570 ;
+C 90 ; WX 497 ; N Z ; B 37 0 455 260 ;
+C 97 ; WX 580 ; N a ; B 37 250 537 500 ;
+C 98 ; WX 580 ; N b ; B 43 1 543 500 ;
+C 99 ; WX 447 ; N c ; B 33 0 398 523 ;
+C 100 ; WX 425 ; N d ; B 37 0 385 500 ;
+C 101 ; WX 447 ; N e ; B 36 2 399 503 ;
+C 102 ; WX 440 ; N f ; B 27 -13 410 530 ;
+C 103 ; WX 540 ; N g ; B 37 0 502 500 ;
+C 104 ; WX 497 ; N h ; B 37 0 455 500 ;
+C 105 ; WX 440 ; N i ; B 32 4 399 500 ;
+C 106 ; WX 490 ; N j ; B 32 0 460 496 ;
+C 107 ; WX 580 ; N k ; B 37 0 537 250 ;
+C 108 ; WX 540 ; N l ; B 37 0 502 500 ;
+C 109 ; WX 572 ; N m ; B 37 0 537 500 ;
+C 110 ; WX 572 ; N n ; B 37 0 537 500 ;
+C 111 ; WX 572 ; N o ; B 37 0 537 500 ;
+C 112 ; WX 580 ; N p ; B 37 250 537 500 ;
+C 113 ; WX 580 ; N q ; B 43 1 543 408 ;
+C 114 ; WX 607 ; N r ; B 40 1 562 500 ;
+C 115 ; WX 440 ; N s ; B 32 46 399 500 ;
+C 116 ; WX 472 ; N t ; B 37 0 437 500 ;
+C 117 ; WX 592 ; N u ; B 6 1 533 530 ;
+C 118 ; WX 493 ; N v ; B 24 0 450 500 ;
+C 119 ; WX 642 ; N w ; B 38 4 603 494 ;
+C 120 ; WX 572 ; N x ; B 37 0 537 500 ;
+C 121 ; WX 552 ; N y ; B 24 0 515 570 ;
+C 122 ; WX 497 ; N z ; B 37 0 455 260 ;
+C 160 ; WX 500 ; N nbspace ; B 0 0 0 0 ;
+C 215 ; WX 0 ; N multiply ; B 0 0 0 0 ;
+C 253 ; WX 0 ; N yacute ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 400 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

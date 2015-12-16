@@ -1,0 +1,109 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName Durango
+FontName Durango
+FamilyName Durango
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -49 1069 921
+Ascender 763
+Descender -13
+XHeight 763
+CapHeight 909
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 218
+StdVW 49
+EncodingScheme FontSpecific
+StartCharMetrics 88
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 243 ; N exclam ; B 45 0 199 921 ;
+C 34 ; WX 163 ; N quotedbl ; B 35 774 134 905 ;
+C 36 ; WX 314 ; N dollar ; B 18 0 305 910 ;
+C 37 ; WX 565 ; N percent ; B 61 0 512 609 ;
+C 38 ; WX 664 ; N ampersand ; B 12 0 634 717 ;
+C 39 ; WX 68 ; N quotesingle ; B 20 775 53 905 ;
+C 40 ; WX 205 ; N parenleft ; B 20 8 166 766 ;
+C 41 ; WX 210 ; N parenright ; B 30 3 176 761 ;
+C 42 ; WX 234 ; N asterisk ; B 26 734 199 906 ;
+C 44 ; WX 120 ; N comma ; B 7 -56 96 88 ;
+C 45 ; WX 186 ; N hyphen ; B 28 344 166 393 ;
+C 46 ; WX 135 ; N period ; B 22 0 113 90 ;
+C 48 ; WX 392 ; N zero ; B 44 0 353 907 ;
+C 49 ; WX 281 ; N one ; B 39 -1 244 909 ;
+C 50 ; WX 395 ; N two ; B 39 0 358 909 ;
+C 51 ; WX 395 ; N three ; B 30 0 365 909 ;
+C 52 ; WX 446 ; N four ; B 15 -2 414 911 ;
+C 53 ; WX 361 ; N five ; B 36 -1 337 911 ;
+C 54 ; WX 362 ; N six ; B 36 0 327 913 ;
+C 55 ; WX 455 ; N seven ; B 29 -3 422 915 ;
+C 56 ; WX 380 ; N eight ; B 47 0 339 909 ;
+C 57 ; WX 381 ; N nine ; B 45 0 330 906 ;
+C 58 ; WX 158 ; N colon ; B 31 220 122 612 ;
+C 59 ; WX 153 ; N semicolon ; B 31 -40 124 613 ;
+C 63 ; WX 390 ; N question ; B 41 7 350 910 ;
+C 65 ; WX 446 ; N A ; B 35 -3 419 912 ;
+C 66 ; WX 417 ; N B ; B 36 0 382 907 ;
+C 67 ; WX 375 ; N C ; B 29 0 344 907 ;
+C 68 ; WX 419 ; N D ; B 34 0 376 908 ;
+C 69 ; WX 393 ; N E ; B 23 0 367 907 ;
+C 70 ; WX 395 ; N F ; B 30 -1 358 907 ;
+C 71 ; WX 363 ; N G ; B 25 0 335 909 ;
+C 72 ; WX 527 ; N H ; B 27 0 495 908 ;
+C 73 ; WX 216 ; N I ; B 24 1 186 910 ;
+C 74 ; WX 425 ; N J ; B 27 0 393 909 ;
+C 75 ; WX 502 ; N K ; B 24 0 478 907 ;
+C 76 ; WX 422 ; N L ; B 27 0 394 907 ;
+C 77 ; WX 614 ; N M ; B 24 -1 585 907 ;
+C 78 ; WX 521 ; N N ; B 22 0 496 907 ;
+C 79 ; WX 362 ; N O ; B 23 0 332 907 ;
+C 80 ; WX 406 ; N P ; B 31 0 373 908 ;
+C 81 ; WX 409 ; N Q ; B 33 -16 384 907 ;
+C 82 ; WX 511 ; N R ; B 26 -2 481 909 ;
+C 83 ; WX 361 ; N S ; B 28 0 337 909 ;
+C 84 ; WX 436 ; N T ; B 30 1 405 908 ;
+C 85 ; WX 505 ; N U ; B 26 0 474 911 ;
+C 86 ; WX 531 ; N V ; B 28 0 503 907 ;
+C 87 ; WX 768 ; N W ; B 39 0 739 907 ;
+C 88 ; WX 535 ; N X ; B 25 0 505 909 ;
+C 89 ; WX 528 ; N Y ; B 25 0 505 907 ;
+C 90 ; WX 365 ; N Z ; B 28 0 337 907 ;
+C 97 ; WX 375 ; N a ; B 29 -2 352 765 ;
+C 98 ; WX 350 ; N b ; B 29 0 321 762 ;
+C 99 ; WX 315 ; N c ; B 24 0 289 762 ;
+C 100 ; WX 352 ; N d ; B 29 0 316 763 ;
+C 101 ; WX 330 ; N e ; B 19 -1 307 762 ;
+C 102 ; WX 332 ; N f ; B 26 -2 301 762 ;
+C 103 ; WX 305 ; N g ; B 21 0 281 764 ;
+C 104 ; WX 443 ; N h ; B 23 -1 416 764 ;
+C 105 ; WX 181 ; N i ; B 21 1 156 764 ;
+C 106 ; WX 357 ; N j ; B 23 0 330 764 ;
+C 107 ; WX 422 ; N k ; B 20 0 402 762 ;
+C 108 ; WX 354 ; N l ; B 23 0 330 762 ;
+C 109 ; WX 516 ; N m ; B 20 -2 491 762 ;
+C 110 ; WX 438 ; N n ; B 18 0 416 762 ;
+C 111 ; WX 304 ; N o ; B 19 0 279 762 ;
+C 112 ; WX 341 ; N p ; B 26 0 313 763 ;
+C 113 ; WX 344 ; N q ; B 28 -13 323 762 ;
+C 114 ; WX 429 ; N r ; B 22 -2 404 764 ;
+C 115 ; WX 303 ; N s ; B 24 0 283 764 ;
+C 116 ; WX 366 ; N t ; B 25 1 340 763 ;
+C 117 ; WX 424 ; N u ; B 22 0 398 764 ;
+C 118 ; WX 446 ; N v ; B 24 0 423 762 ;
+C 119 ; WX 645 ; N w ; B 33 0 621 762 ;
+C 120 ; WX 449 ; N x ; B 21 0 424 764 ;
+C 121 ; WX 444 ; N y ; B 21 0 424 762 ;
+C 122 ; WX 307 ; N z ; B 24 0 283 762 ;
+C 160 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 183 ; WX 1095 ; N periodcentered ; B 39 -3 1069 912 ;
+C 202 ; WX 250 ; N Ecircumflex ; B 0 0 0 0 ;
+C 210 ; WX 233 ; N Ograve ; B 25 773 213 914 ;
+C 211 ; WX 233 ; N Oacute ; B 21 765 208 906 ;
+C 212 ; WX 120 ; N Ocircumflex ; B 18 773 107 914 ;
+C 213 ; WX 120 ; N Otilde ; B 21 765 110 906 ;
+C 227 ; WX 1095 ; N atilde ; B 39 -3 1069 912 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

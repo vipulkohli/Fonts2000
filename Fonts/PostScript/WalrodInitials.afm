@@ -1,0 +1,54 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName WalrodInitials
+FontName WalrodInitials
+FamilyName Walrod
+Weight normal
+Notice © 1992 Penguin Productions, 61 Winchester Road, Ronkonkoma, NY 11779 -- version 1.2
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -21 1005 1000
+Ascender 1000
+Descender -200
+XHeight 500
+CapHeight 1000
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 20
+StdVW 20
+EncodingScheme FontSpecific
+StartCharMetrics 32
+C 32 ; WX 1025 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 1025 ; N A ; B 0 0 1000 1000 ;
+C 66 ; WX 1025 ; N B ; B 0 0 1000 1000 ;
+C 67 ; WX 1025 ; N C ; B 0 0 1000 1000 ;
+C 68 ; WX 1025 ; N D ; B 0 -2 1000 998 ;
+C 69 ; WX 1025 ; N E ; B 0 0 1000 1000 ;
+C 70 ; WX 1025 ; N F ; B 0 0 1000 1000 ;
+C 71 ; WX 1025 ; N G ; B 0 0 1000 1000 ;
+C 72 ; WX 1025 ; N H ; B 0 0 1002 1000 ;
+C 73 ; WX 1025 ; N I ; B 0 0 1000 1000 ;
+C 74 ; WX 1025 ; N J ; B 5 0 1005 1000 ;
+C 75 ; WX 1025 ; N K ; B 0 0 1000 1000 ;
+C 76 ; WX 1025 ; N L ; B 0 0 1000 1000 ;
+C 77 ; WX 1025 ; N M ; B 0 0 1000 1000 ;
+C 78 ; WX 1025 ; N N ; B 0 0 1000 1000 ;
+C 79 ; WX 1025 ; N O ; B 0 0 1000 1000 ;
+C 80 ; WX 1025 ; N P ; B 0 0 1000 1000 ;
+C 81 ; WX 1025 ; N Q ; B 0 0 1000 1000 ;
+C 82 ; WX 1025 ; N R ; B 0 0 1000 1000 ;
+C 83 ; WX 1025 ; N S ; B 0 0 1000 1000 ;
+C 84 ; WX 1025 ; N T ; B 0 0 1000 1000 ;
+C 85 ; WX 1025 ; N U ; B 0 0 1000 1000 ;
+C 86 ; WX 1025 ; N V ; B 0 0 1000 1000 ;
+C 87 ; WX 1025 ; N W ; B 0 0 1000 1000 ;
+C 88 ; WX 1025 ; N X ; B 0 0 1000 1000 ;
+C 89 ; WX 1025 ; N Y ; B 0 0 1000 1000 ;
+C 90 ; WX 1025 ; N Z ; B 0 0 1000 1000 ;
+C 160 ; WX 1025 ; N space ; B 0 0 0 0 ;
+C 202 ; WX 250 ; N Ecircumflex ; B 0 0 0 0 ;
+C 240 ; WX 675 ; N eth ; B 71 -21 564 674 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 1025 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

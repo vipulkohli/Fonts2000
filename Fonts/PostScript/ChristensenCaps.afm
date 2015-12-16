@@ -1,0 +1,54 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 4 2 0 0 2 0 4
+FullName ChristensenCaps
+FontName ChristensenCaps
+FamilyName ChristensenCaps
+Weight normal
+Notice ChristensenCaps (c) 1992 by David Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -3 -3 985 910
+Ascender 909
+Descender -200
+XHeight 500
+CapHeight 910
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 93
+StdVW 222
+EncodingScheme FontSpecific
+StartCharMetrics 32
+C 32 ; WX 376 ; N space ; B 0 0 0 0 ;
+C 66 ; WX 985 ; N B ; B 13 1 962 935 ;
+C 67 ; WX 941 ; N C ; B 14 -1 927 910 ;
+C 68 ; WX 965 ; N D ; B 14 -2 945 910 ;
+C 69 ; WX 976 ; N E ; B 21 0 964 906 ;
+C 70 ; WX 965 ; N F ; B 9 -1 952 905 ;
+C 71 ; WX 944 ; N G ; B 16 -1 929 909 ;
+C 72 ; WX 956 ; N H ; B 15 -2 935 909 ;
+C 73 ; WX 969 ; N I ; B 12 2 958 905 ;
+C 74 ; WX 969 ; N J ; B 12 2 958 905 ;
+C 75 ; WX 975 ; N K ; B -3 0 961 910 ;
+C 76 ; WX 944 ; N L ; B 12 -3 929 905 ;
+C 77 ; WX 945 ; N M ; B 9 0 935 906 ;
+C 78 ; WX 954 ; N N ; B 10 0 939 923 ;
+C 79 ; WX 944 ; N O ; B 11 -11 929 907 ;
+C 80 ; WX 971 ; N P ; B 8 -1 959 908 ;
+C 81 ; WX 974 ; N Q ; B 13 0 963 915 ;
+C 82 ; WX 965 ; N R ; B 10 0 953 909 ;
+C 83 ; WX 985 ; N S ; B 12 0 975 908 ;
+C 84 ; WX 976 ; N T ; B 9 -1 958 907 ;
+C 85 ; WX 994 ; N U ; B 15 1 985 907 ;
+C 86 ; WX 994 ; N V ; B 15 1 985 907 ;
+C 87 ; WX 959 ; N W ; B 10 4 949 905 ;
+C 88 ; WX 942 ; N X ; B 9 -2 926 909 ;
+C 89 ; WX 965 ; N Y ; B 12 -1 949 908 ;
+C 90 ; WX 961 ; N Z ; B 7 -1 945 907 ;
+C 96 ; WX 847 ; N grave ; B 22 -7 845 817 ;
+C 138 ; WX 991 ; N Scaron ; B 12 -3 952 764 ;
+C 160 ; WX 376 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 980 ; N A ; B 16 -4 960 909 ;
+C -1 ; WX 376 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

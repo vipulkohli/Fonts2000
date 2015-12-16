@@ -1,0 +1,116 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 5 0 0 2 0 4
+FullName DARA
+FontName DARA
+FamilyName DARA
+Weight normal
+Notice DavysRibbons © 1991 by David Rakowski.  All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -18 -39 1138 801
+Ascender 800
+Descender -2
+XHeight 800
+CapHeight 801
+UnderlinePosition -106
+UnderlineThickness 16
+StdHW 165
+StdVW 37
+EncodingScheme FontSpecific
+StartCharMetrics 94
+C 32 ; WX 400 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 592 ; N exclam ; B -13 -1 593 801 ;
+C 34 ; WX 588 ; N quotedbl ; B -7 0 600 800 ;
+C 36 ; WX 592 ; N dollar ; B -6 0 594 800 ;
+C 38 ; WX 600 ; N ampersand ; B 0 2 600 800 ;
+C 39 ; WX 544 ; N quotesingle ; B -16 0 544 800 ;
+C 40 ; WX 1008 ; N parenleft ; B 46 122 1009 800 ;
+C 41 ; WX 1251 ; N parenright ; B 0 0 1138 801 ;
+C 44 ; WX 592 ; N comma ; B -6 0 592 800 ;
+C 45 ; WX 596 ; N hyphen ; B -6 0 596 800 ;
+C 46 ; WX 588 ; N period ; B -6 0 588 800 ;
+C 48 ; WX 612 ; N zero ; B -13 5 612 800 ;
+C 49 ; WX 596 ; N one ; B -3 -2 608 800 ;
+C 50 ; WX 600 ; N two ; B -2 1 601 800 ;
+C 51 ; WX 584 ; N three ; B -10 0 599 800 ;
+C 52 ; WX 584 ; N four ; B -2 -5 589 800 ;
+C 53 ; WX 588 ; N five ; B -10 1 592 800 ;
+C 54 ; WX 584 ; N six ; B -6 0 590 800 ;
+C 55 ; WX 596 ; N seven ; B -2 0 598 800 ;
+C 56 ; WX 592 ; N eight ; B -18 -2 596 800 ;
+C 57 ; WX 620 ; N nine ; B -1 2 621 800 ;
+C 58 ; WX 592 ; N colon ; B -2 0 597 800 ;
+C 59 ; WX 584 ; N semicolon ; B -6 -2 589 800 ;
+C 60 ; WX 1008 ; N less ; B 46 122 1009 800 ;
+C 62 ; WX 1251 ; N greater ; B 0 0 1138 801 ;
+C 63 ; WX 612 ; N question ; B -6 0 618 799 ;
+C 65 ; WX 588 ; N A ; B -1 -2 601 800 ;
+C 66 ; WX 584 ; N B ; B -6 0 591 800 ;
+C 67 ; WX 584 ; N C ; B -6 0 589 800 ;
+C 68 ; WX 588 ; N D ; B -6 0 589 800 ;
+C 69 ; WX 592 ; N E ; B -10 0 596 801 ;
+C 70 ; WX 576 ; N F ; B -2 0 579 800 ;
+C 71 ; WX 572 ; N G ; B -3 0 585 800 ;
+C 72 ; WX 580 ; N H ; B -7 1 585 800 ;
+C 73 ; WX 600 ; N I ; B -6 1 604 800 ;
+C 74 ; WX 572 ; N J ; B -3 0 576 800 ;
+C 75 ; WX 580 ; N K ; B -2 0 585 800 ;
+C 76 ; WX 584 ; N L ; B -8 2 588 800 ;
+C 77 ; WX 588 ; N M ; B -3 -1 592 800 ;
+C 78 ; WX 592 ; N N ; B -10 1 600 800 ;
+C 79 ; WX 600 ; N O ; B -2 0 604 800 ;
+C 80 ; WX 580 ; N P ; B -6 -1 592 800 ;
+C 81 ; WX 588 ; N Q ; B -4 -2 601 800 ;
+C 82 ; WX 592 ; N R ; B -5 -2 600 800 ;
+C 83 ; WX 584 ; N S ; B -6 0 588 800 ;
+C 84 ; WX 588 ; N T ; B -6 -2 595 800 ;
+C 85 ; WX 596 ; N U ; B -1 0 606 800 ;
+C 86 ; WX 588 ; N V ; B -6 1 603 800 ;
+C 87 ; WX 596 ; N W ; B -6 -1 610 800 ;
+C 88 ; WX 584 ; N X ; B 0 3 592 800 ;
+C 89 ; WX 580 ; N Y ; B -10 0 590 799 ;
+C 90 ; WX 584 ; N Z ; B -4 -2 593 800 ;
+C 91 ; WX 1008 ; N bracketleft ; B 46 122 1009 800 ;
+C 93 ; WX 1251 ; N bracketright ; B 0 0 1138 801 ;
+C 97 ; WX 588 ; N a ; B -1 -2 601 800 ;
+C 98 ; WX 584 ; N b ; B -6 0 591 800 ;
+C 99 ; WX 584 ; N c ; B -6 0 589 800 ;
+C 100 ; WX 588 ; N d ; B -6 0 589 800 ;
+C 101 ; WX 592 ; N e ; B -10 0 596 801 ;
+C 102 ; WX 576 ; N f ; B -2 0 579 800 ;
+C 103 ; WX 572 ; N g ; B -3 0 585 800 ;
+C 104 ; WX 580 ; N h ; B -7 1 585 800 ;
+C 105 ; WX 600 ; N i ; B -6 1 604 800 ;
+C 106 ; WX 572 ; N j ; B -3 0 576 800 ;
+C 107 ; WX 580 ; N k ; B -2 0 585 800 ;
+C 108 ; WX 584 ; N l ; B -8 2 588 800 ;
+C 109 ; WX 588 ; N m ; B -3 -1 592 800 ;
+C 110 ; WX 592 ; N n ; B -10 1 600 800 ;
+C 111 ; WX 600 ; N o ; B -2 0 604 800 ;
+C 112 ; WX 580 ; N p ; B -6 -1 592 800 ;
+C 113 ; WX 588 ; N q ; B -4 -2 601 800 ;
+C 114 ; WX 592 ; N r ; B -5 -2 600 800 ;
+C 115 ; WX 584 ; N s ; B -6 0 588 800 ;
+C 116 ; WX 588 ; N t ; B -6 -2 595 800 ;
+C 117 ; WX 596 ; N u ; B -1 0 606 800 ;
+C 118 ; WX 588 ; N v ; B -6 1 603 800 ;
+C 119 ; WX 596 ; N w ; B -6 -1 610 800 ;
+C 120 ; WX 584 ; N x ; B 0 3 592 800 ;
+C 121 ; WX 580 ; N y ; B -10 0 590 799 ;
+C 122 ; WX 584 ; N z ; B -4 -2 593 800 ;
+C 123 ; WX 1008 ; N braceleft ; B 46 122 1009 800 ;
+C 125 ; WX 1251 ; N braceright ; B 0 0 1138 801 ;
+C 145 ; WX 544 ; N quoteleft ; B -16 0 544 800 ;
+C 146 ; WX 544 ; N quoteright ; B -16 0 544 800 ;
+C 147 ; WX 584 ; N quotedblleft ; B -10 -2 592 800 ;
+C 148 ; WX 588 ; N quotedblright ; B -7 0 600 800 ;
+C 159 ; WX 336 ; N Ydieresis ; B 42 -39 311 740 ;
+C 160 ; WX 400 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 588 ; N cent ; B -14 0 596 800 ;
+C 205 ; WX 596 ; N Iacute ; B -10 -2 607 800 ;
+C 223 ; WX 596 ; N germandbls ; B -10 -2 607 800 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 400 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 400 ; N _93 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

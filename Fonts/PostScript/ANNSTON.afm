@@ -1,0 +1,77 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 4 3 0 0 2 0 4
+FullName ANNSTON
+FontName ANNSTON
+FamilyName ANNSTON
+Weight normal
+Notice Converted by ALLTYPE
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -5 879 772
+Ascender 974
+Descender -26
+XHeight 500
+CapHeight 769
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 44
+StdVW 48
+EncodingScheme FontSpecific
+StartCharMetrics 32
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 849 ; N A ; B 38 0 811 769 ;
+C 66 ; WX 844 ; N B ; B 38 0 805 769 ;
+C 67 ; WX 842 ; N C ; B 38 0 804 768 ;
+C 68 ; WX 857 ; N D ; B 35 0 819 768 ;
+C 69 ; WX 845 ; N E ; B 37 1 808 769 ;
+C 70 ; WX 839 ; N F ; B 38 1 803 767 ;
+C 71 ; WX 848 ; N G ; B 36 0 812 765 ;
+C 72 ; WX 861 ; N H ; B 35 0 822 769 ;
+C 73 ; WX 858 ; N I ; B 39 0 821 769 ;
+C 74 ; WX 858 ; N J ; B 39 0 821 769 ;
+C 75 ; WX 859 ; N K ; B 39 0 820 769 ;
+C 76 ; WX 863 ; N L ; B 37 0 819 765 ;
+C 77 ; WX 866 ; N M ; B 39 -1 826 769 ;
+C 78 ; WX 839 ; N N ; B 37 -2 802 766 ;
+C 79 ; WX 848 ; N O ; B 38 2 810 766 ;
+C 80 ; WX 912 ; N P ; B 41 0 871 768 ;
+C 81 ; WX 907 ; N Q ; B 45 0 867 768 ;
+C 82 ; WX 917 ; N R ; B 47 5 870 764 ;
+C 83 ; WX 921 ; N S ; B 41 0 879 768 ;
+C 84 ; WX 848 ; N T ; B 38 0 829 771 ;
+C 85 ; WX 845 ; N U ; B 38 0 806 769 ;
+C 86 ; WX 855 ; N V ; B 42 -2 812 768 ;
+C 87 ; WX 859 ; N W ; B 40 0 821 769 ;
+C 88 ; WX 879 ; N X ; B 42 -1 836 767 ;
+C 89 ; WX 859 ; N Y ; B 39 -5 821 772 ;
+C 90 ; WX 849 ; N Z ; B 42 3 808 767 ;
+C 116 ; WX 845 ; N t ; B 37 1 805 768 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _31 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 14
+KPX space space 848
+KPX space R -878
+KPX space A 122
+
+KPX J space 857
+
+KPX M space 855
+
+KPX P space 912
+
+KPX Q space 844
+KPX Q U -3122
+
+KPX S t 3122
+
+KPX Z space 858
+
+KPX t S 6122
+
+EndKernPairs
+EndKernData
+EndFontMetrics

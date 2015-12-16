@@ -1,0 +1,23 @@
+FontName (CyrillicBasicNormal)
+FullName (Cyrillic Basic Normal)
+AppleName (CyrillicBasicNormal)
+FamilyName (Cyrillic Basic)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 0
+CapHeight 556
+UnderlinePosition -124
+UnderlineThickness 0
+StemWidth 50
+Serif true
+AppleName (Cyrillic Basic)
+MSMenuName (Cyrillic Basic Normal)
+VPMenuName (Cyrillic Basic Normal)
+WORDMenuName (Cyrillic Basic Normal)
+AppleFONDID 7602
+VPStyle (N)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

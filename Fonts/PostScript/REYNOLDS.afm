@@ -1,0 +1,172 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 5 0 0 2 0 4
+FullName REYNOLDS
+FontName REYNOLDS
+FamilyName REYNOLDS
+Weight normal
+Notice Reynolds Caps © 1990 by David Rakowski. Alle Rechte Vorhalten. 
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 0 627 882
+Ascender 980
+Descender -20
+XHeight 500
+CapHeight 882
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 32
+StdVW 34
+EncodingScheme FontSpecific
+StartCharMetrics 32
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 46 ; WX 106 ; N period ; B 24 0 82 58 ;
+C 65 ; WX 498 ; N A ; B 22 0 476 800 ;
+C 66 ; WX 369 ; N B ; B 17 0 352 800 ;
+C 67 ; WX 362 ; N C ; B 17 0 346 800 ;
+C 68 ; WX 404 ; N D ; B 18 0 386 800 ;
+C 69 ; WX 389 ; N E ; B 18 0 371 800 ;
+C 70 ; WX 347 ; N F ; B 16 0 331 800 ;
+C 71 ; WX 382 ; N G ; B 18 0 364 800 ;
+C 72 ; WX 397 ; N H ; B 18 0 379 800 ;
+C 73 ; WX 124 ; N I ; B 19 0 82 882 ;
+C 74 ; WX 389 ; N J ; B 18 0 371 801 ;
+C 75 ; WX 444 ; N K ; B 20 1 423 799 ;
+C 76 ; WX 383 ; N L ; B 16 0 366 800 ;
+C 77 ; WX 658 ; N M ; B 30 0 627 800 ;
+C 78 ; WX 377 ; N N ; B 17 0 360 800 ;
+C 79 ; WX 464 ; N O ; B 21 0 443 800 ;
+C 80 ; WX 348 ; N P ; B 16 0 332 800 ;
+C 81 ; WX 463 ; N Q ; B 21 -1 443 800 ;
+C 82 ; WX 376 ; N R ; B 17 0 359 801 ;
+C 83 ; WX 457 ; N S ; B 21 0 436 800 ;
+C 84 ; WX 419 ; N T ; B 19 0 400 800 ;
+C 85 ; WX 426 ; N U ; B 20 -1 406 800 ;
+C 86 ; WX 461 ; N V ; B 21 0 439 800 ;
+C 87 ; WX 630 ; N W ; B 29 0 601 800 ;
+C 88 ; WX 488 ; N X ; B 22 0 466 800 ;
+C 89 ; WX 412 ; N Y ; B 18 0 394 801 ;
+C 90 ; WX 419 ; N Z ; B 19 -1 400 800 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _31 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 96
+KPX A C -68
+KPX A E -94
+KPX A G -80
+KPX A T -125
+KPX A V -113
+KPX A W -129
+KPX A Y -94
+
+KPX B S -46
+KPX B X -46
+KPX B A -74
+
+KPX D E -60
+KPX D G -37
+KPX D O -18
+KPX D T -115
+KPX D V -125
+KPX D W -110
+KPX D X -14
+KPX D Y -102
+
+KPX F O -40
+KPX F Q -26
+KPX F S -208
+KPX F U -85
+KPX F A -155
+KPX F period -176
+
+KPX J S -95
+KPX J X -37
+
+KPX K E -34
+KPX K O -47
+KPX K U -6
+KPX K W -20
+
+KPX L E -108
+KPX L G -108
+KPX L O -60
+KPX L V -156
+KPX L W -135
+KPX L Y -135
+
+KPX M U -26
+KPX M V -147
+KPX M W -138
+
+KPX O M -34
+KPX O S -50
+KPX O T -54
+KPX O W -40
+KPX O X -66
+KPX O Y -87
+KPX O Z -47
+KPX O A -54
+KPX O period -40
+
+KPX P M -128
+KPX P O -47
+KPX P S -221
+KPX P U -115
+KPX P X -50
+KPX P A -196
+
+KPX Q U -54
+KPX Q X -20
+
+KPX S M -115
+KPX S O -83
+KPX S Q -27
+KPX S S -249
+KPX S U -129
+KPX S X -27
+KPX S Z -56
+KPX S A -167
+KPX S period -169
+
+KPX T O -59
+KPX T S -148
+KPX T U -125
+KPX T X -42
+KPX T Z -42
+KPX T A -177
+KPX T period -149
+
+KPX V M -128
+KPX V S -135
+KPX V U -87
+KPX V X -26
+KPX V A -135
+KPX V period -121
+
+KPX W M -94
+KPX W O -60
+KPX W S -108
+KPX W U -107
+KPX W X -26
+KPX W A -139
+KPX W period -128
+
+KPX X U -40
+KPX X V -47
+KPX X W -26
+KPX X Y -46
+
+KPX Y M -115
+KPX Y O -74
+KPX Y S -133
+KPX Y X -39
+KPX Y A -135
+KPX Y period -121
+
+KPX Z O -26
+
+EndKernPairs
+EndKernData
+EndFontMetrics

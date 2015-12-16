@@ -1,0 +1,23 @@
+FontName (ChopinItalic)
+FullName (Chopin Italic)
+AppleName (ChopinItalic)
+FamilyName (Chopin)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 0
+CapHeight 704
+UnderlinePosition -125
+UnderlineThickness 50
+StemWidth 50
+Serif false
+AppleName (Chopin)
+MSMenuName (Chopin Italic)
+VPMenuName (Chopin Italic)
+WORDMenuName (Chopin Italic)
+AppleFONDID 6616
+VPStyle (I)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

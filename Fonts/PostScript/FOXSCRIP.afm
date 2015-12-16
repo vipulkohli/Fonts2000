@@ -1,0 +1,135 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName FOXSCRIP
+FontName FOXSCRIP
+FamilyName FOXSCRIP
+Weight normal
+Notice  
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -14 -204 1012 777
+Ascender 640
+Descender -166
+XHeight 445
+CapHeight 777
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 141
+StdVW 102
+EncodingScheme FontSpecific
+StartCharMetrics 78
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 317 ; N exclam ; B 61 8 209 635 ;
+C 36 ; WX 474 ; N dollar ; B 60 55 385 621 ;
+C 38 ; WX 568 ; N ampersand ; B 32 -18 474 466 ;
+C 39 ; WX 317 ; N quotesingle ; B 134 555 237 718 ;
+C 44 ; WX 317 ; N comma ; B 68 -56 171 106 ;
+C 45 ; WX 456 ; N hyphen ; B 108 234 324 342 ;
+C 46 ; WX 317 ; N period ; B 86 8 190 104 ;
+C 47 ; WX 414 ; N slash ; B -14 -21 431 768 ;
+C 48 ; WX 527 ; N zero ; B 25 6 450 445 ;
+C 49 ; WX 356 ; N one ; B 18 -10 264 510 ;
+C 50 ; WX 408 ; N two ; B 18 -3 315 508 ;
+C 51 ; WX 360 ; N three ; B 13 1 274 521 ;
+C 52 ; WX 444 ; N four ; B 16 -12 362 511 ;
+C 53 ; WX 396 ; N five ; B 18 -11 313 497 ;
+C 54 ; WX 428 ; N six ; B 17 2 350 538 ;
+C 55 ; WX 440 ; N seven ; B 8 -67 383 505 ;
+C 56 ; WX 400 ; N eight ; B 14 -13 319 536 ;
+C 57 ; WX 420 ; N nine ; B 19 -42 358 512 ;
+C 58 ; WX 317 ; N colon ; B 74 92 184 368 ;
+C 59 ; WX 317 ; N semicolon ; B 74 21 189 368 ;
+C 63 ; WX 353 ; N question ; B 26 4 278 632 ;
+C 65 ; WX 796 ; N A ; B -3 -55 755 736 ;
+C 66 ; WX 756 ; N B ; B -3 -48 727 748 ;
+C 67 ; WX 524 ; N C ; B 10 2 480 740 ;
+C 68 ; WX 704 ; N D ; B -3 -18 663 741 ;
+C 69 ; WX 480 ; N E ; B 17 19 445 736 ;
+C 70 ; WX 640 ; N F ; B 4 -10 619 769 ;
+C 71 ; WX 560 ; N G ; B 18 -156 518 736 ;
+C 72 ; WX 820 ; N H ; B 8 -120 792 777 ;
+C 73 ; WX 424 ; N I ; B -1 -17 386 755 ;
+C 74 ; WX 416 ; N J ; B 2 -145 384 748 ;
+C 75 ; WX 740 ; N K ; B 2 -107 697 775 ;
+C 76 ; WX 648 ; N L ; B 4 -59 610 762 ;
+C 77 ; WX 1048 ; N M ; B 3 -19 1012 739 ;
+C 78 ; WX 796 ; N N ; B 20 -36 749 766 ;
+C 79 ; WX 620 ; N O ; B 10 36 574 736 ;
+C 80 ; WX 756 ; N P ; B 1 38 721 726 ;
+C 81 ; WX 572 ; N Q ; B -1 -4 535 740 ;
+C 82 ; WX 804 ; N R ; B -4 -5 763 718 ;
+C 83 ; WX 572 ; N S ; B 11 -37 532 757 ;
+C 84 ; WX 644 ; N T ; B 10 -15 616 739 ;
+C 85 ; WX 672 ; N U ; B 7 -24 622 748 ;
+C 86 ; WX 504 ; N V ; B 15 62 478 707 ;
+C 87 ; WX 816 ; N W ; B 24 24 791 740 ;
+C 88 ; WX 716 ; N X ; B 11 -62 683 751 ;
+C 89 ; WX 600 ; N Y ; B 19 -154 553 712 ;
+C 90 ; WX 592 ; N Z ; B 15 23 551 737 ;
+C 97 ; WX 368 ; N a ; B 6 -9 324 402 ;
+C 98 ; WX 304 ; N b ; B 10 3 265 640 ;
+C 99 ; WX 264 ; N c ; B 10 9 226 399 ;
+C 100 ; WX 352 ; N d ; B 13 11 316 584 ;
+C 101 ; WX 284 ; N e ; B 15 -15 234 410 ;
+C 102 ; WX 252 ; N f ; B 21 -135 214 612 ;
+C 103 ; WX 340 ; N g ; B 4 -204 300 372 ;
+C 104 ; WX 320 ; N h ; B 1 12 278 604 ;
+C 105 ; WX 184 ; N i ; B 17 -3 146 496 ;
+C 106 ; WX 180 ; N j ; B 2 -201 138 487 ;
+C 107 ; WX 372 ; N k ; B 14 0 324 590 ;
+C 108 ; WX 184 ; N l ; B 11 4 149 594 ;
+C 109 ; WX 516 ; N m ; B 10 4 468 391 ;
+C 110 ; WX 336 ; N n ; B 11 18 295 401 ;
+C 111 ; WX 284 ; N o ; B 2 11 256 422 ;
+C 112 ; WX 352 ; N p ; B 15 -159 310 401 ;
+C 113 ; WX 348 ; N q ; B 10 -166 312 404 ;
+C 114 ; WX 252 ; N r ; B 11 -17 219 419 ;
+C 115 ; WX 276 ; N s ; B 13 -2 244 409 ;
+C 116 ; WX 196 ; N t ; B 16 5 160 529 ;
+C 117 ; WX 324 ; N u ; B 3 18 290 394 ;
+C 118 ; WX 324 ; N v ; B 11 -1 284 410 ;
+C 119 ; WX 464 ; N w ; B 15 5 428 416 ;
+C 120 ; WX 344 ; N x ; B 11 -25 305 445 ;
+C 121 ; WX 316 ; N y ; B 14 -127 276 394 ;
+C 122 ; WX 336 ; N z ; B 16 5 297 381 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _77 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 22
+KPX A M -55
+
+KPX E L -63
+
+KPX F L -102
+
+KPX I L -31
+KPX I M -55
+
+KPX L A -31
+KPX L M -39
+KPX L U -23
+
+KPX O M -126
+
+KPX U L -39
+
+KPX W A -71
+KPX W E -23
+KPX W I -47
+KPX W O -23
+KPX W a -78
+KPX W e -63
+KPX W i -47
+KPX W o -78
+KPX W r -55
+KPX W u -23
+
+KPX Y L -62
+KPX Y M -63
+
+EndKernPairs
+EndKernData
+EndFontMetrics

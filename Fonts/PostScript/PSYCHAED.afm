@@ -1,0 +1,125 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 6 0 0 2 0 4
+FullName PSYCHAED
+FontName PSYCHAED
+FamilyName PSYCHAED
+Weight normal
+Notice Adapted 1990 by Walter Kafton-Minkel
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -133 -223 858 781
+Ascender 759
+Descender -189
+XHeight 559
+CapHeight 771
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 55
+StdVW 44
+EncodingScheme FontSpecific
+StartCharMetrics 103
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 398 ; N exclam ; B -22 -75 309 767 ;
+C 36 ; WX 520 ; N dollar ; B -11 -54 551 781 ;
+C 37 ; WX 492 ; N percent ; B -17 -41 498 759 ;
+C 38 ; WX 488 ; N ampersand ; B -82 -42 544 760 ;
+C 40 ; WX 252 ; N parenleft ; B 2 -62 300 760 ;
+C 41 ; WX 296 ; N parenright ; B -8 -58 300 774 ;
+C 43 ; WX 520 ; N plus ; B -28 -10 508 564 ;
+C 44 ; WX 220 ; N comma ; B 75 -111 225 237 ;
+C 45 ; WX 460 ; N hyphen ; B 29 213 420 449 ;
+C 46 ; WX 220 ; N period ; B 87 5 228 208 ;
+C 48 ; WX 506 ; N zero ; B -6 -47 520 757 ;
+C 49 ; WX 416 ; N one ; B -24 -46 434 756 ;
+C 50 ; WX 464 ; N two ; B -32 -42 473 755 ;
+C 51 ; WX 484 ; N three ; B -29 -45 497 757 ;
+C 52 ; WX 480 ; N four ; B -80 -42 476 757 ;
+C 53 ; WX 544 ; N five ; B -11 -45 555 758 ;
+C 54 ; WX 484 ; N six ; B -1 -44 493 761 ;
+C 55 ; WX 472 ; N seven ; B -22 -54 482 763 ;
+C 56 ; WX 540 ; N eight ; B -9 -46 549 770 ;
+C 57 ; WX 480 ; N nine ; B -15 -47 487 758 ;
+C 58 ; WX 220 ; N colon ; B -13 9 224 540 ;
+C 59 ; WX 220 ; N semicolon ; B -13 -115 201 540 ;
+C 63 ; WX 372 ; N question ; B -2 -47 394 760 ;
+C 65 ; WX 568 ; N A ; B 12 -43 628 760 ;
+C 66 ; WX 588 ; N B ; B -133 -34 614 759 ;
+C 67 ; WX 439 ; N C ; B -16 -36 479 754 ;
+C 68 ; WX 582 ; N D ; B -98 -35 627 760 ;
+C 69 ; WX 584 ; N E ; B -111 -37 597 771 ;
+C 70 ; WX 481 ; N F ; B -103 -45 449 769 ;
+C 71 ; WX 503 ; N G ; B 3 -45 579 758 ;
+C 72 ; WX 596 ; N H ; B -98 -44 663 754 ;
+C 73 ; WX 341 ; N I ; B -107 -40 403 751 ;
+C 74 ; WX 352 ; N J ; B -3 -42 407 758 ;
+C 75 ; WX 596 ; N K ; B -119 -39 653 758 ;
+C 76 ; WX 457 ; N L ; B -104 -42 519 754 ;
+C 77 ; WX 811 ; N M ; B -125 -48 858 765 ;
+C 78 ; WX 591 ; N N ; B -89 -44 625 750 ;
+C 79 ; WX 480 ; N O ; B -8 -40 489 756 ;
+C 80 ; WX 490 ; N P ; B -94 -40 461 759 ;
+C 81 ; WX 564 ; N Q ; B -26 -50 616 762 ;
+C 82 ; WX 683 ; N R ; B -116 -39 743 757 ;
+C 83 ; WX 543 ; N S ; B -4 -51 579 762 ;
+C 84 ; WX 494 ; N T ; B -101 -47 567 757 ;
+C 85 ; WX 537 ; N U ; B -96 -45 574 759 ;
+C 86 ; WX 476 ; N V ; B -64 -43 476 759 ;
+C 87 ; WX 724 ; N W ; B -62 -41 728 757 ;
+C 88 ; WX 564 ; N X ; B -89 -44 575 762 ;
+C 89 ; WX 492 ; N Y ; B -66 -46 499 766 ;
+C 90 ; WX 516 ; N Z ; B -45 -52 556 759 ;
+C 97 ; WX 479 ; N a ; B -18 -14 510 546 ;
+C 98 ; WX 512 ; N b ; B -68 -14 530 752 ;
+C 99 ; WX 386 ; N c ; B -2 -9 410 544 ;
+C 100 ; WX 400 ; N d ; B -13 -12 467 750 ;
+C 101 ; WX 372 ; N e ; B 2 -15 406 544 ;
+C 102 ; WX 360 ; N f ; B -9 -20 408 762 ;
+C 103 ; WX 496 ; N g ; B -1 -140 520 547 ;
+C 104 ; WX 604 ; N h ; B -66 -11 611 758 ;
+C 105 ; WX 307 ; N i ; B -78 -9 327 707 ;
+C 106 ; WX 308 ; N j ; B -35 -148 347 711 ;
+C 107 ; WX 602 ; N k ; B -84 -13 639 759 ;
+C 108 ; WX 347 ; N l ; B -79 -8 409 757 ;
+C 109 ; WX 680 ; N m ; B -74 -11 719 564 ;
+C 110 ; WX 464 ; N n ; B -92 -11 500 542 ;
+C 111 ; WX 408 ; N o ; B 3 -15 386 545 ;
+C 112 ; WX 408 ; N p ; B -122 -189 426 554 ;
+C 113 ; WX 426 ; N q ; B -7 -164 577 542 ;
+C 114 ; WX 346 ; N r ; B -108 -16 333 553 ;
+C 115 ; WX 380 ; N s ; B -5 -13 401 548 ;
+C 116 ; WX 313 ; N t ; B -78 -10 369 719 ;
+C 117 ; WX 450 ; N u ; B -44 -10 488 547 ;
+C 118 ; WX 330 ; N v ; B -88 -9 444 554 ;
+C 119 ; WX 488 ; N w ; B -69 -9 492 554 ;
+C 120 ; WX 380 ; N x ; B -52 -10 417 559 ;
+C 121 ; WX 382 ; N y ; B -37 -137 416 551 ;
+C 122 ; WX 312 ; N z ; B -38 -18 345 556 ;
+C 145 ; WX 264 ; N quoteleft ; B 51 419 201 767 ;
+C 146 ; WX 264 ; N quoteright ; B 51 399 201 747 ;
+C 147 ; WX 450 ; N quotedblleft ; B 33 413 411 761 ;
+C 148 ; WX 450 ; N quotedblright ; B 27 411 405 759 ;
+C 150 ; WX 724 ; N endash ; B 43 228 678 437 ;
+C 151 ; WX 800 ; N emdash ; B 43 228 782 446 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 177 ; WX 549 ; N plusminus ; B 10 0 539 645 ;
+C 181 ; WX 576 ; N mu ; B 32 -223 567 500 ;
+C 247 ; WX 549 ; N divide ; B 10 71 536 456 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 612 ; N Delta ; B 6 0 608 688 ;
+C -1 ; WX 768 ; N _101 ; B 34 0 736 688 ;
+C -1 ; WX 500 ; N _102 ; B 0 0 0 0 ;
+C -1 ; WX 549 ; N approxequal ; B 14 135 527 394 ;
+C -1 ; WX 549 ; N greaterequal ; B 29 0 526 639 ;
+C -1 ; WX 713 ; N infinity ; B 26 125 688 404 ;
+C -1 ; WX 274 ; N integral ; B 2 -107 291 916 ;
+C -1 ; WX 549 ; N lessequal ; B 29 0 526 639 ;
+C -1 ; WX 494 ; N lozenge ; B 18 0 466 745 ;
+C -1 ; WX 549 ; N notequal ; B 15 -25 540 549 ;
+C -1 ; WX 494 ; N partialdiff ; B 26 -21 462 746 ;
+C -1 ; WX 549 ; N pi ; B 10 -19 530 487 ;
+C -1 ; WX 823 ; N product ; B 25 -101 803 751 ;
+C -1 ; WX 549 ; N radical ; B 10 -38 515 917 ;
+C -1 ; WX 713 ; N summation ; B 14 -108 695 752 ;
+EndCharMetrics
+EndFontMetrics

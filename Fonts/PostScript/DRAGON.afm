@@ -1,0 +1,156 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 7 3 0 0 2 0 4
+FullName DRAGON
+FontName DRAGON
+FamilyName DRAGON
+Weight normal
+Notice Converted by ALLTYPE
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -232 2169 765
+Ascender 610
+Descender -218
+XHeight 289
+CapHeight 762
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 117
+StdVW 106
+EncodingScheme FontSpecific
+StartCharMetrics 83
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 230 ; N exclam ; B 9 0 198 685 ;
+C 36 ; WX 362 ; N dollar ; B 18 0 354 380 ;
+C 39 ; WX 183 ; N quotesingle ; B 24 580 153 744 ;
+C 44 ; WX 183 ; N comma ; B 24 -64 153 101 ;
+C 45 ; WX 438 ; N hyphen ; B 20 94 418 207 ;
+C 46 ; WX 179 ; N period ; B 27 -5 156 111 ;
+C 48 ; WX 1223 ; N zero ; B 25 0 1196 608 ;
+C 49 ; WX 179 ; N one ; B 8 0 152 609 ;
+C 50 ; WX 1196 ; N two ; B 27 0 1170 608 ;
+C 51 ; WX 1162 ; N three ; B 29 0 1143 610 ;
+C 52 ; WX 1242 ; N four ; B 36 0 1225 609 ;
+C 53 ; WX 1242 ; N five ; B 17 0 1224 609 ;
+C 54 ; WX 1233 ; N six ; B 26 -6 1208 615 ;
+C 55 ; WX 1262 ; N seven ; B 32 -6 1237 618 ;
+C 56 ; WX 1246 ; N eight ; B 29 0 1223 609 ;
+C 57 ; WX 1227 ; N nine ; B 17 0 1207 608 ;
+C 58 ; WX 183 ; N colon ; B 27 15 161 278 ;
+C 59 ; WX 194 ; N semicolon ; B 22 0 173 286 ;
+C 63 ; WX 1290 ; N question ; B 57 0 1233 685 ;
+C 65 ; WX 1708 ; N A ; B 83 0 1630 761 ;
+C 66 ; WX 1961 ; N B ; B 89 -1 1871 762 ;
+C 67 ; WX 1702 ; N C ; B 77 0 1624 761 ;
+C 68 ; WX 1911 ; N D ; B 87 0 1825 761 ;
+C 69 ; WX 1756 ; N E ; B 80 -1 1676 761 ;
+C 70 ; WX 1862 ; N F ; B 85 0 1777 761 ;
+C 71 ; WX 1630 ; N G ; B 73 0 1556 761 ;
+C 72 ; WX 1718 ; N H ; B 78 0 1640 761 ;
+C 73 ; WX 803 ; N I ; B 37 0 767 762 ;
+C 74 ; WX 1601 ; N J ; B 72 0 1529 761 ;
+C 75 ; WX 1626 ; N K ; B 74 0 1552 761 ;
+C 76 ; WX 1675 ; N L ; B 76 0 1601 761 ;
+C 77 ; WX 2272 ; N M ; B 103 0 2169 760 ;
+C 78 ; WX 1728 ; N N ; B 78 0 1649 761 ;
+C 79 ; WX 1690 ; N O ; B 77 0 1612 763 ;
+C 80 ; WX 1756 ; N P ; B 77 0 1676 761 ;
+C 81 ; WX 1696 ; N Q ; B 77 -3 1618 762 ;
+C 82 ; WX 1935 ; N R ; B 88 -1 1847 761 ;
+C 83 ; WX 1629 ; N S ; B 74 0 1554 762 ;
+C 84 ; WX 1441 ; N T ; B 65 0 1376 761 ;
+C 85 ; WX 1640 ; N U ; B 74 -1 1565 761 ;
+C 86 ; WX 1327 ; N V ; B 60 0 1266 761 ;
+C 87 ; WX 2044 ; N W ; B 93 0 1951 761 ;
+C 88 ; WX 1442 ; N X ; B 66 0 1376 761 ;
+C 89 ; WX 1625 ; N Y ; B 74 -5 1551 760 ;
+C 90 ; WX 1627 ; N Z ; B 74 0 1553 761 ;
+C 97 ; WX 503 ; N a ; B 22 0 481 289 ;
+C 98 ; WX 501 ; N b ; B 24 0 489 608 ;
+C 99 ; WX 382 ; N c ; B 17 0 368 290 ;
+C 100 ; WX 597 ; N d ; B 26 0 577 610 ;
+C 101 ; WX 446 ; N e ; B 5 -1 414 289 ;
+C 102 ; WX 396 ; N f ; B 17 0 375 610 ;
+C 103 ; WX 495 ; N g ; B 12 -220 472 297 ;
+C 104 ; WX 628 ; N h ; B 29 -1 616 609 ;
+C 105 ; WX 324 ; N i ; B 14 0 304 553 ;
+C 106 ; WX 300 ; N j ; B 14 -209 287 551 ;
+C 107 ; WX 651 ; N k ; B 23 0 632 609 ;
+C 108 ; WX 240 ; N l ; B 10 0 217 610 ;
+C 109 ; WX 1078 ; N m ; B 21 0 1056 288 ;
+C 110 ; WX 770 ; N n ; B 21 0 744 289 ;
+C 111 ; WX 484 ; N o ; B 14 0 459 289 ;
+C 112 ; WX 488 ; N p ; B 18 -212 470 282 ;
+C 113 ; WX 518 ; N q ; B 18 -218 490 277 ;
+C 114 ; WX 430 ; N r ; B 20 0 421 305 ;
+C 115 ; WX 396 ; N s ; B 18 0 373 286 ;
+C 116 ; WX 434 ; N t ; B 21 0 410 608 ;
+C 117 ; WX 607 ; N u ; B 27 0 592 292 ;
+C 118 ; WX 565 ; N v ; B 27 0 558 289 ;
+C 119 ; WX 838 ; N w ; B 28 0 819 288 ;
+C 120 ; WX 499 ; N x ; B 23 0 479 288 ;
+C 121 ; WX 480 ; N y ; B 10 -193 460 281 ;
+C 122 ; WX 453 ; N z ; B 4 -233 421 280 ;
+C 145 ; WX 198 ; N quoteleft ; B 18 565 181 738 ;
+C 146 ; WX 198 ; N quoteright ; B 18 569 180 742 ;
+C 147 ; WX 301 ; N quotedblleft ; B 27 586 286 747 ;
+C 148 ; WX 301 ; N quotedblright ; B 16 582 283 752 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 373 ; N cent ; B 17 0 354 380 ;
+C 223 ; WX 724 ; N germandbls ; B 27 0 705 288 ;
+C 248 ; WX 545 ; N oslash ; B 22 0 525 289 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _82 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 31
+KPX space space 434
+KPX space S -4878
+KPX space W -7878
+KPX space v 6122
+
+KPX comma space 300
+
+KPX hyphen space 198
+
+KPX period space -7878
+
+KPX zero space -6878
+
+KPX six space 770
+
+KPX C r -3878
+
+KPX D space 300
+KPX D r 7122
+
+KPX F space 500
+
+KPX Y space 1627
+
+KPX Z space 1675
+
+KPX c k -878
+KPX c u -5878
+
+KPX f o 122
+
+KPX h space 1327
+
+KPX i p 116
+
+KPX n w 122
+
+KPX o m -878
+KPX o n -3878
+
+KPX r a -5878
+
+KPX t S 6122
+KPX t e -878
+
+KPX w i -6878
+
+EndKernPairs
+EndKernData
+EndFontMetrics

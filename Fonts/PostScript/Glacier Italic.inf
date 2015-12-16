@@ -1,0 +1,23 @@
+FontName (GlacierItalic)
+FullName (Glacier Italic)
+AppleName (GlacierItalic)
+FamilyName (Glacier)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 1
+CapHeight 807
+UnderlinePosition -30
+UnderlineThickness 12
+StemWidth 50
+Serif false
+AppleName (Glacier)
+MSMenuName (Glacier Italic)
+VPMenuName (Glacier Italic)
+WORDMenuName (Glacier Italic)
+AppleFONDID 4185
+VPStyle (I)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

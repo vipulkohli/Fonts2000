@@ -1,0 +1,145 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName BEDROCK
+FontName BEDROCK
+FamilyName BEDROCK
+Weight normal
+Notice MicroCOM BBS, Custom Fonts - (813)646-7347 HST 
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -6 -214 1051 684
+Ascender 682
+Descender -164
+XHeight 684
+CapHeight 684
+UnderlinePosition -80
+UnderlineThickness 51
+StdVW 104
+EncodingScheme FontSpecific
+StartCharMetrics 98
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 215 ; N exclam ; B -3 -168 183 681 ;
+C 34 ; WX 256 ; N quotedbl ; B 15 510 219 677 ;
+C 36 ; WX 385 ; N dollar ; B 6 -164 342 681 ;
+C 37 ; WX 1107 ; N percent ; B 76 -176 1051 684 ;
+C 38 ; WX 574 ; N ampersand ; B -2 -164 532 677 ;
+C 40 ; WX 256 ; N parenleft ; B 0 -164 197 681 ;
+C 41 ; WX 215 ; N parenright ; B 3 -161 170 673 ;
+C 44 ; WX 238 ; N comma ; B 17 -155 197 87 ;
+C 45 ; WX 427 ; N hyphen ; B 21 206 363 308 ;
+C 46 ; WX 256 ; N period ; B 17 -164 180 20 ;
+C 47 ; WX 427 ; N slash ; B 40 -138 365 658 ;
+C 48 ; WX 555 ; N zero ; B 8 -168 524 681 ;
+C 49 ; WX 215 ; N one ; B 9 -168 168 677 ;
+C 50 ; WX 574 ; N two ; B -6 -164 522 677 ;
+C 51 ; WX 468 ; N three ; B -3 -168 444 681 ;
+C 52 ; WX 555 ; N four ; B 6 -168 524 681 ;
+C 53 ; WX 513 ; N five ; B -6 -168 465 681 ;
+C 54 ; WX 532 ; N six ; B -3 -172 501 684 ;
+C 55 ; WX 597 ; N seven ; B 13 -164 548 681 ;
+C 56 ; WX 619 ; N eight ; B 2 -168 565 677 ;
+C 57 ; WX 555 ; N nine ; B 9 -168 514 681 ;
+C 58 ; WX 256 ; N colon ; B -3 -164 193 677 ;
+C 59 ; WX 238 ; N semicolon ; B -3 -155 197 684 ;
+C 61 ; WX 574 ; N equal ; B 76 287 510 486 ;
+C 63 ; WX 555 ; N question ; B -6 -161 503 681 ;
+C 65 ; WX 680 ; N A ; B 9 -164 650 681 ;
+C 66 ; WX 619 ; N B ; B 3 -164 592 682 ;
+C 67 ; WX 597 ; N C ; B 11 -172 565 675 ;
+C 68 ; WX 638 ; N D ; B 3 -166 612 682 ;
+C 69 ; WX 491 ; N E ; B 6 -164 467 684 ;
+C 70 ; WX 521 ; N F ; B 3 -161 495 681 ;
+C 71 ; WX 691 ; N G ; B 6 -168 662 684 ;
+C 72 ; WX 576 ; N H ; B 2 -161 548 684 ;
+C 73 ; WX 183 ; N I ; B 9 -168 153 684 ;
+C 74 ; WX 502 ; N J ; B 11 -164 473 684 ;
+C 75 ; WX 524 ; N K ; B 8 -164 490 677 ;
+C 76 ; WX 502 ; N L ; B 11 -161 478 654 ;
+C 77 ; WX 670 ; N M ; B 2 -161 643 677 ;
+C 78 ; WX 608 ; N N ; B 6 -164 577 681 ;
+C 79 ; WX 586 ; N O ; B 6 -172 556 684 ;
+C 80 ; WX 608 ; N P ; B 6 -164 577 681 ;
+C 81 ; WX 608 ; N Q ; B 3 -164 577 684 ;
+C 82 ; WX 597 ; N R ; B 3 -164 569 681 ;
+C 83 ; WX 565 ; N S ; B 2 -164 538 681 ;
+C 84 ; WX 629 ; N T ; B 11 -164 599 684 ;
+C 85 ; WX 597 ; N U ; B 6 -168 563 681 ;
+C 86 ; WX 574 ; N V ; B 3 -164 550 681 ;
+C 87 ; WX 882 ; N W ; B 6 -168 856 684 ;
+C 88 ; WX 481 ; N X ; B 3 -168 452 681 ;
+C 89 ; WX 619 ; N Y ; B 3 -155 594 681 ;
+C 90 ; WX 502 ; N Z ; B 9 -155 471 677 ;
+C 91 ; WX 247 ; N bracketleft ; B 6 -164 223 684 ;
+C 92 ; WX 406 ; N backslash ; B 3 -138 374 658 ;
+C 93 ; WX 215 ; N bracketright ; B 3 -158 191 679 ;
+C 95 ; WX 788 ; N underscore ; B 8 -187 763 -110 ;
+C 97 ; WX 680 ; N a ; B 9 -164 650 681 ;
+C 98 ; WX 619 ; N b ; B 3 -164 592 682 ;
+C 99 ; WX 597 ; N c ; B 11 -172 565 675 ;
+C 100 ; WX 638 ; N d ; B 3 -166 612 682 ;
+C 101 ; WX 491 ; N e ; B 6 -164 467 684 ;
+C 102 ; WX 521 ; N f ; B 3 -161 495 681 ;
+C 103 ; WX 691 ; N g ; B 6 -168 662 684 ;
+C 104 ; WX 576 ; N h ; B 2 -161 548 684 ;
+C 105 ; WX 183 ; N i ; B 9 -168 153 684 ;
+C 106 ; WX 502 ; N j ; B 11 -164 473 684 ;
+C 107 ; WX 524 ; N k ; B 8 -164 490 677 ;
+C 108 ; WX 502 ; N l ; B 11 -161 478 654 ;
+C 109 ; WX 670 ; N m ; B 2 -161 643 677 ;
+C 110 ; WX 608 ; N n ; B 6 -164 577 681 ;
+C 111 ; WX 586 ; N o ; B 6 -172 556 684 ;
+C 112 ; WX 608 ; N p ; B 6 -164 577 681 ;
+C 113 ; WX 608 ; N q ; B 3 -164 577 684 ;
+C 114 ; WX 597 ; N r ; B 3 -164 569 681 ;
+C 115 ; WX 565 ; N s ; B 2 -164 538 681 ;
+C 116 ; WX 629 ; N t ; B 11 -164 599 684 ;
+C 117 ; WX 597 ; N u ; B 6 -168 563 681 ;
+C 118 ; WX 574 ; N v ; B 3 -164 550 681 ;
+C 119 ; WX 882 ; N w ; B 6 -168 856 684 ;
+C 120 ; WX 481 ; N x ; B 3 -168 452 681 ;
+C 121 ; WX 619 ; N y ; B 3 -155 594 681 ;
+C 122 ; WX 502 ; N z ; B 9 -155 471 677 ;
+C 124 ; WX 162 ; N bar ; B 6 -155 132 664 ;
+C 147 ; WX 289 ; N quotedblleft ; B 8 473 263 641 ;
+C 148 ; WX 256 ; N quotedblright ; B 15 510 219 677 ;
+C 149 ; WX 279 ; N bullet ; B 8 231 248 445 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 161 ; WX 226 ; N exclamdown ; B 11 -200 197 648 ;
+C 162 ; WX 394 ; N cent ; B 2 -142 369 667 ;
+C 169 ; WX 437 ; N copyright ; B 2 20 406 611 ;
+C 191 ; WX 544 ; N questiondown ; B 11 -214 518 628 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _94 ; B 0 0 0 0 ;
+C -1 ; WX 162 ; N _96 ; B 6 -155 132 664 ;
+C -1 ; WX 427 ; N _97 ; B 21 206 363 308 ;
+C -1 ; WX 279 ; N c272 ; B 8 231 248 445 ;
+C -1 ; WX 427 ; N fraction ; B 40 -138 365 658 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 12
+KPX space space -234
+
+KPX exclam space 256
+
+KPX comma space -296
+
+KPX five space 32
+
+KPX I space 11
+
+KPX S space -22
+
+KPX U space -22
+
+KPX i p 116
+
+KPX j space -234
+
+KPX k space -94
+
+KPX r space -115
+
+EndKernPairs
+EndKernData
+EndFontMetrics

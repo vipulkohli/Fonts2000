@@ -1,0 +1,77 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 2 0 0 2 0 4
+FullName LeeCaps
+FontName LeeCaps
+FamilyName LeeCaps
+Weight normal
+Notice LeeCaps © 1990 by David Rakowski. Alle Rechte Vorhalten.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -43 -46 1017 843
+Ascender 855
+Descender -200
+XHeight 500
+CapHeight 835
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 154
+StdVW 23
+EncodingScheme FontSpecific
+StartCharMetrics 55
+C 32 ; WX 641 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 549 ; N exclam ; B 25 -3 528 833 ;
+C 36 ; WX 550 ; N dollar ; B 28 -3 526 814 ;
+C 38 ; WX 787 ; N ampersand ; B 10 -8 758 840 ;
+C 39 ; WX 450 ; N quotesingle ; B 33 539 419 830 ;
+C 44 ; WX 467 ; N comma ; B 10 -28 423 270 ;
+C 45 ; WX 733 ; N hyphen ; B 48 189 701 491 ;
+C 46 ; WX 471 ; N period ; B 39 7 431 251 ;
+C 48 ; WX 786 ; N zero ; B -1 -27 774 848 ;
+C 49 ; WX 588 ; N one ; B 19 -3 564 836 ;
+C 50 ; WX 768 ; N two ; B -14 -8 739 843 ;
+C 51 ; WX 751 ; N three ; B 27 -23 731 843 ;
+C 52 ; WX 846 ; N four ; B 38 -6 837 836 ;
+C 53 ; WX 740 ; N five ; B 33 -28 722 835 ;
+C 54 ; WX 762 ; N six ; B 2 -18 750 843 ;
+C 55 ; WX 693 ; N seven ; B 32 0 661 837 ;
+C 56 ; WX 752 ; N eight ; B 14 -28 734 842 ;
+C 57 ; WX 771 ; N nine ; B 7 -19 766 883 ;
+C 58 ; WX 483 ; N colon ; B 43 -8 437 554 ;
+C 59 ; WX 475 ; N semicolon ; B 36 -46 441 569 ;
+C 63 ; WX 787 ; N question ; B 33 0 763 872 ;
+C 65 ; WX 883 ; N A ; B 40 -3 843 833 ;
+C 66 ; WX 798 ; N B ; B 36 -21 777 867 ;
+C 67 ; WX 756 ; N C ; B 13 -22 756 904 ;
+C 68 ; WX 793 ; N D ; B 22 0 777 862 ;
+C 69 ; WX 738 ; N E ; B 33 0 703 837 ;
+C 70 ; WX 709 ; N F ; B 33 0 677 837 ;
+C 71 ; WX 755 ; N G ; B 15 -8 732 887 ;
+C 72 ; WX 803 ; N H ; B 37 -5 773 839 ;
+C 73 ; WX 538 ; N I ; B 24 0 514 833 ;
+C 74 ; WX 752 ; N J ; B 34 -14 772 833 ;
+C 75 ; WX 871 ; N K ; B 39 0 832 840 ;
+C 76 ; WX 712 ; N L ; B 32 -4 673 841 ;
+C 77 ; WX 891 ; N M ; B 33 0 850 899 ;
+C 78 ; WX 776 ; N N ; B 38 -6 741 837 ;
+C 79 ; WX 751 ; N O ; B 15 -16 749 843 ;
+C 80 ; WX 774 ; N P ; B 29 0 773 857 ;
+C 81 ; WX 723 ; N Q ; B 29 0 691 878 ;
+C 82 ; WX 791 ; N R ; B 29 0 763 863 ;
+C 83 ; WX 726 ; N S ; B 25 -27 694 849 ;
+C 84 ; WX 770 ; N T ; B 28 0 735 839 ;
+C 85 ; WX 759 ; N U ; B -43 -14 792 856 ;
+C 86 ; WX 825 ; N V ; B 38 0 788 864 ;
+C 87 ; WX 1032 ; N W ; B 47 -3 1017 860 ;
+C 88 ; WX 822 ; N X ; B 38 -5 784 871 ;
+C 89 ; WX 810 ; N Y ; B 37 0 773 833 ;
+C 90 ; WX 808 ; N Z ; B 33 0 803 833 ;
+C 160 ; WX 641 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 521 ; N cent ; B 28 53 516 793 ;
+C 210 ; WX 625 ; N Ograve ; B 37 512 595 836 ;
+C 211 ; WX 592 ; N Oacute ; B 27 499 587 829 ;
+C 212 ; WX 517 ; N Ocircumflex ; B 54 505 466 834 ;
+C 213 ; WX 513 ; N Otilde ; B 48 499 468 838 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 641 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

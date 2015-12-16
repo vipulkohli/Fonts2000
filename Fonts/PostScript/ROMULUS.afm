@@ -1,0 +1,206 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 6 0 0 2 0 4
+FullName ROMULUS
+FontName ROMULUS
+FamilyName ROMULUS
+Weight normal
+Notice Copyright 1992 Computer Safari
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -13 603 570
+Ascender 500
+Descender -200
+XHeight 570
+CapHeight 530
+UnderlinePosition 0
+UnderlineThickness 0
+StdHW 80
+StdVW 80
+EncodingScheme FontSpecific
+StartCharMetrics 57
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 580 ; N A ; B 37 250 537 500 ;
+C 66 ; WX 580 ; N B ; B 43 1 543 500 ;
+C 67 ; WX 447 ; N C ; B 33 0 398 523 ;
+C 68 ; WX 425 ; N D ; B 37 0 385 500 ;
+C 69 ; WX 447 ; N E ; B 36 2 399 503 ;
+C 70 ; WX 440 ; N F ; B 27 -13 410 530 ;
+C 71 ; WX 540 ; N G ; B 37 0 502 500 ;
+C 72 ; WX 497 ; N H ; B 37 0 455 500 ;
+C 73 ; WX 440 ; N I ; B 32 3 399 500 ;
+C 74 ; WX 490 ; N J ; B 32 0 460 496 ;
+C 75 ; WX 580 ; N K ; B 37 0 537 250 ;
+C 76 ; WX 540 ; N L ; B 37 0 502 500 ;
+C 77 ; WX 572 ; N M ; B 37 0 537 500 ;
+C 78 ; WX 572 ; N N ; B 37 0 537 500 ;
+C 79 ; WX 572 ; N O ; B 37 0 537 500 ;
+C 80 ; WX 580 ; N P ; B 37 250 537 500 ;
+C 81 ; WX 580 ; N Q ; B 43 1 543 408 ;
+C 82 ; WX 607 ; N R ; B 40 1 562 500 ;
+C 83 ; WX 440 ; N S ; B 32 46 399 500 ;
+C 84 ; WX 472 ; N T ; B 37 0 437 500 ;
+C 85 ; WX 592 ; N U ; B 6 1 533 530 ;
+C 86 ; WX 493 ; N V ; B 24 0 450 500 ;
+C 87 ; WX 642 ; N W ; B 38 4 603 494 ;
+C 88 ; WX 572 ; N X ; B 37 0 537 500 ;
+C 89 ; WX 552 ; N Y ; B 24 0 515 570 ;
+C 90 ; WX 497 ; N Z ; B 37 0 455 260 ;
+C 97 ; WX 580 ; N a ; B 37 250 537 500 ;
+C 98 ; WX 580 ; N b ; B 43 1 543 500 ;
+C 99 ; WX 447 ; N c ; B 33 0 398 523 ;
+C 100 ; WX 425 ; N d ; B 37 0 385 500 ;
+C 101 ; WX 447 ; N e ; B 36 2 399 503 ;
+C 102 ; WX 440 ; N f ; B 27 -13 410 530 ;
+C 103 ; WX 540 ; N g ; B 37 0 502 500 ;
+C 104 ; WX 497 ; N h ; B 37 0 455 500 ;
+C 105 ; WX 440 ; N i ; B 32 3 399 500 ;
+C 106 ; WX 490 ; N j ; B 32 0 460 496 ;
+C 107 ; WX 580 ; N k ; B 37 0 537 250 ;
+C 108 ; WX 540 ; N l ; B 37 0 502 500 ;
+C 109 ; WX 572 ; N m ; B 37 0 537 500 ;
+C 110 ; WX 572 ; N n ; B 37 0 537 500 ;
+C 111 ; WX 572 ; N o ; B 37 0 537 500 ;
+C 112 ; WX 580 ; N p ; B 37 250 537 500 ;
+C 113 ; WX 580 ; N q ; B 43 1 543 408 ;
+C 114 ; WX 607 ; N r ; B 40 1 562 500 ;
+C 115 ; WX 440 ; N s ; B 32 46 399 500 ;
+C 116 ; WX 472 ; N t ; B 37 0 437 500 ;
+C 117 ; WX 592 ; N u ; B 6 1 533 530 ;
+C 118 ; WX 493 ; N v ; B 24 0 450 500 ;
+C 119 ; WX 642 ; N w ; B 38 4 603 494 ;
+C 120 ; WX 572 ; N x ; B 37 0 537 500 ;
+C 121 ; WX 552 ; N y ; B 24 0 515 570 ;
+C 122 ; WX 497 ; N z ; B 37 0 455 260 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _56 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 102
+KPX A K -100
+KPX A b -75
+KPX A k -100
+KPX A B -75
+
+KPX C E -28
+KPX C H -58
+KPX C I -53
+KPX C R -61
+KPX C T -58
+KPX C U -27
+KPX C Y -45
+KPX C Z -58
+KPX C a -58
+KPX C e -28
+KPX C h -58
+KPX C i -53
+KPX C r -61
+KPX C u -27
+KPX C y -45
+KPX C z -58
+KPX C A -58
+
+KPX E Q -27
+KPX E Z -35
+KPX E q -27
+KPX E z -35
+
+KPX I H -47
+KPX I Z -51
+KPX I h -47
+KPX I z -51
+
+KPX J B -190
+
+KPX K U -28
+KPX K Y -55
+KPX K a -106
+KPX K u -28
+KPX K y -55
+KPX K A -106
+
+KPX S H -47
+KPX S K -37
+KPX S Z -58
+KPX S h -47
+KPX S k -37
+KPX S z -58
+
+KPX T H -159
+KPX T R -72
+KPX T Z -159
+KPX T b -165
+KPX T h -159
+KPX T r -72
+KPX T z -159
+KPX T B -165
+
+KPX U P -77
+KPX U R -136
+KPX U S -71
+KPX U T -36
+KPX U V -32
+KPX U b -29
+KPX U p -77
+KPX U r -136
+KPX U s -71
+KPX U t -36
+KPX U v -32
+KPX U B -29
+
+KPX W Y -32
+KPX W y -32
+
+KPX Z U -27
+KPX Z Y -54
+KPX Z u -27
+KPX Z y -54
+
+KPX a b -75
+KPX a k -100
+
+KPX c a -58
+KPX c e -28
+KPX c h -58
+KPX c i -53
+KPX c r -61
+KPX c t -58
+KPX c u -27
+KPX c y -45
+KPX c z -58
+
+KPX e q -27
+KPX e z -35
+
+KPX i h -47
+KPX i z -51
+
+KPX k a -106
+KPX k u -28
+KPX k y -55
+
+KPX s h -47
+KPX s k -37
+KPX s z -58
+
+KPX t b -165
+KPX t h -159
+KPX t r -72
+KPX t z -159
+
+KPX u b -29
+KPX u p -77
+KPX u r -136
+KPX u s -71
+KPX u t -36
+KPX u v -32
+
+KPX w y -32
+
+KPX z u -27
+KPX z y -54
+
+EndKernPairs
+EndKernData
+EndFontMetrics

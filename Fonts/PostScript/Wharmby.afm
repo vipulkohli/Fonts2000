@@ -1,0 +1,98 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 9 0 0 2 0 3
+FullName Wharmby
+FontName Wharmby
+FamilyName Wharmby
+Weight normal
+Notice Wharmby   1991 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -25 -276 1033 641
+Ascender 727
+Descender -200
+XHeight 364
+CapHeight 637
+UnderlinePosition -121
+UnderlineThickness 18
+StdHW 27
+StdVW 189
+EncodingScheme FontSpecific
+StartCharMetrics 59
+C 32 ; WX 286 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 241 ; N exclam ; B 20 -273 505 641 ;
+C 34 ; WX 720 ; N quotedbl ; B 33 -276 687 637 ;
+C 36 ; WX 353 ; N dollar ; B 6 -276 528 578 ;
+C 38 ; WX 645 ; N ampersand ; B -3 -280 730 605 ;
+C 39 ; WX 259 ; N quotesingle ; B 33 -264 475 637 ;
+C 40 ; WX 301 ; N parenleft ; B -9 -294 534 636 ;
+C 41 ; WX 275 ; N parenright ; B 12 -298 440 636 ;
+C 44 ; WX 192 ; N comma ; B 4 -95 253 156 ;
+C 45 ; WX 231 ; N hyphen ; B 22 -130 336 344 ;
+C 46 ; WX 192 ; N period ; B 23 -82 259 176 ;
+C 48 ; WX 485 ; N zero ; B 18 -281 663 645 ;
+C 49 ; WX 245 ; N one ; B 21 -273 477 636 ;
+C 50 ; WX 487 ; N two ; B 16 -279 688 652 ;
+C 51 ; WX 475 ; N three ; B 28 -273 686 667 ;
+C 52 ; WX 542 ; N four ; B 14 -273 743 636 ;
+C 53 ; WX 494 ; N five ; B 34 -273 707 636 ;
+C 54 ; WX 486 ; N six ; B -25 -282 677 652 ;
+C 55 ; WX 425 ; N seven ; B 32 -273 665 636 ;
+C 56 ; WX 468 ; N eight ; B 22 -281 673 649 ;
+C 57 ; WX 481 ; N nine ; B 12 -282 684 649 ;
+C 58 ; WX 192 ; N colon ; B 15 -231 399 486 ;
+C 59 ; WX 192 ; N semicolon ; B -5 -225 394 491 ;
+C 63 ; WX 705 ; N question ; B 25 -277 674 657 ;
+C 65 ; WX 585 ; N A ; B 35 -274 740 641 ;
+C 66 ; WX 535 ; N B ; B 35 -273 755 636 ;
+C 67 ; WX 495 ; N C ; B 38 -273 722 654 ;
+C 68 ; WX 500 ; N D ; B 30 -273 711 642 ;
+C 69 ; WX 473 ; N E ; B 34 -273 712 639 ;
+C 70 ; WX 447 ; N F ; B 32 -273 710 638 ;
+C 71 ; WX 501 ; N G ; B 30 -273 724 667 ;
+C 72 ; WX 509 ; N H ; B 35 -273 769 636 ;
+C 73 ; WX 290 ; N I ; B 45 -276 524 640 ;
+C 74 ; WX 315 ; N J ; B 27 -273 570 641 ;
+C 75 ; WX 529 ; N K ; B 37 -273 780 636 ;
+C 76 ; WX 378 ; N L ; B 18 -273 480 636 ;
+C 77 ; WX 672 ; N M ; B 25 -273 901 639 ;
+C 78 ; WX 564 ; N N ; B 33 -273 799 642 ;
+C 79 ; WX 495 ; N O ; B 4 -273 690 645 ;
+C 80 ; WX 504 ; N P ; B 38 -273 701 641 ;
+C 81 ; WX 495 ; N Q ; B 25 -273 670 660 ;
+C 82 ; WX 514 ; N R ; B 28 -278 699 641 ;
+C 83 ; WX 476 ; N S ; B -9 -274 683 662 ;
+C 84 ; WX 446 ; N T ; B 34 -273 672 636 ;
+C 85 ; WX 492 ; N U ; B 30 -273 729 637 ;
+C 86 ; WX 571 ; N V ; B 39 -273 814 636 ;
+C 87 ; WX 825 ; N W ; B 35 -279 1033 646 ;
+C 88 ; WX 549 ; N X ; B 38 -288 807 636 ;
+C 89 ; WX 576 ; N Y ; B 40 -273 834 645 ;
+C 90 ; WX 467 ; N Z ; B 35 -273 736 637 ;
+C 160 ; WX 286 ; N space ; B 0 0 0 0 ;
+C 208 ; WX 295 ; N Eth ; B 22 -129 396 344 ;
+C 209 ; WX 415 ; N Ntilde ; B 22 -129 522 344 ;
+C 210 ; WX 471 ; N Ograve ; B 32 -277 663 641 ;
+C 211 ; WX 465 ; N Oacute ; B 33 -276 687 637 ;
+C 212 ; WX 264 ; N Ocircumflex ; B 32 -277 444 641 ;
+C 213 ; WX 259 ; N Otilde ; B 33 -264 475 637 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 286 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 8
+KPX A O -15
+KPX A V -94
+KPX A W -94
+KPX A Y -116
+
+KPX O A -31
+
+KPX V A -85
+
+KPX W A -70
+
+KPX Y A -108
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,96 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName Mira
+FontName Mira
+FamilyName Mira
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -30 -227 867 708
+Ascender 653
+Descender -181
+XHeight 451
+CapHeight 674
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 42
+StdVW 35
+EncodingScheme FontSpecific
+StartCharMetrics 75
+C 32 ; WX 208 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 200 ; N exclam ; B -4 -3 176 664 ;
+C 35 ; WX 903 ; N numbersign ; B -8 -227 867 708 ;
+C 39 ; WX 180 ; N quotesingle ; B 21 434 147 666 ;
+C 44 ; WX 190 ; N comma ; B 7 -127 146 109 ;
+C 45 ; WX 260 ; N hyphen ; B 16 282 218 338 ;
+C 46 ; WX 173 ; N period ; B 13 -3 131 108 ;
+C 48 ; WX 497 ; N zero ; B 9 -3 460 653 ;
+C 49 ; WX 247 ; N one ; B 9 -3 217 626 ;
+C 50 ; WX 490 ; N two ; B 10 -1 444 635 ;
+C 51 ; WX 470 ; N three ; B -19 2 433 638 ;
+C 52 ; WX 483 ; N four ; B 12 0 433 641 ;
+C 53 ; WX 460 ; N five ; B 11 0 418 643 ;
+C 54 ; WX 467 ; N six ; B 3 -7 425 649 ;
+C 55 ; WX 408 ; N seven ; B -2 3 410 644 ;
+C 56 ; WX 477 ; N eight ; B 14 -3 436 661 ;
+C 57 ; WX 470 ; N nine ; B 8 -3 436 653 ;
+C 58 ; WX 163 ; N colon ; B 7 -3 124 428 ;
+C 59 ; WX 190 ; N semicolon ; B 10 -132 142 423 ;
+C 63 ; WX 440 ; N question ; B 3 -11 398 646 ;
+C 65 ; WX 643 ; N A ; B 8 -6 598 656 ;
+C 66 ; WX 590 ; N B ; B 7 -11 551 652 ;
+C 67 ; WX 550 ; N C ; B 6 -4 507 677 ;
+C 68 ; WX 600 ; N D ; B 13 -3 559 694 ;
+C 69 ; WX 567 ; N E ; B 11 -3 522 674 ;
+C 70 ; WX 523 ; N F ; B 12 5 481 658 ;
+C 71 ; WX 575 ; N G ; B 9 -2 522 658 ;
+C 72 ; WX 565 ; N H ; B 5 3 515 658 ;
+C 73 ; WX 268 ; N I ; B 16 1 210 658 ;
+C 74 ; WX 390 ; N J ; B 8 1 332 663 ;
+C 75 ; WX 665 ; N K ; B 3 1 618 657 ;
+C 76 ; WX 545 ; N L ; B 8 -6 502 657 ;
+C 77 ; WX 745 ; N M ; B 3 0 683 666 ;
+C 78 ; WX 615 ; N N ; B 8 -3 568 656 ;
+C 79 ; WX 570 ; N O ; B 3 -9 524 673 ;
+C 80 ; WX 560 ; N P ; B 9 3 521 646 ;
+C 81 ; WX 613 ; N Q ; B 10 -1 575 671 ;
+C 82 ; WX 630 ; N R ; B 1 2 603 649 ;
+C 83 ; WX 537 ; N S ; B 13 0 497 667 ;
+C 84 ; WX 503 ; N T ; B 9 -4 460 660 ;
+C 85 ; WX 567 ; N U ; B 3 3 521 657 ;
+C 86 ; WX 517 ; N V ; B 3 2 471 663 ;
+C 87 ; WX 833 ; N W ; B 3 -7 803 664 ;
+C 88 ; WX 706 ; N X ; B -8 8 653 663 ;
+C 89 ; WX 563 ; N Y ; B 7 1 524 658 ;
+C 90 ; WX 520 ; N Z ; B 11 3 480 651 ;
+C 97 ; WX 410 ; N a ; B 12 5 378 464 ;
+C 98 ; WX 427 ; N b ; B 6 2 393 653 ;
+C 99 ; WX 368 ; N c ; B 10 3 333 462 ;
+C 100 ; WX 420 ; N d ; B -5 -6 383 661 ;
+C 101 ; WX 387 ; N e ; B 3 -3 344 469 ;
+C 102 ; WX 227 ; N f ; B 7 3 220 658 ;
+C 103 ; WX 447 ; N g ; B 11 -158 419 478 ;
+C 104 ; WX 432 ; N h ; B 4 -3 411 675 ;
+C 105 ; WX 170 ; N i ; B 1 -3 137 643 ;
+C 106 ; WX 147 ; N j ; B -16 -181 114 648 ;
+C 107 ; WX 414 ; N k ; B 0 0 387 643 ;
+C 108 ; WX 180 ; N l ; B 0 1 145 643 ;
+C 109 ; WX 690 ; N m ; B 4 3 661 470 ;
+C 110 ; WX 443 ; N n ; B 13 7 414 449 ;
+C 111 ; WX 391 ; N o ; B 3 -1 369 462 ;
+C 112 ; WX 403 ; N p ; B 2 -181 374 461 ;
+C 113 ; WX 400 ; N q ; B 3 -167 374 468 ;
+C 114 ; WX 283 ; N r ; B 9 1 253 450 ;
+C 115 ; WX 353 ; N s ; B 8 4 320 440 ;
+C 116 ; WX 243 ; N t ; B 9 2 209 619 ;
+C 117 ; WX 410 ; N u ; B 13 3 372 446 ;
+C 118 ; WX 408 ; N v ; B -30 -39 356 446 ;
+C 119 ; WX 667 ; N w ; B 3 2 631 446 ;
+C 120 ; WX 455 ; N x ; B -3 -2 408 440 ;
+C 121 ; WX 433 ; N y ; B 9 -188 424 452 ;
+C 122 ; WX 370 ; N z ; B 6 4 329 445 ;
+C 160 ; WX 208 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 208 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,53 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 6 0 0 2 0 4
+FullName BISS
+FontName BISS
+FamilyName BISS
+Weight normal
+Notice Bizarro font © 1992 by D. Rakowski. All rights reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -1 840 1003
+Ascender 999
+Descender -1
+XHeight 500
+CapHeight 1000
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 170
+StdVW 23
+EncodingScheme FontSpecific
+StartCharMetrics 31
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 737 ; N A ; B 33 0 703 1000 ;
+C 66 ; WX 745 ; N B ; B 33 0 711 1000 ;
+C 67 ; WX 721 ; N C ; B 33 0 689 1000 ;
+C 68 ; WX 798 ; N D ; B 36 0 761 1000 ;
+C 69 ; WX 790 ; N E ; B 35 0 754 1000 ;
+C 70 ; WX 762 ; N F ; B 34 -1 728 999 ;
+C 71 ; WX 824 ; N G ; B 37 0 786 1000 ;
+C 72 ; WX 785 ; N H ; B 36 0 750 1000 ;
+C 73 ; WX 325 ; N I ; B 15 0 310 1000 ;
+C 74 ; WX 700 ; N J ; B 32 0 668 1000 ;
+C 75 ; WX 677 ; N K ; B 27 0 645 1000 ;
+C 76 ; WX 807 ; N L ; B 37 -1 770 1000 ;
+C 77 ; WX 792 ; N M ; B 37 0 756 1000 ;
+C 78 ; WX 814 ; N N ; B 37 0 777 1002 ;
+C 79 ; WX 880 ; N O ; B 40 0 840 1000 ;
+C 80 ; WX 763 ; N P ; B 35 0 728 1000 ;
+C 81 ; WX 799 ; N Q ; B 36 0 763 999 ;
+C 82 ; WX 715 ; N R ; B 33 0 682 1000 ;
+C 83 ; WX 697 ; N S ; B 32 0 665 1000 ;
+C 84 ; WX 716 ; N T ; B 31 0 684 1000 ;
+C 85 ; WX 810 ; N U ; B 37 0 773 1000 ;
+C 86 ; WX 810 ; N V ; B 37 0 773 1000 ;
+C 87 ; WX 883 ; N W ; B 122 112 764 912 ;
+C 88 ; WX 743 ; N X ; B 34 0 711 1000 ;
+C 89 ; WX 780 ; N Y ; B 35 0 745 1000 ;
+C 90 ; WX 699 ; N Z ; B 32 0 668 1000 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _30 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,99 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 3 0 0 2 0 4
+FullName Thalia
+FontName Thalia
+FamilyName Thalia
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -43 -178 563 769
+Ascender 769
+Descender -124
+XHeight 662
+CapHeight 644
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 119
+StdVW 119
+EncodingScheme FontSpecific
+StartCharMetrics 78
+C 32 ; WX 208 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 245 ; N exclam ; B 33 -11 183 682 ;
+C 34 ; WX 370 ; N quotedbl ; B 23 375 318 676 ;
+C 35 ; WX 552 ; N numbersign ; B 30 -98 503 567 ;
+C 38 ; WX 510 ; N ampersand ; B 18 -3 468 656 ;
+C 39 ; WX 215 ; N quotesingle ; B 33 363 161 670 ;
+C 40 ; WX 220 ; N parenleft ; B 13 12 164 649 ;
+C 41 ; WX 230 ; N parenright ; B 33 38 175 647 ;
+C 44 ; WX 225 ; N comma ; B 32 -163 161 138 ;
+C 46 ; WX 235 ; N period ; B 13 8 182 168 ;
+C 47 ; WX 435 ; N slash ; B 28 24 392 665 ;
+C 48 ; WX 396 ; N zero ; B 24 14 358 640 ;
+C 49 ; WX 263 ; N one ; B 38 4 209 641 ;
+C 50 ; WX 438 ; N two ; B 42 6 392 640 ;
+C 51 ; WX 417 ; N three ; B 26 -2 374 641 ;
+C 52 ; WX 433 ; N four ; B 28 -13 403 632 ;
+C 53 ; WX 400 ; N five ; B 13 7 364 645 ;
+C 54 ; WX 371 ; N six ; B 13 6 333 618 ;
+C 55 ; WX 400 ; N seven ; B 22 7 375 630 ;
+C 56 ; WX 408 ; N eight ; B 17 -7 368 635 ;
+C 57 ; WX 404 ; N nine ; B 14 4 358 633 ;
+C 58 ; WX 250 ; N colon ; B 31 23 166 393 ;
+C 59 ; WX 235 ; N semicolon ; B 24 -167 164 382 ;
+C 65 ; WX 471 ; N A ; B 10 -133 481 653 ;
+C 66 ; WX 433 ; N B ; B -9 3 404 638 ;
+C 67 ; WX 367 ; N C ; B 11 -141 318 648 ;
+C 68 ; WX 467 ; N D ; B 18 -3 433 651 ;
+C 69 ; WX 363 ; N E ; B 16 -178 324 640 ;
+C 70 ; WX 492 ; N F ; B 17 -153 448 633 ;
+C 71 ; WX 396 ; N G ; B 13 -9 363 645 ;
+C 72 ; WX 454 ; N H ; B 16 -134 413 644 ;
+C 73 ; WX 233 ; N I ; B 26 -77 179 637 ;
+C 74 ; WX 479 ; N J ; B 10 -161 442 650 ;
+C 75 ; WX 442 ; N K ; B 13 -123 406 649 ;
+C 76 ; WX 392 ; N L ; B 19 -11 344 633 ;
+C 77 ; WX 604 ; N M ; B 7 -112 547 653 ;
+C 78 ; WX 517 ; N N ; B 3 -8 467 651 ;
+C 79 ; WX 392 ; N O ; B 21 3 342 647 ;
+C 80 ; WX 463 ; N P ; B 10 -141 420 643 ;
+C 81 ; WX 408 ; N Q ; B 17 -152 361 657 ;
+C 82 ; WX 467 ; N R ; B 13 -118 418 640 ;
+C 83 ; WX 417 ; N S ; B 15 6 373 647 ;
+C 84 ; WX 458 ; N T ; B 13 1 412 652 ;
+C 85 ; WX 471 ; N U ; B 3 8 428 656 ;
+C 86 ; WX 442 ; N V ; B 17 -21 398 643 ;
+C 87 ; WX 588 ; N W ; B 9 -5 553 644 ;
+C 88 ; WX 467 ; N X ; B 10 -3 410 653 ;
+C 89 ; WX 404 ; N Y ; B 8 3 373 648 ;
+C 90 ; WX 408 ; N Z ; B 8 6 366 656 ;
+C 97 ; WX 363 ; N a ; B 4 -3 325 468 ;
+C 98 ; WX 379 ; N b ; B 8 -10 340 648 ;
+C 99 ; WX 338 ; N c ; B 13 -6 303 472 ;
+C 100 ; WX 388 ; N d ; B 23 -18 352 667 ;
+C 101 ; WX 363 ; N e ; B 19 -3 325 477 ;
+C 102 ; WX 288 ; N f ; B 3 9 259 680 ;
+C 103 ; WX 375 ; N g ; B -31 -163 337 557 ;
+C 104 ; WX 454 ; N h ; B 19 -4 423 752 ;
+C 105 ; WX 225 ; N i ; B 23 4 171 648 ;
+C 106 ; WX 246 ; N j ; B -30 -165 205 626 ;
+C 107 ; WX 517 ; N k ; B 26 4 469 769 ;
+C 108 ; WX 258 ; N l ; B 35 -1 209 756 ;
+C 109 ; WX 596 ; N m ; B 18 -3 563 474 ;
+C 110 ; WX 408 ; N n ; B 28 3 388 459 ;
+C 111 ; WX 371 ; N o ; B 16 4 328 481 ;
+C 112 ; WX 383 ; N p ; B 15 -118 349 476 ;
+C 113 ; WX 375 ; N q ; B 13 -124 323 471 ;
+C 114 ; WX 350 ; N r ; B 17 4 321 479 ;
+C 115 ; WX 375 ; N s ; B 0 4 338 488 ;
+C 116 ; WX 321 ; N t ; B 9 -3 280 700 ;
+C 117 ; WX 433 ; N u ; B -43 -5 383 503 ;
+C 118 ; WX 433 ; N v ; B 2 -2 420 662 ;
+C 119 ; WX 548 ; N w ; B 11 -3 557 442 ;
+C 120 ; WX 467 ; N x ; B 17 7 433 482 ;
+C 121 ; WX 446 ; N y ; B 0 -178 439 468 ;
+C 122 ; WX 403 ; N z ; B 7 12 368 474 ;
+C 160 ; WX 208 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 208 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

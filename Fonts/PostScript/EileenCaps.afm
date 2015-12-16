@@ -1,0 +1,52 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 4 5 0 0 2 0 4
+FullName EileenCaps
+FontName EileenCaps
+FamilyName Eileen
+Weight normal
+Notice Eileen Caps (c) 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -3 960 872
+Ascender 913
+Descender -200
+XHeight 500
+CapHeight 870
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 81
+StdVW 49
+EncodingScheme FontSpecific
+StartCharMetrics 30
+C 32 ; WX 435 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 947 ; N A ; B 41 -5 911 870 ;
+C 66 ; WX 956 ; N B ; B 44 -3 915 870 ;
+C 67 ; WX 951 ; N C ; B 43 0 908 869 ;
+C 68 ; WX 973 ; N D ; B 38 1 925 870 ;
+C 69 ; WX 979 ; N E ; B 52 -6 927 871 ;
+C 70 ; WX 990 ; N F ; B 41 -2 958 870 ;
+C 71 ; WX 965 ; N G ; B 51 -3 925 870 ;
+C 72 ; WX 959 ; N H ; B 34 1 904 870 ;
+C 73 ; WX 987 ; N I ; B 44 -15 915 870 ;
+C 74 ; WX 910 ; N J ; B 37 -1 884 869 ;
+C 75 ; WX 1004 ; N K ; B 47 -13 947 870 ;
+C 76 ; WX 966 ; N L ; B 50 1 925 870 ;
+C 77 ; WX 961 ; N M ; B 37 1 912 870 ;
+C 78 ; WX 992 ; N N ; B 49 -1 937 869 ;
+C 79 ; WX 980 ; N O ; B 47 -16 930 870 ;
+C 80 ; WX 982 ; N P ; B 44 -2 938 870 ;
+C 81 ; WX 947 ; N Q ; B 23 -2 923 872 ;
+C 82 ; WX 973 ; N R ; B 50 1 920 876 ;
+C 83 ; WX 973 ; N S ; B 48 -1 932 870 ;
+C 84 ; WX 982 ; N T ; B 55 -7 933 877 ;
+C 85 ; WX 999 ; N U ; B 46 -14 960 870 ;
+C 86 ; WX 987 ; N V ; B 28 -3 925 870 ;
+C 87 ; WX 981 ; N W ; B 39 -1 932 871 ;
+C 88 ; WX 997 ; N X ; B 43 0 942 869 ;
+C 89 ; WX 976 ; N Y ; B 30 0 938 869 ;
+C 90 ; WX 982 ; N Z ; B 43 -8 950 892 ;
+C 160 ; WX 435 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 435 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

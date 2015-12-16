@@ -1,0 +1,70 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 5 0 0 2 0 4
+FullName CRACKFIR
+FontName CRACKFIR
+FamilyName CRACKFIR
+Weight normal
+Notice Crackling Fire © 1991 by David Rakowski.  Alle Rechte Vorbehalten. 
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -60 711 870
+Ascender 932
+Descender -67
+XHeight 500
+CapHeight 870
+UnderlinePosition -80
+UnderlineThickness 50
+StdVW 167
+EncodingScheme FontSpecific
+StartCharMetrics 35
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 232 ; N exclam ; B 10 0 229 738 ;
+C 44 ; WX 222 ; N comma ; B 40 -60 200 183 ;
+C 46 ; WX 309 ; N period ; B 36 0 283 233 ;
+C 63 ; WX 494 ; N question ; B 23 0 471 870 ;
+C 65 ; WX 511 ; N A ; B 18 -23 492 863 ;
+C 66 ; WX 506 ; N B ; B 23 0 483 870 ;
+C 67 ; WX 493 ; N C ; B 23 0 471 870 ;
+C 68 ; WX 508 ; N D ; B 23 0 486 870 ;
+C 69 ; WX 424 ; N E ; B 19 0 405 870 ;
+C 70 ; WX 450 ; N F ; B 20 0 430 870 ;
+C 71 ; WX 531 ; N G ; B 23 0 507 870 ;
+C 72 ; WX 505 ; N H ; B 24 0 499 826 ;
+C 73 ; WX 300 ; N I ; B 25 0 274 844 ;
+C 74 ; WX 428 ; N J ; B 26 13 404 857 ;
+C 75 ; WX 493 ; N K ; B 23 0 471 870 ;
+C 76 ; WX 371 ; N L ; B 16 0 354 870 ;
+C 77 ; WX 665 ; N M ; B 30 0 635 870 ;
+C 78 ; WX 577 ; N N ; B 25 0 529 835 ;
+C 79 ; WX 532 ; N O ; B 24 -1 523 844 ;
+C 80 ; WX 461 ; N P ; B 23 0 471 809 ;
+C 81 ; WX 542 ; N Q ; B 24 -1 518 870 ;
+C 82 ; WX 566 ; N R ; B 26 0 551 852 ;
+C 83 ; WX 494 ; N S ; B 23 0 471 870 ;
+C 84 ; WX 472 ; N T ; B 23 -1 451 870 ;
+C 85 ; WX 602 ; N U ; B 27 0 574 870 ;
+C 86 ; WX 576 ; N V ; B 25 0 550 870 ;
+C 87 ; WX 730 ; N W ; B 34 0 711 844 ;
+C 88 ; WX 486 ; N X ; B 23 0 463 870 ;
+C 89 ; WX 554 ; N Y ; B 25 0 529 870 ;
+C 90 ; WX 511 ; N Z ; B 23 0 492 835 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _34 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 6
+KPX A V -47
+KPX A W -27
+
+KPX O W -20
+
+KPX V A -47
+
+KPX W A -40
+KPX W O -27
+
+EndKernPairs
+EndKernData
+EndFontMetrics

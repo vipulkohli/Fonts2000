@@ -1,0 +1,106 @@
+StartFontMetrics 2.0
+Comment Panose 0 0 0 0 0 0 0 0 0 0
+FullName Bucephalus
+FontName Bucephalus
+FamilyName Bucephalus
+Weight normal
+Notice Copyright 1993, David F. Nalle                                                   Bucephalus v. 1.0 - Scriptorium Font Library
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -113 -285 2029 959
+Ascender 856
+Descender -267
+XHeight 508
+CapHeight 848
+UnderlinePosition -119
+UnderlineThickness 17
+StdHW 51
+StdVW 78
+EncodingScheme FontSpecific
+StartCharMetrics 84
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 253 ; N exclam ; B -9 -5 185 829 ;
+C 34 ; WX 260 ; N quotedbl ; B 5 581 179 823 ;
+C 39 ; WX 204 ; N quotesingle ; B 74 554 131 796 ;
+C 40 ; WX 385 ; N parenleft ; B 92 -173 336 828 ;
+C 41 ; WX 385 ; N parenright ; B 49 -173 293 828 ;
+C 43 ; WX 682 ; N plus ; B 76 0 604 566 ;
+C 44 ; WX 364 ; N comma ; B 5 -103 228 143 ;
+C 45 ; WX 294 ; N hyphen ; B 2 222 293 379 ;
+C 46 ; WX 364 ; N period ; B 23 2 173 173 ;
+C 47 ; WX 476 ; N slash ; B -11 -120 473 849 ;
+C 48 ; WX 913 ; N zero ; B -18 -3 838 843 ;
+C 49 ; WX 413 ; N one ; B 8 -6 349 842 ;
+C 50 ; WX 620 ; N two ; B 5 -6 550 839 ;
+C 51 ; WX 700 ; N three ; B -3 -2 638 853 ;
+C 52 ; WX 780 ; N four ; B -15 -3 714 852 ;
+C 53 ; WX 633 ; N five ; B 4 0 568 845 ;
+C 54 ; WX 713 ; N six ; B 5 -8 646 858 ;
+C 55 ; WX 720 ; N seven ; B 3 -6 656 850 ;
+C 56 ; WX 687 ; N eight ; B -3 -10 629 847 ;
+C 57 ; WX 733 ; N nine ; B -18 -10 663 837 ;
+C 58 ; WX 300 ; N colon ; B 23 -5 173 525 ;
+C 59 ; WX 320 ; N semicolon ; B -15 -97 227 525 ;
+C 60 ; WX 682 ; N less ; B 76 -8 604 576 ;
+C 62 ; WX 682 ; N greater ; B 76 -8 604 576 ;
+C 63 ; WX 589 ; N question ; B 8 -12 531 814 ;
+C 65 ; WX 917 ; N A ; B 1 -13 844 832 ;
+C 66 ; WX 917 ; N B ; B 7 -13 874 838 ;
+C 67 ; WX 770 ; N C ; B -3 1 720 834 ;
+C 68 ; WX 980 ; N D ; B 3 -13 929 837 ;
+C 69 ; WX 741 ; N E ; B -3 -4 682 833 ;
+C 70 ; WX 694 ; N F ; B -8 -140 643 833 ;
+C 71 ; WX 863 ; N G ; B -6 -3 808 828 ;
+C 72 ; WX 805 ; N H ; B -6 -123 757 837 ;
+C 73 ; WX 414 ; N I ; B 14 -3 365 845 ;
+C 74 ; WX 537 ; N J ; B -24 -145 473 839 ;
+C 75 ; WX 928 ; N K ; B -8 0 867 848 ;
+C 76 ; WX 554 ; N L ; B 4 3 498 842 ;
+C 77 ; WX 1062 ; N M ; B -8 -3 1004 847 ;
+C 78 ; WX 770 ; N N ; B 6 -1 716 843 ;
+C 79 ; WX 916 ; N O ; B -13 -3 853 843 ;
+C 80 ; WX 805 ; N P ; B 9 -7 743 842 ;
+C 81 ; WX 875 ; N Q ; B 2 -16 803 845 ;
+C 82 ; WX 957 ; N R ; B -2 -120 1157 848 ;
+C 83 ; WX 683 ; N S ; B 4 -16 618 836 ;
+C 84 ; WX 793 ; N T ; B -7 -24 725 856 ;
+C 85 ; WX 827 ; N U ; B -17 -7 757 839 ;
+C 86 ; WX 827 ; N V ; B 3 0 765 854 ;
+C 87 ; WX 1173 ; N W ; B -12 0 1114 863 ;
+C 88 ; WX 828 ; N X ; B -1 -2 763 843 ;
+C 89 ; WX 840 ; N Y ; B 10 -92 775 837 ;
+C 90 ; WX 823 ; N Z ; B 0 -3 763 854 ;
+C 97 ; WX 587 ; N a ; B 7 -2 523 481 ;
+C 98 ; WX 587 ; N b ; B -4 5 528 853 ;
+C 99 ; WX 525 ; N c ; B 13 -4 475 489 ;
+C 100 ; WX 567 ; N d ; B -14 3 506 831 ;
+C 101 ; WX 507 ; N e ; B -4 4 439 473 ;
+C 102 ; WX 373 ; N f ; B -6 -28 329 818 ;
+C 103 ; WX 567 ; N g ; B -38 -258 490 479 ;
+C 104 ; WX 580 ; N h ; B 14 -91 517 846 ;
+C 105 ; WX 240 ; N i ; B -3 6 180 844 ;
+C 106 ; WX 273 ; N j ; B -113 -253 198 824 ;
+C 107 ; WX 607 ; N k ; B -1 -285 2029 844 ;
+C 108 ; WX 227 ; N l ; B 1 -13 158 856 ;
+C 109 ; WX 867 ; N m ; B 8 -2 808 506 ;
+C 110 ; WX 607 ; N n ; B -13 -8 550 499 ;
+C 111 ; WX 560 ; N o ; B -19 0 504 514 ;
+C 112 ; WX 593 ; N p ; B 0 -267 533 502 ;
+C 113 ; WX 560 ; N q ; B -3 -247 495 486 ;
+C 114 ; WX 480 ; N r ; B 4 -5 417 504 ;
+C 115 ; WX 487 ; N s ; B 8 -3 421 531 ;
+C 116 ; WX 340 ; N t ; B -29 -9 280 730 ;
+C 117 ; WX 567 ; N u ; B -14 -8 502 509 ;
+C 118 ; WX 560 ; N v ; B -12 2 504 508 ;
+C 119 ; WX 833 ; N w ; B 6 -10 762 495 ;
+C 120 ; WX 573 ; N x ; B -8 -4 511 501 ;
+C 121 ; WX 653 ; N y ; B -3 -240 587 500 ;
+C 122 ; WX 573 ; N z ; B 5 -5 508 489 ;
+C 126 ; WX 1598 ; N asciitilde ; B 6 -229 1549 959 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N _82 ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N _83 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

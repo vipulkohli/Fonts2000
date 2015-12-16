@@ -1,0 +1,90 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 8 7 0 0 2 0 4
+FullName Lombardoc
+FontName Lombardoc
+FamilyName Lombardoc
+Weight normal
+Notice (c) 1991 Andrew s. Meit  Large caps for GoodCityModern 1.1
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -1 -215 908 864
+Ascender 861
+Descender -200
+XHeight 500
+CapHeight 465
+UnderlinePosition -110
+UnderlineThickness 27
+StdHW 81
+StdVW 36
+EncodingScheme FontSpecific
+StartCharMetrics 37
+C 32 ; WX 346 ; N space ; B 0 0 0 0 ;
+C 38 ; WX 306 ; N ampersand ; B -1 -215 329 864 ;
+C 49 ; WX 289 ; N one ; B -1 -7 288 552 ;
+C 50 ; WX 533 ; N two ; B -1 -5 543 554 ;
+C 51 ; WX 768 ; N three ; B -1 -5 788 554 ;
+C 52 ; WX 768 ; N four ; B -1 -21 860 554 ;
+C 53 ; WX 627 ; N five ; B -1 -21 636 554 ;
+C 57 ; WX 794 ; N nine ; B 10 -39 908 560 ;
+C 65 ; WX 311 ; N A ; B 196 161 458 497 ;
+C 66 ; WX 311 ; N B ; B 170 183 403 450 ;
+C 67 ; WX 311 ; N C ; B 173 154 424 444 ;
+C 68 ; WX 311 ; N D ; B 190 174 436 448 ;
+C 69 ; WX 311 ; N E ; B 168 144 426 442 ;
+C 70 ; WX 311 ; N F ; B 195 179 399 442 ;
+C 71 ; WX 311 ; N G ; B 165 179 466 470 ;
+C 72 ; WX 311 ; N H ; B 183 136 458 457 ;
+C 73 ; WX 311 ; N I ; B 215 179 350 439 ;
+C 74 ; WX 311 ; N J ; B 187 167 371 449 ;
+C 75 ; WX 311 ; N K ; B 191 129 428 434 ;
+C 76 ; WX 311 ; N L ; B 174 160 454 465 ;
+C 77 ; WX 311 ; N M ; B 174 175 537 448 ;
+C 78 ; WX 311 ; N N ; B 170 142 452 444 ;
+C 79 ; WX 311 ; N O ; B 152 186 412 448 ;
+C 80 ; WX 311 ; N P ; B 162 176 384 448 ;
+C 81 ; WX 311 ; N Q ; B 146 132 472 442 ;
+C 82 ; WX 311 ; N R ; B 182 143 430 458 ;
+C 83 ; WX 311 ; N S ; B 162 154 410 458 ;
+C 84 ; WX 311 ; N T ; B 158 166 463 428 ;
+C 85 ; WX 311 ; N U ; B 157 154 438 448 ;
+C 86 ; WX 311 ; N V ; B 152 136 449 403 ;
+C 87 ; WX 311 ; N W ; B 144 148 647 460 ;
+C 88 ; WX 311 ; N X ; B 168 153 507 436 ;
+C 89 ; WX 311 ; N Y ; B 175 159 446 451 ;
+C 90 ; WX 311 ; N Z ; B 198 130 475 452 ;
+C 160 ; WX 346 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 346 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 26
+KPX ampersand A -305
+KPX ampersand B -305
+KPX ampersand C -306
+KPX ampersand D -306
+KPX ampersand E -306
+KPX ampersand F -306
+KPX ampersand G -306
+KPX ampersand H -306
+KPX ampersand I -306
+KPX ampersand J -306
+KPX ampersand K -306
+KPX ampersand L -306
+KPX ampersand M -306
+KPX ampersand N -306
+KPX ampersand O -306
+KPX ampersand P -306
+KPX ampersand Q -305
+KPX ampersand R -306
+KPX ampersand S -305
+KPX ampersand T -306
+KPX ampersand U -305
+KPX ampersand V -305
+KPX ampersand W -305
+KPX ampersand X -306
+KPX ampersand Y -306
+KPX ampersand Z -306
+
+EndKernPairs
+EndKernData
+EndFontMetrics

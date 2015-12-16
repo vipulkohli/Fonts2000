@@ -1,0 +1,52 @@
+StartFontMetrics 2.0
+Comment Panose 2 11 114 0 0 0 0 0 0 0
+FullName Reuven Normal
+FontName ReuvenNormal
+FamilyName Reuven
+Weight normal
+Notice c BY CC GREETINGS
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -245 625 693
+Ascender 494
+Descender -245
+XHeight 122
+CapHeight 693
+UnderlinePosition -30
+UnderlineThickness 12
+StdHW 105
+StdVW 49
+EncodingScheme FontSpecific
+StartCharMetrics 30
+C 32 ; WX 277 ; N space ; B 0 0 0 0 ;
+C 44 ; WX 459 ; N comma ; B 19 -26 438 482 ;
+C 46 ; WX 452 ; N period ; B 51 -238 429 489 ;
+C 59 ; WX 423 ; N semicolon ; B 57 -242 403 489 ;
+C 65 ; WX 583 ; N A ; B 30 -11 548 484 ;
+C 66 ; WX 261 ; N B ; B 25 -7 249 487 ;
+C 67 ; WX 415 ; N C ; B 30 -7 415 489 ;
+C 68 ; WX 334 ; N D ; B 32 -25 317 491 ;
+C 69 ; WX 435 ; N E ; B 57 -238 408 489 ;
+C 70 ; WX 410 ; N F ; B 33 -5 379 491 ;
+C 72 ; WX 248 ; N H ; B 27 184 223 489 ;
+C 73 ; WX 276 ; N I ; B 45 -245 247 485 ;
+C 74 ; WX 484 ; N J ; B 57 -26 456 484 ;
+C 75 ; WX 418 ; N K ; B 25 -17 385 693 ;
+C 76 ; WX 391 ; N L ; B 39 -235 373 491 ;
+C 77 ; WX 447 ; N M ; B 46 -9 423 487 ;
+C 78 ; WX 494 ; N N ; B 55 -21 463 485 ;
+C 79 ; WX 447 ; N O ; B 54 -12 423 485 ;
+C 80 ; WX 433 ; N P ; B 42 -7 400 491 ;
+C 82 ; WX 362 ; N R ; B 19 -19 345 491 ;
+C 83 ; WX 403 ; N S ; B 26 -25 382 489 ;
+C 84 ; WX 448 ; N T ; B 49 -12 427 484 ;
+C 85 ; WX 249 ; N U ; B 22 -23 238 494 ;
+C 86 ; WX 455 ; N V ; B 49 -26 434 484 ;
+C 88 ; WX 430 ; N X ; B 47 -10 400 487 ;
+C 89 ; WX 505 ; N Y ; B 41 -9 456 484 ;
+C 90 ; WX 266 ; N Z ; B 30 -21 250 491 ;
+C 160 ; WX 750 ; N nbspace ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

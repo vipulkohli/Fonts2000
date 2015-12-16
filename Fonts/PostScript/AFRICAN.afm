@@ -1,0 +1,179 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 5 0 0 2 0 4
+FullName AFRICAN
+FontName AFRICAN
+FamilyName AFRICAN
+Weight normal
+Notice Another friendly font from Allen R. Walden. UNPROTECTED. - Please distribute freely.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -15 -104 1010 780
+Ascender 762
+Descender -40
+XHeight 763
+CapHeight 762
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 85
+StdVW 99
+EncodingScheme FontSpecific
+StartCharMetrics 84
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 338 ; N exclam ; B 26 -65 294 755 ;
+C 34 ; WX 396 ; N quotedbl ; B 24 480 385 723 ;
+C 36 ; WX 499 ; N dollar ; B 21 34 468 754 ;
+C 38 ; WX 762 ; N ampersand ; B 25 18 711 737 ;
+C 39 ; WX 290 ; N quotesingle ; B 24 464 274 718 ;
+C 40 ; WX 350 ; N parenleft ; B 3 61 337 759 ;
+C 41 ; WX 350 ; N parenright ; B -13 64 322 762 ;
+C 42 ; WX 735 ; N asterisk ; B 35 0 699 762 ;
+C 43 ; WX 838 ; N plus ; B 28 0 809 760 ;
+C 44 ; WX 324 ; N comma ; B -15 -104 309 249 ;
+C 45 ; WX 411 ; N hyphen ; B 13 179 384 379 ;
+C 46 ; WX 362 ; N period ; B -2 -46 363 282 ;
+C 47 ; WX 735 ; N slash ; B -1 36 726 736 ;
+C 48 ; WX 863 ; N zero ; B 39 0 824 762 ;
+C 49 ; WX 513 ; N one ; B 23 0 490 762 ;
+C 50 ; WX 727 ; N two ; B 33 0 693 762 ;
+C 51 ; WX 477 ; N three ; B 22 0 455 762 ;
+C 52 ; WX 828 ; N four ; B 38 0 790 762 ;
+C 53 ; WX 535 ; N five ; B 26 0 512 762 ;
+C 54 ; WX 695 ; N six ; B 30 0 664 762 ;
+C 55 ; WX 687 ; N seven ; B 31 0 655 762 ;
+C 56 ; WX 604 ; N eight ; B 28 0 577 762 ;
+C 57 ; WX 681 ; N nine ; B 30 0 650 762 ;
+C 58 ; WX 411 ; N colon ; B 17 -67 393 623 ;
+C 59 ; WX 411 ; N semicolon ; B 0 -104 380 623 ;
+C 61 ; WX 480 ; N equal ; B 13 156 460 609 ;
+C 63 ; WX 381 ; N question ; B 2 -48 368 762 ;
+C 65 ; WX 896 ; N A ; B 48 3 855 760 ;
+C 66 ; WX 709 ; N B ; B 32 -3 676 762 ;
+C 67 ; WX 580 ; N C ; B 26 0 553 762 ;
+C 68 ; WX 765 ; N D ; B 33 -1 730 762 ;
+C 69 ; WX 628 ; N E ; B 29 0 599 762 ;
+C 70 ; WX 650 ; N F ; B 30 1 621 762 ;
+C 71 ; WX 728 ; N G ; B 33 0 694 762 ;
+C 72 ; WX 816 ; N H ; B 37 -1 779 762 ;
+C 73 ; WX 359 ; N I ; B 40 -1 313 762 ;
+C 74 ; WX 566 ; N J ; B 26 0 540 762 ;
+C 75 ; WX 785 ; N K ; B 29 0 749 762 ;
+C 76 ; WX 571 ; N L ; B 26 0 546 762 ;
+C 77 ; WX 1059 ; N M ; B 48 0 1010 762 ;
+C 78 ; WX 809 ; N N ; B 37 0 770 763 ;
+C 79 ; WX 868 ; N O ; B 40 0 828 762 ;
+C 80 ; WX 619 ; N P ; B 29 0 591 762 ;
+C 81 ; WX 872 ; N Q ; B 33 -40 850 760 ;
+C 82 ; WX 745 ; N R ; B 34 0 711 761 ;
+C 83 ; WX 484 ; N S ; B 33 -19 444 780 ;
+C 84 ; WX 700 ; N T ; B 31 0 669 762 ;
+C 85 ; WX 803 ; N U ; B 36 0 767 763 ;
+C 86 ; WX 798 ; N V ; B 36 0 762 762 ;
+C 87 ; WX 1056 ; N W ; B 48 0 1009 763 ;
+C 88 ; WX 912 ; N X ; B 41 0 871 762 ;
+C 89 ; WX 790 ; N Y ; B 36 0 755 762 ;
+C 90 ; WX 819 ; N Z ; B 36 0 782 762 ;
+C 97 ; WX 896 ; N a ; B 48 3 855 760 ;
+C 98 ; WX 709 ; N b ; B 32 -3 676 762 ;
+C 99 ; WX 580 ; N c ; B 26 0 553 762 ;
+C 100 ; WX 765 ; N d ; B 33 -1 730 762 ;
+C 101 ; WX 628 ; N e ; B 29 0 599 762 ;
+C 102 ; WX 650 ; N f ; B 30 1 621 762 ;
+C 103 ; WX 728 ; N g ; B 33 0 694 762 ;
+C 104 ; WX 816 ; N h ; B 37 -1 779 762 ;
+C 105 ; WX 359 ; N i ; B 40 -1 313 762 ;
+C 106 ; WX 566 ; N j ; B 26 0 540 762 ;
+C 107 ; WX 785 ; N k ; B 29 0 749 762 ;
+C 108 ; WX 571 ; N l ; B 26 0 546 762 ;
+C 109 ; WX 1059 ; N m ; B 48 0 1010 762 ;
+C 110 ; WX 809 ; N n ; B 37 0 770 763 ;
+C 111 ; WX 868 ; N o ; B 40 0 828 762 ;
+C 112 ; WX 619 ; N p ; B 29 0 591 762 ;
+C 113 ; WX 872 ; N q ; B 33 -40 850 760 ;
+C 114 ; WX 745 ; N r ; B 34 0 711 761 ;
+C 115 ; WX 484 ; N s ; B 33 -19 444 780 ;
+C 116 ; WX 700 ; N t ; B 31 0 669 762 ;
+C 117 ; WX 803 ; N u ; B 36 0 767 763 ;
+C 118 ; WX 798 ; N v ; B 36 0 762 762 ;
+C 119 ; WX 1056 ; N w ; B 48 0 1009 763 ;
+C 120 ; WX 912 ; N x ; B 41 0 871 762 ;
+C 121 ; WX 790 ; N y ; B 36 0 755 762 ;
+C 122 ; WX 819 ; N z ; B 36 0 782 762 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _83 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 53
+KPX A V -190
+KPX A W -181
+KPX A Y -92
+KPX A v -211
+KPX A y -82
+
+KPX D A -102
+KPX D a -118
+
+KPX F A -92
+KPX F a -98
+
+KPX O A -118
+KPX O V -61
+KPX O W -71
+KPX O a -92
+KPX O v -56
+
+KPX P A -129
+KPX P a -158
+
+KPX S A -77
+KPX S a -50
+
+KPX T A -137
+KPX T O -87
+KPX T a -143
+KPX T o -56
+
+KPX V A -195
+KPX V O -67
+KPX V a -196
+KPX V o -61
+
+KPX W A -154
+KPX W O -82
+KPX W a -154
+KPX W o -61
+
+KPX Y A -251
+KPX Y a -241
+
+KPX a V -201
+KPX a W -186
+KPX a v -190
+KPX a w -181
+KPX a y -75
+
+KPX o A -113
+KPX o V -82
+KPX o W -50
+KPX o a -98
+KPX o v -61
+KPX o w -75
+
+KPX p A -134
+KPX p a -149
+
+KPX v A -176
+KPX v O -82
+KPX v a -196
+KPX v o -82
+
+KPX w a -145
+KPX w o -61
+
+KPX y A -236
+KPX y a -262
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,166 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 8 0 0 2 0 4
+FullName AMBROSIA
+FontName AMBROSIA
+FamilyName AMBROSIA
+Weight normal
+Notice Converted by ALLTYPE
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -43 -66 716 830
+Ascender 558
+Descender -1
+XHeight 560
+CapHeight 826
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 32
+StdVW 59
+EncodingScheme FontSpecific
+StartCharMetrics 80
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 264 ; N exclam ; B 19 9 126 708 ;
+C 35 ; WX 677 ; N numbersign ; B 53 -34 631 778 ;
+C 36 ; WX 429 ; N dollar ; B 21 32 348 667 ;
+C 38 ; WX 536 ; N ampersand ; B 29 9 460 699 ;
+C 39 ; WX 175 ; N quotesingle ; B 14 574 79 695 ;
+C 40 ; WX 229 ; N parenleft ; B 16 14 121 703 ;
+C 41 ; WX 254 ; N parenright ; B 15 14 132 699 ;
+C 44 ; WX 182 ; N comma ; B 31 15 95 133 ;
+C 45 ; WX 254 ; N hyphen ; B 28 328 166 362 ;
+C 46 ; WX 204 ; N period ; B 46 11 111 93 ;
+C 48 ; WX 439 ; N zero ; B 12 7 391 705 ;
+C 49 ; WX 304 ; N one ; B 26 11 251 700 ;
+C 50 ; WX 396 ; N two ; B 19 10 349 702 ;
+C 51 ; WX 414 ; N three ; B 26 5 374 711 ;
+C 52 ; WX 439 ; N four ; B 16 11 392 703 ;
+C 53 ; WX 436 ; N five ; B 34 7 384 701 ;
+C 54 ; WX 411 ; N six ; B 8 8 362 699 ;
+C 55 ; WX 414 ; N seven ; B 20 5 379 701 ;
+C 56 ; WX 411 ; N eight ; B 16 8 363 704 ;
+C 57 ; WX 432 ; N nine ; B 26 11 378 698 ;
+C 58 ; WX 154 ; N colon ; B 26 23 90 482 ;
+C 59 ; WX 161 ; N semicolon ; B 31 -4 96 474 ;
+C 63 ; WX 394 ; N question ; B 12 10 327 688 ;
+C 65 ; WX 521 ; N A ; B 15 7 466 822 ;
+C 66 ; WX 504 ; N B ; B 11 8 450 819 ;
+C 67 ; WX 459 ; N C ; B 15 8 398 823 ;
+C 68 ; WX 513 ; N D ; B 15 8 463 824 ;
+C 69 ; WX 554 ; N E ; B 30 -66 530 826 ;
+C 70 ; WX 491 ; N F ; B 8 -29 459 820 ;
+C 71 ; WX 471 ; N G ; B 3 9 414 822 ;
+C 72 ; WX 550 ; N H ; B 19 9 489 826 ;
+C 73 ; WX 266 ; N I ; B 24 10 206 823 ;
+C 74 ; WX 300 ; N J ; B -12 -60 221 824 ;
+C 75 ; WX 525 ; N K ; B 9 7 468 821 ;
+C 76 ; WX 496 ; N L ; B 15 8 444 823 ;
+C 77 ; WX 629 ; N M ; B 6 9 569 819 ;
+C 78 ; WX 521 ; N N ; B 1 5 466 824 ;
+C 79 ; WX 516 ; N O ; B 10 9 453 830 ;
+C 80 ; WX 513 ; N P ; B 19 9 449 814 ;
+C 81 ; WX 546 ; N Q ; B 9 8 485 824 ;
+C 82 ; WX 559 ; N R ; B 14 4 491 819 ;
+C 83 ; WX 484 ; N S ; B 21 12 415 818 ;
+C 84 ; WX 488 ; N T ; B 11 9 444 825 ;
+C 85 ; WX 563 ; N U ; B 16 12 486 823 ;
+C 86 ; WX 538 ; N V ; B 6 13 489 824 ;
+C 87 ; WX 759 ; N W ; B 11 17 716 819 ;
+C 88 ; WX 588 ; N X ; B 19 8 526 828 ;
+C 89 ; WX 571 ; N Y ; B 11 10 550 823 ;
+C 90 ; WX 571 ; N Z ; B 6 13 501 819 ;
+C 97 ; WX 350 ; N a ; B 10 -2 320 556 ;
+C 98 ; WX 336 ; N b ; B 7 -1 309 554 ;
+C 99 ; WX 300 ; N c ; B 10 -1 273 557 ;
+C 100 ; WX 346 ; N d ; B 10 -1 318 558 ;
+C 101 ; WX 368 ; N e ; B 16 -30 347 561 ;
+C 102 ; WX 329 ; N f ; B 7 -2 306 558 ;
+C 103 ; WX 311 ; N g ; B 1 -1 284 556 ;
+C 104 ; WX 361 ; N h ; B 13 0 335 560 ;
+C 105 ; WX 168 ; N i ; B 16 0 141 557 ;
+C 106 ; WX 146 ; N j ; B -43 -45 116 561 ;
+C 107 ; WX 346 ; N k ; B 6 -2 321 556 ;
+C 108 ; WX 329 ; N l ; B 10 -1 304 557 ;
+C 109 ; WX 414 ; N m ; B 4 0 390 554 ;
+C 110 ; WX 350 ; N n ; B 1 -3 320 557 ;
+C 111 ; WX 339 ; N o ; B 7 0 310 562 ;
+C 112 ; WX 332 ; N p ; B 13 -1 307 551 ;
+C 113 ; WX 357 ; N q ; B 6 -1 333 557 ;
+C 114 ; WX 364 ; N r ; B 9 -4 337 554 ;
+C 115 ; WX 314 ; N s ; B 15 1 284 553 ;
+C 116 ; WX 321 ; N t ; B 7 0 304 559 ;
+C 117 ; WX 357 ; N u ; B 10 0 333 557 ;
+C 118 ; WX 350 ; N v ; B 4 1 335 558 ;
+C 119 ; WX 496 ; N w ; B 7 4 491 554 ;
+C 120 ; WX 379 ; N x ; B 13 -1 361 560 ;
+C 121 ; WX 375 ; N y ; B 7 0 377 557 ;
+C 122 ; WX 371 ; N z ; B 4 1 344 554 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _79 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 38
+KPX space space 350
+KPX space zero 6122
+KPX space P -4878
+
+KPX comma space 346
+
+KPX zero space 396
+
+KPX three space 538
+
+KPX seven space 361
+
+KPX colon space 321
+
+KPX semicolon space 571
+
+KPX A m 5122
+
+KPX C o 122
+
+KPX S space 332
+
+KPX Z space 329
+
+KPX a t 6122
+
+KPX b y -4878
+
+KPX d space 7122
+
+KPX e space 350
+KPX e a 6122
+KPX e r -5878
+
+KPX f o 6122
+
+KPX i b 7122
+KPX i o 6122
+KPX i p 116
+KPX i s 7122
+
+KPX l space 620
+KPX l u 116
+
+KPX n a 6122
+
+KPX o r 6122
+KPX o s 122
+
+KPX p space 329
+
+KPX r o -7878
+
+KPX t space 550
+KPX t S 6122
+
+KPX u space 521
+
+KPX w space 371
+
+EndKernPairs
+EndKernData
+EndFontMetrics

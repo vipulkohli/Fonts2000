@@ -1,0 +1,110 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 4 2 0 0 2 0 4
+FullName PCRounders
+FontName PCRounders
+FamilyName PCRounders
+Weight normal
+Notice Converted to PC format for distribution by Reasonable Solutions, Inc.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -17 -173 892 831
+Ascender 436
+Descender -70
+XHeight 427
+CapHeight 827
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 50
+StdVW 50
+EncodingScheme FontSpecific
+StartCharMetrics 88
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 504 ; N exclam ; B 78 19 136 755 ;
+C 34 ; WX 255 ; N quotedbl ; B 48 625 216 757 ;
+C 35 ; WX 360 ; N numbersign ; B 39 172 290 516 ;
+C 36 ; WX 324 ; N dollar ; B 36 194 280 640 ;
+C 37 ; WX 498 ; N percent ; B 32 198 437 560 ;
+C 38 ; WX 402 ; N ampersand ; B 46 4 347 370 ;
+C 39 ; WX 174 ; N quotesingle ; B 48 625 106 752 ;
+C 40 ; WX 365 ; N parenleft ; B 39 22 305 774 ;
+C 41 ; WX 360 ; N parenright ; B 41 22 307 774 ;
+C 42 ; WX 389 ; N asterisk ; B 117 501 272 644 ;
+C 43 ; WX 366 ; N plus ; B 58 126 311 379 ;
+C 44 ; WX 176 ; N comma ; B 43 -50 101 77 ;
+C 45 ; WX 176 ; N hyphen ; B 43 74 101 222 ;
+C 46 ; WX 176 ; N period ; B 43 19 101 77 ;
+C 47 ; WX 278 ; N slash ; B -17 -19 277 737 ;
+C 48 ; WX 925 ; N zero ; B 38 -25 886 825 ;
+C 49 ; WX 160 ; N one ; B 50 -5 101 805 ;
+C 50 ; WX 900 ; N two ; B 68 -4 784 796 ;
+C 51 ; WX 564 ; N three ; B 47 -25 484 823 ;
+C 52 ; WX 918 ; N four ; B -2 11 856 791 ;
+C 53 ; WX 954 ; N five ; B 2 -25 856 825 ;
+C 54 ; WX 923 ; N six ; B 8 -25 857 825 ;
+C 55 ; WX 780 ; N seven ; B 30 -19 736 814 ;
+C 56 ; WX 872 ; N eight ; B 32 -55 813 795 ;
+C 57 ; WX 923 ; N nine ; B 50 -42 875 807 ;
+C 58 ; WX 144 ; N colon ; B 43 194 101 342 ;
+C 59 ; WX 176 ; N semicolon ; B 43 80 111 342 ;
+C 62 ; WX 176 ; N greater ; B 43 194 101 342 ;
+C 63 ; WX 310 ; N question ; B 31 19 270 520 ;
+C 64 ; WX 486 ; N at ; B 28 -2 452 356 ;
+C 65 ; WX 930 ; N A ; B 35 -25 883 825 ;
+C 66 ; WX 534 ; N B ; B 47 -25 496 822 ;
+C 67 ; WX 564 ; N C ; B 38 -25 475 823 ;
+C 68 ; WX 570 ; N D ; B 41 -24 496 816 ;
+C 69 ; WX 564 ; N E ; B 38 -25 475 823 ;
+C 70 ; WX 564 ; N F ; B 18 -25 571 823 ;
+C 71 ; WX 1000 ; N G ; B 8 -25 856 825 ;
+C 72 ; WX 1000 ; N H ; B 8 37 856 756 ;
+C 73 ; WX 504 ; N I ; B 66 -25 438 823 ;
+C 74 ; WX 546 ; N J ; B 80 -29 452 823 ;
+C 75 ; WX 374 ; N K ; B 8 -18 393 804 ;
+C 76 ; WX 720 ; N L ; B 18 42 665 827 ;
+C 77 ; WX 900 ; N M ; B 8 37 856 756 ;
+C 78 ; WX 900 ; N N ; B 8 37 856 765 ;
+C 79 ; WX 1000 ; N O ; B 8 -25 856 825 ;
+C 80 ; WX 918 ; N P ; B 8 59 834 825 ;
+C 81 ; WX 915 ; N Q ; B 8 -173 856 825 ;
+C 82 ; WX 918 ; N R ; B 8 59 834 825 ;
+C 83 ; WX 954 ; N S ; B 2 -25 856 825 ;
+C 84 ; WX 918 ; N T ; B 107 0 757 825 ;
+C 85 ; WX 972 ; N U ; B 44 -25 892 773 ;
+C 86 ; WX 906 ; N V ; B 34 -19 883 831 ;
+C 87 ; WX 900 ; N W ; B 8 -6 856 713 ;
+C 88 ; WX 537 ; N X ; B 35 -18 458 804 ;
+C 89 ; WX 918 ; N Y ; B 21 -30 873 805 ;
+C 90 ; WX 900 ; N Z ; B 68 -4 787 796 ;
+C 91 ; WX 318 ; N bracketleft ; B 42 377 258 427 ;
+C 97 ; WX 516 ; N a ; B 46 12 470 430 ;
+C 98 ; WX 312 ; N b ; B 45 3 269 436 ;
+C 99 ; WX 336 ; N c ; B 40 5 258 430 ;
+C 100 ; WX 336 ; N d ; B 53 10 281 430 ;
+C 101 ; WX 342 ; N e ; B 29 5 247 430 ;
+C 102 ; WX 372 ; N f ; B 35 5 311 430 ;
+C 103 ; WX 522 ; N g ; B 43 4 467 430 ;
+C 104 ; WX 486 ; N h ; B 28 48 452 406 ;
+C 105 ; WX 300 ; N i ; B 54 0 240 425 ;
+C 106 ; WX 312 ; N j ; B 58 -6 244 422 ;
+C 107 ; WX 294 ; N k ; B 42 0 234 411 ;
+C 108 ; WX 426 ; N l ; B 35 -3 359 390 ;
+C 109 ; WX 516 ; N m ; B 39 0 463 359 ;
+C 110 ; WX 522 ; N n ; B 34 -2 458 356 ;
+C 111 ; WX 522 ; N o ; B 40 4 464 430 ;
+C 112 ; WX 528 ; N p ; B 45 0 466 383 ;
+C 113 ; WX 522 ; N q ; B 44 -70 468 430 ;
+C 114 ; WX 504 ; N r ; B 36 0 449 383 ;
+C 115 ; WX 558 ; N s ; B 49 4 475 430 ;
+C 116 ; WX 408 ; N t ; B 36 17 361 430 ;
+C 117 ; WX 498 ; N u ; B 21 0 445 400 ;
+C 118 ; WX 504 ; N v ; B 31 1 456 427 ;
+C 119 ; WX 534 ; N w ; B 39 -1 463 359 ;
+C 120 ; WX 354 ; N x ; B 69 0 280 411 ;
+C 121 ; WX 525 ; N y ; B 28 0 454 419 ;
+C 122 ; WX 468 ; N z ; B 46 0 406 400 ;
+C 160 ; WX 250 ; N nbspace ; B 0 0 0 0 ;
+C 247 ; WX 378 ; N divide ; B 70 116 323 388 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 250 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

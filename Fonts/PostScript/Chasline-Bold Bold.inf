@@ -1,0 +1,23 @@
+FontName (Chasline-BoldBold)
+FullName (Chasline-Bold Bold)
+AppleName (Chasline-BoldBold)
+FamilyName (Chasline-Bold)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 0
+CapHeight 500
+UnderlinePosition -67
+UnderlineThickness 15
+StemWidth 50
+Serif false
+AppleName (Chasline-Bold)
+MSMenuName (Chasline-Bold Bold)
+VPMenuName (Chasline-Bold Bold)
+WORDMenuName (Chasline-Bold Bold)
+AppleFONDID 5729
+VPStyle (B)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

@@ -1,0 +1,72 @@
+StartFontMetrics 2.0
+Comment Panose 0 0 0 0 0 0 0 0 0 0
+FullName SedimentaryFont
+FontName SedimentaryFont
+FamilyName SedimentaryFont
+Weight normal
+Notice Set of practice fonts created September, 1988.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -37 0 830 768
+Ascender 565
+Descender -85
+XHeight 660
+CapHeight 735
+UnderlinePosition -143
+UnderlineThickness 20
+StdHW 30
+StdVW 30
+EncodingScheme FontSpecific
+StartCharMetrics 50
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 48 ; WX 500 ; N zero ; B 0 0 0 0 ;
+C 65 ; WX 1000 ; N A ; B 93 296 708 557 ;
+C 66 ; WX 1000 ; N B ; B 185 270 600 530 ;
+C 67 ; WX 1000 ; N C ; B 190 185 620 615 ;
+C 68 ; WX 1000 ; N D ; B 80 229 749 590 ;
+C 69 ; WX 1000 ; N E ; B 171 388 610 535 ;
+C 70 ; WX 1000 ; N F ; B -6 298 816 555 ;
+C 71 ; WX 1000 ; N G ; B 301 183 509 620 ;
+C 72 ; WX 1000 ; N H ; B 0 315 800 485 ;
+C 73 ; WX 1000 ; N I ; B -8 212 744 676 ;
+C 74 ; WX 1000 ; N J ; B 188 291 672 468 ;
+C 75 ; WX 1000 ; N K ; B 331 177 534 735 ;
+C 76 ; WX 1000 ; N L ; B 195 74 608 715 ;
+C 77 ; WX 1000 ; N M ; B 94 190 735 603 ;
+C 78 ; WX 1000 ; N N ; B 192 100 605 741 ;
+C 79 ; WX 1000 ; N O ; B 82 175 723 588 ;
+C 80 ; WX 1000 ; N P ; B -37 249 811 556 ;
+C 81 ; WX 1000 ; N Q ; B -7 310 793 490 ;
+C 82 ; WX 1000 ; N R ; B 0 262 800 415 ;
+C 97 ; WX 1000 ; N a ; B 152 236 775 725 ;
+C 98 ; WX 1000 ; N b ; B -8 385 808 535 ;
+C 99 ; WX 1000 ; N c ; B 147 224 776 719 ;
+C 100 ; WX 1000 ; N d ; B -20 181 818 557 ;
+C 101 ; WX 1000 ; N e ; B -9 320 810 510 ;
+C 102 ; WX 1000 ; N f ; B -14 245 814 557 ;
+C 103 ; WX 1000 ; N g ; B -37 285 811 515 ;
+C 104 ; WX 1000 ; N h ; B 10 331 825 553 ;
+C 105 ; WX 1000 ; N i ; B 0 232 805 530 ;
+C 106 ; WX 1000 ; N j ; B 0 320 810 470 ;
+C 107 ; WX 1000 ; N k ; B -30 295 830 565 ;
+C 108 ; WX 1000 ; N l ; B 3 239 802 470 ;
+C 109 ; WX 1000 ; N m ; B 8 142 803 708 ;
+C 110 ; WX 1000 ; N n ; B 2 387 807 540 ;
+C 111 ; WX 1000 ; N o ; B 5 226 805 515 ;
+C 112 ; WX 1000 ; N p ; B 11 120 715 768 ;
+C 113 ; WX 1000 ; N q ; B 249 70 562 701 ;
+C 114 ; WX 1000 ; N r ; B 288 91 489 743 ;
+C 115 ; WX 1000 ; N s ; B 68 301 720 502 ;
+C 116 ; WX 1000 ; N t ; B -5 175 795 525 ;
+C 117 ; WX 1000 ; N u ; B 190 265 625 515 ;
+C 118 ; WX 1000 ; N v ; B 194 236 636 633 ;
+C 119 ; WX 1000 ; N w ; B 95 265 620 536 ;
+C 120 ; WX 1000 ; N x ; B 205 260 605 660 ;
+C 121 ; WX 1000 ; N y ; B 135 250 665 545 ;
+C 122 ; WX 1000 ; N z ; B -15 234 815 566 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 202 ; WX 500 ; N Ecircumflex ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

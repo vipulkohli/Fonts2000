@@ -1,0 +1,108 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 3
+FullName CracklingFire
+FontName CracklingFire
+FamilyName Crackling
+Weight normal
+Notice Crackling Fire   1991 by David Rakowski.  Alle Rechte Vorbehalten.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -7 -62 718 870
+Ascender 870
+Descender -1
+XHeight 870
+CapHeight 870
+UnderlinePosition -116
+UnderlineThickness 17
+StdVW 149
+EncodingScheme FontSpecific
+StartCharMetrics 62
+C 32 ; WX 266 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 231 ; N exclam ; B 7 -3 229 739 ;
+C 44 ; WX 222 ; N comma ; B 35 -63 200 197 ;
+C 46 ; WX 309 ; N period ; B 33 -16 289 233 ;
+C 58 ; WX 309 ; N colon ; B 33 -16 289 537 ;
+C 59 ; WX 309 ; N semicolon ; B 33 -63 289 537 ;
+C 63 ; WX 494 ; N question ; B 10 -16 471 870 ;
+C 65 ; WX 511 ; N A ; B 12 -33 492 863 ;
+C 66 ; WX 506 ; N B ; B 22 -21 492 870 ;
+C 67 ; WX 493 ; N C ; B 9 -5 477 870 ;
+C 68 ; WX 508 ; N D ; B 9 0 490 870 ;
+C 69 ; WX 424 ; N E ; B 19 0 415 870 ;
+C 70 ; WX 450 ; N F ; B 20 -6 430 870 ;
+C 71 ; WX 531 ; N G ; B 20 -10 509 870 ;
+C 72 ; WX 505 ; N H ; B 19 -8 505 826 ;
+C 73 ; WX 300 ; N I ; B 23 -11 274 843 ;
+C 74 ; WX 428 ; N J ; B 25 1 407 857 ;
+C 75 ; WX 493 ; N K ; B 23 -11 470 870 ;
+C 76 ; WX 371 ; N L ; B 11 0 361 870 ;
+C 77 ; WX 664 ; N M ; B 24 -11 635 870 ;
+C 78 ; WX 577 ; N N ; B 19 -7 529 835 ;
+C 79 ; WX 532 ; N O ; B 11 -4 526 843 ;
+C 80 ; WX 461 ; N P ; B 18 -10 470 809 ;
+C 81 ; WX 542 ; N Q ; B -7 -4 521 870 ;
+C 82 ; WX 566 ; N R ; B 23 -14 551 852 ;
+C 83 ; WX 494 ; N S ; B 18 -19 471 870 ;
+C 84 ; WX 472 ; N T ; B 22 -22 453 870 ;
+C 85 ; WX 602 ; N U ; B 27 -36 574 870 ;
+C 86 ; WX 576 ; N V ; B 21 -21 550 870 ;
+C 87 ; WX 730 ; N W ; B 34 -6 718 843 ;
+C 88 ; WX 485 ; N X ; B 22 0 463 870 ;
+C 89 ; WX 554 ; N Y ; B 25 -22 529 870 ;
+C 90 ; WX 511 ; N Z ; B 23 -4 492 835 ;
+C 97 ; WX 486 ; N a ; B 12 -33 492 863 ;
+C 98 ; WX 504 ; N b ; B 22 -21 492 870 ;
+C 99 ; WX 486 ; N c ; B 9 -5 477 870 ;
+C 100 ; WX 498 ; N d ; B 9 0 490 870 ;
+C 101 ; WX 419 ; N e ; B 19 0 415 870 ;
+C 102 ; WX 437 ; N f ; B 20 -6 430 870 ;
+C 103 ; WX 529 ; N g ; B 20 -10 509 870 ;
+C 104 ; WX 498 ; N h ; B 19 -8 505 826 ;
+C 105 ; WX 273 ; N i ; B 23 -11 274 843 ;
+C 106 ; WX 407 ; N j ; B 25 1 407 857 ;
+C 107 ; WX 486 ; N k ; B 23 -11 470 870 ;
+C 108 ; WX 377 ; N l ; B 11 0 361 870 ;
+C 109 ; WX 650 ; N m ; B 24 -11 635 870 ;
+C 110 ; WX 529 ; N n ; B 19 -7 529 835 ;
+C 111 ; WX 529 ; N o ; B 11 -4 526 843 ;
+C 112 ; WX 462 ; N p ; B 18 -10 470 809 ;
+C 113 ; WX 517 ; N q ; B -7 -4 521 870 ;
+C 114 ; WX 529 ; N r ; B 23 -14 551 852 ;
+C 115 ; WX 468 ; N s ; B 18 -19 471 870 ;
+C 116 ; WX 462 ; N t ; B 22 -22 453 870 ;
+C 117 ; WX 577 ; N u ; B 27 -36 574 870 ;
+C 118 ; WX 559 ; N v ; B 21 -21 550 870 ;
+C 119 ; WX 705 ; N w ; B 34 -6 718 843 ;
+C 120 ; WX 468 ; N x ; B 22 0 463 870 ;
+C 121 ; WX 517 ; N y ; B 25 -22 529 870 ;
+C 122 ; WX 480 ; N z ; B 23 -4 492 835 ;
+C 160 ; WX 266 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 266 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 12
+KPX A V -47
+KPX A W -27
+KPX A v -61
+
+KPX O W -20
+
+KPX V A -47
+
+KPX W A -40
+KPX W O -27
+
+KPX f a -30
+
+KPX p a -49
+
+KPX v a -67
+
+KPX w a -49
+
+KPX y a -30
+
+EndKernPairs
+EndKernData
+EndFontMetrics

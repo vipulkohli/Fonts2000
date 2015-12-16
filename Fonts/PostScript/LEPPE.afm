@@ -1,0 +1,171 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 4 0 0 2 0 4
+FullName LEPPE
+FontName LEPPE
+FamilyName LEPPE
+Weight normal
+Notice Lemiesz font © 1991 by D. Rakowski and Columbia University. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -86 1396 801
+Ascender 800
+Descender -86
+XHeight 800
+CapHeight 801
+UnderlinePosition -26
+UnderlineThickness 4
+StdHW 236
+EncodingScheme FontSpecific
+StartCharMetrics 81
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 396 ; N exclam ; B 33 0 348 768 ;
+C 38 ; WX 936 ; N ampersand ; B 47 20 895 800 ;
+C 39 ; WX 376 ; N quotesingle ; B 17 410 346 791 ;
+C 40 ; WX 381 ; N parenleft ; B 14 26 373 766 ;
+C 41 ; WX 412 ; N parenright ; B 10 18 393 796 ;
+C 44 ; WX 380 ; N comma ; B 27 -71 348 304 ;
+C 45 ; WX 652 ; N hyphen ; B 53 279 613 541 ;
+C 46 ; WX 376 ; N period ; B 42 40 338 339 ;
+C 48 ; WX 696 ; N zero ; B 32 0 665 800 ;
+C 49 ; WX 389 ; N one ; B 18 0 371 800 ;
+C 50 ; WX 647 ; N two ; B 30 0 618 800 ;
+C 51 ; WX 606 ; N three ; B 28 0 579 800 ;
+C 52 ; WX 727 ; N four ; B 33 0 694 800 ;
+C 53 ; WX 560 ; N five ; B 26 0 535 800 ;
+C 54 ; WX 682 ; N six ; B 31 0 651 799 ;
+C 55 ; WX 646 ; N seven ; B 29 0 616 800 ;
+C 56 ; WX 686 ; N eight ; B 31 0 655 800 ;
+C 57 ; WX 685 ; N nine ; B 31 0 653 800 ;
+C 63 ; WX 516 ; N question ; B 36 -1 498 800 ;
+C 65 ; WX 975 ; N A ; B 44 0 931 800 ;
+C 66 ; WX 812 ; N B ; B 37 0 775 800 ;
+C 67 ; WX 794 ; N C ; B 36 0 757 800 ;
+C 68 ; WX 922 ; N D ; B 42 0 879 800 ;
+C 69 ; WX 585 ; N E ; B 27 -3 558 801 ;
+C 70 ; WX 596 ; N F ; B 27 0 569 800 ;
+C 71 ; WX 810 ; N G ; B 37 1 774 800 ;
+C 72 ; WX 819 ; N H ; B 37 0 782 800 ;
+C 73 ; WX 396 ; N I ; B 33 0 372 800 ;
+C 74 ; WX 613 ; N J ; B 28 0 586 800 ;
+C 75 ; WX 814 ; N K ; B 37 1 776 800 ;
+C 76 ; WX 605 ; N L ; B 27 0 577 800 ;
+C 77 ; WX 1016 ; N M ; B 46 0 970 800 ;
+C 78 ; WX 812 ; N N ; B 25 0 775 800 ;
+C 79 ; WX 947 ; N O ; B 43 0 905 800 ;
+C 80 ; WX 793 ; N P ; B 36 0 757 800 ;
+C 81 ; WX 892 ; N Q ; B 41 -86 880 796 ;
+C 82 ; WX 818 ; N R ; B 38 0 782 800 ;
+C 83 ; WX 652 ; N S ; B 30 0 623 800 ;
+C 84 ; WX 638 ; N T ; B 29 0 609 799 ;
+C 85 ; WX 837 ; N U ; B 38 -1 799 800 ;
+C 86 ; WX 924 ; N V ; B 42 0 882 799 ;
+C 87 ; WX 1448 ; N W ; B 47 0 1396 800 ;
+C 88 ; WX 1050 ; N X ; B 47 0 1002 800 ;
+C 89 ; WX 954 ; N Y ; B 43 0 911 800 ;
+C 90 ; WX 863 ; N Z ; B 39 -2 824 800 ;
+C 97 ; WX 960 ; N a ; B 44 0 931 800 ;
+C 98 ; WX 812 ; N b ; B 37 0 775 800 ;
+C 99 ; WX 794 ; N c ; B 36 0 757 800 ;
+C 100 ; WX 922 ; N d ; B 42 0 879 800 ;
+C 101 ; WX 585 ; N e ; B 27 -3 558 801 ;
+C 102 ; WX 596 ; N f ; B 27 0 569 800 ;
+C 103 ; WX 810 ; N g ; B 37 1 774 800 ;
+C 104 ; WX 819 ; N h ; B 37 0 782 800 ;
+C 105 ; WX 396 ; N i ; B 33 0 372 800 ;
+C 106 ; WX 613 ; N j ; B 28 0 586 800 ;
+C 107 ; WX 814 ; N k ; B 37 1 776 800 ;
+C 108 ; WX 605 ; N l ; B 27 0 577 800 ;
+C 109 ; WX 1016 ; N m ; B 46 0 970 800 ;
+C 110 ; WX 812 ; N n ; B 25 0 775 800 ;
+C 111 ; WX 947 ; N o ; B 43 0 905 800 ;
+C 112 ; WX 793 ; N p ; B 36 0 757 800 ;
+C 113 ; WX 892 ; N q ; B 41 -86 880 796 ;
+C 114 ; WX 818 ; N r ; B 38 0 782 800 ;
+C 115 ; WX 652 ; N s ; B 30 0 623 800 ;
+C 116 ; WX 638 ; N t ; B 29 0 609 799 ;
+C 117 ; WX 837 ; N u ; B 38 -1 799 800 ;
+C 118 ; WX 924 ; N v ; B 42 0 882 799 ;
+C 119 ; WX 1448 ; N w ; B 47 0 1396 800 ;
+C 120 ; WX 1050 ; N x ; B 47 0 1002 800 ;
+C 121 ; WX 954 ; N y ; B 43 0 911 800 ;
+C 122 ; WX 863 ; N z ; B 39 -2 824 800 ;
+C 145 ; WX 392 ; N quoteleft ; B 35 418 351 794 ;
+C 146 ; WX 376 ; N quoteright ; B 17 410 346 791 ;
+C 147 ; WX 696 ; N quotedblleft ; B 35 418 667 794 ;
+C 148 ; WX 688 ; N quotedblright ; B 17 410 666 791 ;
+C 159 ; WX 395 ; N Ydieresis ; B 23 18 362 772 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _80 ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 48
+KPX A C -86
+KPX A G -46
+KPX A J -39
+KPX A O -59
+KPX A T -86
+KPX A U -33
+KPX A V -192
+KPX A W -205
+KPX A Y -86
+
+KPX D A -39
+
+KPX F A -33
+KPX F o -24
+
+KPX O A -53
+KPX O V -73
+KPX O W -97
+KPX O X -34
+KPX O Y -78
+KPX O x -27
+
+KPX P A -26
+
+KPX T A -53
+KPX T o -66
+
+KPX V A -106
+KPX V O -85
+
+KPX W A -119
+KPX W O -109
+
+KPX Y A -86
+
+KPX a c -41
+KPX a o -49
+KPX a t -73
+KPX a v -224
+KPX a w -138
+KPX a y -99
+
+KPX b y -24
+
+KPX f a -59
+
+KPX l v -191
+KPX l w -166
+KPX l y -86
+
+KPX o a -49
+KPX o v -103
+KPX o w -109
+KPX o x -27
+KPX o y -95
+
+KPX t a -33
+KPX t o -69
+
+KPX v a -106
+KPX v o -102
+
+KPX w a -132
+KPX w o -109
+
+EndKernPairs
+EndKernData
+EndFontMetrics

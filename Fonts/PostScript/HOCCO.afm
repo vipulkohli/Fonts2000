@@ -1,0 +1,50 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 8 0 0 2 0 4
+FullName HOCCO
+FontName HOCCO
+FamilyName HOCCO
+Weight normal
+Notice Horst Caps © 1990 by David Rakowski.  Alle Rechte Vorhalten. Distributed free of charge.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -125 1085 838
+Ascender 834
+Descender -166
+XHeight 500
+CapHeight 838
+UnderlinePosition -27
+UnderlineThickness 4
+StdHW 20
+StdVW 92
+EncodingScheme FontSpecific
+StartCharMetrics 28
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 727 ; N A ; B 33 0 693 833 ;
+C 66 ; WX 683 ; N B ; B 31 0 652 834 ;
+C 67 ; WX 686 ; N C ; B 31 0 654 834 ;
+C 68 ; WX 753 ; N D ; B 34 0 718 833 ;
+C 69 ; WX 783 ; N E ; B 36 0 748 833 ;
+C 70 ; WX 745 ; N F ; B 34 0 711 833 ;
+C 71 ; WX 648 ; N G ; B 30 0 628 833 ;
+C 72 ; WX 715 ; N H ; B 52 -92 691 825 ;
+C 74 ; WX 675 ; N J ; B 44 -93 639 823 ;
+C 75 ; WX 895 ; N K ; B 45 -125 949 838 ;
+C 76 ; WX 728 ; N L ; B 33 1 695 833 ;
+C 77 ; WX 1137 ; N M ; B 52 -2 1085 834 ;
+C 78 ; WX 801 ; N N ; B 37 0 764 833 ;
+C 79 ; WX 684 ; N O ; B 31 0 653 833 ;
+C 80 ; WX 794 ; N P ; B 36 0 758 833 ;
+C 81 ; WX 815 ; N Q ; B 40 -50 786 826 ;
+C 82 ; WX 828 ; N R ; B 38 0 791 834 ;
+C 83 ; WX 618 ; N S ; B 28 0 590 834 ;
+C 84 ; WX 752 ; N T ; B 34 0 717 833 ;
+C 85 ; WX 613 ; N U ; B 28 0 585 833 ;
+C 86 ; WX 721 ; N V ; B 33 1 689 833 ;
+C 87 ; WX 977 ; N W ; B 44 0 932 833 ;
+C 90 ; WX 786 ; N Z ; B 36 0 750 834 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _27 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

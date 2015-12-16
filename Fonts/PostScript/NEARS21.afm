@@ -1,0 +1,103 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName NEARS21
+FontName NEARS21
+FamilyName NEARS21
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -165 1247 928
+Ascender 827
+Descender -173
+XHeight 500
+CapHeight 815
+UnderlinePosition -24
+UnderlineThickness 12
+StdHW 20
+StdVW 20
+EncodingScheme FontSpecific
+StartCharMetrics 82
+C 32 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 270 ; N exclam ; B 58 2 242 808 ;
+C 34 ; WX 291 ; N quotedbl ; B 36 567 305 817 ;
+C 35 ; WX 664 ; N numbersign ; B 47 0 633 802 ;
+C 36 ; WX 541 ; N dollar ; B 21 -110 506 917 ;
+C 37 ; WX 997 ; N percent ; B 4 8 918 799 ;
+C 38 ; WX 724 ; N ampersand ; B 29 2 697 816 ;
+C 39 ; WX 219 ; N quotesingle ; B 24 527 218 812 ;
+C 40 ; WX 485 ; N parenleft ; B 17 -98 462 907 ;
+C 41 ; WX 526 ; N parenright ; B 53 -98 498 907 ;
+C 42 ; WX 396 ; N asterisk ; B 55 502 342 808 ;
+C 43 ; WX 574 ; N plus ; B 40 166 547 669 ;
+C 44 ; WX 240 ; N comma ; B 26 -116 220 170 ;
+C 45 ; WX 483 ; N hyphen ; B 40 329 460 467 ;
+C 46 ; WX 265 ; N period ; B 19 3 248 237 ;
+C 47 ; WX 470 ; N slash ; B 23 -35 437 827 ;
+C 48 ; WX 657 ; N zero ; B 26 -2 625 811 ;
+C 49 ; WX 420 ; N one ; B 46 -3 356 804 ;
+C 50 ; WX 598 ; N two ; B 28 -5 575 810 ;
+C 51 ; WX 611 ; N three ; B 60 1 560 807 ;
+C 52 ; WX 705 ; N four ; B 54 -6 687 809 ;
+C 53 ; WX 567 ; N five ; B 56 5 532 808 ;
+C 54 ; WX 626 ; N six ; B 58 -3 590 813 ;
+C 55 ; WX 582 ; N seven ; B 30 -3 551 809 ;
+C 56 ; WX 632 ; N eight ; B 79 1 581 806 ;
+C 57 ; WX 612 ; N nine ; B 43 -6 581 812 ;
+C 58 ; WX 305 ; N colon ; B 58 2 274 507 ;
+C 59 ; WX 291 ; N semicolon ; B 21 -115 240 492 ;
+C 61 ; WX 451 ; N equal ; B 28 283 429 553 ;
+C 63 ; WX 521 ; N question ; B 2 -3 490 800 ;
+C 64 ; WX 855 ; N at ; B 44 0 859 814 ;
+C 65 ; WX 837 ; N A ; B 20 1 806 801 ;
+C 66 ; WX 585 ; N B ; B 59 -6 558 815 ;
+C 67 ; WX 546 ; N C ; B 30 -6 491 810 ;
+C 68 ; WX 638 ; N D ; B 19 -14 604 805 ;
+C 69 ; WX 612 ; N E ; B 61 -9 538 808 ;
+C 70 ; WX 551 ; N F ; B 35 -9 505 806 ;
+C 71 ; WX 746 ; N G ; B 23 -8 683 811 ;
+C 72 ; WX 760 ; N H ; B 51 -2 693 808 ;
+C 73 ; WX 270 ; N I ; B 40 -6 210 798 ;
+C 74 ; WX 492 ; N J ; B 48 -10 408 798 ;
+C 75 ; WX 768 ; N K ; B 57 -12 722 802 ;
+C 76 ; WX 541 ; N L ; B 52 -7 504 798 ;
+C 77 ; WX 1181 ; N M ; B 11 -6 1131 803 ;
+C 78 ; WX 801 ; N N ; B 48 2 723 807 ;
+C 79 ; WX 857 ; N O ; B 25 -10 811 811 ;
+C 80 ; WX 649 ; N P ; B 54 -11 570 803 ;
+C 81 ; WX 849 ; N Q ; B 25 2 809 807 ;
+C 82 ; WX 649 ; N R ; B 36 -5 536 802 ;
+C 83 ; WX 614 ; N S ; B 26 -17 529 800 ;
+C 84 ; WX 572 ; N T ; B 35 -6 519 812 ;
+C 85 ; WX 686 ; N U ; B 29 -10 639 803 ;
+C 86 ; WX 821 ; N V ; B 9 -2 803 799 ;
+C 87 ; WX 1271 ; N W ; B 12 -4 1247 801 ;
+C 88 ; WX 751 ; N X ; B 45 -9 659 799 ;
+C 89 ; WX 683 ; N Y ; B 5 -7 643 789 ;
+C 90 ; WX 752 ; N Z ; B 77 -4 645 809 ;
+C 91 ; WX 382 ; N bracketleft ; B 38 -98 391 928 ;
+C 92 ; WX 443 ; N backslash ; B 23 -35 437 827 ;
+C 93 ; WX 382 ; N bracketright ; B 27 -98 380 928 ;
+C 95 ; WX 684 ; N underscore ; B 29 -165 680 -44 ;
+C 123 ; WX 382 ; N braceleft ; B 38 -98 391 928 ;
+C 124 ; WX 144 ; N bar ; B 40 -27 178 824 ;
+C 125 ; WX 382 ; N braceright ; B 27 -98 380 928 ;
+C 145 ; WX 219 ; N quoteleft ; B 18 528 212 814 ;
+C 146 ; WX 219 ; N quoteright ; B 24 527 218 812 ;
+C 147 ; WX 465 ; N quotedblleft ; B 18 503 440 789 ;
+C 148 ; WX 479 ; N quotedblright ; B 35 509 457 801 ;
+C 149 ; WX 470 ; N bullet ; B 16 206 448 632 ;
+C 150 ; WX 668 ; N endash ; B 40 329 677 467 ;
+C 151 ; WX 893 ; N emdash ; B 40 329 891 467 ;
+C 153 ; WX 392 ; N trademark ; B 40 588 414 805 ;
+C 160 ; WX 122 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 490 ; N cent ; B 27 16 446 781 ;
+C 163 ; WX 721 ; N sterling ; B 2 10 672 812 ;
+C 169 ; WX 939 ; N copyright ; B 75 -8 895 807 ;
+C 174 ; WX 222 ; N registered ; B 40 593 252 805 ;
+C 175 ; WX 564 ; N macron ; B 40 0 538 497 ;
+C 183 ; WX 361 ; N periodcentered ; B 20 254 351 587 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 122 ; N _81 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

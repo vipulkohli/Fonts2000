@@ -1,0 +1,81 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 5 2 0 0 2 0 4
+FullName OxNard
+FontName OxNard
+FamilyName OxNard
+Weight normal
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -9 -200 1372 769
+Ascender 746
+Descender -175
+XHeight 769
+CapHeight 746
+UnderlinePosition -100
+UnderlineThickness 50
+StdVW 126
+EncodingScheme FontSpecific
+StartCharMetrics 61
+C 32 ; WX 354 ; N space ; B 0 0 0 0 ;
+C 44 ; WX 312 ; N comma ; B 19 -201 294 170 ;
+C 45 ; WX 491 ; N hyphen ; B -6 162 449 467 ;
+C 46 ; WX 413 ; N period ; B 25 -108 327 263 ;
+C 58 ; WX 312 ; N colon ; B -2 -153 312 599 ;
+C 59 ; WX 312 ; N semicolon ; B 10 -201 312 599 ;
+C 65 ; WX 921 ; N A ; B 13 -60 896 736 ;
+C 66 ; WX 766 ; N B ; B 22 -154 746 821 ;
+C 67 ; WX 709 ; N C ; B 4 -108 677 722 ;
+C 68 ; WX 800 ; N D ; B 14 -155 766 711 ;
+C 69 ; WX 826 ; N E ; B -3 -163 796 721 ;
+C 70 ; WX 814 ; N F ; B 34 -135 807 731 ;
+C 71 ; WX 843 ; N G ; B 19 -138 807 720 ;
+C 72 ; WX 923 ; N H ; B 42 -174 887 653 ;
+C 73 ; WX 578 ; N I ; B 8 -180 560 687 ;
+C 74 ; WX 823 ; N J ; B 37 -164 786 723 ;
+C 75 ; WX 868 ; N K ; B 25 -171 866 771 ;
+C 76 ; WX 866 ; N L ; B 23 -172 862 769 ;
+C 77 ; WX 1017 ; N M ; B 32 -87 993 779 ;
+C 78 ; WX 882 ; N N ; B 29 -139 842 771 ;
+C 79 ; WX 909 ; N O ; B 4 -126 890 738 ;
+C 80 ; WX 793 ; N P ; B 19 -164 774 763 ;
+C 81 ; WX 835 ; N Q ; B 16 -175 798 768 ;
+C 82 ; WX 853 ; N R ; B 33 -162 829 755 ;
+C 83 ; WX 823 ; N S ; B 37 -142 789 733 ;
+C 84 ; WX 897 ; N T ; B 33 -137 856 738 ;
+C 85 ; WX 827 ; N U ; B 34 -64 790 752 ;
+C 86 ; WX 961 ; N V ; B 37 -94 925 754 ;
+C 87 ; WX 1394 ; N W ; B -9 -124 1372 781 ;
+C 88 ; WX 1036 ; N X ; B 47 -139 999 774 ;
+C 89 ; WX 872 ; N Y ; B 36 -163 842 769 ;
+C 90 ; WX 943 ; N Z ; B 38 -103 901 746 ;
+C 97 ; WX 921 ; N a ; B 13 -60 896 736 ;
+C 98 ; WX 766 ; N b ; B 22 -154 746 821 ;
+C 99 ; WX 709 ; N c ; B 4 -108 677 722 ;
+C 100 ; WX 800 ; N d ; B 14 -155 766 711 ;
+C 101 ; WX 826 ; N e ; B -3 -163 796 721 ;
+C 102 ; WX 814 ; N f ; B 34 -135 807 731 ;
+C 103 ; WX 843 ; N g ; B 19 -138 807 720 ;
+C 104 ; WX 923 ; N h ; B 42 -174 887 653 ;
+C 105 ; WX 578 ; N i ; B 8 -180 560 687 ;
+C 106 ; WX 823 ; N j ; B 37 -164 786 723 ;
+C 107 ; WX 868 ; N k ; B 25 -171 866 771 ;
+C 108 ; WX 866 ; N l ; B 23 -172 862 769 ;
+C 109 ; WX 1017 ; N m ; B 32 -87 993 779 ;
+C 110 ; WX 882 ; N n ; B 29 -139 842 771 ;
+C 111 ; WX 909 ; N o ; B 4 -126 890 738 ;
+C 112 ; WX 793 ; N p ; B 19 -164 774 763 ;
+C 113 ; WX 835 ; N q ; B 16 -175 798 768 ;
+C 114 ; WX 853 ; N r ; B 33 -162 829 755 ;
+C 115 ; WX 823 ; N s ; B 37 -142 789 733 ;
+C 116 ; WX 897 ; N t ; B 33 -137 856 738 ;
+C 117 ; WX 827 ; N u ; B 34 -64 790 752 ;
+C 118 ; WX 961 ; N v ; B 37 -94 925 754 ;
+C 119 ; WX 1394 ; N w ; B -9 -124 1372 781 ;
+C 120 ; WX 1036 ; N x ; B 47 -139 999 774 ;
+C 121 ; WX 872 ; N y ; B 36 -163 842 769 ;
+C 122 ; WX 943 ; N z ; B 38 -103 901 746 ;
+C 160 ; WX 354 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 354 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

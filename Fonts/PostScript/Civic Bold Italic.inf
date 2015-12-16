@@ -1,0 +1,23 @@
+FontName (CivicBoldItalic)
+FullName (Civic Bold Italic)
+AppleName (CivicBoldItalic)
+FamilyName (Civic)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle -12
+CapHeight 672
+UnderlinePosition -125
+UnderlineThickness 50
+StemWidth 50
+Serif false
+AppleName (Civic)
+MSMenuName (Civic Bold Italic)
+VPMenuName (Civic Bold Italic)
+WORDMenuName (Civic Bold Italic)
+AppleFONDID 4305
+VPStyle (T)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

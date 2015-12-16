@@ -1,0 +1,59 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 0 7 0 0 2 0 4
+FullName RECYCLE
+FontName RECYCLE
+FamilyName RECYCLE
+Weight normal
+Notice  
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -212 1072 803
+Ascender 785
+Descender -215
+XHeight 500
+CapHeight 801
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 194
+StdVW 33
+EncodingScheme FontSpecific
+StartCharMetrics 31
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 864 ; N exclam ; B 38 -201 826 801 ;
+C 35 ; WX 878 ; N numbersign ; B 28 -203 841 803 ;
+C 36 ; WX 831 ; N dollar ; B 26 -203 796 803 ;
+C 37 ; WX 888 ; N percent ; B 28 -203 850 803 ;
+C 38 ; WX 954 ; N ampersand ; B 40 -202 913 803 ;
+C 49 ; WX 1120 ; N one ; B 50 -201 1070 801 ;
+C 50 ; WX 1120 ; N two ; B 44 -207 1071 802 ;
+C 51 ; WX 1120 ; N three ; B 40 -212 1072 803 ;
+C 52 ; WX 1120 ; N four ; B 40 -212 1072 803 ;
+C 53 ; WX 1120 ; N five ; B 40 -212 1072 803 ;
+C 54 ; WX 1120 ; N six ; B 40 -212 1072 803 ;
+C 55 ; WX 1120 ; N seven ; B 40 -212 1072 803 ;
+C 64 ; WX 856 ; N at ; B 32 -202 819 802 ;
+C 65 ; WX 1120 ; N A ; B 44 -207 1071 802 ;
+C 66 ; WX 1100 ; N B ; B 49 -200 1051 801 ;
+C 67 ; WX 1107 ; N C ; B 52 -200 1052 800 ;
+C 68 ; WX 1024 ; N D ; B 10 -199 1010 800 ;
+C 69 ; WX 1100 ; N E ; B 49 -200 1051 801 ;
+C 94 ; WX 829 ; N asciicircum ; B 27 -203 794 803 ;
+C 153 ; WX 856 ; N trademark ; B 32 -202 819 802 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 161 ; WX 864 ; N exclamdown ; B 38 -201 826 801 ;
+C 162 ; WX 831 ; N cent ; B 26 -203 796 803 ;
+C 163 ; WX 878 ; N sterling ; B 28 -203 841 803 ;
+C 167 ; WX 829 ; N section ; B 27 -203 794 803 ;
+C 182 ; WX 954 ; N paragraph ; B 40 -202 913 803 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _30 ; B 0 0 0 0 ;
+C -1 ; WX 888 ; N infinity ; B 28 -203 850 803 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 2
+KPX space space 250
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,117 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 8 3 0 0 2 0 3
+FullName Diner-Fatt
+FontName Diner-Fatt
+FamilyName Diner
+Weight normal
+Notice Diner-Fatt (c) 1992 by David Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -64 391 846
+Ascender 799
+Descender -200
+XHeight 799
+CapHeight 799
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 50
+StdVW 53
+EncodingScheme FontSpecific
+StartCharMetrics 63
+C 32 ; WX 156 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 93 ; N exclam ; B 7 -2 86 799 ;
+C 34 ; WX 150 ; N quotedbl ; B 8 711 146 846 ;
+C 38 ; WX 257 ; N ampersand ; B 18 -6 247 799 ;
+C 39 ; WX 103 ; N quotesingle ; B 12 711 96 846 ;
+C 40 ; WX 158 ; N parenleft ; B 16 -2 146 799 ;
+C 41 ; WX 154 ; N parenright ; B 13 -2 144 799 ;
+C 44 ; WX 89 ; N comma ; B 0 -64 84 71 ;
+C 45 ; WX 207 ; N hyphen ; B 22 312 202 362 ;
+C 46 ; WX 99 ; N period ; B 7 -4 88 77 ;
+C 48 ; WX 235 ; N zero ; B 19 -6 223 799 ;
+C 49 ; WX 81 ; N one ; B 14 0 69 799 ;
+C 50 ; WX 235 ; N two ; B 15 -2 217 799 ;
+C 51 ; WX 226 ; N three ; B 14 -1 216 804 ;
+C 52 ; WX 258 ; N four ; B 15 -2 252 800 ;
+C 53 ; WX 228 ; N five ; B 14 -2 219 801 ;
+C 54 ; WX 236 ; N six ; B 18 -4 228 799 ;
+C 55 ; WX 237 ; N seven ; B 10 -2 226 799 ;
+C 56 ; WX 229 ; N eight ; B 17 -3 217 801 ;
+C 57 ; WX 234 ; N nine ; B 15 -3 219 801 ;
+C 58 ; WX 109 ; N colon ; B 24 55 105 349 ;
+C 59 ; WX 109 ; N semicolon ; B 15 1 99 349 ;
+C 63 ; WX 240 ; N question ; B 19 0 225 803 ;
+C 65 ; WX 262 ; N A ; B 11 -2 251 799 ;
+C 66 ; WX 273 ; N B ; B 13 -2 266 799 ;
+C 67 ; WX 227 ; N C ; B 13 -6 213 799 ;
+C 68 ; WX 225 ; N D ; B 14 -2 216 799 ;
+C 69 ; WX 263 ; N E ; B 8 -2 248 799 ;
+C 70 ; WX 262 ; N F ; B 12 -2 246 799 ;
+C 71 ; WX 235 ; N G ; B 14 -4 215 799 ;
+C 72 ; WX 272 ; N H ; B 10 -2 257 799 ;
+C 73 ; WX 85 ; N I ; B 18 -2 73 799 ;
+C 74 ; WX 228 ; N J ; B 11 -4 215 799 ;
+C 75 ; WX 325 ; N K ; B 11 -4 314 799 ;
+C 76 ; WX 210 ; N L ; B 10 -2 195 799 ;
+C 77 ; WX 404 ; N M ; B 18 -2 391 799 ;
+C 78 ; WX 235 ; N N ; B 18 -2 223 799 ;
+C 79 ; WX 231 ; N O ; B 15 -4 219 801 ;
+C 80 ; WX 268 ; N P ; B 11 -2 260 799 ;
+C 81 ; WX 229 ; N Q ; B 16 -10 250 801 ;
+C 82 ; WX 324 ; N R ; B 11 -4 314 799 ;
+C 83 ; WX 231 ; N S ; B 14 -3 221 802 ;
+C 84 ; WX 226 ; N T ; B 14 -2 214 799 ;
+C 85 ; WX 235 ; N U ; B 17 -4 223 799 ;
+C 86 ; WX 262 ; N V ; B 13 -2 250 799 ;
+C 87 ; WX 382 ; N W ; B 20 -2 381 799 ;
+C 88 ; WX 277 ; N X ; B 16 -2 271 799 ;
+C 89 ; WX 244 ; N Y ; B 12 -2 241 799 ;
+C 90 ; WX 234 ; N Z ; B 14 -2 225 799 ;
+C 97 ; WX 284 ; N a ; B 14 -2 267 799 ;
+C 107 ; WX 276 ; N k ; B 14 -2 263 799 ;
+C 109 ; WX 387 ; N m ; B 22 0 375 801 ;
+C 119 ; WX 384 ; N w ; B 19 -2 372 799 ;
+C 121 ; WX 231 ; N y ; B 14 -4 218 799 ;
+C 145 ; WX 107 ; N quoteleft ; B 15 711 98 846 ;
+C 146 ; WX 107 ; N quoteright ; B 12 711 96 846 ;
+C 147 ; WX 157 ; N quotedblleft ; B 15 711 152 846 ;
+C 148 ; WX 161 ; N quotedblright ; B 12 711 150 846 ;
+C 150 ; WX 269 ; N endash ; B 34 312 258 362 ;
+C 151 ; WX 309 ; N emdash ; B 28 312 306 362 ;
+C 160 ; WX 156 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 156 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 19
+KPX A B -24
+KPX A E -24
+KPX A F -19
+KPX A P -19
+KPX A T -43
+KPX A V -48
+KPX A W -43
+KPX A Y -48
+
+KPX C B -48
+
+KPX O Y -14
+
+KPX P A -19
+
+KPX R R -29
+
+KPX T comma -38
+KPX T period -34
+KPX T A -43
+
+KPX V A -43
+
+KPX W A -43
+
+KPX Y A -62
+KPX Y O -19
+
+EndKernPairs
+EndKernData
+EndFontMetrics

@@ -1,0 +1,153 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 5 3 3 0 0 2 0 4
+FullName Alexandria
+FontName Alexandria
+FamilyName Alexandria
+Weight normal
+Notice Alexandria 1.0 1990 by Hank Gillette.  This font is free.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -1 -245 770 810
+Ascender 635
+Descender -180
+XHeight 450
+CapHeight 641
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 90
+StdVW 90
+EncodingScheme FontSpecific
+StartCharMetrics 131
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 173 ; N exclam ; B 45 0 135 630 ;
+C 34 ; WX 436 ; N quotedbl ; B 90 405 360 585 ;
+C 35 ; WX 545 ; N numbersign ; B 37 210 509 660 ;
+C 36 ; WX 450 ; N dollar ; B 45 -90 406 765 ;
+C 37 ; WX 726 ; N percent ; B 45 -3 688 675 ;
+C 38 ; WX 495 ; N ampersand ; B 45 -1 450 680 ;
+C 39 ; WX 180 ; N quotesingle ; B 45 405 135 585 ;
+C 40 ; WX 315 ; N parenleft ; B 45 -200 270 705 ;
+C 41 ; WX 315 ; N parenright ; B 45 -200 270 705 ;
+C 42 ; WX 405 ; N asterisk ; B 45 300 360 615 ;
+C 43 ; WX 450 ; N plus ; B 45 135 405 510 ;
+C 44 ; WX 180 ; N comma ; B 45 -90 135 90 ;
+C 45 ; WX 207 ; N hyphen ; B 26 125 181 215 ;
+C 46 ; WX 180 ; N period ; B 45 0 135 90 ;
+C 47 ; WX 422 ; N slash ; B 41 0 380 633 ;
+C 48 ; WX 410 ; N zero ; B 45 0 365 635 ;
+C 49 ; WX 270 ; N one ; B 45 0 225 630 ;
+C 50 ; WX 450 ; N two ; B 45 0 408 630 ;
+C 51 ; WX 450 ; N three ; B 45 -3 408 630 ;
+C 52 ; WX 450 ; N four ; B 45 0 405 630 ;
+C 53 ; WX 450 ; N five ; B 44 0 405 630 ;
+C 54 ; WX 450 ; N six ; B 44 0 408 630 ;
+C 55 ; WX 450 ; N seven ; B 45 0 405 630 ;
+C 56 ; WX 450 ; N eight ; B 44 0 405 630 ;
+C 57 ; WX 445 ; N nine ; B 45 0 409 630 ;
+C 58 ; WX 180 ; N colon ; B 45 0 135 456 ;
+C 59 ; WX 180 ; N semicolon ; B 45 -90 135 456 ;
+C 60 ; WX 360 ; N less ; B 45 45 315 450 ;
+C 61 ; WX 450 ; N equal ; B 45 75 405 345 ;
+C 62 ; WX 360 ; N greater ; B 45 45 315 450 ;
+C 63 ; WX 446 ; N question ; B 45 0 408 630 ;
+C 64 ; WX 725 ; N at ; B 44 0 681 638 ;
+C 65 ; WX 540 ; N A ; B 45 0 495 630 ;
+C 66 ; WX 495 ; N B ; B 45 0 463 644 ;
+C 67 ; WX 450 ; N C ; B 45 0 405 630 ;
+C 68 ; WX 495 ; N D ; B 45 -1 451 630 ;
+C 69 ; WX 495 ; N E ; B 45 0 450 630 ;
+C 70 ; WX 495 ; N F ; B 45 0 450 630 ;
+C 71 ; WX 450 ; N G ; B 44 0 408 632 ;
+C 72 ; WX 540 ; N H ; B 45 0 495 630 ;
+C 73 ; WX 270 ; N I ; B 45 0 225 630 ;
+C 74 ; WX 405 ; N J ; B 44 -3 360 630 ;
+C 75 ; WX 612 ; N K ; B 45 0 590 635 ;
+C 76 ; WX 500 ; N L ; B 45 0 455 636 ;
+C 77 ; WX 815 ; N M ; B 45 0 770 636 ;
+C 78 ; WX 545 ; N N ; B 45 0 500 637 ;
+C 79 ; WX 455 ; N O ; B 45 0 410 630 ;
+C 80 ; WX 495 ; N P ; B 45 0 451 635 ;
+C 81 ; WX 450 ; N Q ; B 45 -90 411 634 ;
+C 82 ; WX 545 ; N R ; B 45 0 500 637 ;
+C 83 ; WX 450 ; N S ; B 44 0 409 631 ;
+C 84 ; WX 540 ; N T ; B 45 0 495 630 ;
+C 85 ; WX 540 ; N U ; B 45 0 495 630 ;
+C 86 ; WX 540 ; N V ; B 45 0 495 630 ;
+C 87 ; WX 810 ; N W ; B 45 0 765 630 ;
+C 88 ; WX 580 ; N X ; B 45 0 545 625 ;
+C 89 ; WX 545 ; N Y ; B 45 0 500 635 ;
+C 90 ; WX 455 ; N Z ; B 45 0 410 635 ;
+C 91 ; WX 270 ; N bracketleft ; B 45 0 225 810 ;
+C 92 ; WX 450 ; N backslash ; B 45 0 408 633 ;
+C 93 ; WX 270 ; N bracketright ; B 45 0 225 810 ;
+C 94 ; WX 298 ; N asciicircum ; B 45 430 270 570 ;
+C 95 ; WX 526 ; N underscore ; B 45 -70 495 -22 ;
+C 96 ; WX 225 ; N grave ; B 45 430 180 570 ;
+C 97 ; WX 415 ; N a ; B 28 0 393 452 ;
+C 98 ; WX 450 ; N b ; B 45 -1 409 630 ;
+C 99 ; WX 410 ; N c ; B 46 0 366 455 ;
+C 100 ; WX 450 ; N d ; B 44 -1 407 630 ;
+C 101 ; WX 415 ; N e ; B 45 0 362 451 ;
+C 102 ; WX 310 ; N f ; B 45 0 265 630 ;
+C 103 ; WX 450 ; N g ; B 45 -180 405 455 ;
+C 104 ; WX 495 ; N h ; B 45 0 450 630 ;
+C 105 ; WX 247 ; N i ; B 35 0 215 635 ;
+C 106 ; WX 247 ; N j ; B 34 -245 215 573 ;
+C 107 ; WX 465 ; N k ; B 32 0 442 635 ;
+C 108 ; WX 230 ; N l ; B 26 0 206 635 ;
+C 109 ; WX 690 ; N m ; B 29 0 664 450 ;
+C 110 ; WX 463 ; N n ; B 23 0 443 450 ;
+C 111 ; WX 365 ; N o ; B 23 0 343 450 ;
+C 112 ; WX 401 ; N p ; B 20 -180 383 451 ;
+C 113 ; WX 403 ; N q ; B 22 -180 385 451 ;
+C 114 ; WX 405 ; N r ; B 20 0 380 455 ;
+C 115 ; WX 358 ; N s ; B 20 0 335 450 ;
+C 116 ; WX 274 ; N t ; B 23 0 251 590 ;
+C 117 ; WX 459 ; N u ; B 23 0 443 450 ;
+C 118 ; WX 462 ; N v ; B 20 0 440 450 ;
+C 119 ; WX 672 ; N w ; B 23 0 658 449 ;
+C 120 ; WX 445 ; N x ; B 22 0 427 450 ;
+C 121 ; WX 448 ; N y ; B 23 -190 428 450 ;
+C 122 ; WX 363 ; N z ; B 23 0 343 450 ;
+C 123 ; WX 227 ; N braceleft ; B 7 -159 202 660 ;
+C 124 ; WX 151 ; N bar ; B 29 -160 119 660 ;
+C 125 ; WX 221 ; N braceright ; B 19 -159 214 660 ;
+C 126 ; WX 450 ; N asciitilde ; B 33 398 427 613 ;
+C 133 ; WX 611 ; N ellipsis ; B 33 0 573 90 ;
+C 134 ; WX 179 ; N dagger ; B 25 298 157 613 ;
+C 140 ; WX 711 ; N OE ; B 31 -66 671 565 ;
+C 145 ; WX 166 ; N quoteleft ; B 35 450 125 630 ;
+C 146 ; WX 161 ; N quoteright ; B 38 450 128 630 ;
+C 147 ; WX 353 ; N quotedblleft ; B 36 445 306 625 ;
+C 148 ; WX 349 ; N quotedblright ; B 43 435 313 615 ;
+C 149 ; WX 550 ; N bullet ; B -1 22 552 438 ;
+C 150 ; WX 277 ; N endash ; B 27 125 247 215 ;
+C 151 ; WX 457 ; N emdash ; B 27 125 432 215 ;
+C 153 ; WX 493 ; N trademark ; B 23 345 451 569 ;
+C 156 ; WX 627 ; N oe ; B 38 -60 587 391 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 161 ; WX 178 ; N exclamdown ; B 45 -65 135 565 ;
+C 162 ; WX 417 ; N cent ; B 46 -84 366 542 ;
+C 163 ; WX 505 ; N sterling ; B 0 0 405 630 ;
+C 168 ; WX 254 ; N dieresis ; B 44 526 227 571 ;
+C 169 ; WX 537 ; N copyright ; B 34 3 500 468 ;
+C 174 ; WX 537 ; N registered ; B 34 3 500 468 ;
+C 176 ; WX 315 ; N degree ; B -1 382 243 572 ;
+C 180 ; WX 188 ; N acute ; B 28 433 168 568 ;
+C 191 ; WX 423 ; N questiondown ; B 33 -60 396 570 ;
+C 198 ; WX 766 ; N AE ; B 45 0 720 630 ;
+C 216 ; WX 480 ; N Oslash ; B 19 -89 452 634 ;
+C 229 ; WX 578 ; N aring ; B 28 -5 548 670 ;
+C 230 ; WX 609 ; N ae ; B 28 0 577 452 ;
+C 247 ; WX 452 ; N divide ; B 22 51 427 507 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 700 ; N DC1 ; B 45 0 655 610 ;
+C -1 ; WX 588 ; N DC2 ; B 66 0 539 727 ;
+C -1 ; WX 610 ; N DC4 ; B 45 -5 565 670 ;
+C -1 ; WX 590 ; N _127 ; B 0 0 500 635 ;
+C -1 ; WX 573 ; N apple ; B 28 -5 548 670 ;
+C -1 ; WX 584 ; N lozenge ; B 33 17 545 529 ;
+C -1 ; WX 436 ; N notequal ; B 45 11 405 421 ;
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,123 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 3 0 0 2 0 4
+FullName RoostHeavy
+FontName RoostHeavy
+FamilyName RoostHeavy
+Weight normal
+Notice Copyright 1990, 1991 FontBank, Inc.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -71 -246 990 842
+Ascender 720
+Descender -180
+XHeight 540
+CapHeight 720
+UnderlinePosition -206
+UnderlineThickness 20
+StdHW 216
+StdVW 245
+EncodingScheme FontSpecific
+StartCharMetrics 101
+C 32 ; WX 290 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 291 ; N exclam ; B 29 0 262 720 ;
+C 34 ; WX 426 ; N quotedbl ; B 29 468 397 720 ;
+C 35 ; WX 586 ; N numbersign ; B 29 0 557 720 ;
+C 36 ; WX 523 ; N dollar ; B -18 -73 542 790 ;
+C 37 ; WX 991 ; N percent ; B 21 -14 990 754 ;
+C 38 ; WX 706 ; N ampersand ; B 8 0 699 720 ;
+C 39 ; WX 224 ; N quotesingle ; B 29 468 195 720 ;
+C 40 ; WX 317 ; N parenleft ; B 9 -202 331 842 ;
+C 41 ; WX 317 ; N parenright ; B -14 -202 311 842 ;
+C 42 ; WX 486 ; N asterisk ; B 14 293 472 725 ;
+C 43 ; WX 624 ; N plus ; B 40 90 584 630 ;
+C 44 ; WX 279 ; N comma ; B -43 -93 286 228 ;
+C 45 ; WX 346 ; N hyphen ; B 14 165 332 361 ;
+C 46 ; WX 257 ; N period ; B 14 0 243 228 ;
+C 47 ; WX 592 ; N slash ; B 0 0 592 720 ;
+C 48 ; WX 642 ; N zero ; B -39 -12 641 743 ;
+C 49 ; WX 624 ; N one ; B 69 0 571 720 ;
+C 50 ; WX 624 ; N two ; B 22 0 594 720 ;
+C 51 ; WX 624 ; N three ; B 43 0 584 720 ;
+C 52 ; WX 624 ; N four ; B 23 0 601 720 ;
+C 53 ; WX 624 ; N five ; B 46 -1 595 720 ;
+C 54 ; WX 624 ; N six ; B -70 -40 634 720 ;
+C 55 ; WX 623 ; N seven ; B 7 0 616 720 ;
+C 56 ; WX 623 ; N eight ; B -14 -15 634 739 ;
+C 57 ; WX 624 ; N nine ; B 0 -18 694 743 ;
+C 58 ; WX 290 ; N colon ; B 29 0 261 541 ;
+C 59 ; WX 315 ; N semicolon ; B -43 -93 286 540 ;
+C 63 ; WX 536 ; N question ; B 7 0 547 720 ;
+C 64 ; WX 800 ; N at ; B 43 -16 802 738 ;
+C 65 ; WX 674 ; N A ; B 0 -132 696 720 ;
+C 66 ; WX 680 ; N B ; B -22 0 691 720 ;
+C 67 ; WX 525 ; N C ; B -20 -1 532 720 ;
+C 68 ; WX 700 ; N D ; B -22 0 706 720 ;
+C 69 ; WX 590 ; N E ; B 29 0 597 720 ;
+C 70 ; WX 543 ; N F ; B 29 -130 565 720 ;
+C 71 ; WX 733 ; N G ; B -11 0 704 720 ;
+C 72 ; WX 689 ; N H ; B 29 -131 660 720 ;
+C 73 ; WX 303 ; N I ; B 29 0 274 720 ;
+C 74 ; WX 401 ; N J ; B -29 -246 372 720 ;
+C 75 ; WX 678 ; N K ; B 29 0 700 720 ;
+C 76 ; WX 509 ; N L ; B 29 0 531 720 ;
+C 77 ; WX 781 ; N M ; B 29 0 752 720 ;
+C 78 ; WX 667 ; N N ; B 29 -126 655 720 ;
+C 79 ; WX 750 ; N O ; B 0 -12 772 751 ;
+C 80 ; WX 660 ; N P ; B 4 0 690 720 ;
+C 81 ; WX 741 ; N Q ; B -41 -30 770 739 ;
+C 82 ; WX 697 ; N R ; B 3 -130 726 720 ;
+C 83 ; WX 523 ; N S ; B -7 0 544 720 ;
+C 84 ; WX 580 ; N T ; B 13 0 583 720 ;
+C 85 ; WX 692 ; N U ; B -71 0 663 720 ;
+C 86 ; WX 623 ; N V ; B -22 0 645 720 ;
+C 87 ; WX 966 ; N W ; B -14 0 980 720 ;
+C 88 ; WX 630 ; N X ; B -22 0 652 720 ;
+C 89 ; WX 612 ; N Y ; B -14 -131 642 720 ;
+C 90 ; WX 598 ; N Z ; B -7 0 591 720 ;
+C 91 ; WX 300 ; N bracketleft ; B 36 -173 314 821 ;
+C 93 ; WX 300 ; N bracketright ; B -14 -173 264 821 ;
+C 97 ; WX 581 ; N a ; B -14 0 552 540 ;
+C 98 ; WX 581 ; N b ; B 29 0 569 720 ;
+C 99 ; WX 443 ; N c ; B 11 -4 450 540 ;
+C 100 ; WX 581 ; N d ; B -3 0 552 720 ;
+C 101 ; WX 563 ; N e ; B -16 0 554 563 ;
+C 102 ; WX 360 ; N f ; B 0 0 396 720 ;
+C 103 ; WX 582 ; N g ; B -42 -200 553 540 ;
+C 104 ; WX 580 ; N h ; B 29 0 551 720 ;
+C 105 ; WX 288 ; N i ; B 37 0 267 727 ;
+C 106 ; WX 291 ; N j ; B -36 -187 262 727 ;
+C 107 ; WX 564 ; N k ; B 29 0 578 720 ;
+C 108 ; WX 288 ; N l ; B 29 0 259 720 ;
+C 109 ; WX 834 ; N m ; B 29 0 805 540 ;
+C 110 ; WX 573 ; N n ; B 29 0 544 540 ;
+C 111 ; WX 577 ; N o ; B 9 -17 593 552 ;
+C 112 ; WX 581 ; N p ; B 29 -180 583 540 ;
+C 113 ; WX 581 ; N q ; B -3 -180 552 540 ;
+C 114 ; WX 360 ; N r ; B 29 0 367 545 ;
+C 115 ; WX 436 ; N s ; B -14 0 429 540 ;
+C 116 ; WX 360 ; N t ; B -4 0 382 700 ;
+C 117 ; WX 582 ; N u ; B -50 0 553 540 ;
+C 118 ; WX 528 ; N v ; B -29 0 557 540 ;
+C 119 ; WX 844 ; N w ; B -14 0 858 540 ;
+C 120 ; WX 548 ; N x ; B -22 0 570 540 ;
+C 121 ; WX 548 ; N y ; B -29 -180 577 540 ;
+C 122 ; WX 501 ; N z ; B 0 0 501 540 ;
+C 123 ; WX 367 ; N braceleft ; B 29 -122 338 842 ;
+C 125 ; WX 367 ; N braceright ; B 29 -122 338 842 ;
+C 145 ; WX 315 ; N quoteleft ; B -7 400 322 720 ;
+C 146 ; WX 315 ; N quoteright ; B -7 400 322 720 ;
+C 147 ; WX 574 ; N quotedblleft ; B -7 400 581 720 ;
+C 148 ; WX 574 ; N quotedblright ; B -7 400 581 720 ;
+C 149 ; WX 346 ; N bullet ; B 29 216 317 504 ;
+C 150 ; WX 624 ; N endash ; B 42 288 582 432 ;
+C 151 ; WX 476 ; N emdash ; B 22 95 454 267 ;
+C 153 ; WX 890 ; N trademark ; B 18 293 855 673 ;
+C 160 ; WX 290 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 443 ; N cent ; B 11 -62 450 606 ;
+C 163 ; WX 576 ; N sterling ; B 0 0 590 720 ;
+C 169 ; WX 790 ; N copyright ; B 51 -15 741 675 ;
+C 174 ; WX 790 ; N registered ; B 50 -20 740 670 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 290 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

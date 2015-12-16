@@ -1,0 +1,106 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName WILDWEST
+FontName WILDWEST
+FamilyName WILDWEST
+Weight normal
+Notice  
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -193 -254 870 655
+Ascender 634
+Descender -199
+XHeight 393
+CapHeight 655
+UnderlinePosition -80
+UnderlineThickness 50
+StdHW 144
+StdVW 55
+EncodingScheme FontSpecific
+StartCharMetrics 76
+C 32 ; WX 501 ; N space ; B 0 0 0 0 ;
+C 36 ; WX 268 ; N dollar ; B 12 7 245 641 ;
+C 37 ; WX 804 ; N percent ; B 68 7 508 565 ;
+C 39 ; WX 158 ; N quotesingle ; B 0 352 198 545 ;
+C 42 ; WX 646 ; N asterisk ; B 55 1 480 517 ;
+C 44 ; WX 435 ; N comma ; B 338 -83 529 138 ;
+C 45 ; WX 7 ; N hyphen ; B -193 290 193 345 ;
+C 46 ; WX 437 ; N period ; B -3 14 182 158 ;
+C 51 ; WX 318 ; N three ; B 8 1 289 634 ;
+C 52 ; WX 397 ; N four ; B 10 1 367 641 ;
+C 53 ; WX 338 ; N five ; B 11 1 307 634 ;
+C 54 ; WX 318 ; N six ; B 8 1 289 627 ;
+C 55 ; WX 328 ; N seven ; B 15 7 303 634 ;
+C 56 ; WX 318 ; N eight ; B 11 1 286 641 ;
+C 57 ; WX 338 ; N nine ; B 15 1 303 634 ;
+C 63 ; WX 358 ; N question ; B 7 1 329 641 ;
+C 65 ; WX 626 ; N A ; B 18 7 596 655 ;
+C 66 ; WX 466 ; N B ; B 15 7 441 655 ;
+C 67 ; WX 408 ; N C ; B 17 7 380 648 ;
+C 68 ; WX 476 ; N D ; B 24 1 450 641 ;
+C 69 ; WX 486 ; N E ; B 21 7 454 641 ;
+C 70 ; WX 486 ; N F ; B 21 1 454 641 ;
+C 71 ; WX 388 ; N G ; B 17 7 360 641 ;
+C 72 ; WX 606 ; N H ; B 9 1 565 634 ;
+C 73 ; WX 238 ; N I ; B 2 7 215 641 ;
+C 74 ; WX 417 ; N J ; B 23 1 394 634 ;
+C 75 ; WX 615 ; N K ; B 12 7 583 634 ;
+C 76 ; WX 486 ; N L ; B 21 1 454 634 ;
+C 77 ; WX 774 ; N M ; B 15 7 738 634 ;
+C 78 ; WX 606 ; N N ; B 9 7 565 641 ;
+C 79 ; WX 397 ; N O ; B 10 1 367 634 ;
+C 80 ; WX 477 ; N P ; B 12 1 444 634 ;
+C 81 ; WX 408 ; N Q ; B 17 -109 380 634 ;
+C 82 ; WX 556 ; N R ; B 17 7 519 641 ;
+C 83 ; WX 397 ; N S ; B 6 1 370 634 ;
+C 84 ; WX 477 ; N T ; B 12 1 444 634 ;
+C 85 ; WX 536 ; N U ; B 13 7 502 641 ;
+C 86 ; WX 615 ; N V ; B 15 1 579 641 ;
+C 87 ; WX 923 ; N W ; B 23 1 870 641 ;
+C 88 ; WX 615 ; N X ; B 15 7 579 641 ;
+C 89 ; WX 615 ; N Y ; B 15 7 579 641 ;
+C 90 ; WX 477 ; N Z ; B 12 7 444 648 ;
+C 97 ; WX 388 ; N a ; B 17 1 360 393 ;
+C 98 ; WX 388 ; N b ; B 17 1 360 634 ;
+C 99 ; WX 248 ; N c ; B 10 1 228 386 ;
+C 100 ; WX 378 ; N d ; B 10 7 347 634 ;
+C 101 ; WX 278 ; N e ; B 6 1 252 386 ;
+C 102 ; WX 248 ; N f ; B 13 1 226 634 ;
+C 103 ; WX 288 ; N g ; B 1 -212 255 393 ;
+C 104 ; WX 437 ; N h ; B 13 1 404 627 ;
+C 105 ; WX 199 ; N i ; B 4 1 175 641 ;
+C 106 ; WX 248 ; N j ; B 10 -193 228 641 ;
+C 107 ; WX 457 ; N k ; B 12 1 424 627 ;
+C 108 ; WX 228 ; N l ; B 13 1 204 634 ;
+C 109 ; WX 655 ; N m ; B 18 1 616 393 ;
+C 110 ; WX 437 ; N n ; B 9 7 408 399 ;
+C 111 ; WX 248 ; N o ; B 10 7 228 399 ;
+C 112 ; WX 388 ; N p ; B 17 -199 360 399 ;
+C 113 ; WX 378 ; N q ; B 10 -199 347 399 ;
+C 114 ; WX 348 ; N r ; B 4 1 314 386 ;
+C 115 ; WX 238 ; N s ; B 2 1 215 386 ;
+C 116 ; WX 259 ; N t ; B 19 1 238 496 ;
+C 117 ; WX 466 ; N u ; B 15 1 441 386 ;
+C 118 ; WX 437 ; N v ; B 9 1 408 393 ;
+C 119 ; WX 664 ; N w ; B 11 1 623 386 ;
+C 120 ; WX 427 ; N x ; B 10 1 388 393 ;
+C 121 ; WX 486 ; N y ; B 21 -254 454 393 ;
+C 122 ; WX 288 ; N z ; B 1 1 255 393 ;
+C 145 ; WX 158 ; N quoteleft ; B 0 352 198 545 ;
+C 146 ; WX 158 ; N quoteright ; B 0 352 198 545 ;
+C 160 ; WX 501 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 501 ; N _73 ; B 0 0 0 0 ;
+C -1 ; WX 7 ; N _74 ; B -193 290 193 345 ;
+C -1 ; WX 536 ; N exclam ; B 0 1 198 586 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 2
+KPX comma space -296
+
+KPX i p 115
+
+EndKernPairs
+EndKernData
+EndFontMetrics

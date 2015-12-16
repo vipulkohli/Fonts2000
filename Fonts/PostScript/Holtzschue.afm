@@ -1,0 +1,93 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 4 7 0 0 2 0 4
+FullName Holtzschue
+FontName Holtzschue
+FamilyName Holtzschue
+Weight normal
+Notice Holtzschue (c) 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -80 1294 842
+Ascender 853
+Descender -200
+XHeight 640
+CapHeight 834
+UnderlinePosition -136
+UnderlineThickness 118
+StdHW 42
+StdVW 68
+EncodingScheme FontSpecific
+StartCharMetrics 42
+C 32 ; WX 417 ; N space ; B 0 0 0 0 ;
+C 36 ; WX 603 ; N dollar ; B 16 -87 578 831 ;
+C 38 ; WX 850 ; N ampersand ; B 36 -13 811 833 ;
+C 48 ; WX 699 ; N zero ; B 25 -19 709 848 ;
+C 49 ; WX 579 ; N one ; B 5 -1 553 853 ;
+C 50 ; WX 603 ; N two ; B 28 -1 618 842 ;
+C 51 ; WX 642 ; N three ; B 28 -17 614 860 ;
+C 52 ; WX 685 ; N four ; B 11 0 657 833 ;
+C 53 ; WX 597 ; N five ; B 28 -15 580 833 ;
+C 54 ; WX 658 ; N six ; B 23 -16 647 865 ;
+C 55 ; WX 611 ; N seven ; B 28 0 599 833 ;
+C 56 ; WX 628 ; N eight ; B 22 -8 620 848 ;
+C 57 ; WX 614 ; N nine ; B 30 -13 614 846 ;
+C 65 ; WX 922 ; N A ; B 24 0 880 838 ;
+C 66 ; WX 805 ; N B ; B 30 -36 783 907 ;
+C 67 ; WX 671 ; N C ; B 35 -15 641 846 ;
+C 68 ; WX 776 ; N D ; B 38 -83 783 883 ;
+C 69 ; WX 766 ; N E ; B 33 0 731 834 ;
+C 70 ; WX 711 ; N F ; B 28 0 679 838 ;
+C 71 ; WX 753 ; N G ; B 24 -18 720 847 ;
+C 72 ; WX 912 ; N H ; B 23 0 876 837 ;
+C 73 ; WX 533 ; N I ; B 37 0 514 833 ;
+C 74 ; WX 662 ; N J ; B 27 -13 636 833 ;
+C 75 ; WX 918 ; N K ; B 38 0 877 833 ;
+C 76 ; WX 743 ; N L ; B 20 -4 714 833 ;
+C 77 ; WX 998 ; N M ; B 44 -8 960 835 ;
+C 78 ; WX 949 ; N N ; B 43 -6 907 833 ;
+C 79 ; WX 713 ; N O ; B 33 -25 693 866 ;
+C 80 ; WX 812 ; N P ; B 31 0 791 897 ;
+C 81 ; WX 700 ; N Q ; B 3 -48 684 836 ;
+C 82 ; WX 868 ; N R ; B 22 -26 828 909 ;
+C 83 ; WX 614 ; N S ; B 24 -17 595 844 ;
+C 84 ; WX 716 ; N T ; B 32 -1 685 833 ;
+C 85 ; WX 848 ; N U ; B 36 -22 819 836 ;
+C 86 ; WX 903 ; N V ; B 27 0 893 836 ;
+C 87 ; WX 1333 ; N W ; B 48 0 1294 841 ;
+C 88 ; WX 972 ; N X ; B 47 -8 921 833 ;
+C 89 ; WX 910 ; N Y ; B 40 -2 894 833 ;
+C 90 ; WX 666 ; N Z ; B 14 0 641 833 ;
+C 160 ; WX 417 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 417 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 17
+KPX A T -18
+KPX A V 21
+KPX A W 24
+KPX A Y -41
+
+KPX F A -40
+
+KPX L T -107
+KPX L V -47
+KPX L W -42
+KPX L Y -88
+
+KPX P A -37
+
+KPX R T 35
+KPX R V 19
+KPX R W 22
+KPX R Y 11
+
+KPX T A -75
+
+KPX W A -7
+
+KPX Y A -83
+
+EndKernPairs
+EndKernData
+EndFontMetrics

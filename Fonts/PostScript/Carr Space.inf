@@ -1,0 +1,23 @@
+FontName (CarrSpace)
+FullName (Carr Space)
+AppleName (CarrSpace)
+FamilyName (Carr Space)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi false
+ItalicAngle 0
+CapHeight 998
+UnderlinePosition -30
+UnderlineThickness 12
+StemWidth 50
+Serif false
+AppleName (Carr Space)
+MSMenuName (Carr Space)
+VPMenuName (Carr Space)
+WORDMenuName (Carr Space)
+AppleFONDID 4026
+VPStyle (N)
+WindowsCharSet 0
+WindowsFirstChar 32
+WindowsLastChar 255

@@ -1,0 +1,114 @@
+StartFontMetrics 2.0
+Comment Panose 0 0 0 0 0 0 0 0 0 0
+FullName Lintsec Regular
+FontName Lintsec
+FamilyName Lintsec
+Weight normal
+Notice Lintsec font (c) 1992 by David Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox 0 -169 1392 808
+Ascender 770
+Descender -12
+XHeight 770
+CapHeight 770
+UnderlinePosition -109
+UnderlineThickness 15
+StdHW 89
+StdVW 192
+EncodingScheme FontSpecific
+StartCharMetrics 92
+C 32 ; WX 385 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 315 ; N exclam ; B 32 -4 305 771 ;
+C 34 ; WX 605 ; N quotedbl ; B 31 338 575 758 ;
+C 39 ; WX 315 ; N quotesingle ; B 31 338 288 758 ;
+C 40 ; WX 480 ; N parenleft ; B 43 0 432 767 ;
+C 41 ; WX 415 ; N parenright ; B 4 2 392 768 ;
+C 44 ; WX 315 ; N comma ; B 31 -169 288 250 ;
+C 45 ; WX 480 ; N hyphen ; B 42 378 438 489 ;
+C 46 ; WX 315 ; N period ; B 35 -4 288 250 ;
+C 48 ; WX 803 ; N zero ; B 35 -6 757 768 ;
+C 49 ; WX 555 ; N one ; B 29 -2 510 768 ;
+C 50 ; WX 763 ; N two ; B 35 -2 728 769 ;
+C 51 ; WX 742 ; N three ; B 31 0 708 772 ;
+C 52 ; WX 830 ; N four ; B 45 -1 792 770 ;
+C 53 ; WX 730 ; N five ; B 33 1 696 769 ;
+C 54 ; WX 760 ; N six ; B 35 -2 728 768 ;
+C 55 ; WX 662 ; N seven ; B 29 -1 627 768 ;
+C 56 ; WX 769 ; N eight ; B 35 0 725 768 ;
+C 57 ; WX 775 ; N nine ; B 51 2 744 772 ;
+C 58 ; WX 315 ; N colon ; B 35 -4 288 721 ;
+C 59 ; WX 315 ; N semicolon ; B 31 -169 288 721 ;
+C 63 ; WX 742 ; N question ; B 31 2 678 772 ;
+C 65 ; WX 999 ; N A ; B 42 -2 946 769 ;
+C 66 ; WX 1028 ; N B ; B 58 -2 980 770 ;
+C 67 ; WX 831 ; N C ; B 38 1 798 772 ;
+C 68 ; WX 1002 ; N D ; B 57 -2 957 770 ;
+C 69 ; WX 888 ; N E ; B 52 -1 844 770 ;
+C 70 ; WX 873 ; N F ; B 51 -1 844 770 ;
+C 71 ; WX 923 ; N G ; B 42 -5 883 768 ;
+C 72 ; WX 1103 ; N H ; B 66 -1 1075 769 ;
+C 73 ; WX 511 ; N I ; B 22 -1 468 769 ;
+C 74 ; WX 903 ; N J ; B 41 -2 854 769 ;
+C 75 ; WX 1124 ; N K ; B 66 -1 1063 769 ;
+C 76 ; WX 886 ; N L ; B 41 -1 843 769 ;
+C 77 ; WX 1232 ; N M ; B 37 -2 1188 769 ;
+C 78 ; WX 974 ; N N ; B 32 0 917 769 ;
+C 79 ; WX 922 ; N O ; B 43 0 886 768 ;
+C 80 ; WX 978 ; N P ; B 44 -1 942 770 ;
+C 81 ; WX 991 ; N Q ; B 45 -12 945 769 ;
+C 82 ; WX 1025 ; N R ; B 40 -1 1004 770 ;
+C 83 ; WX 698 ; N S ; B 39 -3 667 771 ;
+C 84 ; WX 996 ; N T ; B 48 -1 945 769 ;
+C 85 ; WX 968 ; N U ; B 57 -2 914 769 ;
+C 86 ; WX 878 ; N V ; B 42 -2 841 770 ;
+C 87 ; WX 1439 ; N W ; B 65 -4 1392 770 ;
+C 88 ; WX 945 ; N X ; B 48 -2 902 770 ;
+C 89 ; WX 970 ; N Y ; B 52 0 918 769 ;
+C 90 ; WX 829 ; N Z ; B 29 -2 788 768 ;
+C 97 ; WX 999 ; N a ; B 42 -2 946 769 ;
+C 98 ; WX 1028 ; N b ; B 58 -2 980 770 ;
+C 99 ; WX 831 ; N c ; B 38 1 798 772 ;
+C 100 ; WX 1002 ; N d ; B 57 -2 957 770 ;
+C 101 ; WX 888 ; N e ; B 52 -1 844 770 ;
+C 102 ; WX 873 ; N f ; B 51 -1 844 770 ;
+C 103 ; WX 923 ; N g ; B 42 -5 883 768 ;
+C 104 ; WX 1103 ; N h ; B 66 -1 1075 769 ;
+C 105 ; WX 511 ; N i ; B 22 -1 468 769 ;
+C 106 ; WX 903 ; N j ; B 41 -2 854 769 ;
+C 107 ; WX 1124 ; N k ; B 66 -1 1063 769 ;
+C 108 ; WX 886 ; N l ; B 41 -1 843 769 ;
+C 109 ; WX 1232 ; N m ; B 37 -2 1188 769 ;
+C 110 ; WX 974 ; N n ; B 32 0 917 769 ;
+C 111 ; WX 922 ; N o ; B 43 0 886 768 ;
+C 112 ; WX 978 ; N p ; B 44 -1 942 770 ;
+C 113 ; WX 991 ; N q ; B 45 -12 945 769 ;
+C 114 ; WX 1025 ; N r ; B 40 -1 1004 770 ;
+C 115 ; WX 698 ; N s ; B 39 -3 667 771 ;
+C 116 ; WX 996 ; N t ; B 48 -1 945 769 ;
+C 117 ; WX 968 ; N u ; B 57 -2 914 769 ;
+C 118 ; WX 878 ; N v ; B 42 -2 841 770 ;
+C 119 ; WX 1439 ; N w ; B 65 -4 1392 770 ;
+C 120 ; WX 945 ; N x ; B 48 -2 902 770 ;
+C 121 ; WX 970 ; N y ; B 52 0 918 769 ;
+C 122 ; WX 829 ; N z ; B 29 -2 788 768 ;
+C 136 ; WX 1000 ; N circumflex ; B 0 0 0 0 ;
+C 145 ; WX 315 ; N quoteleft ; B 30 338 288 758 ;
+C 146 ; WX 315 ; N quoteright ; B 31 338 288 758 ;
+C 147 ; WX 605 ; N quotedblleft ; B 25 338 569 758 ;
+C 148 ; WX 605 ; N quotedblright ; B 31 338 575 758 ;
+C 152 ; WX 1000 ; N tilde ; B 0 0 0 0 ;
+C 160 ; WX 385 ; N space ; B 0 0 0 0 ;
+C 175 ; WX 915 ; N macron ; B 32 -1 873 692 ;
+C 184 ; WX 1000 ; N cedilla ; B 0 0 0 0 ;
+C 240 ; WX 915 ; N eth ; B 0 0 0 0 ;
+C -1 ; WX 385 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+C -1 ; WX 1000 ; N breve ; B 0 0 0 0 ;
+C -1 ; WX 1000 ; N caron ; B 0 0 0 0 ;
+C -1 ; WX 1000 ; N dotaccent ; B 0 0 0 0 ;
+C -1 ; WX 1000 ; N ogonek ; B 0 0 0 0 ;
+C -1 ; WX 1000 ; N ring ; B 0 0 0 0 ;
+C -1 ; WX 1000 ; N uni02BA ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

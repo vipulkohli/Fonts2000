@@ -1,0 +1,88 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 5 0 0 2 0 4
+FullName TEMPLE
+FontName TEMPLE
+FamilyName TEMPLE
+Weight normal
+Notice Temple of the Dog Font By Chris Bowman and Jason Thorpe
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -264 -209 850 800
+Ascender 781
+Descender -183
+XHeight 705
+CapHeight 789
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 32
+StdVW 35
+EncodingScheme FontSpecific
+StartCharMetrics 66
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 295 ; N exclam ; B 62 -50 257 743 ;
+C 42 ; WX 210 ; N asterisk ; B 36 475 198 773 ;
+C 44 ; WX 85 ; N comma ; B -67 -173 56 36 ;
+C 46 ; WX 95 ; N period ; B 15 -37 85 32 ;
+C 65 ; WX 470 ; N A ; B 42 -11 457 735 ;
+C 66 ; WX 415 ; N B ; B 6 6 398 730 ;
+C 67 ; WX 405 ; N C ; B 10 -34 387 787 ;
+C 68 ; WX 505 ; N D ; B -15 4 489 756 ;
+C 69 ; WX 455 ; N E ; B -9 -25 441 733 ;
+C 70 ; WX 465 ; N F ; B -69 -168 441 763 ;
+C 71 ; WX 585 ; N G ; B -2 -156 626 784 ;
+C 72 ; WX 260 ; N H ; B -30 -144 323 789 ;
+C 73 ; WX 530 ; N I ; B -52 -63 606 768 ;
+C 74 ; WX 360 ; N J ; B -62 -8 579 750 ;
+C 75 ; WX 250 ; N K ; B -25 -182 230 630 ;
+C 76 ; WX 370 ; N L ; B -67 -17 397 784 ;
+C 77 ; WX 720 ; N M ; B 17 -161 699 780 ;
+C 78 ; WX 450 ; N N ; B -26 -57 443 741 ;
+C 79 ; WX 435 ; N O ; B -4 -2 426 771 ;
+C 80 ; WX 315 ; N P ; B -99 -16 299 777 ;
+C 81 ; WX 720 ; N Q ; B -14 -83 850 779 ;
+C 82 ; WX 325 ; N R ; B -111 -76 317 738 ;
+C 83 ; WX 555 ; N S ; B -24 -16 540 780 ;
+C 84 ; WX 140 ; N T ; B -264 -18 393 761 ;
+C 85 ; WX 395 ; N U ; B -4 -14 386 772 ;
+C 86 ; WX 525 ; N V ; B 4 -18 531 776 ;
+C 87 ; WX 500 ; N W ; B -12 -60 598 781 ;
+C 88 ; WX 425 ; N X ; B 11 -52 489 739 ;
+C 89 ; WX 420 ; N Y ; B 13 -185 448 771 ;
+C 90 ; WX 525 ; N Z ; B -36 -64 716 800 ;
+C 97 ; WX 330 ; N a ; B -187 -127 319 656 ;
+C 98 ; WX 390 ; N b ; B -33 -72 384 781 ;
+C 99 ; WX 495 ; N c ; B 2 -8 557 482 ;
+C 100 ; WX 435 ; N d ; B 3 -128 702 767 ;
+C 101 ; WX 410 ; N e ; B 6 -4 405 519 ;
+C 102 ; WX 250 ; N f ; B 6 -47 315 774 ;
+C 103 ; WX 415 ; N g ; B -95 -209 417 548 ;
+C 104 ; WX 350 ; N h ; B -19 -14 353 771 ;
+C 105 ; WX 160 ; N i ; B 58 -29 142 764 ;
+C 106 ; WX 440 ; N j ; B 28 -183 431 672 ;
+C 107 ; WX 245 ; N k ; B -8 -22 280 776 ;
+C 108 ; WX 150 ; N l ; B 0 -5 170 778 ;
+C 109 ; WX 470 ; N m ; B 13 -121 525 585 ;
+C 110 ; WX 460 ; N n ; B -190 -49 581 675 ;
+C 111 ; WX 485 ; N o ; B 18 -14 476 532 ;
+C 112 ; WX 290 ; N p ; B 28 -183 273 385 ;
+C 113 ; WX 340 ; N q ; B 12 -181 483 583 ;
+C 114 ; WX 390 ; N r ; B -5 -3 385 670 ;
+C 115 ; WX 560 ; N s ; B 19 -17 555 540 ;
+C 116 ; WX 340 ; N t ; B 21 3 333 783 ;
+C 117 ; WX 485 ; N u ; B -14 -78 602 575 ;
+C 118 ; WX 480 ; N v ; B -13 -6 518 661 ;
+C 119 ; WX 535 ; N w ; B -118 -16 533 705 ;
+C 120 ; WX 715 ; N x ; B 10 -156 712 512 ;
+C 121 ; WX 390 ; N y ; B 15 -180 379 520 ;
+C 122 ; WX 420 ; N z ; B -4 -185 824 470 ;
+C 134 ; WX 425 ; N dagger ; B 12 -9 412 762 ;
+C 147 ; WX 295 ; N quotedblleft ; B 21 538 281 741 ;
+C 148 ; WX 260 ; N quotedblright ; B 14 502 248 730 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 229 ; WX 775 ; N aring ; B 36 -169 751 756 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N _65 ; B 0 0 0 0 ;
+C -1 ; WX 525 ; N pi ; B 41 120 497 733 ;
+EndCharMetrics
+EndFontMetrics

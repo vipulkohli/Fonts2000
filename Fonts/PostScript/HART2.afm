@@ -1,0 +1,108 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName HART2
+FontName HART2
+FamilyName HART2
+Weight normal
+Notice Harting 2 © 1992 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -35 -247 627 730
+Ascender 695
+Descender -204
+XHeight 501
+CapHeight 693
+UnderlinePosition -92
+UnderlineThickness 14
+StdHW 83
+StdVW 34
+EncodingScheme FontSpecific
+StartCharMetrics 86
+C 32 ; WX 345 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 604 ; N exclam ; B 211 10 383 645 ;
+C 34 ; WX 604 ; N quotedbl ; B 154 361 425 666 ;
+C 36 ; WX 604 ; N dollar ; B 95 -107 552 730 ;
+C 38 ; WX 604 ; N ampersand ; B 39 -16 584 673 ;
+C 39 ; WX 604 ; N quotesingle ; B 208 365 357 705 ;
+C 40 ; WX 604 ; N parenleft ; B 219 -206 412 677 ;
+C 41 ; WX 604 ; N parenright ; B 191 -188 405 683 ;
+C 44 ; WX 604 ; N comma ; B 217 -137 389 172 ;
+C 45 ; WX 604 ; N hyphen ; B 134 237 486 340 ;
+C 46 ; WX 604 ; N period ; B 223 3 354 150 ;
+C 47 ; WX 606 ; N slash ; B 102 0 526 682 ;
+C 48 ; WX 607 ; N zero ; B 60 1 558 691 ;
+C 49 ; WX 604 ; N one ; B 32 0 582 690 ;
+C 50 ; WX 607 ; N two ; B 37 -15 547 674 ;
+C 51 ; WX 606 ; N three ; B 71 0 565 691 ;
+C 52 ; WX 604 ; N four ; B 48 0 560 690 ;
+C 53 ; WX 605 ; N five ; B 41 0 544 690 ;
+C 54 ; WX 606 ; N six ; B 75 -13 540 676 ;
+C 55 ; WX 604 ; N seven ; B 85 0 541 690 ;
+C 56 ; WX 604 ; N eight ; B 64 -1 546 690 ;
+C 57 ; WX 604 ; N nine ; B 88 1 575 692 ;
+C 58 ; WX 604 ; N colon ; B 213 3 354 484 ;
+C 59 ; WX 604 ; N semicolon ; B 217 -137 389 455 ;
+C 63 ; WX 604 ; N question ; B 102 0 514 689 ;
+C 65 ; WX 606 ; N A ; B 49 0 602 691 ;
+C 66 ; WX 602 ; N B ; B 25 0 571 693 ;
+C 67 ; WX 604 ; N C ; B 75 -7 549 685 ;
+C 68 ; WX 605 ; N D ; B 1 -21 608 669 ;
+C 69 ; WX 604 ; N E ; B 9 -7 595 683 ;
+C 70 ; WX 607 ; N F ; B 39 -5 584 684 ;
+C 71 ; WX 606 ; N G ; B 16 0 590 690 ;
+C 72 ; WX 607 ; N H ; B -3 0 606 690 ;
+C 73 ; WX 606 ; N I ; B 99 0 553 690 ;
+C 74 ; WX 608 ; N J ; B 67 0 573 690 ;
+C 75 ; WX 606 ; N K ; B 1 0 597 690 ;
+C 76 ; WX 607 ; N L ; B 16 0 579 690 ;
+C 77 ; WX 606 ; N M ; B 2 -6 617 683 ;
+C 78 ; WX 606 ; N N ; B -10 -10 617 679 ;
+C 79 ; WX 607 ; N O ; B 84 0 578 690 ;
+C 80 ; WX 606 ; N P ; B 43 -3 575 690 ;
+C 81 ; WX 603 ; N Q ; B 53 -133 589 685 ;
+C 82 ; WX 607 ; N R ; B 4 -17 582 672 ;
+C 83 ; WX 606 ; N S ; B 69 -25 525 693 ;
+C 84 ; WX 608 ; N T ; B 86 0 553 690 ;
+C 85 ; WX 606 ; N U ; B 51 1 584 691 ;
+C 86 ; WX 606 ; N V ; B 47 0 587 690 ;
+C 87 ; WX 606 ; N W ; B 4 0 578 690 ;
+C 88 ; WX 604 ; N X ; B 10 -5 596 670 ;
+C 89 ; WX 605 ; N Y ; B 27 -25 578 665 ;
+C 90 ; WX 604 ; N Z ; B 77 -1 527 689 ;
+C 97 ; WX 604 ; N a ; B 58 -15 546 486 ;
+C 98 ; WX 604 ; N b ; B -10 -3 569 686 ;
+C 99 ; WX 604 ; N c ; B 116 -7 521 495 ;
+C 100 ; WX 606 ; N d ; B 34 -21 589 669 ;
+C 101 ; WX 605 ; N e ; B 90 -10 537 491 ;
+C 102 ; WX 603 ; N f ; B 54 -3 577 686 ;
+C 103 ; WX 604 ; N g ; B 40 -247 596 481 ;
+C 104 ; WX 605 ; N h ; B -35 0 618 696 ;
+C 105 ; WX 606 ; N i ; B 106 0 538 690 ;
+C 106 ; WX 604 ; N j ; B 94 -171 514 678 ;
+C 107 ; WX 604 ; N k ; B 3 -7 599 668 ;
+C 108 ; WX 629 ; N l ; B 53 -25 557 695 ;
+C 109 ; WX 604 ; N m ; B -3 -10 612 491 ;
+C 110 ; WX 605 ; N n ; B 7 -7 593 499 ;
+C 111 ; WX 603 ; N o ; B 85 -11 535 491 ;
+C 112 ; WX 605 ; N p ; B 26 -199 556 491 ;
+C 113 ; WX 602 ; N q ; B 54 -204 583 488 ;
+C 114 ; WX 603 ; N r ; B 69 -4 556 498 ;
+C 115 ; WX 603 ; N s ; B 120 -7 498 495 ;
+C 116 ; WX 606 ; N t ; B 88 0 490 621 ;
+C 117 ; WX 602 ; N u ; B 38 -7 591 495 ;
+C 118 ; WX 602 ; N v ; B 64 -8 540 492 ;
+C 119 ; WX 604 ; N w ; B 34 0 603 501 ;
+C 120 ; WX 604 ; N x ; B 42 -2 592 483 ;
+C 121 ; WX 632 ; N y ; B 67 -233 627 497 ;
+C 122 ; WX 606 ; N z ; B 65 -3 508 479 ;
+C 145 ; WX 608 ; N quoteleft ; B 208 324 357 663 ;
+C 146 ; WX 604 ; N quoteright ; B 208 324 357 663 ;
+C 147 ; WX 604 ; N quotedblleft ; B 154 361 425 666 ;
+C 148 ; WX 604 ; N quotedblright ; B 154 361 425 666 ;
+C 160 ; WX 345 ; N space ; B 0 0 0 0 ;
+C 162 ; WX 604 ; N cent ; B 97 -3 510 639 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 345 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 345 ; N _85 ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

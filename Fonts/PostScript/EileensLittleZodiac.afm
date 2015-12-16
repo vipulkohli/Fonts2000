@@ -1,0 +1,36 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 0 6 0 0 2 0 4
+FullName EileensLittleZodiac
+FontName EileensLittleZodiac
+FamilyName Eileens
+Weight normal
+Notice EileensLittleZodiac   1991 by D. Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -47 -3 1984 1005
+Ascender 1000
+Descender -200
+XHeight 500
+CapHeight 700
+UnderlinePosition -100
+UnderlineThickness 50
+EncodingScheme FontSpecific
+StartCharMetrics 16
+C 32 ; WX 500 ; N space ; B 0 0 0 0 ;
+C 45 ; WX 909 ; N hyphen ; B 41 -5 868 1014 ;
+C 48 ; WX 1509 ; N zero ; B 69 -11 1441 1025 ;
+C 49 ; WX 1446 ; N one ; B -47 0 1423 1000 ;
+C 50 ; WX 1052 ; N two ; B 48 -47 1004 1051 ;
+C 51 ; WX 1542 ; N three ; B -3 0 1472 1008 ;
+C 52 ; WX 1549 ; N four ; B -5 12 1478 1074 ;
+C 53 ; WX 1476 ; N five ; B 61 0 1409 1000 ;
+C 54 ; WX 845 ; N six ; B 22 -2 896 1028 ;
+C 55 ; WX 1820 ; N seven ; B 83 -40 1737 1000 ;
+C 56 ; WX 2066 ; N eight ; B 94 0 1984 1025 ;
+C 57 ; WX 1048 ; N nine ; B 25 0 1014 1032 ;
+C 61 ; WX 1478 ; N equal ; B 50 -9 1507 1007 ;
+C 160 ; WX 500 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 500 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

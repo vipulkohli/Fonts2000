@@ -1,0 +1,60 @@
+StartFontMetrics 2.0
+Comment Panose 2 0 6 3 2 0 0 2 0 4
+FullName Showboat
+FontName Showboat
+FamilyName Showboat
+Weight normal
+Notice Showboat © 1991 by David Rakowski.  Alle Rechte Vorbehalten.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -35 -53 953 821
+Ascender 1050
+Descender -200
+XHeight 500
+CapHeight 801
+UnderlinePosition -100
+UnderlineThickness 50
+StdHW 92
+StdVW 70
+EncodingScheme FontSpecific
+StartCharMetrics 38
+C 32 ; WX 595 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 238 ; N exclam ; B 11 -5 238 816 ;
+C 39 ; WX 208 ; N quotesingle ; B 38 613 181 790 ;
+C 40 ; WX 336 ; N parenleft ; B -35 -22 335 822 ;
+C 41 ; WX 324 ; N parenright ; B 14 0 335 800 ;
+C 44 ; WX 204 ; N comma ; B 38 -50 181 127 ;
+C 45 ; WX 307 ; N hyphen ; B 23 326 274 446 ;
+C 46 ; WX 187 ; N period ; B 30 1 171 129 ;
+C 63 ; WX 471 ; N question ; B 19 -17 471 810 ;
+C 65 ; WX 790 ; N A ; B 25 -2 754 822 ;
+C 66 ; WX 756 ; N B ; B 34 -6 734 843 ;
+C 67 ; WX 759 ; N C ; B 24 -5 733 818 ;
+C 68 ; WX 804 ; N D ; B 37 -19 787 839 ;
+C 69 ; WX 701 ; N E ; B 32 -2 669 800 ;
+C 70 ; WX 686 ; N F ; B 26 -5 655 800 ;
+C 71 ; WX 733 ; N G ; B 11 0 700 831 ;
+C 72 ; WX 816 ; N H ; B 37 -7 778 811 ;
+C 73 ; WX 374 ; N I ; B 16 -18 334 806 ;
+C 74 ; WX 546 ; N J ; B 5 -7 523 800 ;
+C 75 ; WX 780 ; N K ; B 35 -2 744 801 ;
+C 76 ; WX 651 ; N L ; B 30 -2 622 802 ;
+C 77 ; WX 898 ; N M ; B 41 -19 862 832 ;
+C 78 ; WX 730 ; N N ; B 33 -19 701 840 ;
+C 79 ; WX 781 ; N O ; B 16 -12 776 815 ;
+C 80 ; WX 754 ; N P ; B 34 -14 720 814 ;
+C 81 ; WX 763 ; N Q ; B 0 -55 742 812 ;
+C 82 ; WX 757 ; N R ; B 34 -1 722 829 ;
+C 83 ; WX 714 ; N S ; B 26 -27 687 816 ;
+C 84 ; WX 813 ; N T ; B 37 -7 776 800 ;
+C 85 ; WX 717 ; N U ; B 33 -12 752 839 ;
+C 86 ; WX 801 ; N V ; B 36 -3 767 802 ;
+C 87 ; WX 995 ; N W ; B 43 -2 953 826 ;
+C 88 ; WX 800 ; N X ; B 36 -6 763 800 ;
+C 89 ; WX 779 ; N Y ; B 35 -1 744 802 ;
+C 90 ; WX 746 ; N Z ; B 34 0 713 800 ;
+C 160 ; WX 595 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N .null ; B 0 0 0 0 ;
+C -1 ; WX 595 ; N CR ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

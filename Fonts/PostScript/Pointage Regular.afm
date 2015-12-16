@@ -1,0 +1,80 @@
+StartFontMetrics 2.0
+Comment Panose 0 0 0 0 0 0 0 0 0 0
+FullName Pointage Regular
+FontName Pointage
+FamilyName Pointage
+Weight normal
+Notice Pointage copyright (c) 1992 by David Rakowski. All Rights Reserved.
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -13 -7 892 875
+Ascender 833
+Descender -3
+XHeight 833
+CapHeight 833
+UnderlinePosition -119
+UnderlineThickness 17
+StdHW 20
+StdVW 25
+EncodingScheme FontSpecific
+StartCharMetrics 58
+C 32 ; WX 417 ; N space ; B 0 0 0 0 ;
+C 65 ; WX 810 ; N A ; B 1 -2 803 833 ;
+C 66 ; WX 797 ; N B ; B 3 0 812 833 ;
+C 67 ; WX 823 ; N C ; B -3 0 821 834 ;
+C 68 ; WX 821 ; N D ; B 4 0 811 832 ;
+C 69 ; WX 813 ; N E ; B 8 -3 804 831 ;
+C 70 ; WX 824 ; N F ; B 3 1 820 833 ;
+C 71 ; WX 823 ; N G ; B 2 -3 816 836 ;
+C 72 ; WX 802 ; N H ; B 0 -1 819 833 ;
+C 73 ; WX 810 ; N I ; B 3 0 802 833 ;
+C 74 ; WX 828 ; N J ; B 8 -4 815 833 ;
+C 75 ; WX 820 ; N K ; B 4 0 807 833 ;
+C 76 ; WX 828 ; N L ; B 8 1 815 833 ;
+C 77 ; WX 868 ; N M ; B 4 -4 852 833 ;
+C 78 ; WX 809 ; N N ; B 3 0 803 833 ;
+C 79 ; WX 781 ; N O ; B 6 -7 834 836 ;
+C 80 ; WX 849 ; N P ; B 4 0 838 832 ;
+C 81 ; WX 801 ; N Q ; B -13 -3 792 833 ;
+C 82 ; WX 800 ; N R ; B -1 -3 801 833 ;
+C 83 ; WX 809 ; N S ; B 3 -1 809 836 ;
+C 84 ; WX 838 ; N T ; B -2 -2 830 833 ;
+C 85 ; WX 899 ; N U ; B 4 0 892 833 ;
+C 86 ; WX 789 ; N V ; B -6 1 783 833 ;
+C 87 ; WX 879 ; N W ; B 0 -1 877 833 ;
+C 88 ; WX 848 ; N X ; B 0 0 848 833 ;
+C 89 ; WX 813 ; N Y ; B 0 -1 808 833 ;
+C 90 ; WX 805 ; N Z ; B -2 0 800 833 ;
+C 97 ; WX 810 ; N a ; B 1 -2 803 833 ;
+C 98 ; WX 797 ; N b ; B 3 0 812 833 ;
+C 99 ; WX 823 ; N c ; B -3 0 821 834 ;
+C 100 ; WX 821 ; N d ; B 4 0 811 832 ;
+C 101 ; WX 796 ; N e ; B 8 -3 804 831 ;
+C 102 ; WX 824 ; N f ; B 3 1 820 833 ;
+C 103 ; WX 823 ; N g ; B 2 -3 816 836 ;
+C 104 ; WX 802 ; N h ; B 0 -1 819 833 ;
+C 105 ; WX 810 ; N i ; B 3 0 802 833 ;
+C 106 ; WX 828 ; N j ; B 8 -4 815 833 ;
+C 107 ; WX 820 ; N k ; B 4 0 807 833 ;
+C 108 ; WX 828 ; N l ; B 8 1 815 833 ;
+C 109 ; WX 868 ; N m ; B 4 -4 852 833 ;
+C 110 ; WX 809 ; N n ; B 3 0 803 833 ;
+C 111 ; WX 781 ; N o ; B 6 -7 834 836 ;
+C 112 ; WX 849 ; N p ; B 4 0 838 832 ;
+C 113 ; WX 801 ; N q ; B -13 -3 792 833 ;
+C 114 ; WX 800 ; N r ; B -1 -3 801 833 ;
+C 115 ; WX 809 ; N s ; B 3 -1 809 836 ;
+C 116 ; WX 838 ; N t ; B -2 -2 830 833 ;
+C 117 ; WX 899 ; N u ; B 4 0 892 833 ;
+C 118 ; WX 789 ; N v ; B -6 1 783 833 ;
+C 119 ; WX 879 ; N w ; B 0 -1 877 833 ;
+C 120 ; WX 848 ; N x ; B 0 0 848 833 ;
+C 121 ; WX 813 ; N y ; B 0 -1 808 833 ;
+C 122 ; WX 805 ; N z ; B -2 0 800 833 ;
+C 138 ; WX 915 ; N Scaron ; B 32 -1 873 693 ;
+C 160 ; WX 417 ; N space ; B 0 0 0 0 ;
+C -1 ; WX 417 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+C -1 ; WX 915 ; N breve ; B 32 -1 873 693 ;
+EndCharMetrics
+EndFontMetrics
